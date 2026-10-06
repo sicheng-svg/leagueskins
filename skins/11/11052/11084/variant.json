@@ -1,0 +1,58 @@
+{
+  "skin_id": 11084,
+  "base_skin_id": 11052,
+  "champion_id": 11,
+  "name": "灵魂莲华 易 春晓",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "53a7fa776c1969353e6fbb2ac10b43e1a5390d12f8e7f9d33ea10895b8b8d53c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11052/11084/11084.fantome",
+  "files": [
+    {
+      "path": "skins/11/11052/11084/MasterYi.wad.client",
+      "size": 88773,
+      "sha256": "6f1ee931decb8e0faeb47c6200ac9d747acab7e81e54785b83b2c2d8c746f8c5"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2489,
+      "bytes_after": 88773,
+      "replacement_hashes": [
+        "cd74150292aad79f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "cd74150292aad79f",
+        "border_hash": "c920f5d9298c366a",
+        "bytes": 86252,
+        "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

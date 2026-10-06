@@ -1,0 +1,55 @@
+{
+  "champion_id": 105,
+  "base_skin_id": 105025,
+  "name": "至臻 绒毛菲兹 (2022)",
+  "variants": [
+    {
+      "skin_id": 105025,
+      "base_skin_id": 105025,
+      "champion_id": 105,
+      "name": "至臻 绒毛菲兹 (2022)",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a16e181234b2934e914a0ad0ee2e4e4fe5a2680278364e9a4ee536874bc006e8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "105/105025/105025.fantome",
+      "files": [
+        {
+          "path": "skins/105/105025/105025/Fizz.wad.client",
+          "size": 7955,
+          "sha256": "894f81446645a46a222a5cb6b0ce262af0e6f7566cb64accd19dca3c6ffd5de9"
+        }
+      ],
+      "wads": {
+        "Fizz.wad.client": {
+          "entries_before": 3,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 7955,
+          "bytes_after": 7955,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

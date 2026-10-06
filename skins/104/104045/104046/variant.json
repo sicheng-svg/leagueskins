@@ -1,0 +1,58 @@
+{
+  "skin_id": 104046,
+  "base_skin_id": 104045,
+  "champion_id": 104,
+  "name": "青花瓷 格雷福斯 牡丹",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7ceb5f16c5be312b47d8a17313f4494d8800ba4ac4447708caedd343a8b3599a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "104/104045/104046/104046.fantome",
+  "files": [
+    {
+      "path": "skins/104/104045/104046/Graves.wad.client",
+      "size": 88581,
+      "sha256": "b89e0062027f56d8f1ccfc1234a6da1bc217c0a579c4b9e79dfd3d7cd61a4867"
+    }
+  ],
+  "wads": {
+    "Graves.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2297,
+      "bytes_after": 88581,
+      "replacement_hashes": [
+        "a535da86bbe1c170"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Graves.wad.client",
+        "normal_hash": "a535da86bbe1c170",
+        "border_hash": "260aee07cdfd9608",
+        "bytes": 86252,
+        "sha256": "978a3c52697ce97364575cabde5a08f5e22db251098ed3eb15addf94b354d07e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

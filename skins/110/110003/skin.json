@@ -1,0 +1,55 @@
+{
+  "champion_id": 110,
+  "base_skin_id": 110003,
+  "name": "白色死神 韦鲁斯",
+  "variants": [
+    {
+      "skin_id": 110003,
+      "base_skin_id": 110003,
+      "champion_id": 110,
+      "name": "白色死神 韦鲁斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8d3b49169b907f537545eab023efb4f7b2fe288db56add5c06abfa781609c22d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110003/110003.fantome",
+      "files": [
+        {
+          "path": "skins/110/110003/110003/Varus.wad.client",
+          "size": 6599,
+          "sha256": "3ab3a5c36ca7e3599aa4fe2bd2e3b9d6a28034eea517efb72498858a7b8f8db7"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6599,
+          "bytes_after": 6599,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

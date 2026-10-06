@@ -1,0 +1,587 @@
+{
+  "champion_id": 106,
+  "base_skin_id": 106019,
+  "name": "墨影之灵 沃利贝尔",
+  "variants": [
+    {
+      "skin_id": 106019,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5f0228d0b060fc9be36a0703e583f4147cb45f7c29835f58f9b481daf4697119",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106019.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106019/Volibear.wad.client",
+          "size": 94152,
+          "sha256": "c481ed28e27b14fbda31400e068e26e9f4bb3cbb83f6a8d284bf5f80389f0a57"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7868,
+          "bytes_after": 94152,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106020,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 炽墨挥影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cf11fed3149654db6bb3d9e37fa0e7a0179292e1b63866867cc31e1722ed7182",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106020/106020.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106020/Volibear.wad.client",
+          "size": 89618,
+          "sha256": "ebbedf37979266b3f786e8ca8a5ff2d60e91f78738309389920dd4f00e7f84ff"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3334,
+          "bytes_after": 89618,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106021,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 樱墨映影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6900f42dc781e98aac23afd1068d355fe85796c19ac9293541e374e84b136c70",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106021/106021.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106021/Volibear.wad.client",
+          "size": 89594,
+          "sha256": "7416f3469170dbe94129730c0670b9981bfba70bb43cb756fbb5d995ecd70eb5"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3310,
+          "bytes_after": 89594,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106022,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 晶墨绽影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b66f5c00f5106851661c8ca48160489b17a09b8ae635c2af6e6b860966455fbf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106022/106022.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106022/Volibear.wad.client",
+          "size": 89566,
+          "sha256": "533710b87e9fe05091b5c7e02daab292dc2f4123783332f8dfda892960f02ab7"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3282,
+          "bytes_after": 89566,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106023,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 云墨漾影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aefd5f7b8c22101707136f7fac767f31a577091e45a0b3c6051543333964b688",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106023/106023.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106023/Volibear.wad.client",
+          "size": 89566,
+          "sha256": "2b142a4235a78e02d9ff7e9a4deaffceda1ce598814b4ddd979f93e3de088bbf"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3282,
+          "bytes_after": 89566,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106024,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 森墨拂影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fde3627e2f059336ccd44c167659aa12aed596dcbcab9fdf54ac95b9344bdc64",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106024/106024.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106024/Volibear.wad.client",
+          "size": 89565,
+          "sha256": "235bcb5566671e8df721ab90aa9f7fac97f0ac6c297a87aeb77b05deb7c33a88"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3281,
+          "bytes_after": 89565,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106025,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 松墨彰影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "100f493bde3e2ddb186953ae03febaf0c17bdc59c7a1fbe1c17866c2d288725a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106025/106025.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106025/Volibear.wad.client",
+          "size": 89565,
+          "sha256": "59e28385ca048158add710422f3822522515e28ea14b330fcb7491dc591a3c66"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3281,
+          "bytes_after": 89565,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106026,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 雪墨封影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "34fb048fe18aa15defb0fcc438630a49d4b85436dea23818ea5f9cef1f3675f2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106026/106026.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106026/Volibear.wad.client",
+          "size": 89566,
+          "sha256": "f648b50f751dbd206101b1d2efae326eca8e5b5c8d3e88d19f405aa2c716eb70"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3282,
+          "bytes_after": 89566,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106027,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 玄墨蕴影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "57ed491091edd6ee9c53c4d906b680bea362584389966b5b47bc3f3865bef24b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106027/106027.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106027/Volibear.wad.client",
+          "size": 89564,
+          "sha256": "87b8d1b407a7f97741769467bf52ae91369edb47e19b0a75d5a405890c5099ef"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3280,
+          "bytes_after": 89564,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106028,
+      "base_skin_id": 106019,
+      "champion_id": 106,
+      "name": "墨影之灵 沃利贝尔 灵墨刻影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3fae70a6ae152e390d92263acbc10ec661bebe2befc23c29125adc0195a55c76",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106019/106028/106028.fantome",
+      "files": [
+        {
+          "path": "skins/106/106019/106028/Volibear.wad.client",
+          "size": 89623,
+          "sha256": "3dab77120fe871208932dc4c5fec51413d4f12960004f783b5b54c93a7918a91"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3339,
+          "bytes_after": 89623,
+          "replacement_hashes": [
+            "a8495cca15bfe7ef"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "a8495cca15bfe7ef",
+            "border_hash": "e293152682264046",
+            "bytes": 86252,
+            "sha256": "e47ddff336e161868e30a1e873c2b1986b3ecf9e05d29b7a46e367457a0ac444"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

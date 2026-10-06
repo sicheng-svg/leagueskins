@@ -1,0 +1,58 @@
+{
+  "skin_id": 107030,
+  "base_skin_id": 107030,
+  "champion_id": 107,
+  "name": "光明哨兵 雷恩加尔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "81d2bd9179c498fed729275c90c75c6785d50fb381dedd719d9018b7087524e4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "107/107030/107030.fantome",
+  "files": [
+    {
+      "path": "skins/107/107030/107030/Rengar.wad.client",
+      "size": 91281,
+      "sha256": "fb1a9b4f9aaafb1eb01aa8f9d5e22cb63dc34da47a9fc2f8a6f7b1cde235dca3"
+    }
+  ],
+  "wads": {
+    "Rengar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4997,
+      "bytes_after": 91281,
+      "replacement_hashes": [
+        "23dcec7e054a5b8b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Rengar.wad.client",
+        "normal_hash": "23dcec7e054a5b8b",
+        "border_hash": "dc51f6b795d40a7b",
+        "bytes": 86252,
+        "sha256": "572a98d3460bcba1c4f438e797bf049951efb89cbfc29d2323d6a48c82d24484"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

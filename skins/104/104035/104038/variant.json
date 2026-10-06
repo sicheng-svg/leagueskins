@@ -1,0 +1,58 @@
+{
+  "skin_id": 104038,
+  "base_skin_id": 104035,
+  "champion_id": 104,
+  "name": "光明哨兵 格雷福斯 灵岛抗击者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ba56f12daef4372222ebe17dd1ade32ff6de7c20e44f6f0feb9e91e524ce1e6e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "104/104035/104038/104038.fantome",
+  "files": [
+    {
+      "path": "skins/104/104035/104038/Graves.wad.client",
+      "size": 89101,
+      "sha256": "04905f1bfe02d36d22a308dae2da7a4e3465313e4556dd3bec341474c6509972"
+    }
+  ],
+  "wads": {
+    "Graves.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2817,
+      "bytes_after": 89101,
+      "replacement_hashes": [
+        "c33393fcf1703f25"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Graves.wad.client",
+        "normal_hash": "c33393fcf1703f25",
+        "border_hash": "a996aad38d58619a",
+        "bytes": 86252,
+        "sha256": "2e45360f8cd2dbf2df4f35a25f567679f7236dd3069f9765755cd761bc4a162d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

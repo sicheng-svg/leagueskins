@@ -1,0 +1,48 @@
+{
+  "skin_id": 11115,
+  "base_skin_id": 11106,
+  "champion_id": 11,
+  "name": "胜利剑圣 易 最强王者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e27751bd7fd0ac06b935e9532a84be0f54bad4a9f1f5ddbe2815b2b61b23da79",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11106/11115/11115.fantome",
+  "files": [
+    {
+      "path": "skins/11/11106/11115/MasterYi.wad.client",
+      "size": 2409,
+      "sha256": "291f5a859800673607ca5702390c663e81834c5410949e3898c703aa7eee8477"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2409,
+      "bytes_after": 2409,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

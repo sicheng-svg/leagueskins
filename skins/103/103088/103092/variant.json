@@ -1,0 +1,58 @@
+{
+  "skin_id": 103092,
+  "base_skin_id": 103088,
+  "champion_id": 103,
+  "name": "莲华温泉 阿狸 雁来",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d34864e03ca961566741d7a1f448dc1968ea661264e336ba4e096c1ee3f9813f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "103/103088/103092/103092.fantome",
+  "files": [
+    {
+      "path": "skins/103/103088/103092/Ahri.wad.client",
+      "size": 90111,
+      "sha256": "bd6ca0d358b56060363cafade0085c066b03f70a20b8b0c645298cd86938b8e5"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3827,
+      "bytes_after": 90111,
+      "replacement_hashes": [
+        "f597cd99228e05d0"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ahri.wad.client",
+        "normal_hash": "f597cd99228e05d0",
+        "border_hash": "1b0aad0a463c397c",
+        "bytes": 86252,
+        "sha256": "7c66acd2bd0fbf71a33baef3574d4f9f14cbcd14e623b4f024701f3497e5863d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

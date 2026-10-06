@@ -1,0 +1,529 @@
+{
+  "champion_id": 104,
+  "base_skin_id": 104025,
+  "name": "战斗教授 格雷福斯",
+  "variants": [
+    {
+      "skin_id": 104025,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e9ce003296f62d039f3e033ce1295376b969c5ce4753021464dbe55b9698ef5e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104025.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104025/Graves.wad.client",
+          "size": 91675,
+          "sha256": "736e3a77bb8ebd425062db1f6e119f6d0f6fb8829ed5276b304796c1f91bf351"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5391,
+          "bytes_after": 91675,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104027,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 不死鸟",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1fbe91e24abf89ec345b28d445a78d1e63e2b7316b502a8c6a80205c891849ef",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104027/104027.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104027/Graves.wad.client",
+          "size": 88703,
+          "sha256": "2f75a3d336da4672fbb41045210e5633c03387b863b4ebaec4529221ff224b02"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2419,
+          "bytes_after": 88703,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104028,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 独角兽",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3e90fdba4eaa6d42a2ba0cebd306ae29dbb8b04f521b7abd4884694d2671d464",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104028/104028.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104028/Graves.wad.client",
+          "size": 88672,
+          "sha256": "e0a84c3f6bc5ea70b85922fca3a5e9ac1596760b42424302f398a10a1206c18a"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2388,
+          "bytes_after": 88672,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104029,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 梦魇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "36daff2c5b70b3663350e99a58957239a4d746e5fbc470adb4c432955fe70f13",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104029/104029.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104029/Graves.wad.client",
+          "size": 88648,
+          "sha256": "1fe53ba66eafdaefd25baecbd2787a054fc155276aa61bcb739a2c54c5d9f516"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2364,
+          "bytes_after": 88648,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104030,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 狮鹫",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2a6aa83efa401ebf7b75e982e51bb2e9cfdbb4fea7ce9294c99768a5c6c4ba42",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104030/104030.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104030/Graves.wad.client",
+          "size": 88652,
+          "sha256": "66541140c2378cc50aac7392ac2241282a27013fe21991abd66ba66529920c09"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2368,
+          "bytes_after": 88652,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104031,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 天马",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "10d505081fe9aa287ea640f64f5733dace728c2e3eae6de3c9333413291f16ba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104031/104031.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104031/Graves.wad.client",
+          "size": 88652,
+          "sha256": "4aa8b4be7ed88db38107cedd8e1615465c19f39ef336907e860047a007d51fb2"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2368,
+          "bytes_after": 88652,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104032,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 黑龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "80b3e73c68d94b43afbff2044c4a1315c6d745d9ff12de2df0d2a3dde5273095",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104032/104032.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104032/Graves.wad.client",
+          "size": 88648,
+          "sha256": "1f40047ecfd7175122edf995ffd4e17963bc711432b1752280d4900bd1051134"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2364,
+          "bytes_after": 88648,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104033,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 九头蛇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1356af7de3f913866a9b0bd6a5e1e32e141b8af16fc93b1d530a789711bb19fc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104033/104033.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104033/Graves.wad.client",
+          "size": 88650,
+          "sha256": "cfbae4d95832cab1e4813c2a4f95585a4864413db60be8e68edf532c25f5b36d"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2366,
+          "bytes_after": 88650,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 104034,
+      "base_skin_id": 104025,
+      "champion_id": 104,
+      "name": "战斗教授 格雷福斯 盛典礼服",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "deb40c7c24ac96d9719527b92b12dc9b7e729cd245767c6baae5842bab327bb8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104025/104034/104034.fantome",
+      "files": [
+        {
+          "path": "skins/104/104025/104034/Graves.wad.client",
+          "size": 88706,
+          "sha256": "28513c858f711c5fcbc63d4444045f3a2f1705e6201e3c9e5de68c3bf0f29a98"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2422,
+          "bytes_after": 88706,
+          "replacement_hashes": [
+            "2c101ca46255a3cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Graves.wad.client",
+            "normal_hash": "2c101ca46255a3cb",
+            "border_hash": "fcacc83c10b09f99",
+            "bytes": 86252,
+            "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

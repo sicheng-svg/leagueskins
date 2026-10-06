@@ -1,0 +1,58 @@
+{
+  "skin_id": 11101,
+  "base_skin_id": 11096,
+  "champion_id": 11,
+  "name": "天龙之子 易 龙行虎步",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3ff9c7bd5359d31ad69d07b2455394c1d719a6f5adfcbe5a114c5c63aaf5ef07",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11096/11101/11101.fantome",
+  "files": [
+    {
+      "path": "skins/11/11096/11101/MasterYi.wad.client",
+      "size": 88836,
+      "sha256": "dacccc9ca252cab88a80aac8f8c5f567929653be5b21b3f1fb4557fb30f9671e"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2552,
+      "bytes_after": 88836,
+      "replacement_hashes": [
+        "4b3ae5e8c81fe827"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "4b3ae5e8c81fe827",
+        "border_hash": "a80dc60e760214e4",
+        "bytes": 86252,
+        "sha256": "c2097095c07be3d87b52800641ac27ffebf5bab17ca0cc7694bb895be15152c7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

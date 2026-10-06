@@ -1,0 +1,58 @@
+{
+  "skin_id": 110010,
+  "base_skin_id": 110009,
+  "champion_id": 110,
+  "name": "地狱火 韦鲁斯 慈悲之焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f70cf9f4bf83a01fd1e1ee966527e8417dbc3a08ca7a567cc801aea7de0378ec",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "110/110009/110010/110010.fantome",
+  "files": [
+    {
+      "path": "skins/110/110009/110010/Varus.wad.client",
+      "size": 89190,
+      "sha256": "49731afd9cd1336bd2f3cbf438c926aea75c999a5935fa8bd1bd390d10178a7a"
+    }
+  ],
+  "wads": {
+    "Varus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2906,
+      "bytes_after": 89190,
+      "replacement_hashes": [
+        "eb26298805283e9e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Varus.wad.client",
+        "normal_hash": "eb26298805283e9e",
+        "border_hash": "2d62a64c5a8ed7b3",
+        "bytes": 86252,
+        "sha256": "354c62732a0077be8089fa98bc9072824c06f5a0642e0bee93053d9a63a8603d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

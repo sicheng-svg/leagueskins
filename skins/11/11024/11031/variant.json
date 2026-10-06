@@ -1,0 +1,48 @@
+{
+  "skin_id": 11031,
+  "base_skin_id": 11024,
+  "champion_id": 11,
+  "name": "腥红之月 易 落樱",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ed52fa72e265668b4428843263d23df7a017345d83611d6fb49d894ec311f197",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11024/11031/11031.fantome",
+  "files": [
+    {
+      "path": "skins/11/11024/11031/MasterYi.wad.client",
+      "size": 2269,
+      "sha256": "bfe27e535d6882a88359c278b7220a6632a55ee631d713c6cd209488aba28326"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2269,
+      "bytes_after": 2269,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

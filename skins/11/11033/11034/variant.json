@@ -1,0 +1,58 @@
+{
+  "skin_id": 11034,
+  "base_skin_id": 11033,
+  "champion_id": 11,
+  "name": "灵能特工 易 代号：毒牙",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f8afeedbd5b2e2326b1be96df31d195baedc50e612ee42bee1d137a94e849b6b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11033/11034/11034.fantome",
+  "files": [
+    {
+      "path": "skins/11/11033/11034/MasterYi.wad.client",
+      "size": 88705,
+      "sha256": "904cad8cb9cdc0518566347c04f29a159200332f7c2e5b85c3ea1b1ea7f6646d"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2421,
+      "bytes_after": 88705,
+      "replacement_hashes": [
+        "249e3259bb97d3cd"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "249e3259bb97d3cd",
+        "border_hash": "11d4f4e9ba8ba047",
+        "bytes": 86252,
+        "sha256": "0258d70609d4724f7ebd5a26aa046657757e8cdab5b1f1378eef8d19a7854206"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 11019,
+  "base_skin_id": 11017,
+  "champion_id": 11,
+  "name": "持圣诞树的雪人 易",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2535372242be3d5416692327566b3ece7da0cedcc9dc8160b7060ef3004b2768",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11017/11019/11019.fantome",
+  "files": [
+    {
+      "path": "skins/11/11017/11019/MasterYi.wad.client",
+      "size": 88568,
+      "sha256": "054a55a92964651668b346b55220479180af109bc29c89d41545346547d98ef8"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2284,
+      "bytes_after": 88568,
+      "replacement_hashes": [
+        "1d5e4d6e829c70e2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "1d5e4d6e829c70e2",
+        "border_hash": "1b8cba982b3e095e",
+        "bytes": 86252,
+        "sha256": "5b0f3b178b992ba647d1f998d48e9a0422792c878d55fa78def27b0c31294327"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

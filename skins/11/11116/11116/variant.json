@@ -1,0 +1,58 @@
+{
+  "skin_id": 11116,
+  "base_skin_id": 11116,
+  "champion_id": 11,
+  "name": "源计划：改 · 林 易",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3c35f32f2568d68e0f3c0974231f138ca94160d210274bfedbff7577dd3ff1de",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11116/11116.fantome",
+  "files": [
+    {
+      "path": "skins/11/11116/11116/MasterYi.wad.client",
+      "size": 97087,
+      "sha256": "dd26b0c740f5e5408dba12bc75ef14f11800f3ef7373d1dd11001ea5742f5eaf"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 10803,
+      "bytes_after": 97087,
+      "replacement_hashes": [
+        "fc7e5266c58862f4"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "fc7e5266c58862f4",
+        "border_hash": "9f8b814395707dd4",
+        "bytes": 86252,
+        "sha256": "f0ec9baa8fe1585f01ba28eb2dceb2082a537f4f849468415cdcb412bc506124"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

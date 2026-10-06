@@ -1,0 +1,58 @@
+{
+  "skin_id": 106010,
+  "base_skin_id": 106007,
+  "champion_id": 106,
+  "name": "神龙尊者 均衡之龙 沃利贝尔 登龙",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0b889826227d87512865321c10a43f466979c11c2de86ff9472715fbf2c21e0f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "106/106007/106010/106010.fantome",
+  "files": [
+    {
+      "path": "skins/106/106007/106010/Volibear.wad.client",
+      "size": 89705,
+      "sha256": "cecaa03cd4ccb65c9cced6c61c573706bb1b89bab45a0edba8caf370672f6bad"
+    }
+  ],
+  "wads": {
+    "Volibear.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3421,
+      "bytes_after": 89705,
+      "replacement_hashes": [
+        "a1813e1424a22281"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Volibear.wad.client",
+        "normal_hash": "a1813e1424a22281",
+        "border_hash": "9a82c0ed845bad85",
+        "bytes": 86252,
+        "sha256": "21ea498b7cb6ea98c45098ca9e2e6acdaf1e184f55b8275a410a144dff4c1a8c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

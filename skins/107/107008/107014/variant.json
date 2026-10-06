@@ -1,0 +1,48 @@
+{
+  "skin_id": 107014,
+  "base_skin_id": 107008,
+  "champion_id": 107,
+  "name": "霸天战士 雷恩加尔 命运之刃",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "012f8be82871dd641d05bcfd329216883966294fc9f1b433f7ed93ca36704f24",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "107/107008/107014/107014.fantome",
+  "files": [
+    {
+      "path": "skins/107/107008/107014/Rengar.wad.client",
+      "size": 2184,
+      "sha256": "528bf75949f4b9d6189d928f59fbf4a7df1413fee995759458344464f6d7cc46"
+    }
+  ],
+  "wads": {
+    "Rengar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2184,
+      "bytes_after": 2184,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

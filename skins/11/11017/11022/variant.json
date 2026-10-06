@@ -1,0 +1,58 @@
+{
+  "skin_id": 11022,
+  "base_skin_id": 11017,
+  "champion_id": 11,
+  "name": "持玉米棒子的雪人 易",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "af169575329eb51d3250289d3a3bda8b7889a3e1f69cc9361d46d0765074cb4e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11017/11022/11022.fantome",
+  "files": [
+    {
+      "path": "skins/11/11017/11022/MasterYi.wad.client",
+      "size": 88538,
+      "sha256": "420e474f1c98313a24cd04120b108b38bbf48cd7e203fef4c0ed77762196195f"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2254,
+      "bytes_after": 88538,
+      "replacement_hashes": [
+        "1d5e4d6e829c70e2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "1d5e4d6e829c70e2",
+        "border_hash": "1b8cba982b3e095e",
+        "bytes": 86252,
+        "sha256": "5b0f3b178b992ba647d1f998d48e9a0422792c878d55fa78def27b0c31294327"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

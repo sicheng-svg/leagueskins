@@ -1,0 +1,87 @@
+{
+  "skin_id": 103087,
+  "base_skin_id": 103085,
+  "champion_id": 103,
+  "name": "103087",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "833d31ef28ab08816ce4b5d47c164b5885ea7fe3ef160dca0fd9dd5478210787",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+  },
+  "source_package": "103/103085/103087/103087.fantome",
+  "files": [
+    {
+      "path": "skins/103/103085/103087/Ahri.wad.client",
+      "size": 959659,
+      "sha256": "80611ce4c2bb90d68f714b4ece6dcc7a1d3dcd4e2e2f8e0ad47e2e207834fa5e"
+    },
+    {
+      "path": "skins/103/103085/103087/UI.wad.client",
+      "size": 4585,
+      "sha256": "895b16c9adf7cee2508b54bdb0352c99dbd7c73feeaba4c6d92e85e0a7ba678b"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 4,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7463,
+      "bytes_after": 959659,
+      "replacement_hashes": [
+        "04c1289dbd886290",
+        "261d722a38168006",
+        "f19a3055a3dd7ab7"
+      ]
+    },
+    "UI.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4585,
+      "bytes_after": 4585,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ahri.wad.client",
+        "normal_hash": "04c1289dbd886290",
+        "border_hash": "261d722a38168006",
+        "bytes": 689932,
+        "sha256": "6e55e72fb636eb9ee3a5540e083ee89d77c79e892202c98ed67d0305240d74c5",
+        "strategy": "bake_native_augment_layers",
+        "layers": [
+          {
+            "path": "ASSETS/Characters/Ahri/Skins/Skin86/UI/AhriLoadScreen_Augments_Border_Premium.tex",
+            "sha256": "402e1d3a56016c4bb382b82eecca38aa8d0365e9a15a3dab9dc3fcbf08d55443"
+          },
+          {
+            "path": "ASSETS/Characters/Ahri/Skins/Skin86/UI/AhriLoadScreen_Augments_Border_Signature.tex",
+            "sha256": "5400a4db15d03d5d7494a1736495b1aaf10f76a60b8478ddd75af1c75af788d6"
+          }
+        ],
+        "placement": "scale_native_layers_to_loading_card",
+        "in_game": "not_verified"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

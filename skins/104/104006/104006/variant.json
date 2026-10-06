@@ -1,0 +1,48 @@
+{
+  "skin_id": 104006,
+  "base_skin_id": 104006,
+  "champion_id": 104,
+  "name": "无情重炮 格雷福斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c09384de3d2ec5ed6d83497989a28725244c4d7252da90cbd770e5b17062243d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "104/104006/104006.fantome",
+  "files": [
+    {
+      "path": "skins/104/104006/104006/Graves.wad.client",
+      "size": 2114,
+      "sha256": "04b387b1143c6adc3424e487f3a420b8604301603bbec16d6ccbcbaf53eb5c84"
+    }
+  ],
+  "wads": {
+    "Graves.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2114,
+      "bytes_after": 2114,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

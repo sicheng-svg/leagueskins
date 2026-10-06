@@ -1,0 +1,48 @@
+{
+  "skin_id": 107045,
+  "base_skin_id": 107040,
+  "champion_id": 107,
+  "name": "妖怪艺术家 雷恩加尔 月白",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c8e82bca7e4d84e5fe01040c821a6c4489d86f18be01c94cc60857b92f0288e8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "107/107040/107045/107045.fantome",
+  "files": [
+    {
+      "path": "skins/107/107040/107045/Rengar.wad.client",
+      "size": 2680,
+      "sha256": "f3e6629214b44799e4cef61e83c238979a4a901ebfd9cff160731cb1157008c1"
+    }
+  ],
+  "wads": {
+    "Rengar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2680,
+      "bytes_after": 2680,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

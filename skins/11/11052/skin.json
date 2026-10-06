@@ -1,0 +1,587 @@
+{
+  "champion_id": 11,
+  "base_skin_id": 11052,
+  "name": "灵魂莲华 易",
+  "variants": [
+    {
+      "skin_id": 11052,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0734e0b17a5f95f9ff5543feb35c34e5d078d4094925fb29cb205bb5dfa81821",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11052.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11052/MasterYi.wad.client",
+          "size": 91203,
+          "sha256": "2d8169b4ccd3657a94365d0472e5306c215bfe04c4eab1a4dc8f22ddbf5a212b"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4919,
+          "bytes_after": 91203,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11080,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 流火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "de2ee7932b2db09722fbb0db7367b0ffc192fe6af053fa003abece16487fb9cb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11080/11080.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11080/MasterYi.wad.client",
+          "size": 88800,
+          "sha256": "b2f9888d5e91afaa3ee5dbd6d2a108af39ba400698de91eac9182769e6569f28"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2516,
+          "bytes_after": 88800,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11081,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 雁来",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5a99311ad8a7aff5e8ce0e4c0e757cf64a83eb698278355df9e4ff5f07d4416b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11081/11081.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11081/MasterYi.wad.client",
+          "size": 88748,
+          "sha256": "dafc8f95c9e0a4766ea4d3bc9a6f8d344bbfadf2cfec4afe5b33c77f0a8f7426"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2464,
+          "bytes_after": 88748,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11082,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 雪落",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "62ab8e1c7c8924931613e64db1236e854ff9b2767798fe25cd8b47b1c1ce4c0a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11082/11082.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11082/MasterYi.wad.client",
+          "size": 88751,
+          "sha256": "ca884d628a04e0099401f606455a98fe08053877ded027d66082093c80285a7e"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2467,
+          "bytes_after": 88751,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11083,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 云开",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "613aeea3968181cc9df62c2f7b4d89c76e844d08703eb53076c42c533058f2db",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11083/11083.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11083/MasterYi.wad.client",
+          "size": 88753,
+          "sha256": "a7676c93c3582a16bfc9a546127465a42821455c8b2b9e63bdf318de1f122ef3"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2469,
+          "bytes_after": 88753,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11084,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 春晓",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "53a7fa776c1969353e6fbb2ac10b43e1a5390d12f8e7f9d33ea10895b8b8d53c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11084/11084.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11084/MasterYi.wad.client",
+          "size": 88773,
+          "sha256": "6f1ee931decb8e0faeb47c6200ac9d747acab7e81e54785b83b2c2d8c746f8c5"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2489,
+          "bytes_after": 88773,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11085,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 风起",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "670c50611c9bd35154080cbd7e6cb10375a5962295d317a64ba5acebf7189d23",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11085/11085.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11085/MasterYi.wad.client",
+          "size": 88752,
+          "sha256": "e0723a33056049baae2e016078ccbe27d7b0d6a9cf30603b43897812d4b43c03"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2468,
+          "bytes_after": 88752,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11086,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 朝花",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "17af31aa713b305128f6b6e994abb5329c52ed419795498bb76b223e9fb85bf6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11086/11086.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11086/MasterYi.wad.client",
+          "size": 88750,
+          "sha256": "8d3898762ac7606e03ef137cf507c9d15c40dec738c4ea921278b604266431f6"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2466,
+          "bytes_after": 88750,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11087,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 月升",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2ed446bfc53e199beb5975a0f9dadcbd9649f0a9bd80a5720781c8319fe78c60",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11087/11087.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11087/MasterYi.wad.client",
+          "size": 88749,
+          "sha256": "9e0321746660109251da0855312ed9bace66a8544856587c14c193d8c2262c1f"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2465,
+          "bytes_after": 88749,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 11088,
+      "base_skin_id": 11052,
+      "champion_id": 11,
+      "name": "灵魂莲华 易 绽夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "231d3eaeb80508778d8c10c03ef60561c46e63300e24908aa373491f562513d8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "11/11052/11088/11088.fantome",
+      "files": [
+        {
+          "path": "skins/11/11052/11088/MasterYi.wad.client",
+          "size": 88803,
+          "sha256": "99f8d7e69bf3e95b2267aa50e4f80840a73411b716a0f8ce921b9b2bcbfbfdb0"
+        }
+      ],
+      "wads": {
+        "MasterYi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2519,
+          "bytes_after": 88803,
+          "replacement_hashes": [
+            "cd74150292aad79f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MasterYi.wad.client",
+            "normal_hash": "cd74150292aad79f",
+            "border_hash": "c920f5d9298c366a",
+            "bytes": 86252,
+            "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

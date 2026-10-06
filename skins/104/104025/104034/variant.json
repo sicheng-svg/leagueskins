@@ -1,0 +1,58 @@
+{
+  "skin_id": 104034,
+  "base_skin_id": 104025,
+  "champion_id": 104,
+  "name": "战斗教授 格雷福斯 盛典礼服",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "deb40c7c24ac96d9719527b92b12dc9b7e729cd245767c6baae5842bab327bb8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "104/104025/104034/104034.fantome",
+  "files": [
+    {
+      "path": "skins/104/104025/104034/Graves.wad.client",
+      "size": 88706,
+      "sha256": "28513c858f711c5fcbc63d4444045f3a2f1705e6201e3c9e5de68c3bf0f29a98"
+    }
+  ],
+  "wads": {
+    "Graves.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2422,
+      "bytes_after": 88706,
+      "replacement_hashes": [
+        "2c101ca46255a3cb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Graves.wad.client",
+        "normal_hash": "2c101ca46255a3cb",
+        "border_hash": "fcacc83c10b09f99",
+        "bytes": 86252,
+        "sha256": "ee5cb47666a085a4a6539abdd61358057ae64f67555687ff1d824c19c9fab587"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 11047,
+  "base_skin_id": 11042,
+  "champion_id": 11,
+  "name": "无极执事 易 蓝霜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "77cf4b36a3cbceaf92759315c60548bd390044050f897b656b12d2179295d5d4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11042/11047/11047.fantome",
+  "files": [
+    {
+      "path": "skins/11/11042/11047/MasterYi.wad.client",
+      "size": 88595,
+      "sha256": "481a5be5a497e59d6b140cce1e4bf5e5c26a89fc229890ef64745b7d5d8f572c"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2311,
+      "bytes_after": 88595,
+      "replacement_hashes": [
+        "5c1933896c10864d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "5c1933896c10864d",
+        "border_hash": "9f2cd52247209269",
+        "bytes": 86252,
+        "sha256": "654a2e2947a329eb90be99adc72bede83ad87a5783d9d354513b8f306da33be5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

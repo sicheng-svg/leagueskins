@@ -1,0 +1,529 @@
+{
+  "champion_id": 106,
+  "base_skin_id": 106029,
+  "name": "莲华温泉 沃利贝尔",
+  "variants": [
+    {
+      "skin_id": 106029,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0d376f23bba6eeebdf072810aa307b3259a1558aea148b07d3eb19509b6ab480",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106029.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106029/Volibear.wad.client",
+          "size": 93765,
+          "sha256": "055b9d44c2fc113e11aab42b558067ff25edff4935dcb2134be51a96c595adae"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7481,
+          "bytes_after": 93765,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106030,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 流火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "791c2f5ff6198ef533d2d809fb50ebf8c3768f8d4f180280228959dd95eeca49",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106030/106030.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106030/Volibear.wad.client",
+          "size": 89540,
+          "sha256": "b872a1e7a06df55ac1fbaed3703ee954519c67d2dfdabecd99176b3dfcf91584"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3256,
+          "bytes_after": 89540,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106031,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 雁来",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a2ca2a51381ac329b8e63dbf81b07a879ae283a14bee26920c636322eb362f57",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106031/106031.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106031/Volibear.wad.client",
+          "size": 89492,
+          "sha256": "d237e681c5d6df2077837c72aa187591b3e5b4825e312f19cf133faacf9d816b"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3208,
+          "bytes_after": 89492,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106032,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 云开",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4caa394d683e7ebc0d25ec1cf456d8e4df996b0d1293a487e43d3ec150c89d28",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106032/106032.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106032/Volibear.wad.client",
+          "size": 89489,
+          "sha256": "e4ff3e1f6f85639d66b722d959ef8649e53c4e7be2260889f9ebadf3420e1aec"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3205,
+          "bytes_after": 89489,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106033,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 风起",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3bf69842801160ab8c0cec9c2ba3eddaa466c99b150978f8a935fa710e786948",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106033/106033.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106033/Volibear.wad.client",
+          "size": 89491,
+          "sha256": "667bfd3ac2654eb53e3a37ffca9d646e3a46b3209a16f102361e0bb6f12ddc9f"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3207,
+          "bytes_after": 89491,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106034,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 兰秋",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f8ef8b2d1244d933d065a3f41db232794cc4b31d3159c2afa6fe7fbf4855a666",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106034/106034.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106034/Volibear.wad.client",
+          "size": 89493,
+          "sha256": "58de05a7b6b1b368f433d7b324ceaf2494ab8de6400b0c8cb0263a472c5846b5"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3209,
+          "bytes_after": 89493,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106035,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 朝花",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "00d316000b5b99bb6f4492547ad9ab181fe532206b90455836300763f57c362d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106035/106035.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106035/Volibear.wad.client",
+          "size": 89491,
+          "sha256": "8fb0dfdc8842c8943a3f0599fdf8330ef5792d3cc58826ffa317f15454ceb8e8"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3207,
+          "bytes_after": 89491,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106036,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 月升",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2571e55ad9ec6650d908d8f8bd7601a28322c60c829739ff0a64aaaf86ec9e3d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106036/106036.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106036/Volibear.wad.client",
+          "size": 89488,
+          "sha256": "27257789f41792729aeb5085701d246a3e569410f5d8a70e25d08e3ee848c012"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3204,
+          "bytes_after": 89488,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 106037,
+      "base_skin_id": 106029,
+      "champion_id": 106,
+      "name": "莲华温泉 沃利贝尔 春晓",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3d605b0ba19f13cd9cde6a3e6c61e0cf9758b307af031e12d0831da6c7770f50",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "106/106029/106037/106037.fantome",
+      "files": [
+        {
+          "path": "skins/106/106029/106037/Volibear.wad.client",
+          "size": 89515,
+          "sha256": "b5f282c55b10ebe9b388199582a03529f418b1f91f102db3fb05a7daf31a037a"
+        }
+      ],
+      "wads": {
+        "Volibear.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3231,
+          "bytes_after": 89515,
+          "replacement_hashes": [
+            "41e97b506d2e3d23"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Volibear.wad.client",
+            "normal_hash": "41e97b506d2e3d23",
+            "border_hash": "b78bb10fb0a88034",
+            "bytes": 86252,
+            "sha256": "4b95977448358f08244cb2b12b3937495a56bbb3b4da3bfc6948c3a87f3bfb77"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 11090,
+  "base_skin_id": 11089,
+  "champion_id": 11,
+  "name": "墨之影武者 易 炽墨挥影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "cefd2c86f800ea8a60daa4bc1336d30ddd6b26e2490eb1dfcaa1a0316dafcef7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "11/11089/11090/11090.fantome",
+  "files": [
+    {
+      "path": "skins/11/11089/11090/MasterYi.wad.client",
+      "size": 89799,
+      "sha256": "f68565e6a32fce69962feb8cf8ecfbab558d87284764cf85759bf8be204eb2f5"
+    }
+  ],
+  "wads": {
+    "MasterYi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3515,
+      "bytes_after": 89799,
+      "replacement_hashes": [
+        "155c8174de0da0a3"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MasterYi.wad.client",
+        "normal_hash": "155c8174de0da0a3",
+        "border_hash": "207a1b27ad72e73a",
+        "bytes": 86252,
+        "sha256": "1898036b461b3d1b956f3cc4e71eb8e5964179d54771ddc885211c54d4e4645d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

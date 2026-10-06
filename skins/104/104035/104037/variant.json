@@ -1,0 +1,58 @@
+{
+  "skin_id": 104037,
+  "base_skin_id": 104035,
+  "champion_id": 104,
+  "name": "光明哨兵 格雷福斯 森林抗击者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "31d70d46c964fd31a18b0f1c300a9175da4d92e10689e7ca36907fe3ec5dca09",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "104/104035/104037/104037.fantome",
+  "files": [
+    {
+      "path": "skins/104/104035/104037/Graves.wad.client",
+      "size": 89075,
+      "sha256": "51f3ce2046f6ca49c82b82e8ac747ec69a48e236eafbe4d437c1f5b7f7e5aade"
+    }
+  ],
+  "wads": {
+    "Graves.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2791,
+      "bytes_after": 89075,
+      "replacement_hashes": [
+        "c33393fcf1703f25"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Graves.wad.client",
+        "normal_hash": "c33393fcf1703f25",
+        "border_hash": "a996aad38d58619a",
+        "bytes": 86252,
+        "sha256": "2e45360f8cd2dbf2df4f35a25f567679f7236dd3069f9765755cd761bc4a162d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

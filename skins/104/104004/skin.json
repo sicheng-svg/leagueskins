@@ -1,0 +1,55 @@
+{
+  "champion_id": 104,
+  "base_skin_id": 104004,
+  "name": "防暴士兵 格雷福斯",
+  "variants": [
+    {
+      "skin_id": 104004,
+      "base_skin_id": 104004,
+      "champion_id": 104,
+      "name": "防暴士兵 格雷福斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c2cedb46e412889238743c4fb05951cb08ef968e5ea590791070e122e76c251e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "104/104004/104004.fantome",
+      "files": [
+        {
+          "path": "skins/104/104004/104004/Graves.wad.client",
+          "size": 2733,
+          "sha256": "8366b91b948d26c0aff44ce897da02bbc485ebe020e92ae9bc7aec6e77d08f37"
+        }
+      ],
+      "wads": {
+        "Graves.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2733,
+          "bytes_after": 2733,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

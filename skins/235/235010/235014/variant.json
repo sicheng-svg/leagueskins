@@ -1,0 +1,65 @@
+{
+  "skin_id": 235014,
+  "base_skin_id": 235010,
+  "champion_id": 235,
+  "name": "西部天使 赛娜 贝利尔之怠",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3ba24a936eec6fd4b688042b5472671af72acd8bebc602459effe232151b91aa",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "235/235010/235014/235014.fantome",
+  "files": [
+    {
+      "path": "skins/235/235010/235014/Senna.wad.client",
+      "size": 90582,
+      "sha256": "a71b058f8ccdd11a5a3a855b32372042e3c00f34125c9ad0c88ce57887c7c2d8"
+    }
+  ],
+  "wads": {
+    "Senna.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4298,
+      "bytes_after": 90582,
+      "replacement_hashes": [
+        "c0d058287bc4897f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Senna.wad.client",
+        "normal_hash": "c0d058287bc4897f",
+        "border_hash": "30bee6e396a9aa0d",
+        "bytes": 86252,
+        "sha256": "64792649bc01a77d0eb3b6db95cd58f8158b73f4e422014bed416e2a13bc1d3e"
+      },
+      {
+        "archive": "Senna.wad.client",
+        "normal_hash": "c0d058287bc4897f",
+        "border_hash": "30bee6e396a9aa0d",
+        "bytes": 86252,
+        "sha256": "64792649bc01a77d0eb3b6db95cd58f8158b73f4e422014bed416e2a13bc1d3e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

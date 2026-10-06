@@ -1,0 +1,58 @@
+{
+  "skin_id": 236045,
+  "base_skin_id": 236040,
+  "champion_id": 236,
+  "name": "海珀利安小队 Z01-猎户座 卢锡安 紫色长剑",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b7910a765ed6f010a23ad17ca9eaa66ae097fca2d1d7139dcd211509007bc4e9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236040/236045/236045.fantome",
+  "files": [
+    {
+      "path": "skins/236/236040/236045/Lucian.wad.client",
+      "size": 89148,
+      "sha256": "56c35c5211d3ca07ac9d83d9022f7e083e5ee29a4b003adfa43bc79239c6bb41"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2864,
+      "bytes_after": 89148,
+      "replacement_hashes": [
+        "2a0934f5e600babf"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lucian.wad.client",
+        "normal_hash": "2a0934f5e600babf",
+        "border_hash": "f3e253209d2f7e35",
+        "bytes": 86252,
+        "sha256": "8c740349476a6188f17362d87618579316298f857777081043f49db363f8bb8e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

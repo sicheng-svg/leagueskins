@@ -1,0 +1,58 @@
+{
+  "skin_id": 236051,
+  "base_skin_id": 236008,
+  "champion_id": 236,
+  "name": "无畏游侠 卢锡安 不败圣枪",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "81f1962cd3291edc5c062804b8825d3692b9059cf8e4780d9be7dcadf25cd197",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236008/236051/236051.fantome",
+  "files": [
+    {
+      "path": "skins/236/236008/236051/Lucian.wad.client",
+      "size": 98836,
+      "sha256": "8afc740a30bcfa105b63ff29998769a927c6a2cdae2a04356416889830d35dc2"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 12552,
+      "bytes_after": 98836,
+      "replacement_hashes": [
+        "28be5d9f677975de"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lucian.wad.client",
+        "normal_hash": "28be5d9f677975de",
+        "border_hash": "88fbd161d5fcc110",
+        "bytes": 86252,
+        "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 98,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "champion_id": 236,
+  "base_skin_id": 236006,
+  "name": "源计划：雷 卢锡安",
+  "variants": [
+    {
+      "skin_id": 236006,
+      "base_skin_id": 236006,
+      "champion_id": 236,
+      "name": "源计划：雷 卢锡安",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "829f34e5b0cbddcb1c7f699daf11357bec3f44a08abcad361d47ce1029515548",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236006/236006.fantome",
+      "files": [
+        {
+          "path": "skins/236/236006/236006/Lucian.wad.client",
+          "size": 93106,
+          "sha256": "201a871d38f65db5cb4f18f8681596f841d39dd855a1cebc948b72b44395be75"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6822,
+          "bytes_after": 93106,
+          "replacement_hashes": [
+            "5747a92ae150ec5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "5747a92ae150ec5b",
+            "border_hash": "39d9c5678d51e911",
+            "bytes": 86252,
+            "sha256": "7694b6a8365afeffb7cc723d4a5de24e414924d6e2f196e3ab6288279a729503"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236017,
+      "base_skin_id": 236006,
+      "champion_id": 236,
+      "name": "源计划：雷 卢锡安 惩戒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e4f89ac2e80b1ef08f4f68732455b5925d6e4a25158bb90295ee445e50f6cfc3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236006/236017/236017.fantome",
+      "files": [
+        {
+          "path": "skins/236/236006/236017/Lucian.wad.client",
+          "size": 88959,
+          "sha256": "047b38ab8f635a01c2bb9131ce24b1660d60bad79faaf9ba57df44a25d61249b"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2675,
+          "bytes_after": 88959,
+          "replacement_hashes": [
+            "5747a92ae150ec5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "5747a92ae150ec5b",
+            "border_hash": "39d9c5678d51e911",
+            "bytes": 86252,
+            "sha256": "7694b6a8365afeffb7cc723d4a5de24e414924d6e2f196e3ab6288279a729503"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236071,
+      "base_skin_id": 236006,
+      "champion_id": 236,
+      "name": "源计划：雷 卢锡安 至强",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "420370af05ceefe8ec47c8924274b25fbe52ffc651e3ec357ed91bd1184f0b4d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236006/236071/236071.fantome",
+      "files": [
+        {
+          "path": "skins/236/236006/236071/Lucian.wad.client",
+          "size": 88983,
+          "sha256": "e118a6e7c0aa30fae16c3d7a75a32e3cf1021b948b9c091027b85aa2bdea1305"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2699,
+          "bytes_after": 88983,
+          "replacement_hashes": [
+            "5747a92ae150ec5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "5747a92ae150ec5b",
+            "border_hash": "39d9c5678d51e911",
+            "bytes": 86252,
+            "sha256": "7694b6a8365afeffb7cc723d4a5de24e414924d6e2f196e3ab6288279a729503"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

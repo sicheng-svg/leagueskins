@@ -1,0 +1,527 @@
+{
+  "champion_id": 235,
+  "base_skin_id": 235001,
+  "name": "真实伤害 赛娜",
+  "variants": [
+    {
+      "skin_id": 235001,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "60628c9f7e4f89765ab363a190a63da7e480e7f8e8bc003ff0fa2ab1380406fc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235001.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235001/Senna.wad.client",
+          "size": 95831,
+          "sha256": "788a3e193fe9b3646eb52a173418527b56fe5d1c8b7c62645f699069879ec2b1"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9547,
+          "bytes_after": 95831,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235002,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜 即兴说唱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "de80b15eacb401dabb757b2f5845df832cdd5be5c51cd4f3bbaf6542b9ad6227",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235002/235002.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235002/Senna.wad.client",
+          "size": 90288,
+          "sha256": "1bf6abb1efd5dfe2ceba45448a5f46643b7838e965c909663dd0e95b506103d6"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4004,
+          "bytes_after": 90288,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235003,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜 华丽之韵",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ada7ad41690a65855cadd9fd288403b7aa468afdefc5f7b494eecf16df16470f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235003/235003.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235003/Senna.wad.client",
+          "size": 90233,
+          "sha256": "8e2fa91732a61f6af33918f71d702de76abe64e668dfc759feebb72b9501510b"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3949,
+          "bytes_after": 90233,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235004,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜 孤高之傲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a055c9989c3e97ab6f0ee2ff5ec7929bfc4e42b648fc35d13b04cf62856e7d48",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235004/235004.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235004/Senna.wad.client",
+          "size": 90233,
+          "sha256": "c9c272a5f1c87770fb731a5cf67f2dc66bba75176a7fcdeee56f389c5dcfaef4"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3949,
+          "bytes_after": 90233,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235005,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜 敏锐之识",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06f15dcc5b745cd321a00ea132f0c42edca8f7eb0c9dce0f87252a96d1c1484a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235005/235005.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235005/Senna.wad.client",
+          "size": 90233,
+          "sha256": "cb83c12d9062f75b3526237d55c5c7d714f0daf024247e8d8de60c1cf2ca1b2c"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3949,
+          "bytes_after": 90233,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235006,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜 超凡之心",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "30e49f396b9f20306861595c69c18d5771e324ec455ad595aa6a18b3637040bb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235006/235006.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235006/Senna.wad.client",
+          "size": 90234,
+          "sha256": "853329a6849ca4938b69f09423aa4b2a10c3dc3d3582a69084edc1e1f31f466f"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3950,
+          "bytes_after": 90234,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235007,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜 锐意之风",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d1ffbbf9fb6d781f1c950d99b91bb85f0adec2fd31fe029d1ca9508619f8f674",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235007/235007.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235007/Senna.wad.client",
+          "size": 90289,
+          "sha256": "de1ab9b5b5ac4f52a59aa8262e3c76d526a28345c439d1073ceb18fa19806b18"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4005,
+          "bytes_after": 90289,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235008,
+      "base_skin_id": 235001,
+      "champion_id": 235,
+      "name": "真实伤害 赛娜 本真之范",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9708a2469d28f3eabd3f2ab11f78cbb5cd203645750f0afdd07e3cb400aebd01",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235001/235008/235008.fantome",
+      "files": [
+        {
+          "path": "skins/235/235001/235008/Senna.wad.client",
+          "size": 90235,
+          "sha256": "6153b05dce21adf824ea693ea7163e4e256b04d0fa62447502acf528d2809c8c"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3951,
+          "bytes_after": 90235,
+          "replacement_hashes": [
+            "26ba4a41d038e1bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "26ba4a41d038e1bc",
+            "border_hash": "ca9190fb1a224242",
+            "bytes": 86252,
+            "sha256": "d4a97854e67e9f2d34c9b146e73c1ff3a263db9832cb787f4370ffdaf81257d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

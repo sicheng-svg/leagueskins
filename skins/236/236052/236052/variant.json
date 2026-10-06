@@ -1,0 +1,58 @@
+{
+  "skin_id": 236052,
+  "base_skin_id": 236052,
+  "champion_id": 236,
+  "name": "北极星守护者 卢锡安",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c316e4a9fcd18f22b9d5852d6891e14b70fe456015f70fd2c458c3c81f3ba0fb",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236052/236052.fantome",
+  "files": [
+    {
+      "path": "skins/236/236052/236052/Lucian.wad.client",
+      "size": 95374,
+      "sha256": "7680494488abe24881c025b46717ce8c3c0e10055ce4626719d149fe26a9c6e7"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 9090,
+      "bytes_after": 95374,
+      "replacement_hashes": [
+        "a918ab857e52f79c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lucian.wad.client",
+        "normal_hash": "a918ab857e52f79c",
+        "border_hash": "82bc166a45077899",
+        "bytes": 86252,
+        "sha256": "c6d93e0ae3e8175cfb4807da9b73147f54cef801eb6cc315fbe57c699b848737"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "champion_id": 236,
+  "base_skin_id": 236018,
+  "name": "未来战士 卢锡安",
+  "variants": [
+    {
+      "skin_id": 236018,
+      "base_skin_id": 236018,
+      "champion_id": 236,
+      "name": "未来战士 卢锡安",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "59b708efb71737b7d13b4540a652e2c577bc1eaa7b737b492df828c74c94b01c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236018/236018.fantome",
+      "files": [
+        {
+          "path": "skins/236/236018/236018/Lucian.wad.client",
+          "size": 93158,
+          "sha256": "61f020f6274e61f3391cc50d9cde3f1323eff24df44957b51bdd5b74a5a2cdad"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6874,
+          "bytes_after": 93158,
+          "replacement_hashes": [
+            "804b67c1cfb90d06"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "804b67c1cfb90d06",
+            "border_hash": "52555d0716450c35",
+            "bytes": 86252,
+            "sha256": "60280b51ea5280ec059d0958bd1058a7d4e33b22abf3a3f975494b2a81577207"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

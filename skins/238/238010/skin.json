@@ -1,0 +1,137 @@
+{
+  "champion_id": 238,
+  "base_skin_id": 238010,
+  "name": "冠军之隐 劫",
+  "variants": [
+    {
+      "skin_id": 238010,
+      "base_skin_id": 238010,
+      "champion_id": 238,
+      "name": "冠军之隐 劫",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5e111174f73ddb43b0dfac9aed7fcc16f47230933499aea734dbc2e5ee57f3c2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238010/238010.fantome",
+      "files": [
+        {
+          "path": "skins/238/238010/238010/Zed.wad.client",
+          "size": 91683,
+          "sha256": "dfe1a3b9374380b92440f02fe627afca12fb7c0b7a0d51e130852d5a8bff5ed8"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5399,
+          "bytes_after": 91683,
+          "replacement_hashes": [
+            "8426e8b9029fdb9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "8426e8b9029fdb9e",
+            "border_hash": "46604e3313294b3e",
+            "bytes": 86252,
+            "sha256": "04b591e55ec8b79bc51154bbd9ff9d91b22961d7df782daee33d44a604f5a209"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "8426e8b9029fdb9e",
+            "border_hash": "46604e3313294b3e",
+            "bytes": 86252,
+            "sha256": "04b591e55ec8b79bc51154bbd9ff9d91b22961d7df782daee33d44a604f5a209"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238012,
+      "base_skin_id": 238010,
+      "champion_id": 238,
+      "name": "冠军之隐 劫 凯旋圣装",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "00a792db655c601b75a04ccd204154aecf2c323ac8e7d870433ba967d4b1ab10",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238010/238012/238012.fantome",
+      "files": [
+        {
+          "path": "skins/238/238010/238012/Zed.wad.client",
+          "size": 89639,
+          "sha256": "3fa8a54e6214e8b32b637495443c4f405e2e7939fb5d3d025f545a2ff575ab71"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3355,
+          "bytes_after": 89639,
+          "replacement_hashes": [
+            "8426e8b9029fdb9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "8426e8b9029fdb9e",
+            "border_hash": "46604e3313294b3e",
+            "bytes": 86252,
+            "sha256": "04b591e55ec8b79bc51154bbd9ff9d91b22961d7df782daee33d44a604f5a209"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "8426e8b9029fdb9e",
+            "border_hash": "46604e3313294b3e",
+            "bytes": 86252,
+            "sha256": "04b591e55ec8b79bc51154bbd9ff9d91b22961d7df782daee33d44a604f5a209"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "champion_id": 235,
+  "base_skin_id": 235036,
+  "name": "魅惑女巫 赛娜",
+  "variants": [
+    {
+      "skin_id": 235036,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ac088861750d4291345a9c7e7e782477ce3d39d801ea7f76284048e84f2ea9aa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235036.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235036/Senna.wad.client",
+          "size": 95758,
+          "sha256": "d33da9ef12650fd827ba18210356f8d4aa872b71adcb6fc9312e52777de9d45f"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9474,
+          "bytes_after": 95758,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235038,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 热情化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1ae70e289ef7dedf87b54e282682371a881c766a289733209815187b48bcbe93",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235038/235038.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235038/Senna.wad.client",
+          "size": 90426,
+          "sha256": "5a9c494a97b3f7922ab5b431e39ff416b5160da6113b3dca106d19d01eb14f10"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4142,
+          "bytes_after": 90426,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235039,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 明艳化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "987cc7f7bc15ff2df92d32b0c2fbdbc408cbff6be06ad789b5a294bbeecbeb8d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235039/235039.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235039/Senna.wad.client",
+          "size": 90373,
+          "sha256": "fe165f5b83d9749ffc3dd89b84c48df9b5d2e478d11618ac71b43b6f7f60d291"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4089,
+          "bytes_after": 90373,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235040,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 青春化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cc4108cbc3961c53168d15ad4f5772a91c05974f12a1b94bd8f3207fba2fd620",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235040/235040.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235040/Senna.wad.client",
+          "size": 90374,
+          "sha256": "34f7d4bf4192c96106ad52e559e3e77a98e908a710f8f4269b0ee0390b61300b"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4090,
+          "bytes_after": 90374,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235041,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 知性化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "89453bf235e40aa1736bd2d2803b12a829cb33377784d533d098f17f66c7c6e7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235041/235041.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235041/Senna.wad.client",
+          "size": 90375,
+          "sha256": "f1432b90a1bf7367c1b97484661d6be5dc1e775153a8edea782e3570f787b023"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4091,
+          "bytes_after": 90375,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235042,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 典雅化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "24410510ce6ae67e67cace430455aa27f0fba6b807e2b1be38b13d8377adc7db",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235042/235042.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235042/Senna.wad.client",
+          "size": 90373,
+          "sha256": "937446bd93a2c524f00baee632e75e578ed85c2782f33c0abec8ef7c1699f77a"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4089,
+          "bytes_after": 90373,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235043,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 浪漫化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "08319c371101e45fe9426d1ee1544c0cde6e6a400efa56cb8abf10d9e7317e40",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235043/235043.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235043/Senna.wad.client",
+          "size": 90398,
+          "sha256": "694507a1f14afb38999b7be199b2f41d5fbf47b080c8a847e8419cd1a7cdba56"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4114,
+          "bytes_after": 90398,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235044,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 纯真化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6ccb6aa673f0e65a66f51d70a2229dbebd2836bf293f36d3f6262cfdd9df911e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235044/235044.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235044/Senna.wad.client",
+          "size": 90375,
+          "sha256": "f8f2d7f173210d72d7e6e2eed6c13461abf003557b9835a080f4487b85716a50"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4091,
+          "bytes_after": 90375,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235045,
+      "base_skin_id": 235036,
+      "champion_id": 235,
+      "name": "魅惑女巫 赛娜 高冷化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b93ae2b51b60e13a7d8fee8170e8090674a2594df96cb18a523c501df0b7811c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235036/235045/235045.fantome",
+      "files": [
+        {
+          "path": "skins/235/235036/235045/Senna.wad.client",
+          "size": 90373,
+          "sha256": "3d1bf361c63e4c0c9826df6f147738687185a25fc22f33c28c217e282cdec93d"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4089,
+          "bytes_after": 90373,
+          "replacement_hashes": [
+            "e3db4bad7863cbe2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "e3db4bad7863cbe2",
+            "border_hash": "4b66322a08c081a3",
+            "bytes": 86252,
+            "sha256": "d48fb8c415af54fc771a60b9e3111e89b4c94f8aa6d571bee8b279b5785f681b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

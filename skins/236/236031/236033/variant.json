@@ -1,0 +1,48 @@
+{
+  "skin_id": 236033,
+  "base_skin_id": 236031,
+  "champion_id": 236,
+  "name": "正义之枪 卢锡安 优雅",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "69dc9383fbbb45b20b98ce4c56cf419c4a6fe0aa79f5483525cf3c1b2e5f228b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236031/236033/236033.fantome",
+  "files": [
+    {
+      "path": "skins/236/236031/236033/Lucian.wad.client",
+      "size": 2588,
+      "sha256": "5f952f76387f87b6d2cb9e8159b90a2b3000c65d81053bf35f433f4076903e0f"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2588,
+      "bytes_after": 2588,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

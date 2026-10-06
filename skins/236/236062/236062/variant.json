@@ -1,0 +1,48 @@
+{
+  "skin_id": 236062,
+  "base_skin_id": 236062,
+  "champion_id": 236,
+  "name": "正义假面 卢锡安",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "991e18b4e3bcf00760f4ec1425763d064f6fac1b1b705331b78c4a8609371a26",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236062/236062.fantome",
+  "files": [
+    {
+      "path": "skins/236/236062/236062/Lucian.wad.client",
+      "size": 6595,
+      "sha256": "955995e1a7d30c406494f7e63659adf55af418c8cc2358b2ef33805e3a5c4e1e"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6595,
+      "bytes_after": 6595,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

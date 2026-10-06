@@ -1,0 +1,592 @@
+{
+  "champion_id": 235,
+  "base_skin_id": 235072,
+  "name": "银焰骑士 赛娜",
+  "variants": [
+    {
+      "skin_id": 235072,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "79b6a7bead284aedb1d6f42735ee7387f56c59d2090e082d509805e5ef1fdb69",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235072.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235072/Senna.wad.client",
+          "size": 95954,
+          "sha256": "d1cb7d7b54fc4a3e030d2370d27a5fbf9dcd6cbfdeddf1d7b35d1d18a552bf78"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9670,
+          "bytes_after": 95954,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235073,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 红焰迅牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "30a55a4709cc8dcf15df7258bee130d3e1d31895726bb46357f2ebef56d2e282",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235073/235073.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235073/Senna.wad.client",
+          "size": 90543,
+          "sha256": "13d64140fa1f2019a4cef98672aa3c9dfe9ddbb47222373d7c29b04f12fd2f34"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4259,
+          "bytes_after": 90543,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235074,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 黄焰猛牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "50e1e55c5b0bf75c2b4893661983fe89df9eed94d444caed7f4197f334b9a410",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235074/235074.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235074/Senna.wad.client",
+          "size": 90488,
+          "sha256": "ab4ae8157da269cbb20de258528219b261d058272d59bdb9bf1a7daf7bc44d20"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4204,
+          "bytes_after": 90488,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235075,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 绿焰霸牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c34ef3926252e0eb4ee6e44dc9995489fdd4db3d550eddf2c2fd211e68efa31f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235075/235075.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235075/Senna.wad.client",
+          "size": 90484,
+          "sha256": "0e1557fe9d9811f12d995c51fa27dde0f2c257624a3eee48c832e5ba4d3d1575"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4200,
+          "bytes_after": 90484,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235076,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 蓝焰幸牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "284cc6b76f722d4198b96f547fb1ba79e28f3471051f988a2cedf54c66264321",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235076/235076.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235076/Senna.wad.client",
+          "size": 90485,
+          "sha256": "df466556197bb990f31a4b18eafcb10461303d5eec33a55cc6e6ddba24064518"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4201,
+          "bytes_after": 90485,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235077,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 青焰蛮牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "41ea995d07cb7001fd644c39b2d2284e988d159087b9a48d3d1cca2778ec4026",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235077/235077.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235077/Senna.wad.client",
+          "size": 90485,
+          "sha256": "690af77af203de75b5a7c3b065065e4a20a15ab2c1382ba3b8b9210e0aa58fe2"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4201,
+          "bytes_after": 90485,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235078,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 紫焰狡牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "87fb22311460d2b6f842e5d0554f4f5f4f9a9ddabc8f8496955ccc2969c6f54e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235078/235078.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235078/Senna.wad.client",
+          "size": 90487,
+          "sha256": "0b9c5ac244966fd61e21e8a22088ca8edd5de80d7985cfda75cb43f7086911ef"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4203,
+          "bytes_after": 90487,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235079,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 粉焰傲牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f6ffc4fb1e2f391b757044188b661bf1f5dda61b901439b3a4822b9afdd19a06",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235079/235079.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235079/Senna.wad.client",
+          "size": 90486,
+          "sha256": "a1121a5e67f18b79016267fe2601f435c943ac8c7368486a6fd86ba7d28226f5"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4202,
+          "bytes_after": 90486,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235080,
+      "base_skin_id": 235072,
+      "champion_id": 235,
+      "name": "银焰骑士 赛娜 无畏之牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7fef801451a4e4fbfbff32b6b1bd8c9507df7f654c1eda68ea29fa8384a98ae3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235072/235080/235080.fantome",
+      "files": [
+        {
+          "path": "skins/235/235072/235080/Senna.wad.client",
+          "size": 90544,
+          "sha256": "08cc9b39ba983f15fb38be25f429e965e6aca300d2017d2f09ad1c0080e5656f"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4260,
+          "bytes_after": 90544,
+          "replacement_hashes": [
+            "662b55328c6ff75c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "662b55328c6ff75c",
+            "border_hash": "60228c40724f5a41",
+            "bytes": 86252,
+            "sha256": "4d9367b8210343b8128b806d1e2e6d4c4bef3517ce7355b7a9517a8855b55e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

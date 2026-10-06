@@ -1,0 +1,471 @@
+{
+  "champion_id": 236,
+  "base_skin_id": 236008,
+  "name": "西部魔影 卢锡安",
+  "variants": [
+    {
+      "skin_id": 236008,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "西部魔影 卢锡安",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b0efff6dbe082a62dbe28a20ace94a9c7d4310090e73f9a3e5fdd5256abc79e8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236008.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236008/Lucian.wad.client",
+          "size": 98746,
+          "sha256": "c029aa0146cab75d8958e5e2be9d25f6e194dd632ec7bf483fe182009e7d83f3"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12462,
+          "bytes_after": 98746,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 22,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236020,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "西部魔影 卢锡安 贝列之锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cb12b14140eddda18fbcbbb596f56a11042577f7753c4055c69d96d57f502487",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236020/236020.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236020/Lucian.wad.client",
+          "size": 98796,
+          "sha256": "fc503f5ba9dfa8db9db75d6749672437d1770ce6cc40a18672ec2cda9be12875"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12512,
+          "bytes_after": 98796,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 21,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236021,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "西部魔影 卢锡安 巴耶力之生",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "14ea7a2b19597e76134380c6279d5341355dbc6bdeee0aa17c600f6d3c729bd5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236021/236021.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236021/Lucian.wad.client",
+          "size": 98748,
+          "sha256": "bbfde24541ae4c11c41536a370fd86ee5c93695a575e45280ca48b7513b5ecfa"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12464,
+          "bytes_after": 98748,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 21,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236022,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "西部魔影 卢锡安 布耶尔之疗",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2db0e796d9d289872e6d4654072483ad5045fbdf914ea4c81f9f048349f11506",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236022/236022.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236022/Lucian.wad.client",
+          "size": 98751,
+          "sha256": "dc146f60dbb55a9f82706c4e6a35fc4b3f752234ecf96d674a5fc1fdeb6e4bd7"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12467,
+          "bytes_after": 98751,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 21,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236023,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "西部魔影 卢锡安 瓦沙克之言",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ed94d882470a5cd6bfe098bc3a1d8e9f048c2eab12bcf295aa7539d7a4f46b59",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236023/236023.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236023/Lucian.wad.client",
+          "size": 98751,
+          "sha256": "a50b2cf4c9cc620df73f62b83749b4d14056361910ddc1595d2eb0f68daf118d"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12467,
+          "bytes_after": 98751,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 21,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236024,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "西部魔影 卢锡安 贝利尔之怠",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3028fa6f9ca6270f1f726ce6d0ec6dde201c022ffe377e606e97e9cc70f6fa14",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236024/236024.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236024/Lucian.wad.client",
+          "size": 90128,
+          "sha256": "8f4c35d327d3eb43314ff3dd49a47f52ba288d83c3839cdece0fb9086a8e7282"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3844,
+          "bytes_after": 90128,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 21,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236050,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "西部魔影 卢锡安 圣辉牛仔",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ae32c46a9c22bf7984baa587a02c005f2e73c1039b22c45a8fe56a03a3117636",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236050/236050.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236050/Lucian.wad.client",
+          "size": 90111,
+          "sha256": "06028b1909b22f2b953c3a09ea169eb0d1a90583540e6919fc8a28c5cb22eee2"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3827,
+          "bytes_after": 90111,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 19,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236051,
+      "base_skin_id": 236008,
+      "champion_id": 236,
+      "name": "无畏游侠 卢锡安 不败圣枪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "81f1962cd3291edc5c062804b8825d3692b9059cf8e4780d9be7dcadf25cd197",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236008/236051/236051.fantome",
+      "files": [
+        {
+          "path": "skins/236/236008/236051/Lucian.wad.client",
+          "size": 98836,
+          "sha256": "8afc740a30bcfa105b63ff29998769a927c6a2cdae2a04356416889830d35dc2"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12552,
+          "bytes_after": 98836,
+          "replacement_hashes": [
+            "28be5d9f677975de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "28be5d9f677975de",
+            "border_hash": "88fbd161d5fcc110",
+            "bytes": 86252,
+            "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 98,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

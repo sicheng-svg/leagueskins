@@ -1,0 +1,592 @@
+{
+  "champion_id": 235,
+  "base_skin_id": 235046,
+  "name": "星之守护者 赛娜",
+  "variants": [
+    {
+      "skin_id": 235046,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c50b2d7e6cf5679a840f64350582f5a615eb44ede3f83b16017a69269e48c917",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235046.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235046/Senna.wad.client",
+          "size": 95586,
+          "sha256": "b6d1f3eee08ccf79ac01146000cca6269e0ddf82d515008396e1f8cd1ad49e61"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9302,
+          "bytes_after": 95586,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235048,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 热情之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3bb91648d8f499c8f99713522f10ddb7f0b15129a23e33f2e37b371f604a509a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235048/235048.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235048/Senna.wad.client",
+          "size": 90336,
+          "sha256": "62d2f64e5ee7fe41edae291403bd269b9eb5d717a3fba5a4d413a9a59b759eba"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4052,
+          "bytes_after": 90336,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235049,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 爱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b067c4a18204f72f81bb62ee1cd3539de1dbe573729c98528637cef978bc5a31",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235049/235049.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235049/Senna.wad.client",
+          "size": 90288,
+          "sha256": "df909684801b2ac37c0ad03ca55c770197fe9ba20415b0d2a8900d2114450473"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4004,
+          "bytes_after": 90288,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235050,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 勇气之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a41cdd7971836751168108cfbdecdbcac12d0c9ff57dc09cfe991cc2be178172",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235050/235050.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235050/Senna.wad.client",
+          "size": 90289,
+          "sha256": "25c6b04037567dd19a0510b30f840bd3d89c601076b6fb3eb3773c17cf8b9286"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4005,
+          "bytes_after": 90289,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235051,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 智慧之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9d3fd44e954267c86208f2ef5466454ff319bfa08a093fdf542aaa42c390004e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235051/235051.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235051/Senna.wad.client",
+          "size": 90286,
+          "sha256": "6be05bf84e67179e3a28a507d263de60994a3a454683eb592621f58ea39ddc6f"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4002,
+          "bytes_after": 90286,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235052,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 正义之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b2188c9f7c88b8bf17dea20c0761105a809fe00eac8e97952c9f588fe7b8a9fc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235052/235052.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235052/Senna.wad.client",
+          "size": 90291,
+          "sha256": "b680f79f514009745b91999af6efedfda54beda1e869260a43c4042f2dbefe48"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4007,
+          "bytes_after": 90291,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235053,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 守护之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8b415613f2a9d18023629bbc50e485c8a66fc4a43526965b437506874f68a63a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235053/235053.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235053/Senna.wad.client",
+          "size": 90288,
+          "sha256": "1e5fc65c561c981059f3a09dfb4ec40d76c535d14eedcee044c45736f116c653"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4004,
+          "bytes_after": 90288,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235054,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 重生之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bb3d70434d10ada32f99e770aa74a8226f9f0c3ed9df08efa021d16bcb91e435",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235054/235054.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235054/Senna.wad.client",
+          "size": 90288,
+          "sha256": "57e51030d3f32b304b8e0a5466256906c82e53b60637b41230ef5727569b905d"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4004,
+          "bytes_after": 90288,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 235055,
+      "base_skin_id": 235046,
+      "champion_id": 235,
+      "name": "星之守护者 赛娜 月虹之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eaf67b130aa683d340ef947426fe89744d1a086c13b66b32b0fab585d44b7716",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "235/235046/235055/235055.fantome",
+      "files": [
+        {
+          "path": "skins/235/235046/235055/Senna.wad.client",
+          "size": 90288,
+          "sha256": "9d6e4dca1eee59f24b02dedc9a08e17cbd1266304b59df440f58dcc33e808806"
+        }
+      ],
+      "wads": {
+        "Senna.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4004,
+          "bytes_after": 90288,
+          "replacement_hashes": [
+            "f3f18135ee953b74"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          },
+          {
+            "archive": "Senna.wad.client",
+            "normal_hash": "f3f18135ee953b74",
+            "border_hash": "b81f590f369d0ea6",
+            "bytes": 86252,
+            "sha256": "d27359dcb6fc3968e6b0174b5146aa1804459fc60830cf1cc22fedcf107e8f22"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

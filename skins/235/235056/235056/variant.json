@@ -1,0 +1,58 @@
+{
+  "skin_id": 235056,
+  "base_skin_id": 235056,
+  "champion_id": 235,
+  "name": "北极星神 赛娜",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a31d3bed7d0c089310d8152f08011a4e0d13469d66fe3634930a94a81873af29",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "235/235056/235056.fantome",
+  "files": [
+    {
+      "path": "skins/235/235056/235056/Senna.wad.client",
+      "size": 92400,
+      "sha256": "e2bc39410db15aecf7ba0487e81c80235a8fc5348698e53c1a39f6613295801b"
+    }
+  ],
+  "wads": {
+    "Senna.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6116,
+      "bytes_after": 92400,
+      "replacement_hashes": [
+        "bc8e4960be14b917"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Senna.wad.client",
+        "normal_hash": "bc8e4960be14b917",
+        "border_hash": "cc34a7d5492dfb38",
+        "bytes": 86252,
+        "sha256": "e7b3567c96660575dfdcdb221b7bad1d71dd491b9e6e71bd8f5f8c3e4aa144bc"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

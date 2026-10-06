@@ -1,0 +1,48 @@
+{
+  "skin_id": 236038,
+  "base_skin_id": 236031,
+  "champion_id": 236,
+  "name": "正义之枪 卢锡安 均衡",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "86e5acdb2814f75d876f78b23d19265c82d98aa4bb0f9fbfef087ebc351aa1bb",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236031/236038/236038.fantome",
+  "files": [
+    {
+      "path": "skins/236/236031/236038/Lucian.wad.client",
+      "size": 2589,
+      "sha256": "bdebd8454db044b1df2253d9eabfb0446205a546ac36d54ceeb1d617ffdee035"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2589,
+      "bytes_after": 2589,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

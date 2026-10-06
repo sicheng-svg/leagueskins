@@ -1,0 +1,58 @@
+{
+  "skin_id": 236072,
+  "base_skin_id": 236072,
+  "champion_id": 236,
+  "name": "沉溺暗影 卢锡安",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8bf6486b2f36f58f4cf5c63e098e1d3914f29fea2e51b5f1f024775ce2320eba",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236072/236072.fantome",
+  "files": [
+    {
+      "path": "skins/236/236072/236072/Lucian.wad.client",
+      "size": 102686,
+      "sha256": "f30bc013a03186bc7fc424c00de2ef6d31118009ba2de327a0cdc651635d4580"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 16402,
+      "bytes_after": 102686,
+      "replacement_hashes": [
+        "f8e7b9f4ef6cbeb1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lucian.wad.client",
+        "normal_hash": "f8e7b9f4ef6cbeb1",
+        "border_hash": "66283f8c0a09d185",
+        "bytes": 86252,
+        "sha256": "b5b5ef82bc7f7b3b04be8376456d0978e4d22086f73113d5ad5e87fdd52db24a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

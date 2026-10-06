@@ -1,0 +1,65 @@
+{
+  "skin_id": 238003,
+  "base_skin_id": 238003,
+  "champion_id": 238,
+  "name": "源计划：阴 劫",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0f1860c7a1bbe1364b955eebe13aac76c0af62c72e6f755627709e8252b184c6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "238/238003/238003.fantome",
+  "files": [
+    {
+      "path": "skins/238/238003/238003/Zed.wad.client",
+      "size": 93854,
+      "sha256": "5a04a75ac762e9dad9857b23e7609fd526a708580d7d35710c7ea543e537f128"
+    }
+  ],
+  "wads": {
+    "Zed.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7570,
+      "bytes_after": 93854,
+      "replacement_hashes": [
+        "c978c3ba81f029a6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "c978c3ba81f029a6",
+        "border_hash": "17b264136b62d272",
+        "bytes": 86252,
+        "sha256": "d0f9f36c41f69e4abc0d414b0320262af4c5fa273e74a96da9103995750b3375"
+      },
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "c978c3ba81f029a6",
+        "border_hash": "17b264136b62d272",
+        "bytes": 86252,
+        "sha256": "d0f9f36c41f69e4abc0d414b0320262af4c5fa273e74a96da9103995750b3375"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 236030,
+  "base_skin_id": 236025,
+  "champion_id": 236,
+  "name": "胜利枪神 卢锡安 最强王者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6d3a0381548cf03ad77251a19daa82b48f0ccd76d2a790854ffc85a01de45bd5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236025/236030/236030.fantome",
+  "files": [
+    {
+      "path": "skins/236/236025/236030/Lucian.wad.client",
+      "size": 2671,
+      "sha256": "83c989f1ef680f054649486d030396a87735324229379d85870b8948ce3fe888"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2671,
+      "bytes_after": 2671,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

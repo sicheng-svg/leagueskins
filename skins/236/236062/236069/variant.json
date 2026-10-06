@@ -1,0 +1,48 @@
+{
+  "skin_id": 236069,
+  "base_skin_id": 236062,
+  "champion_id": 236,
+  "name": "正义假面 卢锡安 守梦的无梦者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b3c92b61e5530fce7fa61cdf80095a998f29d123980dfe4d66f5af72355c37ce",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "236/236062/236069/236069.fantome",
+  "files": [
+    {
+      "path": "skins/236/236062/236069/Lucian.wad.client",
+      "size": 2636,
+      "sha256": "d473190a18fa344e27aaa9e2935c0b2749a7e153175bdbe8f3aa810b4b978c49"
+    }
+  ],
+  "wads": {
+    "Lucian.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2636,
+      "bytes_after": 2636,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

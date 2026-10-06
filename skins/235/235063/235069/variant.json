@@ -1,0 +1,48 @@
+{
+  "skin_id": 235069,
+  "base_skin_id": 235063,
+  "champion_id": 235,
+  "name": "正义假面 赛娜 恶魔的同行者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d70b72410c762d1ec26352f953b9dc0945cc8df2a6f0c4f588f5077b8d11a1b4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "235/235063/235069/235069.fantome",
+  "files": [
+    {
+      "path": "skins/235/235063/235069/Senna.wad.client",
+      "size": 4173,
+      "sha256": "073fbfd32d282d2cb760534e5d2b497f0111afa88a015110119deb03a8162aa1"
+    }
+  ],
+  "wads": {
+    "Senna.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4173,
+      "bytes_after": 4173,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

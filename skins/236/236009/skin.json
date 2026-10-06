@@ -1,0 +1,471 @@
+{
+  "champion_id": 236,
+  "base_skin_id": 236009,
+  "name": "德玛西亚警官 卢锡安",
+  "variants": [
+    {
+      "skin_id": 236009,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f39176be25de5bc3129003da16d281a3d6a21184c674387966879576c1d8cd8e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236009.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236009/Lucian.wad.client",
+          "size": 91517,
+          "sha256": "45964277f4ecd3ef5d6b73a41fdf56bc0e39137c36f5b84bb9c029eafc8bfdce"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5233,
+          "bytes_after": 91517,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236010,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安 炽诚怒焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e2440fe5b8f06e567decf8ea581883349c6ff9fca95229378b971d101319066e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236010/236010.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236010/Lucian.wad.client",
+          "size": 97662,
+          "sha256": "68416ed57a1799f2fd69fd0fc72ebf8c7cea7f4af2e5b5dae148811148be05d2"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11378,
+          "bytes_after": 97662,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 19,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236011,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安 正义化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "28bdfffef3c14598f4169537441a6a24bc83bd6bbfe6020c6022e7e90622cb1e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236011/236011.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236011/Lucian.wad.client",
+          "size": 97617,
+          "sha256": "47968370647944c7fe8a01c7747c64df18bdf5729e2246b5c846434c0e55c0b6"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11333,
+          "bytes_after": 97617,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 19,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236012,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安 铁血金刚",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ea91b9ee8b72947ad2e0195e549e79c63785190da78668058d33f2694bf59227",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236012/236012.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236012/Lucian.wad.client",
+          "size": 97616,
+          "sha256": "41b8a8ea456a6ddc0f0f5915451500380c10b134cea6d827cc30ab08ff8aa7a2"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11332,
+          "bytes_after": 97616,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 19,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236013,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安 冷酷寒冰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "195076fd11f08a07a32f61c16f6a4a39793126e05fed1b665fcd1baa84a17580",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236013/236013.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236013/Lucian.wad.client",
+          "size": 97618,
+          "sha256": "1548e73a8aeab54dac4ecd4b00231a67da2ade895e1f91d2e4d6c9e230361b3b"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11334,
+          "bytes_after": 97618,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 19,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236014,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安 嫉恶烈风",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "85702653ccb566bf6b5098857df510be9fbd693b54f0a70f2b4431e1650ce66b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236014/236014.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236014/Lucian.wad.client",
+          "size": 97616,
+          "sha256": "625d067e0a86b75c63e96b2947d797d77aa2dad338d4566eda065871c4e1cff6"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11332,
+          "bytes_after": 97616,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 19,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236015,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安 不懈卫士",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06676c6454c317819f6d937826ba90032110c7019e4c4cab69775e7fe0d4f668",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236015/236015.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236015/Lucian.wad.client",
+          "size": 88605,
+          "sha256": "7789d51319c7327fb477fb2e7afa6b013c7c7ad5dcb95a891e8d93660b730e72"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2321,
+          "bytes_after": 88605,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 236016,
+      "base_skin_id": 236009,
+      "champion_id": 236,
+      "name": "德玛西亚警官 卢锡安 五彩斑斓黑",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f19e9542f0590572b9206af7da9aad9086ae942ab3e5f5583d9437a553ed0f0d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "236/236009/236016/236016.fantome",
+      "files": [
+        {
+          "path": "skins/236/236009/236016/Lucian.wad.client",
+          "size": 88658,
+          "sha256": "c37f115885f3ace7fd4c9eae993af7d82345ec2f7954c5c822361479b19d130e"
+        }
+      ],
+      "wads": {
+        "Lucian.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2374,
+          "bytes_after": 88658,
+          "replacement_hashes": [
+            "4ef7c453ebc1de53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lucian.wad.client",
+            "normal_hash": "4ef7c453ebc1de53",
+            "border_hash": "4d9994c69ff0b13c",
+            "bytes": 86252,
+            "sha256": "932abc7ef0cd42a14198366145b3fd05b58bd9f4a45d3ad165cc33179f85a9bb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "champion_id": 17,
+  "base_skin_id": 17025,
+  "name": "灵魂莲华 提莫",
+  "variants": [
+    {
+      "skin_id": 17025,
+      "base_skin_id": 17025,
+      "champion_id": 17,
+      "name": "灵魂莲华 提莫",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "93a393e611f4c198fd87846378f71575b16425c2080314fa29543b8ba395d31f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "17/17025/17025.fantome",
+      "files": [
+        {
+          "path": "skins/17/17025/17025/Teemo.wad.client",
+          "size": 94138,
+          "sha256": "7175f780ba0df1f3858fb2bd947e56e8dfcb57838730755d4f8cdc445e1307be"
+        }
+      ],
+      "wads": {
+        "Teemo.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 7854,
+          "bytes_after": 94138,
+          "replacement_hashes": [
+            "459ece4b1a55709e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Teemo.wad.client",
+            "normal_hash": "459ece4b1a55709e",
+            "border_hash": "adb65baf3987e581",
+            "bytes": 86252,
+            "sha256": "833e0bff637360dd970ea3b1cdc06a9896e95dac78620329f4e38fbb62dea2e0"
+          },
+          {
+            "archive": "Teemo.wad.client",
+            "normal_hash": "459ece4b1a55709e",
+            "border_hash": "adb65baf3987e581",
+            "bytes": 86252,
+            "sha256": "833e0bff637360dd970ea3b1cdc06a9896e95dac78620329f4e38fbb62dea2e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 18036,
+  "base_skin_id": 18033,
+  "champion_id": 18,
+  "name": "我，幼雏羽饰骑士 崔丝塔娜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ce95069f68d63de8804f621d66d9f72a277ecab67fb14fc1138d005ac3ec21b1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "18/18033/18036/18036.fantome",
+  "files": [
+    {
+      "path": "skins/18/18033/18036/Tristana.wad.client",
+      "size": 88678,
+      "sha256": "d9f76ea10803898f79ee0a7f83241dc542420eb31cccfd4914925e5b7a10710e"
+    }
+  ],
+  "wads": {
+    "Tristana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2394,
+      "bytes_after": 88678,
+      "replacement_hashes": [
+        "65e090b100c62a5c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Tristana.wad.client",
+        "normal_hash": "65e090b100c62a5c",
+        "border_hash": "5ac368e9cd482968",
+        "bytes": 86252,
+        "sha256": "ffb8b860bf5f42086b1125639d4b6794c61d0ade25167c13e27c916341089f86"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

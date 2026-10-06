@@ -1,0 +1,65 @@
+{
+  "skin_id": 17060,
+  "base_skin_id": 17054,
+  "champion_id": 17,
+  "name": "莲华温泉 提莫 星回",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e9b26f59682c1e434f3ec59a83557910766fda13468a5b0fe1c6136e70e222ba",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17054/17060/17060.fantome",
+  "files": [
+    {
+      "path": "skins/17/17054/17060/Teemo.wad.client",
+      "size": 89856,
+      "sha256": "c2c439e740d4c74d1f4438ba25d8c56891f1fe1cdc3f66030c1aa4ed55273b45"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3572,
+      "bytes_after": 89856,
+      "replacement_hashes": [
+        "1603d326a9817ab6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "1603d326a9817ab6",
+        "border_hash": "3eefb7470571320b",
+        "bytes": 86252,
+        "sha256": "917cd61ccd7362b0ec7f2d43c9c043965d7ad256b95e1926ef2de9fbde5a5233"
+      },
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "1603d326a9817ab6",
+        "border_hash": "3eefb7470571320b",
+        "bytes": 86252,
+        "sha256": "917cd61ccd7362b0ec7f2d43c9c043965d7ad256b95e1926ef2de9fbde5a5233"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

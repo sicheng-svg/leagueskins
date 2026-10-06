@@ -1,0 +1,48 @@
+{
+  "skin_id": 161003,
+  "base_skin_id": 161003,
+  "champion_id": 161,
+  "name": "这货不是维克兹",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "33edb2a306740c660f9006b2321d89bb4e9b7ba8389272534b734b065487b63a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "161/161003/161003.fantome",
+  "files": [
+    {
+      "path": "skins/161/161003/161003/Velkoz.wad.client",
+      "size": 4795,
+      "sha256": "77ee704659fae190d77a402351a715ab01e937b8260c353ad64790a0e204cbff"
+    }
+  ],
+  "wads": {
+    "Velkoz.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4795,
+      "bytes_after": 4795,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

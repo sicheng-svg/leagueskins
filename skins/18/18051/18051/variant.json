@@ -1,0 +1,58 @@
+{
+  "skin_id": 18051,
+  "base_skin_id": 18051,
+  "champion_id": 18,
+  "name": "灵魂莲华 崔丝塔娜",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c8d743a34de25a902ada56e3cfbcc846ba1787e0dd4ee89822e5aff4846255ed",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "18/18051/18051.fantome",
+  "files": [
+    {
+      "path": "skins/18/18051/18051/Tristana.wad.client",
+      "size": 92808,
+      "sha256": "f9d24557e25f3cb77ac3139b8dc3a06fe7b9d876635ba62bf89d193abf093f26"
+    }
+  ],
+  "wads": {
+    "Tristana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6524,
+      "bytes_after": 92808,
+      "replacement_hashes": [
+        "7863dced0360dffb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Tristana.wad.client",
+        "normal_hash": "7863dced0360dffb",
+        "border_hash": "f526e28065f6b09d",
+        "bytes": 86252,
+        "sha256": "092fc82de1f9be7ad7dde7c89596ef835059f228a242d526ffff4ac6b781fb38"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 17017,
+  "base_skin_id": 17008,
+  "champion_id": 17,
+  "name": "欧米伽小队 幽灵特工 死沼幽灵",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6030d77fffb99ba8af8a83365b95354b2fea5216e06607b6dede74d195325d9a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17008/17017/17017.fantome",
+  "files": [
+    {
+      "path": "skins/17/17008/17017/Teemo.wad.client",
+      "size": 3264,
+      "sha256": "f235bde8be5c6f908b3a0addda4468c34c0b49d94605975a4036705c1023c8b4"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3264,
+      "bytes_after": 3264,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

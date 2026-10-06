@@ -1,0 +1,48 @@
+{
+  "skin_id": 17031,
+  "base_skin_id": 17014,
+  "champion_id": 17,
+  "name": "大魔王 提莫 吉蒙里的近卫",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "73837516180c8ca54bbd54b7881ece19ad0cc40732e9e6b59da2f90272dc91c9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17014/17031/17031.fantome",
+  "files": [
+    {
+      "path": "skins/17/17014/17031/Teemo.wad.client",
+      "size": 3228,
+      "sha256": "91efae3960c4431dc8ad849a4aeb2809ec7ca27d3213bfd6408ea10dd5d472d7"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3228,
+      "bytes_after": 3228,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

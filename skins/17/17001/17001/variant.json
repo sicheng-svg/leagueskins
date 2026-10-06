@@ -1,0 +1,65 @@
+{
+  "skin_id": 17001,
+  "base_skin_id": 17001,
+  "champion_id": 17,
+  "name": "圣诞开心鬼 提莫",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "96eed9109b57a9e03f0ddc0ec2e7f497e42910de00e918d1f12fdae1a5a5116f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17001/17001.fantome",
+  "files": [
+    {
+      "path": "skins/17/17001/17001/Teemo.wad.client",
+      "size": 93632,
+      "sha256": "44cfda088a2eeabcc5535fd4f9347878609a5be63c1a356eec1373c43fed802a"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7348,
+      "bytes_after": 93632,
+      "replacement_hashes": [
+        "cfd860fb08439e75"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "cfd860fb08439e75",
+        "border_hash": "d55b96c4f2041d65",
+        "bytes": 86252,
+        "sha256": "83d6ff608de0e87ad6b9d72582591e3b870fb5f7ed1f7911f71cc2db1332777f"
+      },
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "cfd860fb08439e75",
+        "border_hash": "d55b96c4f2041d65",
+        "bytes": 86252,
+        "sha256": "83d6ff608de0e87ad6b9d72582591e3b870fb5f7ed1f7911f71cc2db1332777f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

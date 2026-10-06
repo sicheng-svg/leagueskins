@@ -1,0 +1,55 @@
+{
+  "champion_id": 164,
+  "base_skin_id": 164001,
+  "name": "源代码 卡蜜尔",
+  "variants": [
+    {
+      "skin_id": 164001,
+      "base_skin_id": 164001,
+      "champion_id": 164,
+      "name": "源代码 卡蜜尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3580e6b6b9d94048d3994514de07c6a624cc616fd3d00a56e900ac7d338d9ebc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "164/164001/164001.fantome",
+      "files": [
+        {
+          "path": "skins/164/164001/164001/Camille.wad.client",
+          "size": 11997,
+          "sha256": "3871f2cea537cd14848aabf3ec05d75545d971e8f7431c5557239699a8294a30"
+        }
+      ],
+      "wads": {
+        "Camille.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11997,
+          "bytes_after": 11997,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

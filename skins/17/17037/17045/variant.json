@@ -1,0 +1,65 @@
+{
+  "skin_id": 17045,
+  "base_skin_id": 17037,
+  "champion_id": 17,
+  "name": "招财进宝 提莫 吉祥如意",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5b334d96e6231c46bec091bb9c87033ee53281c213c7a1f7ca019621b81cdadf",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17037/17045/17045.fantome",
+  "files": [
+    {
+      "path": "skins/17/17037/17045/Teemo.wad.client",
+      "size": 89667,
+      "sha256": "09d6b4daea5488a007e9ecd5c5d85b7e0a41f77860304c3c4a9ca45c7d358ccc"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3383,
+      "bytes_after": 89667,
+      "replacement_hashes": [
+        "606063342344ec6a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "606063342344ec6a",
+        "border_hash": "3c793f6c85aea0bf",
+        "bytes": 86252,
+        "sha256": "0af041cdd327e2975a2d92af3420711a0eda5b597b396a378b758cf5d2ee4697"
+      },
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "606063342344ec6a",
+        "border_hash": "3c793f6c85aea0bf",
+        "bytes": 86252,
+        "sha256": "0af041cdd327e2975a2d92af3420711a0eda5b597b396a378b758cf5d2ee4697"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

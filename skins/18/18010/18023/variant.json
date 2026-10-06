@@ -1,0 +1,58 @@
+{
+  "skin_id": 18023,
+  "base_skin_id": 18010,
+  "champion_id": 18,
+  "name": "驯龙炮手 崔丝塔娜 威仪晶龙",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "19492ce88d90c9d95faf0183c78b37b0f1679c9de7f3c5dd5e8450128e0a6bca",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "18/18010/18023/18023.fantome",
+  "files": [
+    {
+      "path": "skins/18/18010/18023/Tristana.wad.client",
+      "size": 88638,
+      "sha256": "cc883cfab2e2a5fcf164aac903b863d7f95f7e4d1044b88bb3c2efad570b05b6"
+    }
+  ],
+  "wads": {
+    "Tristana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2354,
+      "bytes_after": 88638,
+      "replacement_hashes": [
+        "c16525176acf4e8d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Tristana.wad.client",
+        "normal_hash": "c16525176acf4e8d",
+        "border_hash": "a1d071da6ba3c4b1",
+        "bytes": 86252,
+        "sha256": "a8c31ec9f804f7ccadbfdcbc9d7dda279d3b513a16709f456fab028e11f93353"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

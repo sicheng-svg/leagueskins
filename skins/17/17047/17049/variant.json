@@ -1,0 +1,65 @@
+{
+  "skin_id": 17049,
+  "base_skin_id": 17047,
+  "champion_id": 17,
+  "name": "“律动队长” 提莫 兵线上也种上！",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "71a935facdf44956aa128fe83b69f92553c59ade6d912acb684f3a5243c39fd2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17047/17049/17049.fantome",
+  "files": [
+    {
+      "path": "skins/17/17047/17049/Teemo.wad.client",
+      "size": 91256,
+      "sha256": "2fe73bd7eec52827b54eacb0914489e8028e1cbce17156d5eaf00fea63023f2d"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4972,
+      "bytes_after": 91256,
+      "replacement_hashes": [
+        "4e00ceef063dff74"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "4e00ceef063dff74",
+        "border_hash": "192be36d3bf13c8f",
+        "bytes": 86252,
+        "sha256": "990b95b91c5c76eab60ba35a229d7d93d4a73f707a9163d16c34c05412e93f18"
+      },
+      {
+        "archive": "Teemo.wad.client",
+        "normal_hash": "4e00ceef063dff74",
+        "border_hash": "192be36d3bf13c8f",
+        "bytes": 86252,
+        "sha256": "990b95b91c5c76eab60ba35a229d7d93d4a73f707a9163d16c34c05412e93f18"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

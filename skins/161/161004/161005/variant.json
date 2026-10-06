@@ -1,0 +1,48 @@
+{
+  "skin_id": 161005,
+  "base_skin_id": 161004,
+  "champion_id": 161,
+  "name": "地狱火 维克兹 荣耀之焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "25eab42d0aeebf42044655df19b53196ca6f379addf89d62f9b8ac635a3391e7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "161/161004/161005/161005.fantome",
+  "files": [
+    {
+      "path": "skins/161/161004/161005/Velkoz.wad.client",
+      "size": 2962,
+      "sha256": "4c7019dffaaeae8585afae6d26c9ff9dc7ceab2b004d66534a1c42eacdad0d99"
+    }
+  ],
+  "wads": {
+    "Velkoz.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2962,
+      "bytes_after": 2962,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

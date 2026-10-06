@@ -1,0 +1,48 @@
+{
+  "skin_id": 17032,
+  "base_skin_id": 17014,
+  "champion_id": 17,
+  "name": "大魔王 提莫 布松的巨熊",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "021105ab83ef5ff8049ce35a500f3e49f2fa2826d4bf287f0244a7c9449bae36",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17014/17032/17032.fantome",
+  "files": [
+    {
+      "path": "skins/17/17014/17032/Teemo.wad.client",
+      "size": 3210,
+      "sha256": "da5a76f13d59977753542cd8ff89b8b43d29f22079a6193434125928134d76c1"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3210,
+      "bytes_after": 3210,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

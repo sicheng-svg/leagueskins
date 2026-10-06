@@ -1,0 +1,48 @@
+{
+  "skin_id": 18064,
+  "base_skin_id": 18061,
+  "champion_id": 18,
+  "name": "花仙子 崔丝塔娜 蓝闪",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a8f6daa4eb5dae9c33d5f12e50430ce27520f1fdbc94c64def05c5d0c2c141f8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "18/18061/18064/18064.fantome",
+  "files": [
+    {
+      "path": "skins/18/18061/18064/Tristana.wad.client",
+      "size": 2608,
+      "sha256": "868e8cea3787a87f90387973f9fc45f54a42f4475823797df99f17162842eb75"
+    }
+  ],
+  "wads": {
+    "Tristana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2608,
+      "bytes_after": 2608,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

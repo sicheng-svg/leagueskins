@@ -1,0 +1,65 @@
+{
+  "champion_id": 164,
+  "base_skin_id": 164032,
+  "name": "至臻 北极星钢影 卡蜜尔",
+  "variants": [
+    {
+      "skin_id": 164032,
+      "base_skin_id": 164032,
+      "champion_id": 164,
+      "name": "至臻 北极星钢影 卡蜜尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "149df2214f5c78ab134000d50a908242adb59fcd0ddc092f745374c9422f9b42",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "164/164032/164032.fantome",
+      "files": [
+        {
+          "path": "skins/164/164032/164032/Camille.wad.client",
+          "size": 96951,
+          "sha256": "f25b7c4358118cb427cb085e8d4b1553aae039863bba67d624e3a0ad37f986d6"
+        }
+      ],
+      "wads": {
+        "Camille.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10667,
+          "bytes_after": 96951,
+          "replacement_hashes": [
+            "cb5cb68562c8fac3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Camille.wad.client",
+            "normal_hash": "cb5cb68562c8fac3",
+            "border_hash": "844193aa905c7efe",
+            "bytes": 86252,
+            "sha256": "b709df400ea5c1a5570eeee0b1a1570e168a376b811e658d19ff6e1cff805dd2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

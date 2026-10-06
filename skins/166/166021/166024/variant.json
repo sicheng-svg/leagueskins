@@ -1,0 +1,48 @@
+{
+  "skin_id": 166024,
+  "base_skin_id": 166021,
+  "champion_id": 166,
+  "name": "西部魔影 阿克尚 善良",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b98e28f254b0ef5a9b87156e8b9001cea4f95c6f06c73e95b8d11f0085486b6f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "166/166021/166024/166024.fantome",
+  "files": [
+    {
+      "path": "skins/166/166021/166024/Akshan.wad.client",
+      "size": 3085,
+      "sha256": "0c7122c7c272474d31f68c18c00dfbea89fa0a9220f0b4b09fa2f0be5f2ea506"
+    }
+  ],
+  "wads": {
+    "Akshan.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3085,
+      "bytes_after": 3085,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

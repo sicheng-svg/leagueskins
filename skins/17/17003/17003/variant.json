@@ -1,0 +1,48 @@
+{
+  "skin_id": 17003,
+  "base_skin_id": 17003,
+  "champion_id": 17,
+  "name": "密林猎手 提莫",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e9569879d35f256bda9cbbdc1ff685517b571590db16f2b41af64e147dc9e55c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17003/17003.fantome",
+  "files": [
+    {
+      "path": "skins/17/17003/17003/Teemo.wad.client",
+      "size": 7238,
+      "sha256": "20cf744039ca3def8fbbce7329536beb9cfff71aa1ae968eb01fe23355e9b1d4"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7238,
+      "bytes_after": 7238,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

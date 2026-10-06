@@ -1,0 +1,48 @@
+{
+  "skin_id": 17021,
+  "base_skin_id": 17018,
+  "champion_id": 17,
+  "name": "泪眼汪汪天蓝蓝 提莫",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ed0a885aa828d621c55212d1706af9629de26ad6e048a967a97303637c0b66e7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17018/17021/17021.fantome",
+  "files": [
+    {
+      "path": "skins/17/17018/17021/Teemo.wad.client",
+      "size": 3423,
+      "sha256": "ab53ba03b039e47dc474fa3223785cb9e714e534a6f40c3fe4b1d0c37a18e266"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3423,
+      "bytes_after": 3423,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

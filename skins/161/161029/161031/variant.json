@@ -1,0 +1,58 @@
+{
+  "skin_id": 161031,
+  "base_skin_id": 161029,
+  "champion_id": 161,
+  "name": "飞天意面 维克兹 青酱风味",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f18acf204ed3c9fbfbb8d4fc7050612e21e3590f77c64b870750c90b94dc7d76",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "161/161029/161031/161031.fantome",
+  "files": [
+    {
+      "path": "skins/161/161029/161031/Velkoz.wad.client",
+      "size": 90486,
+      "sha256": "18d1bef307746eb7721498ab8fe2b33228bc77d92441828a4a297972023188e2"
+    }
+  ],
+  "wads": {
+    "Velkoz.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4202,
+      "bytes_after": 90486,
+      "replacement_hashes": [
+        "d916db52180724bc"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Velkoz.wad.client",
+        "normal_hash": "d916db52180724bc",
+        "border_hash": "749beb660216ef62",
+        "bytes": 86252,
+        "sha256": "8fe05fb97b909bf77eef35597f64829d5b5fbcea3b645729354bc471d7aab360"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

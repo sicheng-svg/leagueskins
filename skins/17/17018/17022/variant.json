@@ -1,0 +1,48 @@
+{
+  "skin_id": 17022,
+  "base_skin_id": 17018,
+  "champion_id": 17,
+  "name": "笑意盈盈紫蜂皇 提莫",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e965d308fedaf8b400d81b626ce2a51ef1632a54a8e56670ff61ddda1b20b5c9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "17/17018/17022/17022.fantome",
+  "files": [
+    {
+      "path": "skins/17/17018/17022/Teemo.wad.client",
+      "size": 3426,
+      "sha256": "370bef414f198ddee4237f6cf83b945dc5fef51a1cd06caf59565ea1acb44ad1"
+    }
+  ],
+  "wads": {
+    "Teemo.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3426,
+      "bytes_after": 3426,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

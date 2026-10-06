@@ -1,0 +1,48 @@
+{
+  "skin_id": 161015,
+  "base_skin_id": 161011,
+  "champion_id": 161,
+  "name": "黯晶之眼 维克兹 凝结之息",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "66a3222476f7900b9ecbcff3b2230e62f2fd87c26ba2684bb5a6cc64ac3e898c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "161/161011/161015/161015.fantome",
+  "files": [
+    {
+      "path": "skins/161/161011/161015/Velkoz.wad.client",
+      "size": 2867,
+      "sha256": "48c342cb13548e9781236e49fd0ce928342be1ecac9aee2ab977de9ce43cfd40"
+    }
+  ],
+  "wads": {
+    "Velkoz.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2867,
+      "bytes_after": 2867,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

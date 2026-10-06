@@ -1,0 +1,48 @@
+{
+  "skin_id": 164018,
+  "base_skin_id": 164011,
+  "champion_id": 164,
+  "name": "莫测之影 卡蜜尔 均衡",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5efa736e50f35f872d222fb0f9a1e9b4626ca7d917eef326a5284773993c75cd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "164/164011/164018/164018.fantome",
+  "files": [
+    {
+      "path": "skins/164/164011/164018/Camille.wad.client",
+      "size": 3273,
+      "sha256": "348ea6f49f8cd60bdc60311d744108ea9c5b82c9b7e732dbdeeee1cd32a890c1"
+    }
+  ],
+  "wads": {
+    "Camille.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3273,
+      "bytes_after": 3273,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

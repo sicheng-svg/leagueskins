@@ -1,0 +1,58 @@
+{
+  "skin_id": 16039,
+  "base_skin_id": 16037,
+  "champion_id": 16,
+  "name": "玉剑传说 星仙子 丁香",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d8afee0ef385b310d9c96eae685dbf3456ab443cdbcee9a2e927014c5befb446",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "16/16037/16039/16039.fantome",
+  "files": [
+    {
+      "path": "skins/16/16037/16039/Soraka.wad.client",
+      "size": 89944,
+      "sha256": "5475ea26d6d0ea11f9b37989db6bd1e26d8d09bb48775e13b95aa8065a836d23"
+    }
+  ],
+  "wads": {
+    "Soraka.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3660,
+      "bytes_after": 89944,
+      "replacement_hashes": [
+        "d808579df5478e77"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Soraka.wad.client",
+        "normal_hash": "d808579df5478e77",
+        "border_hash": "aed599c90204adaa",
+        "bytes": 86252,
+        "sha256": "fcc0ade1fd116f2b131e5ea7360144d011b7fbf1f60070bfcfa1aa0a8029672b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

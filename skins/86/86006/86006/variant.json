@@ -1,0 +1,48 @@
+{
+  "skin_id": 86006,
+  "base_skin_id": 86006,
+  "champion_id": 86,
+  "name": "钢铁军团 盖伦",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "76b58c31bbb61c368b98d14bddec6d0a008f1485237b7f28244ded9dd3337e20",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "86/86006/86006.fantome",
+  "files": [
+    {
+      "path": "skins/86/86006/86006/Garen.wad.client",
+      "size": 5680,
+      "sha256": "1435125678228496065fdde2c68faa35cbe16d0dbd97471ea0ae112aa2f090be"
+    }
+  ],
+  "wads": {
+    "Garen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5680,
+      "bytes_after": 5680,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

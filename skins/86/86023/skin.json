@@ -1,0 +1,65 @@
+{
+  "champion_id": 86,
+  "base_skin_id": 86023,
+  "name": "至臻 机神玄武 盖伦",
+  "variants": [
+    {
+      "skin_id": 86023,
+      "base_skin_id": 86023,
+      "champion_id": 86,
+      "name": "至臻 机神玄武 盖伦",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fc15058b5e2b751ad617cb6874af1f5d123893676d8fb42eeb6bb4bdb5ea2070",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "86/86023/86023.fantome",
+      "files": [
+        {
+          "path": "skins/86/86023/86023/Garen.wad.client",
+          "size": 89563,
+          "sha256": "8dafae163c36b83346a390b7822031bb7aa0e20f70e1789001ecda2db14f9639"
+        }
+      ],
+      "wads": {
+        "Garen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3279,
+          "bytes_after": 89563,
+          "replacement_hashes": [
+            "99f01f6c15fb2cf5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Garen.wad.client",
+            "normal_hash": "99f01f6c15fb2cf5",
+            "border_hash": "2706250aac5b5064",
+            "bytes": 86252,
+            "sha256": "e205dd75e00096d37f015b932bcf480f1bae99cfd283512344fac9a8d757f07e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 21,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

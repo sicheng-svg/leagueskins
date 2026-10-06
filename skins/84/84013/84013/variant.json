@@ -1,0 +1,48 @@
+{
+  "skin_id": 84013,
+  "base_skin_id": 84013,
+  "champion_id": 84,
+  "name": "至臻 K/DA 阿卡丽",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e45a661b27f3895457f2b709405ea247ee98ed20a7034bd38c7bf0d7276c4b84",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84013/84013.fantome",
+  "files": [
+    {
+      "path": "skins/84/84013/84013/Akali.wad.client",
+      "size": 7525,
+      "sha256": "cffad9f755312d9054f060556f0d8d7b9fcc7b40af54cfa80b3e6d6c658b2dfb"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7525,
+      "bytes_after": 7525,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

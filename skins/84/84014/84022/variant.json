@@ -1,0 +1,58 @@
+{
+  "skin_id": 84022,
+  "base_skin_id": 84014,
+  "champion_id": 84,
+  "name": "源计划：暗影 阿卡丽 燎原",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4df0687fe9a85d66f0b62ee9354a048bcd490e6c97b0be72f621044bfe277262",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84014/84022/84022.fantome",
+  "files": [
+    {
+      "path": "skins/84/84014/84022/Akali.wad.client",
+      "size": 89634,
+      "sha256": "48d9860f52573077bbddc57641cf2747f9ed4d29b723f72db4a27de8e417c505"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3350,
+      "bytes_after": 89634,
+      "replacement_hashes": [
+        "82108441ff5a100d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "82108441ff5a100d",
+        "border_hash": "866787bdd0774d77",
+        "bytes": 86252,
+        "sha256": "a8db22aebf2a0e5e85530722f2164317eb95d86965cb5590277b4af8b4d6eb68"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

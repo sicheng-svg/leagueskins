@@ -1,0 +1,48 @@
+{
+  "skin_id": 86010,
+  "base_skin_id": 86010,
+  "champion_id": 86,
+  "name": "海上霸主 盖伦",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fe6cfc3ded54f80405b7f51a3d5921217a1245545719a1e70449974e590b64a2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "86/86010/86010.fantome",
+  "files": [
+    {
+      "path": "skins/86/86010/86010/Garen.wad.client",
+      "size": 4011,
+      "sha256": "d88dbf1bfc5a7283bce64317baf19c00960c84efd9a7e2da921bce4b2d60b741"
+    }
+  ],
+  "wads": {
+    "Garen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4011,
+      "bytes_after": 4011,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

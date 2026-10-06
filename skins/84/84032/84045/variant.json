@@ -1,0 +1,58 @@
+{
+  "skin_id": 84045,
+  "base_skin_id": 84032,
+  "champion_id": 84,
+  "name": "K/DA ALL OUT 阿卡丽 优雅之仪",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3b46f7490df0b2669a6e5bd713bddc33b5e63951eedf5b25005a4c6a8db13e65",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84032/84045/84045.fantome",
+  "files": [
+    {
+      "path": "skins/84/84032/84045/Akali.wad.client",
+      "size": 89954,
+      "sha256": "4ef85cfdc8c6101bfabd0f5098ebecb3e89fc6f45ddbb2deffeae7c7584da284"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3670,
+      "bytes_after": 89954,
+      "replacement_hashes": [
+        "24984d41ea42d1ba"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "24984d41ea42d1ba",
+        "border_hash": "aaca5b725122ecde",
+        "bytes": 86252,
+        "sha256": "b8e77fb2ea35dce4441fdb8610a93db38b428e995b49bd4f94615c301f1c9879"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

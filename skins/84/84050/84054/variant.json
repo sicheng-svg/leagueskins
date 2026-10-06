@@ -1,0 +1,48 @@
+{
+  "skin_id": 84054,
+  "base_skin_id": 84050,
+  "champion_id": 84,
+  "name": "地下都市 梦魇 阿卡丽 蓝霜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "accfe2442ba407524ea1b31d4b72d38d7a4e51bf40995ae77448c2924e1c4722",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84050/84054/84054.fantome",
+  "files": [
+    {
+      "path": "skins/84/84050/84054/Akali.wad.client",
+      "size": 3179,
+      "sha256": "38b671055cc6a040dce6f3cf9d7a40bea35ff474ae1ab5de018cc2a42efbb89d"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3179,
+      "bytes_after": 3179,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

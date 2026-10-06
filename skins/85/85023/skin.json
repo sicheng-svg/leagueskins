@@ -1,0 +1,123 @@
+{
+  "champion_id": 85,
+  "base_skin_id": 85023,
+  "name": "DWG 凯南",
+  "variants": [
+    {
+      "skin_id": 85023,
+      "base_skin_id": 85023,
+      "champion_id": 85,
+      "name": "DWG 凯南",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "20d484139c09429ff4879717d7c41f6b4cae3f43241d13b79f23d31d04c66b3c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "85/85023/85023.fantome",
+      "files": [
+        {
+          "path": "skins/85/85023/85023/Kennen.wad.client",
+          "size": 91012,
+          "sha256": "0f2476c6d3b79755801be52aacee5fd00f2210f57a37935827c37e252c66fca6"
+        }
+      ],
+      "wads": {
+        "Kennen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4728,
+          "bytes_after": 91012,
+          "replacement_hashes": [
+            "b80f277bb102d0de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kennen.wad.client",
+            "normal_hash": "b80f277bb102d0de",
+            "border_hash": "45f4c0f6aeb47bba",
+            "bytes": 86252,
+            "sha256": "d4fdec6e11d299a28801b1483087564f7848752df59efad3124a688878a2629c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 85024,
+      "base_skin_id": 85023,
+      "champion_id": 85,
+      "name": "DWG 凯南 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06c4a980c6f4a0764213e5a4c39b251c1800e5672a487094cb9e755fa282200f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "85/85023/85024/85024.fantome",
+      "files": [
+        {
+          "path": "skins/85/85023/85024/Kennen.wad.client",
+          "size": 88478,
+          "sha256": "717eea0e273fdad5ff34dbf8f37f94899dcb88408b96e4767b7016c2cf937e63"
+        }
+      ],
+      "wads": {
+        "Kennen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2194,
+          "bytes_after": 88478,
+          "replacement_hashes": [
+            "b80f277bb102d0de"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kennen.wad.client",
+            "normal_hash": "b80f277bb102d0de",
+            "border_hash": "45f4c0f6aeb47bba",
+            "bytes": 86252,
+            "sha256": "d4fdec6e11d299a28801b1483087564f7848752df59efad3124a688878a2629c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

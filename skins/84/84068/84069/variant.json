@@ -1,0 +1,58 @@
+{
+  "skin_id": 84069,
+  "base_skin_id": 84068,
+  "champion_id": 84,
+  "name": "DRX 阿卡丽 无双",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f2842487b14bf065834994ddfc972cf1a15e81c95e4d4fda8a2123be1c56ad12",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84068/84069/84069.fantome",
+  "files": [
+    {
+      "path": "skins/84/84068/84069/Akali.wad.client",
+      "size": 89588,
+      "sha256": "0f43a2b9f3db6bb8372afd5f912c712fff4dde398f9565810c423eb9ba66eb41"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3304,
+      "bytes_after": 89588,
+      "replacement_hashes": [
+        "28689695de70b94b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "28689695de70b94b",
+        "border_hash": "308e5ec3694b12db",
+        "bytes": 86252,
+        "sha256": "338800d06a7775fdaf746c62c6f02839051e416207874e2d889683d34ca031e5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

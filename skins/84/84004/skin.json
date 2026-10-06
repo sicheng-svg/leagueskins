@@ -1,0 +1,529 @@
+{
+  "champion_id": 84,
+  "base_skin_id": 84004,
+  "name": "实习护士 阿卡丽",
+  "variants": [
+    {
+      "skin_id": 84004,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "be08d8d1ead4627c8b92922d0331fddffce581a853814f140733c00335a29df2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84004.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84004/Akali.wad.client",
+          "size": 90793,
+          "sha256": "e96be52ef0cf3d2e254f29124a2c85f953b18406c7f37bc5b63fd61ff0633d5c"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4509,
+          "bytes_after": 90793,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84033,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 赤子之心",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "16df617c664dd2db2a96901d37d3b613ba5d08d0c85a5c46249b999e290afd5a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84033/84033.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84033/Akali.wad.client",
+          "size": 88659,
+          "sha256": "05ce4be2eb0dd54e72cd3554f175796bae327d8c8a8b42802e1ac0dda4e2a674"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2375,
+          "bytes_after": 88659,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84034,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 初心不改",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c27fb025c1f9bf4bf4b6eac2dce641687b21bb3dcf896ce923ee7e3cd0aa6845",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84034/84034.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84034/Akali.wad.client",
+          "size": 88716,
+          "sha256": "6d1688bdd5db02019c7a5f03d542a11e2d595cab28e4b2065576dc1456125052"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2432,
+          "bytes_after": 88716,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84035,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 百折不挠",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bea5f50121a2a4f2e53084ddc66637c34d93583e4350ab65bc2ff9413fa421d4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84035/84035.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84035/Akali.wad.client",
+          "size": 88658,
+          "sha256": "f87f0ebd8479ceec11555678929fafd65153b9934c037439f58165e8955067e5"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2374,
+          "bytes_after": 88658,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84036,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 坚韧团结",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3038623e990786a58bdba6ef66350afdecbf6899f1f82fe2f87dab340fa30ef9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84036/84036.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84036/Akali.wad.client",
+          "size": 88658,
+          "sha256": "e714463fcfb9f14328cd9da17efeca642b59c16cef0d8eb8ece51a50d660a1e2"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2374,
+          "bytes_after": 88658,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84037,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 锲而不舍",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f57d0580cf549421a3926306491ce451b207d8981eaed92231a09b449d83691d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84037/84037.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84037/Akali.wad.client",
+          "size": 88661,
+          "sha256": "884c4f87b165f057c3170c45c6dc65834546b90efcfcd25c0261a95fda5417a6"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2377,
+          "bytes_after": 88661,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84038,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 全力以赴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0b906ae7c8d2081aeffada7ce79b5292ad082bd03d8d54edd22fbdc7129c76e0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84038/84038.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84038/Akali.wad.client",
+          "size": 88659,
+          "sha256": "9507385d8607510e6411483612ade4e421485b6d2dfaadd884b400148c6c2563"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2375,
+          "bytes_after": 88659,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84039,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 众志成城",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7bf02f7ef3ac41116f0b21e7b7eebed98723e607fb134132975064ee825925d0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84039/84039.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84039/Akali.wad.client",
+          "size": 88685,
+          "sha256": "ace76ecbf3dd19d66ffc9f8355612e1d40d3e2d74db12907602ff085c94af256"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2401,
+          "bytes_after": 88685,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84040,
+      "base_skin_id": 84004,
+      "champion_id": 84,
+      "name": "实习护士 阿卡丽 万众一心",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7627419ceaa7040b53808390e93bfee87f9a6584070a6174f8be6fe13088f7c9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84004/84040/84040.fantome",
+      "files": [
+        {
+          "path": "skins/84/84004/84040/Akali.wad.client",
+          "size": 88662,
+          "sha256": "a69f032bc704f24e9b56e16b91bf254c07a4d43d3dcc47802e6cf73960e59ae9"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2378,
+          "bytes_after": 88662,
+          "replacement_hashes": [
+            "c763400def5848c4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "c763400def5848c4",
+            "border_hash": "d6e95e5292b214d2",
+            "bytes": 86252,
+            "sha256": "d588a54156ff2373b268a8cc229d267f93a1c4acc9370f20302c7fd831293db7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

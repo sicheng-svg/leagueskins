@@ -1,0 +1,58 @@
+{
+  "skin_id": 84075,
+  "base_skin_id": 84070,
+  "champion_id": 84,
+  "name": "魔女 阿卡丽 嫉妒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "abd58b4ceb95ce06fbdd6b99484b44c7c5e85ad8e99c4725bfd5fdcba428a7c9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84070/84075/84075.fantome",
+  "files": [
+    {
+      "path": "skins/84/84070/84075/Akali.wad.client",
+      "size": 89403,
+      "sha256": "29687de2cc18f63d40f871cd503ec3b87a6ea782b6cf0284eb29c41bd724d1fe"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3119,
+      "bytes_after": 89403,
+      "replacement_hashes": [
+        "a8e3d099f326d5c8"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "a8e3d099f326d5c8",
+        "border_hash": "bd6cf91e91e00951",
+        "bytes": 86252,
+        "sha256": "1a1f4f5262c5ab4fca3eb2aee1c7699217f77203db5b29745dba1c63baa1fcaa"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

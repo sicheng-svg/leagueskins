@@ -1,0 +1,58 @@
+{
+  "skin_id": 85016,
+  "base_skin_id": 85004,
+  "champion_id": 85,
+  "name": "医学博士 凯南 万众一心",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "945eac2611651b89fd2c305cae9be613cff1f8d1f4c550dfe8b1e9ba6b0175c6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "85/85004/85016/85016.fantome",
+  "files": [
+    {
+      "path": "skins/85/85004/85016/Kennen.wad.client",
+      "size": 88092,
+      "sha256": "83affadf70bc03a2c84acbe5bd8ba7d053e500475558a3743a6588e53745de94"
+    }
+  ],
+  "wads": {
+    "Kennen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1808,
+      "bytes_after": 88092,
+      "replacement_hashes": [
+        "60dca6fcdc51425a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kennen.wad.client",
+        "normal_hash": "60dca6fcdc51425a",
+        "border_hash": "aea82cf1da16086b",
+        "bytes": 86252,
+        "sha256": "ae696cc8b2f88cf652c51c4a5ddbd9ce6f462a3015be173a4fe5309c43cf3e4c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

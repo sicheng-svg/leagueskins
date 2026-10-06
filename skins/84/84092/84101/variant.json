@@ -1,0 +1,58 @@
+{
+  "skin_id": 84101,
+  "base_skin_id": 84092,
+  "champion_id": 84,
+  "name": "灵魂莲华 阿卡丽 至强",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "da464686dbda9721ddf0a8a35921ebebff742485e31bff2b3f8025a8b72d26f1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84092/84101/84101.fantome",
+  "files": [
+    {
+      "path": "skins/84/84092/84101/Akali.wad.client",
+      "size": 175624,
+      "sha256": "1d705411dd63f30c0054dacfafa321337eea05866e758dc60691a28dcbffea58"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3100,
+      "bytes_after": 175624,
+      "replacement_hashes": [
+        "3f444eeaf070f2d1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "3f444eeaf070f2d1",
+        "border_hash": "a05d3c62f1686b94",
+        "bytes": 172492,
+        "sha256": "cd651317bf5ec607fe251ff365c85e7f17989a621c20acfc86a1282654b4d488"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

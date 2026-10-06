@@ -1,0 +1,645 @@
+{
+  "champion_id": 84,
+  "base_skin_id": 84082,
+  "name": "至高天 阿卡丽",
+  "variants": [
+    {
+      "skin_id": 84082,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0f032a76955ae02cc40419725936941f8472677293bf540752ee95f0f6be4eaf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84082.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84082/Akali.wad.client",
+          "size": 94648,
+          "sha256": "02a7de118416a9e66e1fc4bb48c3fcbba4086d41846df7e5f4a59ebadc4520c2"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8364,
+          "bytes_after": 94648,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84083,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 狂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c7094fc237d5479741cbc20dc21fcc3dec3b6258aeb86eaebe366934919cf998",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84083/84083.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84083/Akali.wad.client",
+          "size": 89846,
+          "sha256": "eac61d0ac723ae7e11ff6514ef011a6e11554e37e96c74dff4b8f2df6e90b9cf"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3562,
+          "bytes_after": 89846,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84084,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 华耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "96ef7b5e6b83b0a15ea14cbf05d189b946c1322785ffb8b2ccc87e7b097fd0f3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84084/84084.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84084/Akali.wad.client",
+          "size": 89796,
+          "sha256": "4d8e924e774992496cd5fb8fb33f80e8da6225de8e9bb716b94af6322c830045"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3512,
+          "bytes_after": 89796,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84085,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 遁影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e4ca1624cf2f04acada27b2f33c72bb17109446123afefedb76989af01a171e2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84085/84085.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84085/Akali.wad.client",
+          "size": 89793,
+          "sha256": "945d4603f7f5d24bd19a2b637248c4e96749a3552e7b44261013936c2f8811fd"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3509,
+          "bytes_after": 89793,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84086,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 寒芒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "24f776def3021df2950c260cfab9b94dd9a99b10d8c0da4967012b3250a2613d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84086/84086.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84086/Akali.wad.client",
+          "size": 89813,
+          "sha256": "cc60c174dc3728368b1d09cb87cd3c40d20704319b20c4ee13b8003ef1b38c24"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3529,
+          "bytes_after": 89813,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84087,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 灵辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6ed48ba8d30c8eab875ebbbac37aad8a49ee6bfec70eeb6ff9eae0bcbd583cca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84087/84087.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84087/Akali.wad.client",
+          "size": 89795,
+          "sha256": "6a979362af122d9cbddd5c73b759f70511de082f64db1e286a8473958b7cd204"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3511,
+          "bytes_after": 89795,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84088,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 青炬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "93505103f7a35deb3f06eb962fd47a64bea55a1abf157c5f40175ac04306f48a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84088/84088.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84088/Akali.wad.client",
+          "size": 89796,
+          "sha256": "bcb1e8fdfce54a35f187e53f5734234b7df6831d7482f546ddee4f9201908119"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3512,
+          "bytes_after": 89796,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84089,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 幻耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "97fe6b8593668d8cecbcaae649ab0465b6765ae539240254dd4af12fc8fe09ff",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84089/84089.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84089/Akali.wad.client",
+          "size": 89814,
+          "sha256": "223228f9ad59f13fc4e4563c84d921ae3b93b85b664e14d182b262969e051dc5"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3530,
+          "bytes_after": 89814,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84090,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 胧光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c2160474bba1627ac99624ade08c231888ceb2522dff619010e008add786ced6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84090/84090.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84090/Akali.wad.client",
+          "size": 89798,
+          "sha256": "4eed16761f22df2c20c40bb03214ed38ba502abd519c9480d90a1f0c9809e4ca"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3514,
+          "bytes_after": 89798,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84091,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 霓虹表象",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bc15ffc3c843e5ca785dce7bba5e9950a20b02d510ee1c4024eaa4459b7f80c8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84091/84091.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84091/Akali.wad.client",
+          "size": 89847,
+          "sha256": "0de81bb856a2633cf74109e13233a31b3b65095f870e7527595efa7a0f0bb294"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3563,
+          "bytes_after": 89847,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 84104,
+      "base_skin_id": 84082,
+      "champion_id": 84,
+      "name": "至高天 阿卡丽 至强",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4f7e692350084cf1f5721809ebac5ecd8743603c6f50e20171c15a476aaa3b3a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84082/84104/84104.fantome",
+      "files": [
+        {
+          "path": "skins/84/84082/84104/Akali.wad.client",
+          "size": 89892,
+          "sha256": "245ed011da257e71a15b82e7b03b9760329ba935a128329ea57a3f4c56452039"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3608,
+          "bytes_after": 89892,
+          "replacement_hashes": [
+            "fabc5345f344c386"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "fabc5345f344c386",
+            "border_hash": "06bd29c0d3e60ea7",
+            "bytes": 86252,
+            "sha256": "c01cfa76a14744bb818a38291737742e924c59b5b195255d242aae8e69536528"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

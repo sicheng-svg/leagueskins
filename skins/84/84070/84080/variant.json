@@ -1,0 +1,58 @@
+{
+  "skin_id": 84080,
+  "base_skin_id": 84070,
+  "champion_id": 84,
+  "name": "魔女 阿卡丽 百炼成金",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "11612d365926638fccc3b8cd38376d4390b3336b8d7ac222f7cb80b5c6cbae4f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84070/84080/84080.fantome",
+  "files": [
+    {
+      "path": "skins/84/84070/84080/Akali.wad.client",
+      "size": 89456,
+      "sha256": "ccaff7e4570176517e6cede1cda73d134a13eec5f1af834c6d220d80bd2aef29"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3172,
+      "bytes_after": 89456,
+      "replacement_hashes": [
+        "a8e3d099f326d5c8"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "a8e3d099f326d5c8",
+        "border_hash": "bd6cf91e91e00951",
+        "bytes": 86252,
+        "sha256": "1a1f4f5262c5ab4fca3eb2aee1c7699217f77203db5b29745dba1c63baa1fcaa"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

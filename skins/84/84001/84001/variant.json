@@ -1,0 +1,48 @@
+{
+  "skin_id": 84001,
+  "base_skin_id": 84001,
+  "champion_id": 84,
+  "name": "蜂刺 阿卡丽",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0d1e19ce0037e5ed4a41fedb90a440652e8e9b231a94ee3f90462f33dd83e88d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "84/84001/84001.fantome",
+  "files": [
+    {
+      "path": "skins/84/84001/84001/Akali.wad.client",
+      "size": 4431,
+      "sha256": "1e1becc19b4ec29b8e1c13c8c3e81a05d66ecc3279162c32e8b2f9b4e2fb76f8"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4431,
+      "bytes_after": 4431,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

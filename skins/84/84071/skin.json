@@ -1,0 +1,65 @@
+{
+  "champion_id": 84,
+  "base_skin_id": 84071,
+  "name": "至臻 魔女 阿卡丽",
+  "variants": [
+    {
+      "skin_id": 84071,
+      "base_skin_id": 84071,
+      "champion_id": 84,
+      "name": "至臻 魔女 阿卡丽",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "27ad852b933b6e447c6565c7c28f3aeb4d5b4cae650fc4e379296c3a51e8396f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84071/84071.fantome",
+      "files": [
+        {
+          "path": "skins/84/84071/84071/Akali.wad.client",
+          "size": 94399,
+          "sha256": "33d5688228df078706dc360c4efaef4a864751f0016ac0bce8fadd910887e0cc"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8115,
+          "bytes_after": 94399,
+          "replacement_hashes": [
+            "548e2cc795787109"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "548e2cc795787109",
+            "border_hash": "8d3b8b30fe43d165",
+            "bytes": 86252,
+            "sha256": "05f0ec2ca103c3210a7f641bd4fc9ad88f6466cb07fc7e98fe5766cace15d887"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

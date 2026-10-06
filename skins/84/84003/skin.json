@@ -1,0 +1,65 @@
+{
+  "champion_id": 84,
+  "base_skin_id": 84003,
+  "name": "足球宝贝 阿卡丽",
+  "variants": [
+    {
+      "skin_id": 84003,
+      "base_skin_id": 84003,
+      "champion_id": 84,
+      "name": "足球宝贝 阿卡丽",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ead3e6a9d1fc0cd0554c8de478aff19a4f1b0069e8f4cba2c61e152d90bb66f7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "84/84003/84003.fantome",
+      "files": [
+        {
+          "path": "skins/84/84003/84003/Akali.wad.client",
+          "size": 90743,
+          "sha256": "588fad35ed63c5fb60afe6885627577ec715a9703fb643784cf490fc826741d8"
+        }
+      ],
+      "wads": {
+        "Akali.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4459,
+          "bytes_after": 90743,
+          "replacement_hashes": [
+            "03d04abf3c6d12ca"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Akali.wad.client",
+            "normal_hash": "03d04abf3c6d12ca",
+            "border_hash": "95c8b0ec19d9b1d7",
+            "bytes": 86252,
+            "sha256": "8df6e70a228341f3c1fed2298e385a974544e3c3e651827b79fa7a8f093dec7c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

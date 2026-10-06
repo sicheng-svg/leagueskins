@@ -1,0 +1,58 @@
+{
+  "skin_id": 115020,
+  "base_skin_id": 115014,
+  "champion_id": 115,
+  "name": "糖果大战 吉格斯 芝士圣代",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3b90de2686d2ca7f33313feab2f091b3927594ee10a74fab5b77c5d683a6087f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "115/115014/115020/115020.fantome",
+  "files": [
+    {
+      "path": "skins/115/115014/115020/Ziggs.wad.client",
+      "size": 88778,
+      "sha256": "d96cc9f16b7feeea5cc38e4fb21d92dae4bd5c74358cd2c810522539d89e3a50"
+    }
+  ],
+  "wads": {
+    "Ziggs.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2494,
+      "bytes_after": 88778,
+      "replacement_hashes": [
+        "ccb2cf441c70c473"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ziggs.wad.client",
+        "normal_hash": "ccb2cf441c70c473",
+        "border_hash": "6e42edcc4d69ddbf",
+        "bytes": 86252,
+        "sha256": "55ed33235a98f6e8a2f183a5aa58b6a18cf01f2bbab73d71bd59a49c3c2bf543"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

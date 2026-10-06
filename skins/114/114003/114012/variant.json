@@ -1,0 +1,48 @@
+{
+  "skin_id": 114012,
+  "base_skin_id": 114003,
+  "champion_id": 114,
+  "name": "女校长 菲奥娜 教育的荣光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "83f2f1750df5766080ce61e18462a4f7a0c876ee103e10fbf5a5851844c2ed2e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "114/114003/114012/114012.fantome",
+  "files": [
+    {
+      "path": "skins/114/114003/114012/Fiora.wad.client",
+      "size": 2364,
+      "sha256": "0d989e7f72711ad76c3aa007da7d5e5261aaff7e3f18783d1ee40312960c9abb"
+    }
+  ],
+  "wads": {
+    "Fiora.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2364,
+      "bytes_after": 2364,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

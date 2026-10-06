@@ -1,0 +1,65 @@
+{
+  "champion_id": 112,
+  "base_skin_id": 112024,
+  "name": "双城之战2 救世主 维克托",
+  "variants": [
+    {
+      "skin_id": 112024,
+      "base_skin_id": 112024,
+      "champion_id": 112,
+      "name": "双城之战2 救世主 维克托",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6c07d9d7d4a2aa88e55918aabe8e960f43ca19cb2d6c15b83f5eb9204a546123",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "112/112024/112024.fantome",
+      "files": [
+        {
+          "path": "skins/112/112024/112024/Viktor.wad.client",
+          "size": 96983,
+          "sha256": "f35c585507e1f1724c844edd0fbabafc68b41b5682854154697dcf1eb3649494"
+        }
+      ],
+      "wads": {
+        "Viktor.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10699,
+          "bytes_after": 96983,
+          "replacement_hashes": [
+            "90d2ea6856bcf122"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Viktor.wad.client",
+            "normal_hash": "90d2ea6856bcf122",
+            "border_hash": "01bcb456ef8f57cf",
+            "bytes": 86252,
+            "sha256": "24bbc9a04ba9340488281de40d7f8e5527bf85d85d2b171cc5aeb930edf931b5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 111,
+  "base_skin_id": 111005,
+  "name": "创世之神 诺提勒斯",
+  "variants": [
+    {
+      "skin_id": 111005,
+      "base_skin_id": 111005,
+      "champion_id": 111,
+      "name": "创世之神 诺提勒斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "28301969a555ced56b577cd2fcbb72e3dd5d7a5500d9d572f4127831e0a90abc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111005/111005.fantome",
+      "files": [
+        {
+          "path": "skins/111/111005/111005/Nautilus.wad.client",
+          "size": 4856,
+          "sha256": "961bfc17462d1593a13dbb7c45b5b25d015600a7f442c93c00e09ce3a06bc34a"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4856,
+          "bytes_after": 4856,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

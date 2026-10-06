@@ -1,0 +1,58 @@
+{
+  "skin_id": 114076,
+  "base_skin_id": 114069,
+  "champion_id": 114,
+  "name": "花仙骑士 菲奥娜 曙凤",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8f066adca0666816096b72350716888b95cb00096b0b38c2ae8e53f5f69991ae",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "114/114069/114076/114076.fantome",
+  "files": [
+    {
+      "path": "skins/114/114069/114076/Fiora.wad.client",
+      "size": 88880,
+      "sha256": "affb51276ff16b4db35a6112c576d4d99a226a2fea6d2007525dc62eb476bc1a"
+    }
+  ],
+  "wads": {
+    "Fiora.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2596,
+      "bytes_after": 88880,
+      "replacement_hashes": [
+        "e6c906473910142d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Fiora.wad.client",
+        "normal_hash": "e6c906473910142d",
+        "border_hash": "df5263ddb82751b2",
+        "bytes": 86252,
+        "sha256": "5acd6dde31d0a28460a456989419774b1a327525e349a0890eaa2343471d4d24"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

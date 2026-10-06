@@ -1,0 +1,58 @@
+{
+  "skin_id": 115012,
+  "base_skin_id": 115007,
+  "champion_id": 115,
+  "name": "奥德赛 吉格斯 黑洞挑战者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bf480778c07733fddb2aa72eeb919a47c41e5020e163190db022aae774717043",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "115/115007/115012/115012.fantome",
+  "files": [
+    {
+      "path": "skins/115/115007/115012/Ziggs.wad.client",
+      "size": 88810,
+      "sha256": "969c52a6a6d31731358a5488f61ac2f3efec6fb31725a8566ef3f0cf97090920"
+    }
+  ],
+  "wads": {
+    "Ziggs.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2526,
+      "bytes_after": 88810,
+      "replacement_hashes": [
+        "6f347e303ffc5693"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ziggs.wad.client",
+        "normal_hash": "6f347e303ffc5693",
+        "border_hash": "ce4b59d02e52ae03",
+        "bytes": 86252,
+        "sha256": "7dcf3adf24cb2f4ed9321121a078f674ba8603ac3fe338fbf85c0a92ecb02b8a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

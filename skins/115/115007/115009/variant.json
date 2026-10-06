@@ -1,0 +1,58 @@
+{
+  "skin_id": 115009,
+  "base_skin_id": 115007,
+  "champion_id": 115,
+  "name": "奥德赛 吉格斯 星河征服者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d95acb770430e616ccf622ccff90dda7ce2dbbfe17cea58324c7262b9f702198",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "115/115007/115009/115009.fantome",
+  "files": [
+    {
+      "path": "skins/115/115007/115009/Ziggs.wad.client",
+      "size": 88863,
+      "sha256": "dacdd975430890e4f0b14490a2969cc3efacf4199d631373e58c93716b1d0d61"
+    }
+  ],
+  "wads": {
+    "Ziggs.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2579,
+      "bytes_after": 88863,
+      "replacement_hashes": [
+        "6f347e303ffc5693"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ziggs.wad.client",
+        "normal_hash": "6f347e303ffc5693",
+        "border_hash": "ce4b59d02e52ae03",
+        "bytes": 86252,
+        "sha256": "7dcf3adf24cb2f4ed9321121a078f674ba8603ac3fe338fbf85c0a92ecb02b8a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

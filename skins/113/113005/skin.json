@@ -1,0 +1,103 @@
+{
+  "champion_id": 113,
+  "base_skin_id": 113005,
+  "name": "魄罗骑士 瑟庄妮",
+  "variants": [
+    {
+      "skin_id": 113005,
+      "base_skin_id": 113005,
+      "champion_id": 113,
+      "name": "魄罗骑士 瑟庄妮",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4b2c74aca60e991826849e3d01e0ad8cac1ea66da2375625544079d96ea80a5a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "113/113005/113005.fantome",
+      "files": [
+        {
+          "path": "skins/113/113005/113005/Sejuani.wad.client",
+          "size": 3472,
+          "sha256": "6708e02d59dbde107bf4c999538612e28343bb3db9a84195aef2db03d17ff028"
+        }
+      ],
+      "wads": {
+        "Sejuani.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3472,
+          "bytes_after": 3472,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 113047,
+      "base_skin_id": 113005,
+      "champion_id": 113,
+      "name": "无畏骑士 瑟庄妮 赤子初心",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "167946976c24f9fd17a5c50543ac725a753920cc53f576c7635dd809c538e354",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "113/113005/113047/113047.fantome",
+      "files": [
+        {
+          "path": "skins/113/113005/113047/Sejuani.wad.client",
+          "size": 2012,
+          "sha256": "0d30fdf5f20585661f5606a82d1a4cdc6c39cf5f4411370e4c7c1c5ab2120b1e"
+        }
+      ],
+      "wads": {
+        "Sejuani.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2012,
+          "bytes_after": 2012,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

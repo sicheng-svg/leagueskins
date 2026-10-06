@@ -1,0 +1,58 @@
+{
+  "skin_id": 113012,
+  "base_skin_id": 113008,
+  "champion_id": 113,
+  "name": "金猪烈焰 瑟庄妮 桃灯",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b1bb144ce0e412dae6bbe203fb8c7c0b4b1ea6f65ac5caaff6dd3351e56cdbeb",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "113/113008/113012/113012.fantome",
+  "files": [
+    {
+      "path": "skins/113/113008/113012/Sejuani.wad.client",
+      "size": 88901,
+      "sha256": "f5fab7141dfeb54fe8bc275f1e6c5644e17d305320d8e91f927557a143cdf203"
+    }
+  ],
+  "wads": {
+    "Sejuani.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2617,
+      "bytes_after": 88901,
+      "replacement_hashes": [
+        "0b51fea902e96a58"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sejuani.wad.client",
+        "normal_hash": "0b51fea902e96a58",
+        "border_hash": "5ac2cee7d2bf3ff2",
+        "bytes": 86252,
+        "sha256": "02a9dba7f9da4f0b23453d72cd96ceeb9f010aef59f1e4356486686a7bd9ddad"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

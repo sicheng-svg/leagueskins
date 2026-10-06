@@ -1,0 +1,58 @@
+{
+  "skin_id": 110043,
+  "base_skin_id": 110034,
+  "champion_id": 110,
+  "name": "西部魔影 天使 韦鲁斯 虔信",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b78862295b23e283275914cd0b8b4268651ac2824100af3e9711e86c8d866b96",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "110/110034/110043/110043.fantome",
+  "files": [
+    {
+      "path": "skins/110/110034/110043/Varus.wad.client",
+      "size": 89212,
+      "sha256": "f555892880ad2943da2ecbe384e83bc55726bbd73376f7e471a5a079866aabc0"
+    }
+  ],
+  "wads": {
+    "Varus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2928,
+      "bytes_after": 89212,
+      "replacement_hashes": [
+        "5d01c83905d6f3d6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Varus.wad.client",
+        "normal_hash": "5d01c83905d6f3d6",
+        "border_hash": "89e2b8d941f920dd",
+        "bytes": 86252,
+        "sha256": "2c07f432d0347461445d3530d05b78adc8e520dbd02c4124af8dbe46c1da3984"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

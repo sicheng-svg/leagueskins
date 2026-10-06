@@ -1,0 +1,587 @@
+{
+  "champion_id": 110,
+  "base_skin_id": 110016,
+  "name": "源计划：天眼 韦鲁斯",
+  "variants": [
+    {
+      "skin_id": 110016,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c963133644bceb1e7be0b5eb3a4fbf4f35f0f4413b1d443a0aa055984a3f22ca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110016.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110016/Varus.wad.client",
+          "size": 93742,
+          "sha256": "3248d38a5dd21274362526b9338214ceaab83749d95d91d0c02948b591251795"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7458,
+          "bytes_after": 93742,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110025,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 裂变",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "59890013ed65c18d0f28103e12fbee54e0ae4d2bef45aace9e24c1e286c0f5c3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110025/110025.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110025/Varus.wad.client",
+          "size": 89185,
+          "sha256": "80f5b3474e92e4aadcbe2d0833fcef4db68b8c8fd457eb97643d1a5c95acf2ee"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2901,
+          "bytes_after": 89185,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110026,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 震击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b053380d45012d8c1e2b43da42d8b2d2cabdd4735e9bf1b4bd4d3eee624f5fa6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110026/110026.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110026/Varus.wad.client",
+          "size": 89133,
+          "sha256": "57db13314c96c9278809a05ed36e67fd8df567a61f37381a545427e9a4bbb48c"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2849,
+          "bytes_after": 89133,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110027,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 幻灭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "93657ab0b8c77ae98aeb7c16273ff384ae2b0374818c15f1af0307772efb2331",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110027/110027.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110027/Varus.wad.client",
+          "size": 89156,
+          "sha256": "e3e1af0e8ed8ef3e43863a395dc966033d64d39111800bac0c7001493cb7830c"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2872,
+          "bytes_after": 89156,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110028,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 地覆",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "53fa03baa6ab339f9d336c9c8b7ed9936e0b9a0c69f236df3fb3be330fcaa5f6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110028/110028.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110028/Varus.wad.client",
+          "size": 89133,
+          "sha256": "7576d31eb9339e971ead17eabd6d667d1706279f0aadb5fa4f2528ad7b632094"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2849,
+          "bytes_after": 89133,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110029,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 暴走",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ac87b69560015ae8f787e62213c6cc7fbf4c9aa967d922d516493add4e01e9d6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110029/110029.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110029/Varus.wad.client",
+          "size": 89134,
+          "sha256": "9b130569acf964024a97adfa508bc217b1fbaeef7d4d9e4972ab5c7814f110a0"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2850,
+          "bytes_after": 89134,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110030,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 默化",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8f32f4e11c955cc9f1e72a609730d092a5ad0bde9166c280c3f637294f0bac14",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110030/110030.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110030/Varus.wad.client",
+          "size": 89132,
+          "sha256": "661067a0ebb463c07a19902f120fae95a076d7069eece643e486533e8ae6949d"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2848,
+          "bytes_after": 89132,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110031,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 雪崩",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3fdabe95643135fb9b501cf53d48ad6e2f6ef7aeceba64a29a3693d16977c994",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110031/110031.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110031/Varus.wad.client",
+          "size": 89133,
+          "sha256": "dda3e8c4766e534ae0d758e73eac5dfa30b174189162c31a415816aad99b8d1c"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2849,
+          "bytes_after": 89133,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110032,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 燎原",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9d3d7971e0b8d757eedfe3ff30d0422812e0015cbb63e9667767ea0733638b11",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110032/110032.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110032/Varus.wad.client",
+          "size": 89129,
+          "sha256": "9879984f97c3db238bbc88ecd2ac56eb0381cc9a95b565910e3a2cfb4da460bb"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2845,
+          "bytes_after": 89129,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110033,
+      "base_skin_id": 110016,
+      "champion_id": 110,
+      "name": "源计划：天眼 韦鲁斯 惩戒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2467d2c945f4aae46c663d98242f76e997c77c96a72c553e19c96c2f0e054ee3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110016/110033/110033.fantome",
+      "files": [
+        {
+          "path": "skins/110/110016/110033/Varus.wad.client",
+          "size": 89186,
+          "sha256": "12f3ee5259af238ffffc86be0bbac8cbd69d34d7bcbc043c5b6ef4587fbf50b7"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2902,
+          "bytes_after": 89186,
+          "replacement_hashes": [
+            "1841dbddb8a82dcd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "1841dbddb8a82dcd",
+            "border_hash": "619c08d467912fc5",
+            "bytes": 86252,
+            "sha256": "a63aab33ea757acee85313493b6d634446f802dc21b5ee3bbbc3bd9899ed1a6e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

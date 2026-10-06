@@ -1,0 +1,58 @@
+{
+  "skin_id": 111006,
+  "base_skin_id": 111006,
+  "champion_id": 111,
+  "name": "征服者 诺提勒斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b5291df5e735f0305f1005f98a266981bbb89d0c2d3702155f107236a3c924ec",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "111/111006/111006.fantome",
+  "files": [
+    {
+      "path": "skins/111/111006/111006/Nautilus.wad.client",
+      "size": 91473,
+      "sha256": "a58601b64248a92e1d30665cb421833a8f909b09d467d89aa035b0c8b7d86569"
+    }
+  ],
+  "wads": {
+    "Nautilus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5189,
+      "bytes_after": 91473,
+      "replacement_hashes": [
+        "e46390d46c6f017b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nautilus.wad.client",
+        "normal_hash": "e46390d46c6f017b",
+        "border_hash": "b87043ce8c3524a6",
+        "bytes": 86252,
+        "sha256": "e6f5908311041a58e97f9b3b41a75d835e5d0ea1e869e27db6c18d74b4f1bba1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

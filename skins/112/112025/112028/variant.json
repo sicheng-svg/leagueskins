@@ -1,0 +1,48 @@
+{
+  "skin_id": 112028,
+  "base_skin_id": 112025,
+  "champion_id": 112,
+  "name": "机械先驱 维克托 慷慨",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "05964d8ab3c02a8853ec5c93278d91f08f405a546f8cd3cbad319b0ec935294d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "112/112025/112028/112028.fantome",
+  "files": [
+    {
+      "path": "skins/112/112025/112028/Viktor.wad.client",
+      "size": 2919,
+      "sha256": "aa3c331959520a21cd49bd4464ebe7d11c998340e294e1f67780f292e3f191ce"
+    }
+  ],
+  "wads": {
+    "Viktor.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2919,
+      "bytes_after": 2919,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

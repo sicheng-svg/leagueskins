@@ -1,0 +1,48 @@
+{
+  "skin_id": 110046,
+  "base_skin_id": 110044,
+  "champion_id": 110,
+  "name": "净雪之月 韦鲁斯 金穗",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e75e69f10d6269208731ce0febe6ae796559198696b141653f0f34246f9d0f84",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "110/110044/110046/110046.fantome",
+  "files": [
+    {
+      "path": "skins/110/110044/110046/Varus.wad.client",
+      "size": 2694,
+      "sha256": "634cce9f0ec1316138ce8ca0f47d6e9ddd26b171624bcbe74ea5315cb49166c1"
+    }
+  ],
+  "wads": {
+    "Varus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2694,
+      "bytes_after": 2694,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

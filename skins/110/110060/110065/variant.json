@@ -1,0 +1,58 @@
+{
+  "skin_id": 110065,
+  "base_skin_id": 110060,
+  "champion_id": 110,
+  "name": "灵魂莲华 韦鲁斯 春晓",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "86342c58f57a0dad13a3199063865d538ceba09c482315990fd8c8f30be57d65",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "110/110060/110065/110065.fantome",
+  "files": [
+    {
+      "path": "skins/110/110060/110065/Varus.wad.client",
+      "size": 89027,
+      "sha256": "3b7b5701064a0f274d8a9369d5024952d1d8d0a2f9ef87e2eb251ec8c77567c3"
+    }
+  ],
+  "wads": {
+    "Varus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2743,
+      "bytes_after": 89027,
+      "replacement_hashes": [
+        "df9b17efa73af58e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Varus.wad.client",
+        "normal_hash": "df9b17efa73af58e",
+        "border_hash": "058ed03f30779195",
+        "bytes": 86252,
+        "sha256": "7201be26f370c0c07fc72046fdf650bb61b9033f4df12cab1974360a2b8a17a7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

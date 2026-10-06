@@ -1,0 +1,529 @@
+{
+  "champion_id": 111,
+  "base_skin_id": 111039,
+  "name": "禁魔石巨像 诺提勒斯",
+  "variants": [
+    {
+      "skin_id": 111039,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "417fe8af692477ff999478a69e4d708fe444b414d2aac8c04cd9e93443da0d85",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111039.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111039/Nautilus.wad.client",
+          "size": 91739,
+          "sha256": "1ac4458b0cba6c879a0a438d975e75805367790e51a7b79dc2b2dda979c23dc5"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5455,
+          "bytes_after": 91739,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111040,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 帝国之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ce358c545e5d971bf76d2066d7f7b724580bbee3819e43371b2d7e2ec4af43ef",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111040/111040.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111040/Nautilus.wad.client",
+          "size": 88922,
+          "sha256": "6d871f4942820049079005cc18df2184a0d20cd82d1e102f1f638b8757f72bf3"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2638,
+          "bytes_after": 88922,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111041,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 黄沙之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "881043fb984386de8440c584da99d674553f2300d8e27403625ef72138651bbd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111041/111041.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111041/Nautilus.wad.client",
+          "size": 88868,
+          "sha256": "cef9c4136e9f42bfb8e1efc71709b75e03ff283cb1d9b75746a79a61f9317a5c"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2584,
+          "bytes_after": 88868,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111042,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 海港之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7461a752ba3344e9818d5996458d86bde64ecd96ebbccbff608dc903f42a7e68",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111042/111042.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111042/Nautilus.wad.client",
+          "size": 88865,
+          "sha256": "21ed1c39d485b76140e69beeb07a9a595e17e39625b8b24f387f6451163101d1"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2581,
+          "bytes_after": 88865,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111043,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 森林之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "66453329bfb62fa83f7e15b38737efcb162911110a741ffc6452266083b4ce9c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111043/111043.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111043/Nautilus.wad.client",
+          "size": 88866,
+          "sha256": "88c996338ff0764971e2b8a59ab8bf5e18bb4fbc08af3643b258ffbc6798eee3"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2582,
+          "bytes_after": 88866,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111044,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 丛林之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f915ca339f4deffa40aa4513b75af6a245abf290851708998e1506bc4fdc7eb1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111044/111044.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111044/Nautilus.wad.client",
+          "size": 88866,
+          "sha256": "272f63d551db2cc5ebb27a5bf0aeb94d4a363056cd13371ebf408ca54f7a8c39"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2582,
+          "bytes_after": 88866,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111045,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 虚空之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "19420c4f5544e9b7676add745ba78ec4d1d3e273f1f1724211738da68438f794",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111045/111045.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111045/Nautilus.wad.client",
+          "size": 88868,
+          "sha256": "5eaf0d4c2d97ce301b47df823305d93ea84042f294e75b9310ab938146ecae9d"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2584,
+          "bytes_after": 88868,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111046,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 灵岛之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d343588acacbf2cf40ae1c14750b66a8884386345631d826a54272aaecd84793",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111046/111046.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111046/Nautilus.wad.client",
+          "size": 88866,
+          "sha256": "f888a4a4dfadb7277c746291be44c2023b8b0c81a7cbae70662dd7555f2aa6ed"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2582,
+          "bytes_after": 88866,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111047,
+      "base_skin_id": 111039,
+      "champion_id": 111,
+      "name": "禁魔石巨像 诺提勒斯 星界之蕴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9362aa4fc0894aded1b4c5c311d237a2fdb475c9a9531d20c7d8c3caab6c95cf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111039/111047/111047.fantome",
+      "files": [
+        {
+          "path": "skins/111/111039/111047/Nautilus.wad.client",
+          "size": 88866,
+          "sha256": "c41d7c96fece0607724fbc5c645f646fae5dc000847f1c78e76a3bb4d854f1be"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2582,
+          "bytes_after": 88866,
+          "replacement_hashes": [
+            "02959fa9d078f121"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nautilus.wad.client",
+            "normal_hash": "02959fa9d078f121",
+            "border_hash": "eb80526058fda1ca",
+            "bytes": 86252,
+            "sha256": "5f285be9a015c113edc32d6a6afa809b5eb324ba41e84f67a19046ea6b891dfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

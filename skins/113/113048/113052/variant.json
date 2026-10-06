@@ -1,0 +1,58 @@
+{
+  "skin_id": 113052,
+  "base_skin_id": 113048,
+  "champion_id": 113,
+  "name": "哈巴狗训练师 瑟庄妮 曾经骑箭现在训狗",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "497d9727949da23acad4f54426ad3d8e898501a9b9cf474bb925d787e448e526",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "113/113048/113052/113052.fantome",
+  "files": [
+    {
+      "path": "skins/113/113048/113052/Sejuani.wad.client",
+      "size": 89027,
+      "sha256": "1d3b1912f28c16131e6d2604279a08485efa8fb6438f84f95a6c443dc22a31c7"
+    }
+  ],
+  "wads": {
+    "Sejuani.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2743,
+      "bytes_after": 89027,
+      "replacement_hashes": [
+        "dcc35dc5c55d6182"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sejuani.wad.client",
+        "normal_hash": "dcc35dc5c55d6182",
+        "border_hash": "f1e79bee99698e67",
+        "bytes": 86252,
+        "sha256": "51e3dd13bc7166b55137629471fe177a9fb0041fae52feda92d369497b2d7992"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

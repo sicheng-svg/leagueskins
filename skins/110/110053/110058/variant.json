@@ -1,0 +1,58 @@
+{
+  "skin_id": 110058,
+  "base_skin_id": 110053,
+  "champion_id": 110,
+  "name": "至高天 韦鲁斯 寒芒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e569c00ba97c6f3dc9095f87a3de0882acd6119e696f9e4016c156cf3007af50",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "110/110053/110058/110058.fantome",
+  "files": [
+    {
+      "path": "skins/110/110053/110058/Varus.wad.client",
+      "size": 90738,
+      "sha256": "23cec215ed155743c1721754699a8ed903c8b213696dd2029328d3ad7b315cb3"
+    }
+  ],
+  "wads": {
+    "Varus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4454,
+      "bytes_after": 90738,
+      "replacement_hashes": [
+        "4dc54b6fcc4d0d61"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Varus.wad.client",
+        "normal_hash": "4dc54b6fcc4d0d61",
+        "border_hash": "68766396a5c85c5c",
+        "bytes": 86252,
+        "sha256": "1285e18723ea93f1769002f52103f6f2de267618ce07bb00a19f70bb85749082"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

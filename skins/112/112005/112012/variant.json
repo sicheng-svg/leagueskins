@@ -1,0 +1,58 @@
+{
+  "skin_id": 112012,
+  "base_skin_id": 112005,
+  "champion_id": 112,
+  "name": "灵能特工 维克托 代号：飓风",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7b781085426860b8de0173f2b4753e1ed0ca73e93df61e8f52a0fb9c61b6a158",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "112/112005/112012/112012.fantome",
+  "files": [
+    {
+      "path": "skins/112/112005/112012/Viktor.wad.client",
+      "size": 89689,
+      "sha256": "9fe796fedb2e82d388530514007330712bb7008f41a7f2f99caa07c525732e5c"
+    }
+  ],
+  "wads": {
+    "Viktor.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3405,
+      "bytes_after": 89689,
+      "replacement_hashes": [
+        "7200733367869aff"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Viktor.wad.client",
+        "normal_hash": "7200733367869aff",
+        "border_hash": "89fd65245ba345a8",
+        "bytes": 86252,
+        "sha256": "872e63accaa8d2cc9c6c5492a2f31eb4ea869b710575f3b064933e027d3fa2b6"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

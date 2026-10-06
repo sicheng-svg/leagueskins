@@ -1,0 +1,48 @@
+{
+  "skin_id": 114008,
+  "base_skin_id": 114003,
+  "champion_id": 114,
+  "name": "女校长 菲奥娜 经典传承者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b3a5f62e0536c0e7dd53d8c25394875c1278e98c147187fe2ccaa280b1b20aac",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "114/114003/114008/114008.fantome",
+  "files": [
+    {
+      "path": "skins/114/114003/114008/Fiora.wad.client",
+      "size": 2362,
+      "sha256": "4771c6038ce5fb89a7d68cbba7b7ebd6e85306dd99797a37967931d38afd2094"
+    }
+  ],
+  "wads": {
+    "Fiora.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2362,
+      "bytes_after": 2362,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

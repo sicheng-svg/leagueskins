@@ -1,0 +1,48 @@
+{
+  "skin_id": 114015,
+  "base_skin_id": 114005,
+  "champion_id": 114,
+  "name": "泳池派对 菲奥娜 爽口橙子冰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fe250e2f990b1fc890b7ab4bf02cb55b4702b095aa59016f7f1740fd6fe12b8e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "114/114005/114015/114015.fantome",
+  "files": [
+    {
+      "path": "skins/114/114005/114015/Fiora.wad.client",
+      "size": 2711,
+      "sha256": "7507ad879b2fe96f7c88da57edd33c55be0a19a0f00575548bb8415f47ee1466"
+    }
+  ],
+  "wads": {
+    "Fiora.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2711,
+      "bytes_after": 2711,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

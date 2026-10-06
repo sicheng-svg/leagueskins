@@ -1,0 +1,58 @@
+{
+  "skin_id": 110056,
+  "base_skin_id": 110053,
+  "champion_id": 110,
+  "name": "至高天 韦鲁斯 灵辉",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8e01fadf2af70429940e97c06add96740e5a1930a2871623a4354c0398dd04e8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "110/110053/110056/110056.fantome",
+  "files": [
+    {
+      "path": "skins/110/110053/110056/Varus.wad.client",
+      "size": 90716,
+      "sha256": "2a19e75420e36e5547ca72d81559e4cf57982704b63b3fdd0c31aeeb9c58bcbb"
+    }
+  ],
+  "wads": {
+    "Varus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4432,
+      "bytes_after": 90716,
+      "replacement_hashes": [
+        "4dc54b6fcc4d0d61"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Varus.wad.client",
+        "normal_hash": "4dc54b6fcc4d0d61",
+        "border_hash": "68766396a5c85c5c",
+        "bytes": 86252,
+        "sha256": "1285e18723ea93f1769002f52103f6f2de267618ce07bb00a19f70bb85749082"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

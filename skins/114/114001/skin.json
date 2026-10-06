@@ -1,0 +1,55 @@
+{
+  "champion_id": 114,
+  "base_skin_id": 114001,
+  "name": "皇家守卫 菲奥娜",
+  "variants": [
+    {
+      "skin_id": 114001,
+      "base_skin_id": 114001,
+      "champion_id": 114,
+      "name": "皇家守卫 菲奥娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ae7f2e4cb3916ac5e4affbdf7b74407552d54fa3544ee9623b39746c0ef6ebe0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "114/114001/114001.fantome",
+      "files": [
+        {
+          "path": "skins/114/114001/114001/Fiora.wad.client",
+          "size": 4495,
+          "sha256": "6f1e0ff36ef5a8fca200a0716497ffda1f3ef3812736d3c5f703080dcc6cd86c"
+        }
+      ],
+      "wads": {
+        "Fiora.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4495,
+          "bytes_after": 4495,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

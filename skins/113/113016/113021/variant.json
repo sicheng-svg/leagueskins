@@ -1,0 +1,58 @@
+{
+  "skin_id": 113021,
+  "base_skin_id": 113016,
+  "champion_id": 113,
+  "name": "源计划：统帅 瑟庄妮 暴走",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "28ed653ea5fa19a3059c0d1f013d1f9bb03b0f7c581c5fffea7899eacdfde4ed",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "113/113016/113021/113021.fantome",
+  "files": [
+    {
+      "path": "skins/113/113016/113021/Sejuani.wad.client",
+      "size": 88861,
+      "sha256": "17ad757866eb8b0fd302dec28f19ddf34d1fd02ea1a38c701f23ac82346fcea0"
+    }
+  ],
+  "wads": {
+    "Sejuani.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2577,
+      "bytes_after": 88861,
+      "replacement_hashes": [
+        "96001199b99e6ed6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sejuani.wad.client",
+        "normal_hash": "96001199b99e6ed6",
+        "border_hash": "9ad82c92fe16aa66",
+        "bytes": 86252,
+        "sha256": "ebfba4e2acd9261537a30132c1ac2db7e2315c0108f187785d4347e00a905ac5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

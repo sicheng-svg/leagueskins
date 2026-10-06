@@ -1,0 +1,65 @@
+{
+  "champion_id": 113,
+  "base_skin_id": 113015,
+  "name": "海克斯科技 瑟庄妮",
+  "variants": [
+    {
+      "skin_id": 113015,
+      "base_skin_id": 113015,
+      "champion_id": 113,
+      "name": "海克斯科技 瑟庄妮",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "14b5c55b523d24f84df592d403a7c1b42fc60e33fad8a39dcb573377d79f62e3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "113/113015/113015.fantome",
+      "files": [
+        {
+          "path": "skins/113/113015/113015/Sejuani.wad.client",
+          "size": 92007,
+          "sha256": "88edff618553b999add8d8c9757b7072006a1524275ff033056694e0fcceaa63"
+        }
+      ],
+      "wads": {
+        "Sejuani.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5723,
+          "bytes_after": 92007,
+          "replacement_hashes": [
+            "bd017fcb3ff7c3eb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sejuani.wad.client",
+            "normal_hash": "bd017fcb3ff7c3eb",
+            "border_hash": "5ac2cee7d2bf3ff2",
+            "bytes": 86252,
+            "sha256": "02a9dba7f9da4f0b23453d72cd96ceeb9f010aef59f1e4356486686a7bd9ddad"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 114052,
+  "base_skin_id": 114050,
+  "champion_id": 114,
+  "name": "福牛守护者 菲奥娜 贺岁",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f863f6e34c3360611bd0ea3f421cc5e8a44c9a15ed326ae068df3f6f1735f015",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "114/114050/114052/114052.fantome",
+  "files": [
+    {
+      "path": "skins/114/114050/114052/Fiora.wad.client",
+      "size": 88734,
+      "sha256": "aa64688976d56f576eaf7fecd200aa854062ce40232706375bc7a537724ae0b6"
+    }
+  ],
+  "wads": {
+    "Fiora.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2450,
+      "bytes_after": 88734,
+      "replacement_hashes": [
+        "9c45031aec52c868"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Fiora.wad.client",
+        "normal_hash": "9c45031aec52c868",
+        "border_hash": "7d561ed5425567c7",
+        "bytes": 86252,
+        "sha256": "372919515b5224df0a6ae193ff5174021ad60509d4b9210963186d0eb1ddfd3a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

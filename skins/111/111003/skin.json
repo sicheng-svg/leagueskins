@@ -1,0 +1,103 @@
+{
+  "champion_id": 111,
+  "base_skin_id": 111003,
+  "name": "宇航员 诺提勒斯",
+  "variants": [
+    {
+      "skin_id": 111003,
+      "base_skin_id": 111003,
+      "champion_id": 111,
+      "name": "宇航员 诺提勒斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2ac4fc8949de200f797c72f53cb64e114c4d51bc3b2a0644b22b7c47499cce86",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111003/111003.fantome",
+      "files": [
+        {
+          "path": "skins/111/111003/111003/Nautilus.wad.client",
+          "size": 4886,
+          "sha256": "11918a147a25e39ffea9953f74d4ee94a8566ca20f7f7782db44a19b74d9c030"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4886,
+          "bytes_after": 4886,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 111008,
+      "base_skin_id": 111003,
+      "champion_id": 111,
+      "name": "宇航员 诺提勒斯 无尽永前",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2e999f5314a4d26f2e5aa89fad9613216d9cf00f6e13dd06962522563604e1ad",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "111/111003/111008/111008.fantome",
+      "files": [
+        {
+          "path": "skins/111/111003/111008/Nautilus.wad.client",
+          "size": 2262,
+          "sha256": "893d5875c3f294dbfbf7d961a666be67a4dde0193759718c0139d88548c0f9a3"
+        }
+      ],
+      "wads": {
+        "Nautilus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2262,
+          "bytes_after": 2262,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

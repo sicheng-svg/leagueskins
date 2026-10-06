@@ -1,0 +1,58 @@
+{
+  "skin_id": 112013,
+  "base_skin_id": 112005,
+  "champion_id": 112,
+  "name": "灵能特工 维克托 代号：猎人",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e222d631d0ff2ef59a8480c9c94ac7937ea75d6daf686835e619d0e5a51211d8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "112/112005/112013/112013.fantome",
+  "files": [
+    {
+      "path": "skins/112/112005/112013/Viktor.wad.client",
+      "size": 89745,
+      "sha256": "3f2ce5e33150b757f084f27ab561ffe96da6adb8fcc0351e487dd1afab8102b0"
+    }
+  ],
+  "wads": {
+    "Viktor.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3461,
+      "bytes_after": 89745,
+      "replacement_hashes": [
+        "7200733367869aff"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Viktor.wad.client",
+        "normal_hash": "7200733367869aff",
+        "border_hash": "89fd65245ba345a8",
+        "bytes": 86252,
+        "sha256": "872e63accaa8d2cc9c6c5492a2f31eb4ea869b710575f3b064933e027d3fa2b6"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

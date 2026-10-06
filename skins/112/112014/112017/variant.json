@@ -1,0 +1,58 @@
+{
+  "skin_id": 112017,
+  "base_skin_id": 112014,
+  "champion_id": 112,
+  "name": "西部魔影 天才机械师 维克托 善良",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c3b662406a08509f572b4297fc4f03d81282bc5fce0a34b3cd2b41a679527cf6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "112/112014/112017/112017.fantome",
+  "files": [
+    {
+      "path": "skins/112/112014/112017/Viktor.wad.client",
+      "size": 89741,
+      "sha256": "9a361bdac4e0a3e69fee279b79c7c4d2f3c77f26dc932c9af2449668bac3f468"
+    }
+  ],
+  "wads": {
+    "Viktor.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3457,
+      "bytes_after": 89741,
+      "replacement_hashes": [
+        "7aa7c624fcb3cb5b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Viktor.wad.client",
+        "normal_hash": "7aa7c624fcb3cb5b",
+        "border_hash": "09fd666bca9982a6",
+        "bytes": 86252,
+        "sha256": "983270a2746d3cc9ef92edd8b3bca2fec348a78b59a279e8690e88bdb7f7559d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

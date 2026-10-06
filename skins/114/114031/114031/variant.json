@@ -1,0 +1,58 @@
+{
+  "skin_id": 114031,
+  "base_skin_id": 114031,
+  "champion_id": 114,
+  "name": "iG 菲奥娜",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2a442bec3d1fb1261c5284c51575de3e8e3a86af80222ac601bf599a2376d128",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "114/114031/114031.fantome",
+  "files": [
+    {
+      "path": "skins/114/114031/114031/Fiora.wad.client",
+      "size": 91401,
+      "sha256": "51c17625ddb2884f1e02960ee96264aff0fe9a04da22caf448e40b7762e3a778"
+    }
+  ],
+  "wads": {
+    "Fiora.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5117,
+      "bytes_after": 91401,
+      "replacement_hashes": [
+        "1ba73d98b9d7e80a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Fiora.wad.client",
+        "normal_hash": "1ba73d98b9d7e80a",
+        "border_hash": "45f731da764be49e",
+        "bytes": 86252,
+        "sha256": "21d906b63a5598792881ea922593c1e9bce0746b7f344542ffafb691c8573643"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

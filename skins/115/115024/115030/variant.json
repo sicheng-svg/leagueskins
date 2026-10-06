@@ -1,0 +1,48 @@
+{
+  "skin_id": 115030,
+  "base_skin_id": 115024,
+  "champion_id": 115,
+  "name": "白白嫩嫩小迷糊 吉格斯",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0bf9780fa1e4bb8ac9277c97e80434ac0150835d8530e6f6f89920e9c5a92fb6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "115/115024/115030/115030.fantome",
+  "files": [
+    {
+      "path": "skins/115/115024/115030/Ziggs.wad.client",
+      "size": 2340,
+      "sha256": "64689653c14be59576a457abfbf2a4355fba07bdae8003642e1f7eeb311d4ee1"
+    }
+  ],
+  "wads": {
+    "Ziggs.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2340,
+      "bytes_after": 2340,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

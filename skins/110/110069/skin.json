@@ -1,0 +1,123 @@
+{
+  "champion_id": 110,
+  "base_skin_id": 110069,
+  "name": "T1 韦鲁斯",
+  "variants": [
+    {
+      "skin_id": 110069,
+      "base_skin_id": 110069,
+      "champion_id": 110,
+      "name": "T1 韦鲁斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a4f6e0a8d260eabc0125ee0d39c5a9803d57d9bec4e14116ec40190607805200",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110069/110069.fantome",
+      "files": [
+        {
+          "path": "skins/110/110069/110069/Varus.wad.client",
+          "size": 93785,
+          "sha256": "222ebe13df6a2add71d9704612708ce55168d5ac1b9aac1b6246591335ade9ba"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7501,
+          "bytes_after": 93785,
+          "replacement_hashes": [
+            "e97517ff9dad2105"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "e97517ff9dad2105",
+            "border_hash": "0f6693f19a939a8c",
+            "bytes": 86252,
+            "sha256": "10b465e667429f5316cbe35646539e1151b6b37a61526b586b2b9437ea03684f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 110070,
+      "base_skin_id": 110069,
+      "champion_id": 110,
+      "name": "T1 韦鲁斯 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0baa6aa3e8548d9ac7917194e99c509e8377190f44de18a4cce9d82bdc939a95",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "110/110069/110070/110070.fantome",
+      "files": [
+        {
+          "path": "skins/110/110069/110070/Varus.wad.client",
+          "size": 89271,
+          "sha256": "68b7493a8b5af33407ba53e11c1ba899378c1bada401cae06558c99f4b7fcfec"
+        }
+      ],
+      "wads": {
+        "Varus.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2987,
+          "bytes_after": 89271,
+          "replacement_hashes": [
+            "e97517ff9dad2105"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Varus.wad.client",
+            "normal_hash": "e97517ff9dad2105",
+            "border_hash": "0f6693f19a939a8c",
+            "bytes": 86252,
+            "sha256": "10b465e667429f5316cbe35646539e1151b6b37a61526b586b2b9437ea03684f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 113032,
+  "base_skin_id": 113026,
+  "champion_id": 113,
+  "name": "日蚀骑士 瑟庄妮 牺牲",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "06375f93288c14ee8b7f226d5a3a73420f1b0ef307aa5012276e22429174504f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "113/113026/113032/113032.fantome",
+  "files": [
+    {
+      "path": "skins/113/113026/113032/Sejuani.wad.client",
+      "size": 2472,
+      "sha256": "4a3dc810d35fe2aa30f0382903029fac27402062aed360a42157a78018a6758b"
+    }
+  ],
+  "wads": {
+    "Sejuani.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2472,
+      "bytes_after": 2472,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

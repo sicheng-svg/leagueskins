@@ -1,0 +1,58 @@
+{
+  "skin_id": 10075,
+  "base_skin_id": 10066,
+  "champion_id": 10,
+  "name": "至高天 凯尔 荧煌",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f06067f606673e2542c11f40c1743d22d305a90dd40a24a12fc2e6d080356695",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "10/10066/10075/10075.fantome",
+  "files": [
+    {
+      "path": "skins/10/10066/10075/Kayle.wad.client",
+      "size": 90293,
+      "sha256": "d1675e011c4690503fd763da88767edb8de4d12385d993511dc930584a5a07ee"
+    }
+  ],
+  "wads": {
+    "Kayle.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4009,
+      "bytes_after": 90293,
+      "replacement_hashes": [
+        "06f6267bc341b1cf"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kayle.wad.client",
+        "normal_hash": "06f6267bc341b1cf",
+        "border_hash": "5ba5cc2a96c13232",
+        "bytes": 86252,
+        "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

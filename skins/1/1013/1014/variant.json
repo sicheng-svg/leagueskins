@@ -1,0 +1,65 @@
+{
+  "skin_id": 1014,
+  "base_skin_id": 1013,
+  "champion_id": 1,
+  "name": "福牛守护者 安妮 贺岁",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "361b2de7c113e5df6e98666af4a90e2503f1e332c155dc788638836ca20405c9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "1/1013/1014/1014.fantome",
+  "files": [
+    {
+      "path": "skins/1/1013/1014/Annie.wad.client",
+      "size": 89408,
+      "sha256": "9e0b2747381e67cd37ca9938a13c7f3dd491bada0d6d1520a4dbcf0c03d6fcb9"
+    }
+  ],
+  "wads": {
+    "Annie.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3124,
+      "bytes_after": 89408,
+      "replacement_hashes": [
+        "c0f7a224a5eb1a20"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Annie.wad.client",
+        "normal_hash": "c0f7a224a5eb1a20",
+        "border_hash": "5887eb863b0efc15",
+        "bytes": 86252,
+        "sha256": "20d283afd7673607137f66b6b33029f428d6f376b43635b5c69abb22f0bfe0ca"
+      },
+      {
+        "archive": "Annie.wad.client",
+        "normal_hash": "c0f7a224a5eb1a20",
+        "border_hash": "5887eb863b0efc15",
+        "bytes": 86252,
+        "sha256": "20d283afd7673607137f66b6b33029f428d6f376b43635b5c69abb22f0bfe0ca"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

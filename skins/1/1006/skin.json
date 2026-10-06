@@ -1,0 +1,55 @@
+{
+  "champion_id": 1,
+  "base_skin_id": 1006,
+  "name": "安伯斯与提妮",
+  "variants": [
+    {
+      "skin_id": 1006,
+      "base_skin_id": 1006,
+      "champion_id": 1,
+      "name": "安伯斯与提妮",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fdc71a89e331ab42ad17c07cf3fdee0fdb0ce38960dacafa0f9de7e2636d9438",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1006/1006.fantome",
+      "files": [
+        {
+          "path": "skins/1/1006/1006/Annie.wad.client",
+          "size": 4759,
+          "sha256": "46a804a8c6a5cb43a59d5a1edea2b24cc6a81418be741b163ea03c8c5d67e56d"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4759,
+          "bytes_after": 4759,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

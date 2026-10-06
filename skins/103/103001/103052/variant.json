@@ -1,0 +1,48 @@
+{
+  "skin_id": 103052,
+  "base_skin_id": 103001,
+  "champion_id": 103,
+  "name": "高丽风情 阿狸 素裹",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e353e127673af52f95e83fee38e99491d80b8f7773eb37d5c6aa103d4c20cd42",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "103/103001/103052/103052.fantome",
+  "files": [
+    {
+      "path": "skins/103/103001/103052/Ahri.wad.client",
+      "size": 2885,
+      "sha256": "13596e11ff085f9639e3e1638df467ce904cd80967be21a79e879c09d5426892"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2885,
+      "bytes_after": 2885,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

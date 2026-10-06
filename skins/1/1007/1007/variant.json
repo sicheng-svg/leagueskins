@@ -1,0 +1,65 @@
+{
+  "skin_id": 1007,
+  "base_skin_id": 1007,
+  "champion_id": 1,
+  "name": "科学怪熊的新娘 安妮",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1c39614131e0d4da77f7de1b2319239e894672ee440354fef416c474ac5aa289",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "1/1007/1007.fantome",
+  "files": [
+    {
+      "path": "skins/1/1007/1007/Annie.wad.client",
+      "size": 91156,
+      "sha256": "dad26ca872e7c4a7abef5e5df29c08bab7ca026f60267953c7eb1a1f5c663f6e"
+    }
+  ],
+  "wads": {
+    "Annie.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4872,
+      "bytes_after": 91156,
+      "replacement_hashes": [
+        "3503555e0d7dabd6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Annie.wad.client",
+        "normal_hash": "3503555e0d7dabd6",
+        "border_hash": "1ce0c8647d8b933a",
+        "bytes": 86252,
+        "sha256": "d3bf7c3c25cc715b446153bdb7983184a1b13a98dc816669af12d3480c54e43e"
+      },
+      {
+        "archive": "Annie.wad.client",
+        "normal_hash": "3503555e0d7dabd6",
+        "border_hash": "1ce0c8647d8b933a",
+        "bytes": 86252,
+        "sha256": "d3bf7c3c25cc715b446153bdb7983184a1b13a98dc816669af12d3480c54e43e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

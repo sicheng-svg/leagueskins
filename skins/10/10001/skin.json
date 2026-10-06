@@ -1,0 +1,55 @@
+{
+  "champion_id": 10,
+  "base_skin_id": 10001,
+  "name": "银白审判 凯尔",
+  "variants": [
+    {
+      "skin_id": 10001,
+      "base_skin_id": 10001,
+      "champion_id": 10,
+      "name": "银白审判 凯尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "da7acb4e330bab38abd945c1635e20830724a7ad34475211cbc7d91e0770b4b6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10001/10001.fantome",
+      "files": [
+        {
+          "path": "skins/10/10001/10001/Kayle.wad.client",
+          "size": 7324,
+          "sha256": "0ee1c7dbb1268e0179af40b592b35db7d5d8b88de7a50ed71c1ea535e89da451"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7324,
+          "bytes_after": 7324,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

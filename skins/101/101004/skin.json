@@ -1,0 +1,55 @@
+{
+  "champion_id": 101,
+  "base_skin_id": 101004,
+  "name": "沙之守护 泽拉斯",
+  "variants": [
+    {
+      "skin_id": 101004,
+      "base_skin_id": 101004,
+      "champion_id": 101,
+      "name": "沙之守护 泽拉斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9c051f28f8fccc4f2e991e21f7e856bc98082d19234d311e57af744c745af3d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "101/101004/101004.fantome",
+      "files": [
+        {
+          "path": "skins/101/101004/101004/Xerath.wad.client",
+          "size": 5495,
+          "sha256": "276a91c7176083fb443e52c79ab365463ea7b8f00fd18f58a155eddef553ba79"
+        }
+      ],
+      "wads": {
+        "Xerath.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5495,
+          "bytes_after": 5495,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 7,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 10057,
+  "base_skin_id": 10057,
+  "champion_id": 10,
+  "name": "玉剑传说 翼剑仙",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "31ae3bf1b9b1c15863df6c429468cc4e11bc9f4039ee5904db2c5e1676537584",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "10/10057/10057.fantome",
+  "files": [
+    {
+      "path": "skins/10/10057/10057/Kayle.wad.client",
+      "size": 95667,
+      "sha256": "cd71b16557e4c9e2b7f558130c14d96520a63255cf2bd5cf3f4ac0e95bdb752c"
+    }
+  ],
+  "wads": {
+    "Kayle.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 9383,
+      "bytes_after": 95667,
+      "replacement_hashes": [
+        "81ad778743ec0621"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kayle.wad.client",
+        "normal_hash": "81ad778743ec0621",
+        "border_hash": "8a8f8b4be9867226",
+        "bytes": 86252,
+        "sha256": "94b4edbe2b6d839d30bcc3195720b5a582a9ccc0e2f9dfe02daa31b5e50435fb"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

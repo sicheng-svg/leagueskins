@@ -1,0 +1,48 @@
+{
+  "skin_id": 1054,
+  "base_skin_id": 1050,
+  "champion_id": 1,
+  "name": "战斗公主 安妮 纹章之刻印·果决",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ea2e099424bc9bdb81cef5b4a1549f7e921d95ace364a15a9496db34e73403c6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "1/1050/1054/1054.fantome",
+  "files": [
+    {
+      "path": "skins/1/1050/1054/Annie.wad.client",
+      "size": 3152,
+      "sha256": "add01b4b352954f5964504d9d2e13222b0c4d82a56885a8070e4fd1d8c6e6b6d"
+    }
+  ],
+  "wads": {
+    "Annie.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3152,
+      "bytes_after": 3152,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

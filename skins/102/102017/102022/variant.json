@@ -1,0 +1,65 @@
+{
+  "skin_id": 102022,
+  "base_skin_id": 102017,
+  "champion_id": 102,
+  "name": "玉剑传说 舞龙卫 紫檀",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6667becdbf8eb3b7f634792f3ad2b5556650177e5c504737145367ddcd0a436c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "102/102017/102022/102022.fantome",
+  "files": [
+    {
+      "path": "skins/102/102017/102022/Shyvana.wad.client",
+      "size": 91361,
+      "sha256": "f1e7743bc0e2a670f2828ef5b230011b4977f76ada4dc75fac881974ebed7c7d"
+    }
+  ],
+  "wads": {
+    "Shyvana.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5077,
+      "bytes_after": 91361,
+      "replacement_hashes": [
+        "2a8e658c346e59a1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Shyvana.wad.client",
+        "normal_hash": "2a8e658c346e59a1",
+        "border_hash": "e5ce71e652368c58",
+        "bytes": 86252,
+        "sha256": "01881fe1730d94ada805562f8c4daf0a9cba9ea6626b7c0f174213340e2441cb"
+      },
+      {
+        "archive": "Shyvana.wad.client",
+        "normal_hash": "2a8e658c346e59a1",
+        "border_hash": "e5ce71e652368c58",
+        "bytes": 86252,
+        "sha256": "01881fe1730d94ada805562f8c4daf0a9cba9ea6626b7c0f174213340e2441cb"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

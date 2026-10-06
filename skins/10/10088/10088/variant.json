@@ -1,0 +1,58 @@
+{
+  "skin_id": 10088,
+  "base_skin_id": 10088,
+  "champion_id": 10,
+  "name": "创始者 银白审判 凯尔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f200f130f9248b244c6179f2b55ecbdeeb9bbdefe737a023064e319386638ae8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "10/10088/10088.fantome",
+  "files": [
+    {
+      "path": "skins/10/10088/10088/Kayle.wad.client",
+      "size": 93652,
+      "sha256": "7935d101fea1bce4704e7c79175ff77d36502fa8e4dc72e98796e8c36cdae278"
+    }
+  ],
+  "wads": {
+    "Kayle.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7368,
+      "bytes_after": 93652,
+      "replacement_hashes": [
+        "7db4cbce0d615227"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kayle.wad.client",
+        "normal_hash": "7db4cbce0d615227",
+        "border_hash": "70792f8c9480b627",
+        "bytes": 86252,
+        "sha256": "57cfc6653127c01d9841894ece9ff34ad4d0d44add056088f680ee21634695ef"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

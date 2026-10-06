@@ -1,0 +1,48 @@
+{
+  "skin_id": 101028,
+  "base_skin_id": 101021,
+  "champion_id": 101,
+  "name": "宇航员 泽拉斯 伽马射线",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fda5ccdb8d1b447105d545f88351b4ed5ec2806467f90eab101627b58d644c6a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "101/101021/101028/101028.fantome",
+  "files": [
+    {
+      "path": "skins/101/101021/101028/Xerath.wad.client",
+      "size": 2467,
+      "sha256": "2a1a48b5707bd4b3636f6fbff54391ae0ff741aceacbd76abd757190362c7a90"
+    }
+  ],
+  "wads": {
+    "Xerath.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2467,
+      "bytes_after": 2467,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "skin_id": 1026,
+  "base_skin_id": 1022,
+  "champion_id": 1,
+  "name": "咖啡甜心 安妮 蓝莓朱古力",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "354ebc266c5938ba1c85d7636c5882883c8d357b129ee64506980a76f5adcd11",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "1/1022/1026/1026.fantome",
+  "files": [
+    {
+      "path": "skins/1/1022/1026/Annie.wad.client",
+      "size": 89511,
+      "sha256": "26d68a533a87c25bdb8d9e8330463b15dfcc1707b4f54602b186bd9328d410f8"
+    }
+  ],
+  "wads": {
+    "Annie.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3227,
+      "bytes_after": 89511,
+      "replacement_hashes": [
+        "ae38d9e99da9cbdc"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Annie.wad.client",
+        "normal_hash": "ae38d9e99da9cbdc",
+        "border_hash": "183164843e944462",
+        "bytes": 86252,
+        "sha256": "9806b7fd76451204b556e4211f1832724c96aacd83bffe7e90bab45b44591b25"
+      },
+      {
+        "archive": "Annie.wad.client",
+        "normal_hash": "ae38d9e99da9cbdc",
+        "border_hash": "183164843e944462",
+        "bytes": 86252,
+        "sha256": "9806b7fd76451204b556e4211f1832724c96aacd83bffe7e90bab45b44591b25"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 1060,
+  "base_skin_id": 1060,
+  "champion_id": 1,
+  "name": "哥特萝莉 安妮 现代",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f32156b22f842913ac9bacf98270310d0fadbe94c616d72d25d14ff02364ff3a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "b819cc21678a084af9eb03c5e654f208e4b9c8bdbcabd3d3af904474fc69a6bc"
+  },
+  "source_package": "1/1060/1060.fantome",
+  "files": [
+    {
+      "path": "skins/1/1060/1060/Annie.wad.client",
+      "size": 4769,
+      "sha256": "c9f852601e200f4697c06caf1d40d8d64e2e023b78581de71f4e6e12c52d57be"
+    }
+  ],
+  "wads": {
+    "Annie.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4769,
+      "bytes_after": 4769,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

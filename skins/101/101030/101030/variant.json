@@ -1,0 +1,58 @@
+{
+  "skin_id": 101030,
+  "base_skin_id": 101030,
+  "champion_id": 101,
+  "name": "水晶巫灵 泽拉斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "02a191206381b9e059ca56de36513398190e824bf649c92bc44375d5cb108219",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "101/101030/101030.fantome",
+  "files": [
+    {
+      "path": "skins/101/101030/101030/Xerath.wad.client",
+      "size": 92346,
+      "sha256": "d8904c86154dd5230a2319bcb2bcf438b42e26307ef9bf7505c47b9be8faefd5"
+    }
+  ],
+  "wads": {
+    "Xerath.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6062,
+      "bytes_after": 92346,
+      "replacement_hashes": [
+        "8797c5c6d6867c32"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Xerath.wad.client",
+        "normal_hash": "8797c5c6d6867c32",
+        "border_hash": "872292acaf083373",
+        "bytes": 86252,
+        "sha256": "ce95feb7452b3725add10fe8fd38666c9b028b1a6fb65be05fcc5f333b42f51c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 7,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

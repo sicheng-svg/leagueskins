@@ -1,0 +1,58 @@
+{
+  "skin_id": 10087,
+  "base_skin_id": 10078,
+  "champion_id": 10,
+  "name": "灵魂莲华 凯尔 至强",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "000b115536fbf65629ac4dff494be4233eb46984b893ccc272d7c157fdba5513",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "10/10078/10087/10087.fantome",
+  "files": [
+    {
+      "path": "skins/10/10078/10087/Kayle.wad.client",
+      "size": 89836,
+      "sha256": "5874644ca62f339fba914940a5fd2bb2c39f6848b0e88d44eb9a9286e5204f6d"
+    }
+  ],
+  "wads": {
+    "Kayle.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3552,
+      "bytes_after": 89836,
+      "replacement_hashes": [
+        "c75f66279d5ff2ca"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kayle.wad.client",
+        "normal_hash": "c75f66279d5ff2ca",
+        "border_hash": "90dbd8390dc3f87a",
+        "bytes": 86252,
+        "sha256": "facf42e6054d8a4eb195e6e64c5a79ea152d8b4c43b53893ab266e6f064b1936"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

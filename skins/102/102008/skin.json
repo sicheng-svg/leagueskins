@@ -1,0 +1,592 @@
+{
+  "champion_id": 102,
+  "base_skin_id": 102008,
+  "name": "破败军团 希瓦娜",
+  "variants": [
+    {
+      "skin_id": 102008,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e80bf22337c4dcb0dbe019bd78a650180d2ff141cab4480890e96abb95620199",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102008.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102008/Shyvana.wad.client",
+          "size": 97795,
+          "sha256": "175c072b8253998e8f47ecd6e8938c54fb8fe71fcf2b02d56c4c60657c4d1029"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11511,
+          "bytes_after": 97795,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102009,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 帝国征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "33779157d49c54a0567acc2476b03b285637d59b0e263a76064d26eb7cb9e4b8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102009/102009.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102009/Shyvana.wad.client",
+          "size": 91144,
+          "sha256": "9f560ea5ff6f70431e7e9c8bbf8ae592aa8441ceb4a4dd60dabdd4ff35e8d80d"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4860,
+          "bytes_after": 91144,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102010,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 山峰征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3bb829aeec15e5877bb92f89f8f7a2767d82a3cd18affaae57ecda460d1361ff",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102010/102010.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102010/Shyvana.wad.client",
+          "size": 91088,
+          "sha256": "aebbdb883abe3abfe2b72f3b2eac6b2153c13ac731f15a0783733da072815f01"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4804,
+          "bytes_after": 91088,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102011,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 森林征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "87e5eb0ea22c86ec691782733ca88eb1a46a1331bcef30942f71bcd9a697e11c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102011/102011.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102011/Shyvana.wad.client",
+          "size": 91088,
+          "sha256": "23c3445be9c72b1becf1e4349b4a54a097318d089fdabd3e260199a1dad2ade9"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4804,
+          "bytes_after": 91088,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102012,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 海港征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c296314a38a3a36804d60093b9f943630cce3a36b2275890109fea331c43634f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102012/102012.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102012/Shyvana.wad.client",
+          "size": 91088,
+          "sha256": "a7f3f7f3756c136b508d70a7339ea2d473a5537b04440572785f6adbcef247f7"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4804,
+          "bytes_after": 91088,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102013,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 虚无征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "58b258f3e28716ba2d20d37c9999aca1f4143dd8d3183a37416f692074e2504f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102013/102013.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102013/Shyvana.wad.client",
+          "size": 91087,
+          "sha256": "96794ed32b8c71bc9f7fde9a20c13200f008ce579cd33654cdc5e6835076704b"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4803,
+          "bytes_after": 91087,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102014,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 灵岛征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2e4bcb17f8848cfbc394dff56c1e58a01e5aeb3b50b14be89e4a73876e122912",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102014/102014.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102014/Shyvana.wad.client",
+          "size": 91113,
+          "sha256": "70ce3b6513e9540806c5c9adf6b769e779550cc1a307c54c5ff4e01a549b95c0"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4829,
+          "bytes_after": 91113,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102015,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 极地征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9911881091de8d4214b8a60f1ee5e207df4f188bb01dc79b77ce8120b28fdca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102015/102015.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102015/Shyvana.wad.client",
+          "size": 91088,
+          "sha256": "737baa26e6eb3353ba954a59ed40c6c346b956c7ea384254adcda0adbdf59248"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4804,
+          "bytes_after": 91088,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 102016,
+      "base_skin_id": 102008,
+      "champion_id": 102,
+      "name": "破败军团 希瓦娜 咒缚征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bf12d339f3daeb61ef6a77e2656d35dc1fdb1f70e63e12aaa58adc54800849a2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "102/102008/102016/102016.fantome",
+      "files": [
+        {
+          "path": "skins/102/102008/102016/Shyvana.wad.client",
+          "size": 91147,
+          "sha256": "254c98ae4386cc75f2356d82115e628becff729ab82b73258fd1bbc7ffe621ec"
+        }
+      ],
+      "wads": {
+        "Shyvana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4863,
+          "bytes_after": 91147,
+          "replacement_hashes": [
+            "cf3de5ade66a9e2e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          },
+          {
+            "archive": "Shyvana.wad.client",
+            "normal_hash": "cf3de5ade66a9e2e",
+            "border_hash": "8af1b1f0cfedfc74",
+            "bytes": 86252,
+            "sha256": "79119d21f48eb311375ed94afaadf37cc94784cd343c1301f8808682894db9fa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 10014,
+  "base_skin_id": 10002,
+  "champion_id": 10,
+  "name": "末世天使 凯尔 嫉恶之翼",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "63b15173389b8c91d4025017b1aaae1659840f2bc678f52f211bb2f536f37d63",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "10/10002/10014/10014.fantome",
+  "files": [
+    {
+      "path": "skins/10/10002/10014/Kayle.wad.client",
+      "size": 2657,
+      "sha256": "ca80b4b0b6efd2e6fac1f56e0dfd848348f4ea57ca2e633c8ee7301572d85d39"
+    }
+  ],
+  "wads": {
+    "Kayle.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2657,
+      "bytes_after": 2657,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

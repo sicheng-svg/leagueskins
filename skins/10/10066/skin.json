@@ -1,0 +1,645 @@
+{
+  "champion_id": 10,
+  "base_skin_id": 10066,
+  "name": "至高天 凯尔",
+  "variants": [
+    {
+      "skin_id": 10066,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fce3d7c7a38a0697d04698c1b41ba7c1b6e75d4bbb2107860c84b2f3483bd42b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10066.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10066/Kayle.wad.client",
+          "size": 97896,
+          "sha256": "ed5c2dc3137e81fca86fb45de88a161f0f4e67251439f9628ca80a9265158c64"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11612,
+          "bytes_after": 97896,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10068,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 狂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "29ea61a49f744e40c36668fe88b7a611fd394ef069f2c348bf74232e4f2be094",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10068/10068.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10068/Kayle.wad.client",
+          "size": 90342,
+          "sha256": "e4e97a901561eaba099da601c6895a93c3ed198e7d8c3d3a9406ba48c79b813d"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4058,
+          "bytes_after": 90342,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10069,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 华耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ef23db3c141af3f1fac3b34c46ef967c51a56e22469384603610ab62ea7a43cd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10069/10069.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10069/Kayle.wad.client",
+          "size": 90285,
+          "sha256": "06051db04433b166719fdfce5b8c886551e73c58e53a70ea65fbcae7166b690a"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4001,
+          "bytes_after": 90285,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10070,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 青炬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4fd782ad9a6fdb72e32faacda9c7ded33a885b65be748e5ad4f412dbad30b2c7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10070/10070.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10070/Kayle.wad.client",
+          "size": 90292,
+          "sha256": "9f925d29c65535f2c7ee1c42111a491a8175f2c9a760845aeb3a288608ef993d"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4008,
+          "bytes_after": 90292,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10071,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 灵辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1195adbe1df10b7a0e187f7dd692b66b4321019f4eb17d3e654e4768d56ffaa7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10071/10071.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10071/Kayle.wad.client",
+          "size": 90315,
+          "sha256": "f8442578f1199eb6785222fb7c065496e7509bb2b48b5da76de9a80ed250be10"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4031,
+          "bytes_after": 90315,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10072,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 幻耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "81e744f6d690df9f7b4768c77788a19f53b3ce7fc0df4e5634d6385ccdb23540",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10072/10072.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10072/Kayle.wad.client",
+          "size": 90318,
+          "sha256": "282ddb3b6b0349bedbb091da32e8ebd88a6fd8911664e821667f401b65ed80d6"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4034,
+          "bytes_after": 90318,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10073,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 寒芒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0fda8e0c0df1ac9938f0fcca49f6564e9e19c8b1498d084c15fc34cd3c808b48",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10073/10073.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10073/Kayle.wad.client",
+          "size": 90292,
+          "sha256": "532f409adcdf9cf622ea2a5d001161429e8b01663a5e712cf5f35f5aaebe530a"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4008,
+          "bytes_after": 90292,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10074,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 胧光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e084e578918a5085782d4f330d1cb454263a8c4b51484be00acbed5e2900b55",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10074/10074.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10074/Kayle.wad.client",
+          "size": 90291,
+          "sha256": "60694d4523272ddca55edbda47088e8dd80ae7b269a06bde84cab8dc65872427"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4007,
+          "bytes_after": 90291,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10075,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 荧煌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f06067f606673e2542c11f40c1743d22d305a90dd40a24a12fc2e6d080356695",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10075/10075.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10075/Kayle.wad.client",
+          "size": 90293,
+          "sha256": "d1675e011c4690503fd763da88767edb8de4d12385d993511dc930584a5a07ee"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4009,
+          "bytes_after": 90293,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10076,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 凯尔 霓虹表象",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "34dbcba9910f6ec0807a4634eefffcbb6fac916de7f139956703e73bc3e6f365",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10076/10076.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10076/Kayle.wad.client",
+          "size": 90346,
+          "sha256": "a77bf2856754f087ad4c9a5edc64e5fdae654b4ce93c9992a91669abf6f7f7ae"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4062,
+          "bytes_after": 90346,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 10077,
+      "base_skin_id": 10066,
+      "champion_id": 10,
+      "name": "至高天 开辟未知 凯尔",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6502b9e332f6ecaa1a695f5fd10ff8b31fd362730072b91b938a7c0308e00080",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10066/10077/10077.fantome",
+      "files": [
+        {
+          "path": "skins/10/10066/10077/Kayle.wad.client",
+          "size": 90296,
+          "sha256": "a103f050c784131d53e5d362441ca58e8d01c01dee92e3bfb3a60409ddc8fba4"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4012,
+          "bytes_after": 90296,
+          "replacement_hashes": [
+            "06f6267bc341b1cf"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayle.wad.client",
+            "normal_hash": "06f6267bc341b1cf",
+            "border_hash": "5ba5cc2a96c13232",
+            "bytes": 86252,
+            "sha256": "46dcc7cb394ef0ccec8599492c127addecac6d4c991bff9ae2ee50f6f5215841"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 103042,
+  "base_skin_id": 103042,
+  "champion_id": 103,
+  "name": "魔女 阿狸",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5963e7a30176a4da0c585562ee88ea7bd72cb13535645ca704bdadc28a6e24be",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "103/103042/103042.fantome",
+  "files": [
+    {
+      "path": "skins/103/103042/103042/Ahri.wad.client",
+      "size": 93936,
+      "sha256": "9f5e276df6ee7873d7d2a7a91b9c85abe032f8b7d71158265696cf744feb83e8"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7652,
+      "bytes_after": 93936,
+      "replacement_hashes": [
+        "9392a095a89846c2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ahri.wad.client",
+        "normal_hash": "9392a095a89846c2",
+        "border_hash": "8d5d1c9ed70e1386",
+        "bytes": 86252,
+        "sha256": "b601719be4c61fc0999816746841503a7fd87bcd3d06dbba20d20bacd8682f05"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

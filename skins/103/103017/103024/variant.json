@@ -1,0 +1,58 @@
+{
+  "skin_id": 103024,
+  "base_skin_id": 103017,
+  "champion_id": 103,
+  "name": "永恒之森 阿狸 瑰蕾之尾",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "573e11e8146a936e8fa839467caaea074366f10182ccbdfe18efd1ec2b7e72c3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "103/103017/103024/103024.fantome",
+  "files": [
+    {
+      "path": "skins/103/103017/103024/Ahri.wad.client",
+      "size": 89341,
+      "sha256": "2cba6657c1377b5142509d9294a067f427b082f889227024deb7318a1188d2a5"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3057,
+      "bytes_after": 89341,
+      "replacement_hashes": [
+        "d0e5a942193faca1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ahri.wad.client",
+        "normal_hash": "d0e5a942193faca1",
+        "border_hash": "fc6e7921e7589a26",
+        "bytes": 86252,
+        "sha256": "2133e8d717b4c384cb1f489c53d05d5c3cdafd0a2bcce7d20e131eff9f30967f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "champion_id": 1,
+  "base_skin_id": 1040,
+  "name": "北极星使者 安妮",
+  "variants": [
+    {
+      "skin_id": 1040,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "13da22b4bac469be0b99aee43d5490195122c82ba8c85ce2ac946275011f3e32",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1040.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1040/Annie.wad.client",
+          "size": 91468,
+          "sha256": "1c36f3294917bfe95e6bc26520ec2de9248fe0588048ea5a43827cbc2aecbde4"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5184,
+          "bytes_after": 91468,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1041,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 激昂脉冲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ab22436e9047d43a949f17a0a2bf616ef163d72035d0a86bd43412e3b2b6ba81",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1041/1041.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1041/Annie.wad.client",
+          "size": 89314,
+          "sha256": "8dce8e23ee6cce663c2c3984d9eef22695f11cfd8057db04ad600a5342807a7c"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3030,
+          "bytes_after": 89314,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1042,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 浪漫帘幕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c58c8e881b2de1fa8ec0b160ec0fb918ac77be4fe9bbb28846e5d52797c64bac",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1042/1042.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1042/Annie.wad.client",
+          "size": 89283,
+          "sha256": "d5832f84188f1fb0ffd7daa0f5529a1012ce89ea99cb5e7f34ed21b00dd887e0"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2999,
+          "bytes_after": 89283,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1043,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 幸运漩涡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eaeae74091ebf72141d05dcdc74225326e228b1699148f9991eaf12ad506c0a9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1043/1043.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1043/Annie.wad.client",
+          "size": 89265,
+          "sha256": "d4c53002d588e11bfa1d29cd6c13f50ad6ce02d57bf4e54a47ca0d59d760c7c4"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2981,
+          "bytes_after": 89265,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1044,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 祥和面纱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "46ac65e1516477baed80d155a10ac4378386d8c015167561af898210b1cd171e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1044/1044.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1044/Annie.wad.client",
+          "size": 89265,
+          "sha256": "f0d91a210a4106fa2f082d7064e3aae8d4f741d1a4289c2c15ae38aa58254946"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2981,
+          "bytes_after": 89265,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1045,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 智慧纽带",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "84cd92381cf59ecfd969cf4b1d732c1414d21f0d18280e2671849181612dea8a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1045/1045.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1045/Annie.wad.client",
+          "size": 89264,
+          "sha256": "db042df670e8f32a52bd83fb3a98ef0c5f7add9a62f99d753b0b5e057695040b"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2980,
+          "bytes_after": 89264,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1046,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 聪颖光弧",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "efa87dce50a5992ab6eb6c883f64e359254f1ff24a969a09430db72d608ebb5e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1046/1046.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1046/Annie.wad.client",
+          "size": 89264,
+          "sha256": "bcf45cc4ac69e7343445a8ccca6cddf9686b1ebe5153eabf944f4d966e0a190b"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2980,
+          "bytes_after": 89264,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1047,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 七彩光斑",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "054646fefcd24103965a80b6ddcae647974c0dc5716ebd5a98a5f05958bde198",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1047/1047.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1047/Annie.wad.client",
+          "size": 89264,
+          "sha256": "a28314006f37402387b53323ba6c4fb7ff4ee96a2b178bcf708c2974483551d7"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2980,
+          "bytes_after": 89264,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1048,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 庄严光冕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1e6f6b4a83f8fbd1d477d0bd8aac33fa54fe232c982bc6a3a38155ecffed4a66",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1048/1048.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1048/Annie.wad.client",
+          "size": 89262,
+          "sha256": "0cfb87265f949714367fdba93db289558ed20ad678f52d8f8357871bddef5ec6"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2978,
+          "bytes_after": 89262,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 1049,
+      "base_skin_id": 1040,
+      "champion_id": 1,
+      "name": "北极星使者 安妮 花冠极光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1291f11131841e5b7843cba4b416f0e1b1ae027b3221649bab960dc602a62ce9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "1/1040/1049/1049.fantome",
+      "files": [
+        {
+          "path": "skins/1/1040/1049/Annie.wad.client",
+          "size": 89318,
+          "sha256": "638976daffa6f3fe3ce1b3119a8ca0b2a936f647bde0d80263bcdce6e89d2c9f"
+        }
+      ],
+      "wads": {
+        "Annie.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3034,
+          "bytes_after": 89318,
+          "replacement_hashes": [
+            "dee3c500264bb507"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          },
+          {
+            "archive": "Annie.wad.client",
+            "normal_hash": "dee3c500264bb507",
+            "border_hash": "1c28aa0f18772175",
+            "bytes": 86252,
+            "sha256": "a8064b29ccf37f5707ea4cc515a6e5ef9661fdfb2e305c5cee6ae964aa55ab1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 1011,
+  "base_skin_id": 1011,
+  "champion_id": 1,
+  "name": "银河魔装机神 安妮",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "35b4ad4e52c808950d877972560a8f8224e6afcb5be95b057789d1290842cb25",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "1/1011/1011.fantome",
+  "files": [
+    {
+      "path": "skins/1/1011/1011/Annie.wad.client",
+      "size": 5509,
+      "sha256": "f2e4465bd832afa3683c0680315c8b1a9aca1b0395aa8386164380fb5124a4d8"
+    }
+  ],
+  "wads": {
+    "Annie.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5509,
+      "bytes_after": 5509,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

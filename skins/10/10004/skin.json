@@ -1,0 +1,55 @@
+{
+  "champion_id": 10,
+  "base_skin_id": 10004,
+  "name": "战场女武神 凯尔",
+  "variants": [
+    {
+      "skin_id": 10004,
+      "base_skin_id": 10004,
+      "champion_id": 10,
+      "name": "战场女武神 凯尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1b3a8d26cb9287862ceca718095cb7ef760a9578a64dd326ee49aab9eb31e57a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "10/10004/10004.fantome",
+      "files": [
+        {
+          "path": "skins/10/10004/10004/Kayle.wad.client",
+          "size": 7324,
+          "sha256": "29215f1186e1236a66e215ae84a469e5157d06d3a59ca4820adb2eaf42590f06"
+        }
+      ],
+      "wads": {
+        "Kayle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7324,
+          "bytes_after": 7324,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

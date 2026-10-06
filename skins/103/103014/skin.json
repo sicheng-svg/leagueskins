@@ -1,0 +1,123 @@
+{
+  "champion_id": 103,
+  "base_skin_id": 103014,
+  "name": "星之守护者 阿狸",
+  "variants": [
+    {
+      "skin_id": 103014,
+      "base_skin_id": 103014,
+      "champion_id": 103,
+      "name": "星之守护者 阿狸",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fb1b45171145b85aa2f0468415f2d14a86bcebda947c585c8f0f81bb084874b8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "103/103014/103014.fantome",
+      "files": [
+        {
+          "path": "skins/103/103014/103014/Ahri.wad.client",
+          "size": 95360,
+          "sha256": "c9f9a7523f76573bca8a294f37054685fef20b2ae43a5a511da70d366b5eb073"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9076,
+          "bytes_after": 95360,
+          "replacement_hashes": [
+            "b761c4cc4db7c370"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "b761c4cc4db7c370",
+            "border_hash": "2a14512564e9e9e4",
+            "bytes": 86252,
+            "sha256": "bbe1e150a2f903435514b51064f895a49271475297dd6591591209f8d7c2a4ae"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 103059,
+      "base_skin_id": 103014,
+      "champion_id": 103,
+      "name": "星之守护者 阿狸 幻尾",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fda7552c6a0c079a491778bfe4dadad37518e0ac263c29fb1378822c8930c5b5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "103/103014/103059/103059.fantome",
+      "files": [
+        {
+          "path": "skins/103/103014/103059/Ahri.wad.client",
+          "size": 89888,
+          "sha256": "b65c00b9fe61648bdef22149f3f2fde525c8401f5d9e60812d1b0d729e2b0bfb"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3604,
+          "bytes_after": 89888,
+          "replacement_hashes": [
+            "b761c4cc4db7c370"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "b761c4cc4db7c370",
+            "border_hash": "2a14512564e9e9e4",
+            "bytes": 86252,
+            "sha256": "bbe1e150a2f903435514b51064f895a49271475297dd6591591209f8d7c2a4ae"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

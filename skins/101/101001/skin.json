@@ -1,0 +1,55 @@
+{
+  "champion_id": 101,
+  "base_skin_id": 101001,
+  "name": "符文生物 泽拉斯",
+  "variants": [
+    {
+      "skin_id": 101001,
+      "base_skin_id": 101001,
+      "champion_id": 101,
+      "name": "符文生物 泽拉斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0735f99440e40539e88087c6a839f98c3161e1450d519177e4e2727b65d1e9e7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "101/101001/101001.fantome",
+      "files": [
+        {
+          "path": "skins/101/101001/101001/Xerath.wad.client",
+          "size": 5074,
+          "sha256": "871bf62889a4a197bb167f3a08429895efd726068b6b7bf0aade6cfa23ca2daa"
+        }
+      ],
+      "wads": {
+        "Xerath.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5074,
+          "bytes_after": 5074,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 7,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

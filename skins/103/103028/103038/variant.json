@@ -1,0 +1,58 @@
+{
+  "skin_id": 103038,
+  "base_skin_id": 103028,
+  "champion_id": 103,
+  "name": "K/DA ALL OUT 阿狸 温润之音",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "33711fe09153f5c3c3f101eb1b69cccad68afa3cd31a0cdc13510f341c75e84d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "103/103028/103038/103038.fantome",
+  "files": [
+    {
+      "path": "skins/103/103028/103038/Ahri.wad.client",
+      "size": 89325,
+      "sha256": "3a8a8b6d756ed6fb12f9df1dbdf778a517d0e0f1d59be77e4add2d989afcc46e"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3041,
+      "bytes_after": 89325,
+      "replacement_hashes": [
+        "70681cd2e96d3daa"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ahri.wad.client",
+        "normal_hash": "70681cd2e96d3daa",
+        "border_hash": "ad26095ac50997f9",
+        "bytes": 86252,
+        "sha256": "49840bc2f65d08f0b61a835c71ea7e928a06d076a41b8420a8d109ca73390313"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

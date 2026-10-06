@@ -1,0 +1,58 @@
+{
+  "skin_id": 103037,
+  "base_skin_id": 103028,
+  "champion_id": 103,
+  "name": "K/DA ALL OUT 阿狸 治愈之声",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a7db07a2a38812e689d5527daebbca06a84fd29ee266b5ed8685c871ade767fa",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "103/103028/103037/103037.fantome",
+  "files": [
+    {
+      "path": "skins/103/103028/103037/Ahri.wad.client",
+      "size": 89327,
+      "sha256": "d94926b853f20e2f3eab87819a0b08874b32e9715ad5a350019fdd3c2c81b285"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3043,
+      "bytes_after": 89327,
+      "replacement_hashes": [
+        "70681cd2e96d3daa"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ahri.wad.client",
+        "normal_hash": "70681cd2e96d3daa",
+        "border_hash": "ad26095ac50997f9",
+        "bytes": 86252,
+        "sha256": "49840bc2f65d08f0b61a835c71ea7e928a06d076a41b8420a8d109ca73390313"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 103027,
+  "base_skin_id": 103027,
+  "champion_id": 103,
+  "name": "灵魂莲华 阿狸",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "650a6b3c0f99d8ae991d82bfca855a02c5e4a725c1cdd9333ead216eb0b5fa07",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "103/103027/103027.fantome",
+  "files": [
+    {
+      "path": "skins/103/103027/103027/Ahri.wad.client",
+      "size": 93697,
+      "sha256": "116e90899953ef980023e14c6576e23f9f9723caf2dec0366ff59fe90e825816"
+    }
+  ],
+  "wads": {
+    "Ahri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7413,
+      "bytes_after": 93697,
+      "replacement_hashes": [
+        "dd8494e446371142"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ahri.wad.client",
+        "normal_hash": "dd8494e446371142",
+        "border_hash": "3cb23d6fea53e7ee",
+        "bytes": 86252,
+        "sha256": "295a154322ce8ef36bb96c44bd7205b70805d7c467149bedefb6b80f71babc3c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

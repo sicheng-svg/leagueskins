@@ -1,0 +1,58 @@
+{
+  "skin_id": 101011,
+  "base_skin_id": 101005,
+  "champion_id": 101,
+  "name": "暗星 泽拉斯 战神星之爆",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "98a9c45a2ecea585a976d199c4636257e7df1ad15067baa8f033246573639b98",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "101/101005/101011/101011.fantome",
+  "files": [
+    {
+      "path": "skins/101/101005/101011/Xerath.wad.client",
+      "size": 88638,
+      "sha256": "b77d05623723d6657e008903fea18e7499b99c6a53e0e3f1d54e8ac85aea5821"
+    }
+  ],
+  "wads": {
+    "Xerath.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2354,
+      "bytes_after": 88638,
+      "replacement_hashes": [
+        "5c00bcc0d7022515"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Xerath.wad.client",
+        "normal_hash": "5c00bcc0d7022515",
+        "border_hash": "23c765035744ae49",
+        "bytes": 86252,
+        "sha256": "97a0f15082f07016ae21898d995972586ac59e08efb3191033cec5f1c87548fe"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

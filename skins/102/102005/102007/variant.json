@@ -1,0 +1,65 @@
+{
+  "skin_id": 102007,
+  "base_skin_id": 102005,
+  "champion_id": 102,
+  "name": "冠军之血 希瓦娜 凯旋圣装",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d09baf95b4ed0b0f83c78d34efb578899755f30ffa1941c0e262eed148a0595b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "102/102005/102007/102007.fantome",
+  "files": [
+    {
+      "path": "skins/102/102005/102007/Shyvana.wad.client",
+      "size": 90788,
+      "sha256": "e881749df587425c9462ab0660ef2e732360539da5b923ab45b464056670aa41"
+    }
+  ],
+  "wads": {
+    "Shyvana.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4504,
+      "bytes_after": 90788,
+      "replacement_hashes": [
+        "13843c760a085549"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Shyvana.wad.client",
+        "normal_hash": "13843c760a085549",
+        "border_hash": "0025c5e4788fc193",
+        "bytes": 86252,
+        "sha256": "4446b3667e457683f6893c014f922dfb0356ab70d14a7c1947bb5db9b22bdbeb"
+      },
+      {
+        "archive": "Shyvana.wad.client",
+        "normal_hash": "13843c760a085549",
+        "border_hash": "0025c5e4788fc193",
+        "bytes": 86252,
+        "sha256": "4446b3667e457683f6893c014f922dfb0356ab70d14a7c1947bb5db9b22bdbeb"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

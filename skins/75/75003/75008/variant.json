@@ -1,0 +1,48 @@
+{
+  "skin_id": 75008,
+  "base_skin_id": 75003,
+  "champion_id": 75,
+  "name": "死亡骑士 内瑟斯 疫病使者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "28b792cec19984ed328a0692e868b0c1cd46d84b640b1ebf13545172c0953a5e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "75/75003/75008/75008.fantome",
+  "files": [
+    {
+      "path": "skins/75/75003/75008/Nasus.wad.client",
+      "size": 1544,
+      "sha256": "dfc7d2aa520beda29eb0e598950924feb8fcf19de33e3edcc69db5a419623dd8"
+    }
+  ],
+  "wads": {
+    "Nasus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1544,
+      "bytes_after": 1544,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

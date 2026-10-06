@@ -1,0 +1,73 @@
+{
+  "skin_id": 7055,
+  "base_skin_id": 7055,
+  "champion_id": 7,
+  "name": "殿堂传奇 乐芙兰",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b47619b1ef4c1b749a9c089899789c13b2a499cf1bc3e905d4a3875b5a369750",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+  },
+  "source_package": "7/7055/7055.fantome",
+  "files": [
+    {
+      "path": "skins/7/7055/7055/Leblanc.wad.client",
+      "size": 962831,
+      "sha256": "115ad00c80c42647ad2bac3e433bae8c8d9de8163b8522f3797caadf8b9c8ef3"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 4,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 10635,
+      "bytes_after": 962831,
+      "replacement_hashes": [
+        "1af4551dc960e6ae",
+        "b032fd41a731c1ba",
+        "fb7fb286231b95b1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "fb7fb286231b95b1",
+        "border_hash": "1af4551dc960e6ae",
+        "bytes": 689932,
+        "sha256": "c58280058ab9eea770d48716eb800401248012f2f73a80573f26e57714527658",
+        "strategy": "bake_native_augment_layers",
+        "layers": [
+          {
+            "path": "ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Premium.tex",
+            "sha256": "402e1d3a56016c4bb382b82eecca38aa8d0365e9a15a3dab9dc3fcbf08d55443"
+          },
+          {
+            "path": "ASSETS/Characters/Leblanc/Skins/Skin55/UI/LeblancLoadScreen_Augments_Border_Signature.tex",
+            "sha256": "5400a4db15d03d5d7494a1736495b1aaf10f76a60b8478ddd75af1c75af788d6"
+          }
+        ],
+        "placement": "scale_native_layers_to_loading_card",
+        "in_game": "not_verified"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 75041,
+  "base_skin_id": 75035,
+  "champion_id": 75,
+  "name": "海珀利安小队 S02-阿努比斯 内瑟斯 紫色长剑",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f185619bf4336ce9655ad4159b4e4dae2dabeb19004456ca5d1f4d21ecafb02d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "75/75035/75041/75041.fantome",
+  "files": [
+    {
+      "path": "skins/75/75035/75041/Nasus.wad.client",
+      "size": 88447,
+      "sha256": "622fbd96a25c122cb91538b3a21e3a0d2b07f853c2063a02d0e6ccf1778011a8"
+    }
+  ],
+  "wads": {
+    "Nasus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2163,
+      "bytes_after": 88447,
+      "replacement_hashes": [
+        "74828981cfd7e91e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nasus.wad.client",
+        "normal_hash": "74828981cfd7e91e",
+        "border_hash": "51620186311743d4",
+        "bytes": 86252,
+        "sha256": "271ebb9bbfacb783b4c73e61046988111cd10761408cf48d60c97c31fcdaf62b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

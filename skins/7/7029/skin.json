@@ -1,0 +1,239 @@
+{
+  "champion_id": 7,
+  "base_skin_id": 7029,
+  "name": "冠军蔷薇 乐芙兰",
+  "variants": [
+    {
+      "skin_id": 7029,
+      "base_skin_id": 7029,
+      "champion_id": 7,
+      "name": "冠军蔷薇 乐芙兰",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2c48f3421551088cf790183fb88e1c2a6da1d5233eddb1fc648b640a74e7a91a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "7/7029/7029.fantome",
+      "files": [
+        {
+          "path": "skins/7/7029/7029/Leblanc.wad.client",
+          "size": 96551,
+          "sha256": "b350d47d3c02039bf3eb92085f840b4d9118eb68a32d88e207b9ac051aa6e432"
+        }
+      ],
+      "wads": {
+        "Leblanc.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10267,
+          "bytes_after": 96551,
+          "replacement_hashes": [
+            "08c729c6ff1a683f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leblanc.wad.client",
+            "normal_hash": "08c729c6ff1a683f",
+            "border_hash": "1408d2afb862da0f",
+            "bytes": 86252,
+            "sha256": "1ad03203d8cfb25586da86c84132f809c9cb43c608da75982ad3f6ffb60c6e10"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 7030,
+      "base_skin_id": 7029,
+      "champion_id": 7,
+      "name": "冠军蔷薇 乐芙兰 飘逸魅影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "248bfb3361a776a6305ea6e20cdc719a8c6daf7a0ed8ae6497c447f14447d99f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "7/7029/7030/7030.fantome",
+      "files": [
+        {
+          "path": "skins/7/7029/7030/Leblanc.wad.client",
+          "size": 89745,
+          "sha256": "ca7b54c6a6420f1a12777a265e0d86516813227bce8a70fd7107aab9e64d9f15"
+        }
+      ],
+      "wads": {
+        "Leblanc.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3461,
+          "bytes_after": 89745,
+          "replacement_hashes": [
+            "08c729c6ff1a683f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leblanc.wad.client",
+            "normal_hash": "08c729c6ff1a683f",
+            "border_hash": "1408d2afb862da0f",
+            "bytes": 86252,
+            "sha256": "1ad03203d8cfb25586da86c84132f809c9cb43c608da75982ad3f6ffb60c6e10"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 7031,
+      "base_skin_id": 7029,
+      "champion_id": 7,
+      "name": "冠军蔷薇 乐芙兰 激昂魅影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "129df7253cf1c22d5a456e7b10fcbf6e5b80c542cb043b77d22ab5388fb67325",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "7/7029/7031/7031.fantome",
+      "files": [
+        {
+          "path": "skins/7/7029/7031/Leblanc.wad.client",
+          "size": 89777,
+          "sha256": "07a33483450c9ad6cabc7cf14ed0f3ac36795ee6904d274e4429acdbc6163f66"
+        }
+      ],
+      "wads": {
+        "Leblanc.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3493,
+          "bytes_after": 89777,
+          "replacement_hashes": [
+            "08c729c6ff1a683f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leblanc.wad.client",
+            "normal_hash": "08c729c6ff1a683f",
+            "border_hash": "1408d2afb862da0f",
+            "bytes": 86252,
+            "sha256": "1ad03203d8cfb25586da86c84132f809c9cb43c608da75982ad3f6ffb60c6e10"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 7032,
+      "base_skin_id": 7029,
+      "champion_id": 7,
+      "name": "冠军蔷薇 乐芙兰 冷静魅影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3445162996c891090f37ee31e6ff7a5ea5fa19b6987037122748434f1570b8d8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "7/7029/7032/7032.fantome",
+      "files": [
+        {
+          "path": "skins/7/7029/7032/Leblanc.wad.client",
+          "size": 89742,
+          "sha256": "ad9f7e0b7ad6f13bfbcfdfde7a797ee3b3d466b71e26ddee16fe53c97fd42736"
+        }
+      ],
+      "wads": {
+        "Leblanc.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3458,
+          "bytes_after": 89742,
+          "replacement_hashes": [
+            "08c729c6ff1a683f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leblanc.wad.client",
+            "normal_hash": "08c729c6ff1a683f",
+            "border_hash": "1408d2afb862da0f",
+            "bytes": 86252,
+            "sha256": "1ad03203d8cfb25586da86c84132f809c9cb43c608da75982ad3f6ffb60c6e10"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

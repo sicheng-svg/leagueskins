@@ -1,0 +1,58 @@
+{
+  "skin_id": 7020,
+  "base_skin_id": 7020,
+  "champion_id": 7,
+  "name": "魔女 乐芙兰",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "33998f221c54c2536ac4f62680a5e05d4ca6be9ace8d2b04f71c3f85f03f13b5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7020/7020.fantome",
+  "files": [
+    {
+      "path": "skins/7/7020/7020/Leblanc.wad.client",
+      "size": 96936,
+      "sha256": "9625c3829bd18ab8e94c80e04f97e2a9cbfdc67b2d9b1dfcade69391d310c135"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 10652,
+      "bytes_after": 96936,
+      "replacement_hashes": [
+        "b43fb5e1e364a985"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "b43fb5e1e364a985",
+        "border_hash": "4f0229b90d8e0b50",
+        "bytes": 86252,
+        "sha256": "4af8b59c51f5fc64b19793021ec84dd24ded24485e0bff2db4ff2ce518d358c3"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

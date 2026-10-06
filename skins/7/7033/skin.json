@@ -1,0 +1,65 @@
+{
+  "champion_id": 7,
+  "base_skin_id": 7033,
+  "name": "至臻 魔女 乐芙兰",
+  "variants": [
+    {
+      "skin_id": 7033,
+      "base_skin_id": 7033,
+      "champion_id": 7,
+      "name": "至臻 魔女 乐芙兰",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8dac2ec8f95952b65cffaf6bd23ae856b9af8d885c21a66fc419faeee5984f7e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "7/7033/7033.fantome",
+      "files": [
+        {
+          "path": "skins/7/7033/7033/Leblanc.wad.client",
+          "size": 96960,
+          "sha256": "43f01e018224553636151d70d01414249b0e73e32f8b4ba855ad250e60ca9932"
+        }
+      ],
+      "wads": {
+        "Leblanc.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10676,
+          "bytes_after": 96960,
+          "replacement_hashes": [
+            "1cd333befca3fc6f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leblanc.wad.client",
+            "normal_hash": "1cd333befca3fc6f",
+            "border_hash": "900cdc01046f49ff",
+            "bytes": 86252,
+            "sha256": "14bdd2636a667b60e38b0e4dc5b2ef2df720c296572a25bbb5c203a51139a130"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 76021,
+  "base_skin_id": 76018,
+  "champion_id": 76,
+  "name": "狮子星神 奈德丽 主神星魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bd1feddea08438d21a475f4a82acb7a833b8e442e57c01e0cfaa05b2dfecbccf",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "76/76018/76021/76021.fantome",
+  "files": [
+    {
+      "path": "skins/76/76018/76021/Nidalee.wad.client",
+      "size": 5217,
+      "sha256": "dffc632b2436dcfb523bf825502a2f13967d2b9b1391ef638731770b4e1730b4"
+    }
+  ],
+  "wads": {
+    "Nidalee.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 5217,
+      "bytes_after": 5217,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

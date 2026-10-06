@@ -1,0 +1,48 @@
+{
+  "skin_id": 711020,
+  "base_skin_id": 711020,
+  "champion_id": 711,
+  "name": "观星者 薇古丝",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5b79a1b3ad29197015dff5174aeaab0d266e9a162ae063fe90257e702675f983",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "711/711020/711020.fantome",
+  "files": [
+    {
+      "path": "skins/711/711020/711020/Vex.wad.client",
+      "size": 8265,
+      "sha256": "510b72dd3aec8e08dfb1be2f39efa22a1abf9ae09c79c3f44494ac19a01c5d34"
+    }
+  ],
+  "wads": {
+    "Vex.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8265,
+      "bytes_after": 8265,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

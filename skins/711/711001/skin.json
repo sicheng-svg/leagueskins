@@ -1,0 +1,529 @@
+{
+  "champion_id": 711,
+  "base_skin_id": 711001,
+  "name": "黎明使者 薇古丝",
+  "variants": [
+    {
+      "skin_id": 711001,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c4465600a4e72e27ca7e5b10cf8cbcbadabbedea0b238bbad3032ced8aff4c55",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711001.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711001/Vex.wad.client",
+          "size": 96097,
+          "sha256": "cb49a19002b722e9b563421885badda4dec1c420a2fd43eee3718dc9c201c5f2"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9813,
+          "bytes_after": 96097,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711002,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 阳辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9ac47527c39e35dcd3bdf1dcebdbe218ee92b8b85e9c4a7587e05d56cdda79d8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711002/711002.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711002/Vex.wad.client",
+          "size": 89701,
+          "sha256": "3bed3219ba46ca81870abacac29ac24222e3bd447658af848fed261ecfd9b74e"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3417,
+          "bytes_after": 89701,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711003,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 碧辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "53745b99b2afe5fb8112f79a36465ecd951678f855e8b23703c93d887922ec36",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711003/711003.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711003/Vex.wad.client",
+          "size": 89658,
+          "sha256": "4ec7d49392275640a3d8a1531b61d09d8e623cada210a082da6f4dc307aa7e57"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3374,
+          "bytes_after": 89658,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711004,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 炎辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c026f3777cec59018687330d0b0c523d68890b66955253e95213cdba37e1120f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711004/711004.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711004/Vex.wad.client",
+          "size": 89659,
+          "sha256": "7f98036fd01b60c2c56f2761c91b34c28baa6b74b2445dd006540f6ab4ebeb27"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3375,
+          "bytes_after": 89659,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711005,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 宁辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b9777c3ca1cb46aabfd290e02df3eb985880b694887762c4ba44b09df7119169",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711005/711005.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711005/Vex.wad.client",
+          "size": 89657,
+          "sha256": "600b67ff86fd83b169b6854241d2dad45cc2144c65cad130362efd2925b549be"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3373,
+          "bytes_after": 89657,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711006,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 霞辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "874b47bce628f38cbd235631d1bdad91f4da5696a7d61f2d70a96e45c01f45ce",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711006/711006.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711006/Vex.wad.client",
+          "size": 89674,
+          "sha256": "c8c6380994b7430467e246d8f5d3e96deed764027d3e635e32627216b31207a3"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3390,
+          "bytes_after": 89674,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711007,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 幻辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2ec985a267c5a2de0d9e7ca646fac535cc0b8756f6b2f3e083063a1778261f49",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711007/711007.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711007/Vex.wad.client",
+          "size": 89658,
+          "sha256": "1882bc6e4c046c4c6c880bb48db3f7302a7e0b4c345ae3ac2a36da3d12d38fe6"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3374,
+          "bytes_after": 89658,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711008,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 黯辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "97576933d311d98477ac0d680f27b8377e6e77417f26e458c7033375d7955965",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711008/711008.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711008/Vex.wad.client",
+          "size": 89655,
+          "sha256": "bcddb73d9cb29f2198b66898c6bde5f5adfefa71bb32077380389fa0527bdb3b"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3371,
+          "bytes_after": 89655,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711009,
+      "base_skin_id": 711001,
+      "champion_id": 711,
+      "name": "黎明使者 薇古丝 生辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6901d2ba6147b4d24dd01e1f07e0fe70dbb17b5f92724a7ced766f987abc9c6f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711001/711009/711009.fantome",
+      "files": [
+        {
+          "path": "skins/711/711001/711009/Vex.wad.client",
+          "size": 89706,
+          "sha256": "3b203c89793ec76cb1200f0f9c2f7aa169179fc84ca13b97c7dd83150dd99ced"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3422,
+          "bytes_after": 89706,
+          "replacement_hashes": [
+            "31522b1784e47241"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "31522b1784e47241",
+            "border_hash": "63a67d5c4c7f36d1",
+            "bytes": 86252,
+            "sha256": "807e11b992e6b363eda1566cb8e72722bb9537d854efafa5c4bb73fc970d8bd6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

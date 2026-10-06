@@ -1,0 +1,58 @@
+{
+  "skin_id": 7021,
+  "base_skin_id": 7020,
+  "champion_id": 7,
+  "name": "魔女 乐芙兰 欲望",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9816e1ebe262e18173761f4a05c1e6fc9087d1192a9e2166f98bfc66b3a1d5fd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7020/7021/7021.fantome",
+  "files": [
+    {
+      "path": "skins/7/7020/7021/Leblanc.wad.client",
+      "size": 89729,
+      "sha256": "961c9418cdaef6dd0cae68ebea92342c7af5e6096dd14c81d1f04091eb1f8166"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3445,
+      "bytes_after": 89729,
+      "replacement_hashes": [
+        "b43fb5e1e364a985"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "b43fb5e1e364a985",
+        "border_hash": "4f0229b90d8e0b50",
+        "bytes": 86252,
+        "sha256": "4af8b59c51f5fc64b19793021ec84dd24ded24485e0bff2db4ff2ce518d358c3"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

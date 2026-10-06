@@ -1,0 +1,55 @@
+{
+  "champion_id": 72,
+  "base_skin_id": 72002,
+  "name": "远土之灵 斯卡纳",
+  "variants": [
+    {
+      "skin_id": 72002,
+      "base_skin_id": 72002,
+      "champion_id": 72,
+      "name": "远土之灵 斯卡纳",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aded334bada314a904b841172d0209299589af6cf360599c7205c92d3efa2ac5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "72/72002/72002.fantome",
+      "files": [
+        {
+          "path": "skins/72/72002/72002/Skarner.wad.client",
+          "size": 8008,
+          "sha256": "b2c3ccbac20a5e05b364c42e9fafa875c48191e6c4a89fa43dfaf4ae16e74139"
+        }
+      ],
+      "wads": {
+        "Skarner.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8008,
+          "bytes_after": 8008,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

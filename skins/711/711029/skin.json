@@ -1,0 +1,529 @@
+{
+  "champion_id": 711,
+  "base_skin_id": 711029,
+  "name": "惊悚派对 薇古丝",
+  "variants": [
+    {
+      "skin_id": 711029,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "918acf00431b7b0d8d42f56acf70d24f2a64f49101dbfcc32cec374cc36e7f12",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711029.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711029/Vex.wad.client",
+          "size": 93128,
+          "sha256": "908c01d10fd49e17f9071c0a4d98e81f469e5db95056a3d0ff834c49e4662767"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6844,
+          "bytes_after": 93128,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711030,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的愤怒！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eaa153bb93baa1dea7dc2213a927b755d2902b1544d9ca4618c5519aea3453a9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711030/711030.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711030/Vex.wad.client",
+          "size": 89500,
+          "sha256": "c519358efce79d5cb14d7ca056449016b6c7bc5add93714b73516f4edd83c516"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3216,
+          "bytes_after": 89500,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711031,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的焦虑！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ff4144fe5d7e9b9a5c27fbf8b10ca207edcb0e4ded756e23d05f87d78c1e43d1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711031/711031.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711031/Vex.wad.client",
+          "size": 89454,
+          "sha256": "ea5df28a837a06f13fba5968f59e50feeec56be13748402305629aaffb9b663f"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3170,
+          "bytes_after": 89454,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711032,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的紧张！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ee55e13783509b6cfa06cf20d2e7c3be5a2cf8770ffff75e5e4699b6463b9a85",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711032/711032.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711032/Vex.wad.client",
+          "size": 89451,
+          "sha256": "30498db2936f07ab88d97bedde6ef75d522c5fcdd55470a1c78ccc24d41eb4c1"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3167,
+          "bytes_after": 89451,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711033,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的痛苦！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f909a386aaa1c23dc538af80ef95a698432f626ca9b444938f715668d359f195",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711033/711033.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711033/Vex.wad.client",
+          "size": 89451,
+          "sha256": "992f7b44efb7e84b8cd761e4a58d9a4ff92dd577e04201f4f826c6bdefcb4d65"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3167,
+          "bytes_after": 89451,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711034,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的悲伤！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8ee4d7bffd86fb075368348bb28ba1d541addc0ff6c6851e409063d5f65330c3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711034/711034.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711034/Vex.wad.client",
+          "size": 89452,
+          "sha256": "3e1354e5141eff7702923165b61a2a18aacd382a1be775c00dd6fbc26524f847"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3168,
+          "bytes_after": 89452,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711035,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的失望！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aa0c58e24ef7520186c0d2b4c99fee22fb598cb3b673419658be4d7319fe51ce",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711035/711035.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711035/Vex.wad.client",
+          "size": 89453,
+          "sha256": "6683f8d7b9bed0e729e0e6f155036d820c43f7178f499a451913983055532d35"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3169,
+          "bytes_after": 89453,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711036,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的沮丧！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d5625f8022fe8607fc5ed2a4e5c5867b3c22c2907f0696f3de745c004aec247e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711036/711036.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711036/Vex.wad.client",
+          "size": 89453,
+          "sha256": "15ea071e0b4eb86b4da2786580b37eb027e799b05c31068286f79710b667082e"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3169,
+          "bytes_after": 89453,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 711037,
+      "base_skin_id": 711029,
+      "champion_id": 711,
+      "name": "惊悚派对 薇古丝 吓走你的恐惧！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "595cbc7b029045fd62aaadbaeaeae260a3b13e608291b11507d805cbbf96d26d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "711/711029/711037/711037.fantome",
+      "files": [
+        {
+          "path": "skins/711/711029/711037/Vex.wad.client",
+          "size": 89450,
+          "sha256": "a40959185afd4fe0523664b6f5f4a6696eee70aee4b2156f6ad877645dd243e7"
+        }
+      ],
+      "wads": {
+        "Vex.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3166,
+          "bytes_after": 89450,
+          "replacement_hashes": [
+            "d81a026dc2c777a2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vex.wad.client",
+            "normal_hash": "d81a026dc2c777a2",
+            "border_hash": "ca977a80addf5ae6",
+            "bytes": 86252,
+            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

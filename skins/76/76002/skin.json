@@ -1,0 +1,55 @@
+{
+  "champion_id": 76,
+  "base_skin_id": 76002,
+  "name": "丛林猎豹 奈德丽",
+  "variants": [
+    {
+      "skin_id": 76002,
+      "base_skin_id": 76002,
+      "champion_id": 76,
+      "name": "丛林猎豹 奈德丽",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d4d3db02ba8d026991cca060b3256e09eaba68125f65d7ad13004523a8cd897a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "76/76002/76002.fantome",
+      "files": [
+        {
+          "path": "skins/76/76002/76002/Nidalee.wad.client",
+          "size": 5778,
+          "sha256": "496a38f0bae267f543d0887c0ffd24c4194c3507f5a947bbd61dcdb01b89d3fb"
+        }
+      ],
+      "wads": {
+        "Nidalee.wad.client": {
+          "entries_before": 3,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5778,
+          "bytes_after": 5778,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

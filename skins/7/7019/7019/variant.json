@@ -1,0 +1,58 @@
+{
+  "skin_id": 7019,
+  "base_skin_id": 7019,
+  "champion_id": 7,
+  "name": "iG 乐芙兰",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e560fd21442ae16d29658fc7a69bb268fdeb20641ce6757cb3e4c01d6b5c07c1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7019/7019.fantome",
+  "files": [
+    {
+      "path": "skins/7/7019/7019/Leblanc.wad.client",
+      "size": 96380,
+      "sha256": "a424d0b05424e208437ebd41da8fa5903700ce97aa520af48d20149c3328e4ca"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 10096,
+      "bytes_after": 96380,
+      "replacement_hashes": [
+        "0a00e48a9969284a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "0a00e48a9969284a",
+        "border_hash": "94b45b7067d66485",
+        "bytes": 86252,
+        "sha256": "d62df34b420e42d916a0d04f58bc4d55ab0842ea13eaebe79449b35ce1285554"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

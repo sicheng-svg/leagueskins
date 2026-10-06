@@ -1,0 +1,58 @@
+{
+  "skin_id": 7040,
+  "base_skin_id": 7035,
+  "champion_id": 7,
+  "name": "幻执事 乐芙兰 紫电",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8b0578e6c3d839672b7af97450dd0f0c5af636e1f653208c6d3ec1aed5d7cbd4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7035/7040/7040.fantome",
+  "files": [
+    {
+      "path": "skins/7/7035/7040/Leblanc.wad.client",
+      "size": 89708,
+      "sha256": "ecc288da53d1f5bed3d96beae2f95d24bf6b2a0da3b7a767d728a2c9b8fc1266"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3424,
+      "bytes_after": 89708,
+      "replacement_hashes": [
+        "91b084def93e28ef"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "91b084def93e28ef",
+        "border_hash": "2134156c93078173",
+        "bytes": 86252,
+        "sha256": "6c46a3821e8990d491bb5365fef05fca547692cddacbfebb4fdca5c6b30151b7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

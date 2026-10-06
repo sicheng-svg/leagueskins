@@ -1,0 +1,48 @@
+{
+  "skin_id": 75049,
+  "base_skin_id": 75045,
+  "champion_id": 75,
+  "name": "黑夜使者 内瑟斯 夕夜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f925be0f614dc02c089e233f9ea3ebc51aa5e53e28ad9fe36fabdfb6af2c9c21",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "75/75045/75049/75049.fantome",
+  "files": [
+    {
+      "path": "skins/75/75045/75049/Nasus.wad.client",
+      "size": 2663,
+      "sha256": "0bebe580c0e221e4a5db31cc256d47875399bfecdda0ec29c8b6b7e1320e63a5"
+    }
+  ],
+  "wads": {
+    "Nasus.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2663,
+      "bytes_after": 2663,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

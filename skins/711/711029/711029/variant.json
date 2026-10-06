@@ -1,0 +1,58 @@
+{
+  "skin_id": 711029,
+  "base_skin_id": 711029,
+  "champion_id": 711,
+  "name": "惊悚派对 薇古丝",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "918acf00431b7b0d8d42f56acf70d24f2a64f49101dbfcc32cec374cc36e7f12",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "711/711029/711029.fantome",
+  "files": [
+    {
+      "path": "skins/711/711029/711029/Vex.wad.client",
+      "size": 93128,
+      "sha256": "908c01d10fd49e17f9071c0a4d98e81f469e5db95056a3d0ff834c49e4662767"
+    }
+  ],
+  "wads": {
+    "Vex.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6844,
+      "bytes_after": 93128,
+      "replacement_hashes": [
+        "d81a026dc2c777a2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Vex.wad.client",
+        "normal_hash": "d81a026dc2c777a2",
+        "border_hash": "ca977a80addf5ae6",
+        "bytes": 86252,
+        "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

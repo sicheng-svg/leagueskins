@@ -1,0 +1,58 @@
+{
+  "skin_id": 7060,
+  "base_skin_id": 7059,
+  "champion_id": 7,
+  "name": "至臻 恶魔假日 乐芙兰 至强",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1a7d79c224034d526e1bfc60113b916651b2ed3730335d1ef9f1814013773d2b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7059/7060/7060.fantome",
+  "files": [
+    {
+      "path": "skins/7/7059/7060/Leblanc.wad.client",
+      "size": 89834,
+      "sha256": "6cb93a44e2f35350ecb7a7b714f10081acd554a389b2f0fce3769c6ceb366948"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3550,
+      "bytes_after": 89834,
+      "replacement_hashes": [
+        "3f4cb3a826bc67c1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "3f4cb3a826bc67c1",
+        "border_hash": "cd4c2dc80ae8ff90",
+        "bytes": 86252,
+        "sha256": "27927d82eb15163962889bc4d959807fd70b4a1f44c6f3ef44cac01de02b3e10"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

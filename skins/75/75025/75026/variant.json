@@ -1,0 +1,58 @@
+{
+  "skin_id": 75026,
+  "base_skin_id": 75025,
+  "champion_id": 75,
+  "name": "“狗头” 内瑟斯 内有恶犬“橘宝”号",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "758041750dffdda223e077e4c38b2f0628d8437eb4b5967f5c7bd4db67c49d9e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "75/75025/75026/75026.fantome",
+  "files": [
+    {
+      "path": "skins/75/75025/75026/Nasus.wad.client",
+      "size": 88306,
+      "sha256": "fe3f6362c20b84b8972435460015b1a890146a9fc0785821abc4b34365f83f08"
+    }
+  ],
+  "wads": {
+    "Nasus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2022,
+      "bytes_after": 88306,
+      "replacement_hashes": [
+        "cd9b5bec4f6c7dcd"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nasus.wad.client",
+        "normal_hash": "cd9b5bec4f6c7dcd",
+        "border_hash": "f7f0d45831ab4abc",
+        "bytes": 86252,
+        "sha256": "0e863b93599d200bfa2d0393e9b891c22d4f69f1663011ed4a757d33ef4c9c75"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

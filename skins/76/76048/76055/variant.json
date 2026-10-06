@@ -1,0 +1,72 @@
+{
+  "skin_id": 76055,
+  "base_skin_id": 76048,
+  "champion_id": 76,
+  "name": "灵之菊 奈德丽 生命之源",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "06a13d77139780c3faef3dfb5e1c8269af8f11f9d282379b9a87bb8bc6a019f6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "76/76048/76055/76055.fantome",
+  "files": [
+    {
+      "path": "skins/76/76048/76055/Nidalee.wad.client",
+      "size": 91806,
+      "sha256": "bbdc765c3ac3d7b54d2fc9928fc072b2023ce3b037694be32c09d0ea7a23d5c2"
+    }
+  ],
+  "wads": {
+    "Nidalee.wad.client": {
+      "entries_before": 3,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 5522,
+      "bytes_after": 91806,
+      "replacement_hashes": [
+        "e6d58aa128a40856"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nidalee.wad.client",
+        "normal_hash": "e6d58aa128a40856",
+        "border_hash": "772b04db963ad491",
+        "bytes": 86252,
+        "sha256": "cc770394be92f4ee0a89456bd84b68b80986c912b708ae2921fa8872a4abfef2"
+      },
+      {
+        "archive": "Nidalee.wad.client",
+        "normal_hash": "e6d58aa128a40856",
+        "border_hash": "772b04db963ad491",
+        "bytes": 86252,
+        "sha256": "cc770394be92f4ee0a89456bd84b68b80986c912b708ae2921fa8872a4abfef2"
+      },
+      {
+        "archive": "Nidalee.wad.client",
+        "normal_hash": "e6d58aa128a40856",
+        "border_hash": "772b04db963ad491",
+        "bytes": 86252,
+        "sha256": "cc770394be92f4ee0a89456bd84b68b80986c912b708ae2921fa8872a4abfef2"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

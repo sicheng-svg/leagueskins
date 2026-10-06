@@ -1,0 +1,48 @@
+{
+  "skin_id": 7061,
+  "base_skin_id": 7005,
+  "champion_id": 7,
+  "name": "永恒之森 乐芙兰 至强",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "60e94a720e50d4112c29fa96085c17b18e7acbcd1858edc022b74ebd48eb5ce2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7005/7061/7061.fantome",
+  "files": [
+    {
+      "path": "skins/7/7005/7061/Leblanc.wad.client",
+      "size": 3338,
+      "sha256": "68fa43ad0f2c1f0d1a3ac899b7dae25fec35c52d6e3773f44afa7b414848dc1f"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3338,
+      "bytes_after": 3338,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

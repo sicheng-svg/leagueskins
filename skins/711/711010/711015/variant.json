@@ -1,0 +1,58 @@
+{
+  "skin_id": 711015,
+  "base_skin_id": 711010,
+  "champion_id": 711,
+  "name": "至高天 薇古丝 幻耀",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "afede91a89cb6c4fe2f52ba933dbe227bf16c38c9f19e189673d67e3a14c80d4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "711/711010/711015/711015.fantome",
+  "files": [
+    {
+      "path": "skins/711/711010/711015/Vex.wad.client",
+      "size": 90009,
+      "sha256": "3114f0d48dfecfa871b49e1655a82403b0e3392196271ef68f0f92ff835fb45b"
+    }
+  ],
+  "wads": {
+    "Vex.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3725,
+      "bytes_after": 90009,
+      "replacement_hashes": [
+        "ec27b50d82c5e187"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Vex.wad.client",
+        "normal_hash": "ec27b50d82c5e187",
+        "border_hash": "c41c58c5ca59ba4d",
+        "bytes": 86252,
+        "sha256": "a88454e55525eb12037b741d328a74b9dc7dc1feb15f6d52871a006e50fa577a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

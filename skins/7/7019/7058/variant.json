@@ -1,0 +1,58 @@
+{
+  "skin_id": 7058,
+  "base_skin_id": 7019,
+  "champion_id": 7,
+  "name": "iG 乐芙兰 极境",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0031a5989aef396ecaad8930793bc95ed518cc5ea132d1986b7cc1d41513e8cc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7019/7058/7058.fantome",
+  "files": [
+    {
+      "path": "skins/7/7019/7058/Leblanc.wad.client",
+      "size": 89664,
+      "sha256": "700240ef04c13de6ba9e01d3300b404262177cf61407d7b4bf8369555b0656ff"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3380,
+      "bytes_after": 89664,
+      "replacement_hashes": [
+        "0a00e48a9969284a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "0a00e48a9969284a",
+        "border_hash": "94b45b7067d66485",
+        "bytes": 86252,
+        "sha256": "d62df34b420e42d916a0d04f58bc4d55ab0842ea13eaebe79449b35ce1285554"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

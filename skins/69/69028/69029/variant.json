@@ -1,0 +1,65 @@
+{
+  "skin_id": 69029,
+  "base_skin_id": 69028,
+  "champion_id": 69,
+  "name": "魅惑女巫 卡西奥佩娅 热情化身",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f1b07fe845ade9fe0cf7fa2d207a72c2aae92b69e672cb1de78fb005f8426ccc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "69/69028/69029/69029.fantome",
+  "files": [
+    {
+      "path": "skins/69/69028/69029/Cassiopeia.wad.client",
+      "size": 89389,
+      "sha256": "34b6dd1364e1625443b60c0ac419a46b76b3562ceeadf3ba720788c6328a8d0c"
+    }
+  ],
+  "wads": {
+    "Cassiopeia.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3105,
+      "bytes_after": 89389,
+      "replacement_hashes": [
+        "5b7f63e623edc3df"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Cassiopeia.wad.client",
+        "normal_hash": "5b7f63e623edc3df",
+        "border_hash": "3d7a558b4fc656dc",
+        "bytes": 86252,
+        "sha256": "04057a6f81d541b8a720cee3cb39edad0c6efbf4917275651b1cbed38f3919c5"
+      },
+      {
+        "archive": "Cassiopeia.wad.client",
+        "normal_hash": "5b7f63e623edc3df",
+        "border_hash": "3d7a558b4fc656dc",
+        "bytes": 86252,
+        "sha256": "04057a6f81d541b8a720cee3cb39edad0c6efbf4917275651b1cbed38f3919c5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

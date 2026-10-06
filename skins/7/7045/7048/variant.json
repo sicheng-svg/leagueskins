@@ -1,0 +1,58 @@
+{
+  "skin_id": 7048,
+  "base_skin_id": 7045,
+  "champion_id": 7,
+  "name": "魅惑女巫 乐芙兰 青春化身",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b510f3e0a42156a0540c7b5bf62da3e7df6aa1b5f51d90f1df9f2571e6240238",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "7/7045/7048/7048.fantome",
+  "files": [
+    {
+      "path": "skins/7/7045/7048/Leblanc.wad.client",
+      "size": 89731,
+      "sha256": "e7c7c006493924afc4f397b3bd8a0ed70053c2ae57e302b7e5f00c492be4cf3f"
+    }
+  ],
+  "wads": {
+    "Leblanc.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3447,
+      "bytes_after": 89731,
+      "replacement_hashes": [
+        "8ac28205ce69cc9c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leblanc.wad.client",
+        "normal_hash": "8ac28205ce69cc9c",
+        "border_hash": "cfe0511cfe72fc64",
+        "bytes": 86252,
+        "sha256": "84d29071016923fd11000ff5bd17969f18430f3000ad4b9026df91a95ceb4ffc"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

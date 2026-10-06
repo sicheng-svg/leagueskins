@@ -1,0 +1,58 @@
+{
+  "skin_id": 82012,
+  "base_skin_id": 82006,
+  "champion_id": 82,
+  "name": "暗星 莫德凯撒 主神星之黯",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2198f0bfcaae6f5f5ce5e412a306511bbb1e39d4237e494cb976412723a24314",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "82/82006/82012/82012.fantome",
+  "files": [
+    {
+      "path": "skins/82/82006/82012/Mordekaiser.wad.client",
+      "size": 89711,
+      "sha256": "c96318ea0d8a84ec77b9cf53ccdb057c6fe635785ab13b41d937b07c47c91643"
+    }
+  ],
+  "wads": {
+    "Mordekaiser.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3427,
+      "bytes_after": 89711,
+      "replacement_hashes": [
+        "7084984b0a791309"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Mordekaiser.wad.client",
+        "normal_hash": "7084984b0a791309",
+        "border_hash": "fc2c8c1aed323891",
+        "bytes": 86252,
+        "sha256": "e68021b608fd7486ed039898d55c3a52553e3eec5d3c995b0d8d6c7a3ee272a4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

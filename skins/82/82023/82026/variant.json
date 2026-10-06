@@ -1,0 +1,48 @@
+{
+  "skin_id": 82026,
+  "base_skin_id": 82023,
+  "champion_id": 82,
+  "name": "五杀摇滚 III：遗失的章节 莫德凯撒 厚重",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "30804a415a67858764ed3009d8922b838d0e71af23ce5f8f74a0ec8ad1058933",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "82/82023/82026/82026.fantome",
+  "files": [
+    {
+      "path": "skins/82/82023/82026/Mordekaiser.wad.client",
+      "size": 3097,
+      "sha256": "5a9d8d3eb798a32446eeed24ac4be7ab1ffbf260b0eaa3977b9211326fe50570"
+    }
+  ],
+  "wads": {
+    "Mordekaiser.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3097,
+      "bytes_after": 3097,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

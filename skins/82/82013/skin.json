@@ -1,0 +1,587 @@
+{
+  "champion_id": 82,
+  "base_skin_id": 82013,
+  "name": "源计划：超体 莫德凯撒",
+  "variants": [
+    {
+      "skin_id": 82013,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3d62488e198d0e479dda28ce1b6745c9daf043ff3c33835597761ea0748c92c6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82013.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82013/Mordekaiser.wad.client",
+          "size": 90161,
+          "sha256": "cfd5aa4f0a32c367b9a07ba55a694aa621b74aca61fc4383a3671f11e3b83a24"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3877,
+          "bytes_after": 90161,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82014,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 裂变",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "78a0fcf9c7fdfb3591abfb169caeb170733c8390dbcd96a349f73f62a736a0ca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82014/82014.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82014/Mordekaiser.wad.client",
+          "size": 90215,
+          "sha256": "db7fc682ce8f3317488cd0b3a8cfaa99b2431bcbac5b0a06b2e43b5b93dc926e"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3931,
+          "bytes_after": 90215,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82015,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 震击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b4e81642a4b95eeab0f70a990a35c627615e2fcc4017a0bca3025bcdbffb7961",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82015/82015.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82015/Mordekaiser.wad.client",
+          "size": 90172,
+          "sha256": "24964cdbbe1b721e02dc897c7273c65ece88545a8a020d572547b5628c7b36ad"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3888,
+          "bytes_after": 90172,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82016,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 幻灭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0962e04ef011a811a26ee01ef3f31c888b2a9959614927f3fab617fc254e233c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82016/82016.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82016/Mordekaiser.wad.client",
+          "size": 90197,
+          "sha256": "80f477effac83838227b55b5d6bcd40d41cfcbd4695d2b0adc67998d843602f5"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3913,
+          "bytes_after": 90197,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82017,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 天谴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0ba59250166c5a52152e5186c77dfed238235c2fe8ba7069e6de764ce1080e2a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82017/82017.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82017/Mordekaiser.wad.client",
+          "size": 90212,
+          "sha256": "ffc1f1956d864233afa9d492600905464a7f1bc4ccae8d3a035ca522f7794073"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3928,
+          "bytes_after": 90212,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82018,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 暴走",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "02e04ffdb787d17b8a2af2d83c88ac285a4bddb618fb03ac4257d8d879f19dbc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82018/82018.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82018/Mordekaiser.wad.client",
+          "size": 90169,
+          "sha256": "ff894dd1aea28fe2815867afddaa9e1cfebd3f59330b419f15f9b560f85709ab"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3885,
+          "bytes_after": 90169,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82019,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 默化",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "25b65ceadfccce77e6cb4473487908931ef79387d64401ccd3b08d6d534086aa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82019/82019.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82019/Mordekaiser.wad.client",
+          "size": 90172,
+          "sha256": "7d04c4e7aa7365a25984f30bdc618e10222e47efe97b2c9662c844ef06cce361"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3888,
+          "bytes_after": 90172,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82020,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 雪崩",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "97ed53a5251cce912141226f43d04adaafd8ad6227bac80538222d48316993c4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82020/82020.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82020/Mordekaiser.wad.client",
+          "size": 90217,
+          "sha256": "7bd10e64b7b435fe3e9b312ff922eea11deacf935dbdc0c9e9f00fd1eef2d2ce"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3933,
+          "bytes_after": 90217,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82021,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 泡影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "70f234183d175020d14a45766aaf292b47fb417fee4382718fd06c86a9277980",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82021/82021.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82021/Mordekaiser.wad.client",
+          "size": 90172,
+          "sha256": "704356ec8c7715470bd46047207fc1c181d2e89a14e58934bb486d74e0b51c64"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3888,
+          "bytes_after": 90172,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 82022,
+      "base_skin_id": 82013,
+      "champion_id": 82,
+      "name": "源计划：超体 莫德凯撒 惩戒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3096a2e51c8641044f0cf63991e17a353abee664bc761c8b51e0406e69638e3f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "82/82013/82022/82022.fantome",
+      "files": [
+        {
+          "path": "skins/82/82013/82022/Mordekaiser.wad.client",
+          "size": 90223,
+          "sha256": "0c353804d3d0f5f01c20b7873545a1504cf5f11118da44a3390806753f5bcf3f"
+        }
+      ],
+      "wads": {
+        "Mordekaiser.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3939,
+          "bytes_after": 90223,
+          "replacement_hashes": [
+            "e8c612ffbdd0a412"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Mordekaiser.wad.client",
+            "normal_hash": "e8c612ffbdd0a412",
+            "border_hash": "9f66ceb00e844067",
+            "bytes": 86252,
+            "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

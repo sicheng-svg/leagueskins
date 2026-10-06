@@ -1,0 +1,68 @@
+{
+  "skin_id": 82999,
+  "base_skin_id": 82054,
+  "champion_id": 82,
+  "name": "82999",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "26089ed80e22343d852464b93ee9a768623987179bee9dcc4142ec370bcf2536",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+  },
+  "source_package": "82/82054/82999/82999.fantome",
+  "files": [
+    {
+      "path": "skins/82/82054/82999/Mordekaiser.wad.client",
+      "size": 837859,
+      "sha256": "e243b3ca5d8b951146f81b0f1440f558a35eb42cb9398c35693390bb738d3ad4"
+    }
+  ],
+  "wads": {
+    "Mordekaiser.wad.client": {
+      "entries_before": 2,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.3",
+      "bytes_before": 16779,
+      "bytes_after": 837859,
+      "replacement_hashes": [
+        "678d7b68a48d08ea",
+        "d7e94027f8ce4d98"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Mordekaiser.wad.client",
+        "normal_hash": "678d7b68a48d08ea",
+        "border_hash": "d7e94027f8ce4d98",
+        "bytes": 689932,
+        "sha256": "0e10455995f5b7812ed74951255a1c78c0ab7bbe1bd84769852aec484d30eac3",
+        "strategy": "bake_native_augment_layers",
+        "layers": [
+          {
+            "path": "ASSETS/Characters/Mordekaiser/Skins/Skin54/UI/MordekaiserLoadScreen_Augments_Border_Premium.tex",
+            "sha256": "01d9359d847f73fed5db57921d653cb441e9580ffe07356eb06265d022a0ad95"
+          }
+        ],
+        "placement": "scale_native_layers_to_loading_card",
+        "in_game": "not_verified"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 81,
+  "base_skin_id": 81001,
+  "name": "冒险精神 伊泽瑞尔",
+  "variants": [
+    {
+      "skin_id": 81001,
+      "base_skin_id": 81001,
+      "champion_id": 81,
+      "name": "冒险精神 伊泽瑞尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "92a38db88be0adb1fa6c29b57a3828cef1aede1bd223e382d46f5a7f75852b8d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81001/81001.fantome",
+      "files": [
+        {
+          "path": "skins/81/81001/81001/Ezreal.wad.client",
+          "size": 6380,
+          "sha256": "66f3096ff2f6b02d3a3ef330ee68714eb032530cb272448d17733898855b91d2"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6380,
+          "bytes_after": 6380,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

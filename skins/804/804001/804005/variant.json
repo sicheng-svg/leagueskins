@@ -1,0 +1,58 @@
+{
+  "skin_id": 804005,
+  "base_skin_id": 804001,
+  "champion_id": 804,
+  "name": "莲华温泉 芸阿娜 雁来",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3f0d5eae790ae0fcd0f418a4bcc95743c1eaa1676ac744a62f262745952caf32",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "804/804001/804005/804005.fantome",
+  "files": [
+    {
+      "path": "skins/804/804001/804005/Yunara.wad.client",
+      "size": 89981,
+      "sha256": "6b1775b4d4ae97e5526d2623d26c3ba3f40f372b80ca68303615e4d526d598f3"
+    }
+  ],
+  "wads": {
+    "Yunara.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3697,
+      "bytes_after": 89981,
+      "replacement_hashes": [
+        "9d544421c1349ce2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yunara.wad.client",
+        "normal_hash": "9d544421c1349ce2",
+        "border_hash": "09f134d3eb3a8455",
+        "bytes": 86252,
+        "sha256": "65d3f8ddd69cba5413c6c4f50249d7ee9dd88195dde008067521ddee2016f3b5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

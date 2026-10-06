@@ -1,0 +1,413 @@
+{
+  "champion_id": 804,
+  "base_skin_id": 804010,
+  "name": "T1 芸阿娜",
+  "variants": [
+    {
+      "skin_id": 804010,
+      "base_skin_id": 804010,
+      "champion_id": 804,
+      "name": "T1 芸阿娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "840d6d29a995dd72b882fe14e2a16c159c8893c696c218556229f1319d98686e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "804/804010/804010.fantome",
+      "files": [
+        {
+          "path": "skins/804/804010/804010/Yunara.wad.client",
+          "size": 99920,
+          "sha256": "33a10eed8c5e7dfea0d1fb6aa709fb64abd9a4a7a4f4ca013e5b1a09c4ce2726"
+        }
+      ],
+      "wads": {
+        "Yunara.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 13636,
+          "bytes_after": 99920,
+          "replacement_hashes": [
+            "5c3ee1fb2ea2e811"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yunara.wad.client",
+            "normal_hash": "5c3ee1fb2ea2e811",
+            "border_hash": "593d9e57c0cf7840",
+            "bytes": 86252,
+            "sha256": "d3e4ff3ef7611ce94d7db84b81001cd40c31d2130db80f3981bf4e5af94ecf8a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 804011,
+      "base_skin_id": 804010,
+      "champion_id": 804,
+      "name": "T1 芸阿娜 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "456df9e2c5a74c8b849e044135824826a0269ddef4e9b6ce92dcda5c2c99e3ac",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "804/804010/804011/804011.fantome",
+      "files": [
+        {
+          "path": "skins/804/804010/804011/Yunara.wad.client",
+          "size": 90570,
+          "sha256": "af944831900811e01195f747d126a2452b0c26d1671ffcd1be042b5797fdd179"
+        }
+      ],
+      "wads": {
+        "Yunara.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4286,
+          "bytes_after": 90570,
+          "replacement_hashes": [
+            "5c3ee1fb2ea2e811"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yunara.wad.client",
+            "normal_hash": "5c3ee1fb2ea2e811",
+            "border_hash": "593d9e57c0cf7840",
+            "bytes": 86252,
+            "sha256": "d3e4ff3ef7611ce94d7db84b81001cd40c31d2130db80f3981bf4e5af94ecf8a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 804012,
+      "base_skin_id": 804010,
+      "champion_id": 804,
+      "name": "T1 芸阿娜 混合的世界",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "db6c7fc4078f956eabda29305cc2d1a6e61d2f901816aac204831d8dc858b931",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "804/804010/804012/804012.fantome",
+      "files": [
+        {
+          "path": "skins/804/804010/804012/Yunara.wad.client",
+          "size": 90514,
+          "sha256": "e7336905d83117402b066021cc994bf6a8f500428515f798f46bcd91a8aaa053"
+        }
+      ],
+      "wads": {
+        "Yunara.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4230,
+          "bytes_after": 90514,
+          "replacement_hashes": [
+            "5c3ee1fb2ea2e811"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yunara.wad.client",
+            "normal_hash": "5c3ee1fb2ea2e811",
+            "border_hash": "593d9e57c0cf7840",
+            "bytes": 86252,
+            "sha256": "d3e4ff3ef7611ce94d7db84b81001cd40c31d2130db80f3981bf4e5af94ecf8a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 804013,
+      "base_skin_id": 804010,
+      "champion_id": 804,
+      "name": "T1 芸阿娜 决战在即",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9d9331463b303c7dd89e9943dcd4eae63273df051e06023e07b6468c66fd3452",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "804/804010/804013/804013.fantome",
+      "files": [
+        {
+          "path": "skins/804/804010/804013/Yunara.wad.client",
+          "size": 90568,
+          "sha256": "4c299a9d723d151eb5977c875fe723298b5491e5548843fa03d5e1cdceacba43"
+        }
+      ],
+      "wads": {
+        "Yunara.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4284,
+          "bytes_after": 90568,
+          "replacement_hashes": [
+            "5c3ee1fb2ea2e811"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yunara.wad.client",
+            "normal_hash": "5c3ee1fb2ea2e811",
+            "border_hash": "593d9e57c0cf7840",
+            "bytes": 86252,
+            "sha256": "d3e4ff3ef7611ce94d7db84b81001cd40c31d2130db80f3981bf4e5af94ecf8a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 804014,
+      "base_skin_id": 804010,
+      "champion_id": 804,
+      "name": "T1 芸阿娜 燃",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dca142bd0f724a5f5b51d89324e9eec057d5914f91f1f060262131d21ee28328",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "804/804010/804014/804014.fantome",
+      "files": [
+        {
+          "path": "skins/804/804010/804014/Yunara.wad.client",
+          "size": 90516,
+          "sha256": "6a002625fb5270a24e847f7758a11fb8a296e4b53c5a58534ba66255ea1daf41"
+        }
+      ],
+      "wads": {
+        "Yunara.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4232,
+          "bytes_after": 90516,
+          "replacement_hashes": [
+            "5c3ee1fb2ea2e811"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yunara.wad.client",
+            "normal_hash": "5c3ee1fb2ea2e811",
+            "border_hash": "593d9e57c0cf7840",
+            "bytes": 86252,
+            "sha256": "d3e4ff3ef7611ce94d7db84b81001cd40c31d2130db80f3981bf4e5af94ecf8a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 804015,
+      "base_skin_id": 804010,
+      "champion_id": 804,
+      "name": "T1 芸阿娜 登神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6207527c70ef195e5c4cb3057118767ba00b0c4765f3eb5647121c65f0343fb8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "804/804010/804015/804015.fantome",
+      "files": [
+        {
+          "path": "skins/804/804010/804015/Yunara.wad.client",
+          "size": 90515,
+          "sha256": "6e852433eb8e419db916771aba0598e9782d8c470f69fe81d6874a2642f68dbe"
+        }
+      ],
+      "wads": {
+        "Yunara.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4231,
+          "bytes_after": 90515,
+          "replacement_hashes": [
+            "5c3ee1fb2ea2e811"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yunara.wad.client",
+            "normal_hash": "5c3ee1fb2ea2e811",
+            "border_hash": "593d9e57c0cf7840",
+            "bytes": 86252,
+            "sha256": "d3e4ff3ef7611ce94d7db84b81001cd40c31d2130db80f3981bf4e5af94ecf8a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 804016,
+      "base_skin_id": 804010,
+      "champion_id": 804,
+      "name": "T1 芸阿娜 王冠之重",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "424d4a2bdf90b727cda7f34c63df2ee6c4b208d1bae16d8fe0f6abfc615df95a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "804/804010/804016/804016.fantome",
+      "files": [
+        {
+          "path": "skins/804/804010/804016/Yunara.wad.client",
+          "size": 90516,
+          "sha256": "3f3b8b800e207b5ce1eac6fd1db741ba8e5d8c288252346bee3917196c6ec90c"
+        }
+      ],
+      "wads": {
+        "Yunara.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4232,
+          "bytes_after": 90516,
+          "replacement_hashes": [
+            "5c3ee1fb2ea2e811"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yunara.wad.client",
+            "normal_hash": "5c3ee1fb2ea2e811",
+            "border_hash": "593d9e57c0cf7840",
+            "bytes": 86252,
+            "sha256": "d3e4ff3ef7611ce94d7db84b81001cd40c31d2130db80f3981bf4e5af94ecf8a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

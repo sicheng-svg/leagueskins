@@ -1,0 +1,58 @@
+{
+  "skin_id": 82022,
+  "base_skin_id": 82013,
+  "champion_id": 82,
+  "name": "源计划：超体 莫德凯撒 惩戒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3096a2e51c8641044f0cf63991e17a353abee664bc761c8b51e0406e69638e3f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "82/82013/82022/82022.fantome",
+  "files": [
+    {
+      "path": "skins/82/82013/82022/Mordekaiser.wad.client",
+      "size": 90223,
+      "sha256": "0c353804d3d0f5f01c20b7873545a1504cf5f11118da44a3390806753f5bcf3f"
+    }
+  ],
+  "wads": {
+    "Mordekaiser.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3939,
+      "bytes_after": 90223,
+      "replacement_hashes": [
+        "e8c612ffbdd0a412"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Mordekaiser.wad.client",
+        "normal_hash": "e8c612ffbdd0a412",
+        "border_hash": "9f66ceb00e844067",
+        "bytes": 86252,
+        "sha256": "15a8e78c25fe45f5630ad3684869463321417260e7320aaa5fbd9d1716afdf34"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

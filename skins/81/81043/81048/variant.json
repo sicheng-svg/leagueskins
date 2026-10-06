@@ -1,0 +1,58 @@
+{
+  "skin_id": 81048,
+  "base_skin_id": 81043,
+  "champion_id": 81,
+  "name": "心之钢 伊泽瑞尔 坚守决意",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "97bfb296d0cf2a4a6f740e8c312d4ca9380f6eb6de6113190987079510ab83b6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "81/81043/81048/81048.fantome",
+  "files": [
+    {
+      "path": "skins/81/81043/81048/Ezreal.wad.client",
+      "size": 89130,
+      "sha256": "e1c962fd58839a6e9ebd5b42d191fbd83819b8b39441fcf8747eb70d7275bf63"
+    }
+  ],
+  "wads": {
+    "Ezreal.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2846,
+      "bytes_after": 89130,
+      "replacement_hashes": [
+        "aaa5f8701c71fb3d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ezreal.wad.client",
+        "normal_hash": "aaa5f8701c71fb3d",
+        "border_hash": "f55df45e5b500eb1",
+        "bytes": 86252,
+        "sha256": "f90c83100f365103de2838fc2397180744842a42da4546aea2ac9585f34fdaae"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

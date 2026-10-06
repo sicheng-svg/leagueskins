@@ -1,0 +1,58 @@
+{
+  "skin_id": 82034,
+  "base_skin_id": 82032,
+  "champion_id": 82,
+  "name": "西部魔影 地狱列车长 莫德凯撒 慷慨",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c7696f8c227e0f1366d336d7389d94d53a7fc6933f6e3c7228f711082663f609",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "82/82032/82034/82034.fantome",
+  "files": [
+    {
+      "path": "skins/82/82032/82034/Mordekaiser.wad.client",
+      "size": 89494,
+      "sha256": "d65f029f9f4ccaf25348acb852ff2c060eeb01c03d2d6171ad052c7f528f226b"
+    }
+  ],
+  "wads": {
+    "Mordekaiser.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3210,
+      "bytes_after": 89494,
+      "replacement_hashes": [
+        "04d8381483149d79"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Mordekaiser.wad.client",
+        "normal_hash": "04d8381483149d79",
+        "border_hash": "3a9801687900b5b5",
+        "bytes": 86252,
+        "sha256": "f592064fe4c1ffab907be515b2622a6c0ac4884372357fa5ab13b72c4720db60"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

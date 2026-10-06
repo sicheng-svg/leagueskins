@@ -1,0 +1,58 @@
+{
+  "skin_id": 81055,
+  "base_skin_id": 81044,
+  "champion_id": 81,
+  "name": "天龙之子 伊泽瑞尔 龙马精神",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bd9565d554b38e4c5c0b819c52d0c19eb432dc494e70020338be6fe8a50d9a01",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "81/81044/81055/81055.fantome",
+  "files": [
+    {
+      "path": "skins/81/81044/81055/Ezreal.wad.client",
+      "size": 89275,
+      "sha256": "560ddb7c3dd517d71c0a1eccb08173f4b282d55968cad22d64be1590979a3c01"
+    }
+  ],
+  "wads": {
+    "Ezreal.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2991,
+      "bytes_after": 89275,
+      "replacement_hashes": [
+        "3397026a33508812"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ezreal.wad.client",
+        "normal_hash": "3397026a33508812",
+        "border_hash": "2dedea0bd25623e2",
+        "bytes": 86252,
+        "sha256": "22e5128e878da6ab4250543992d972cd273f371f37d6ffd48c970a6787d2d86c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

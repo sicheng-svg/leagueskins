@@ -1,0 +1,123 @@
+{
+  "champion_id": 81,
+  "base_skin_id": 81021,
+  "name": "战斗学院 伊泽瑞尔",
+  "variants": [
+    {
+      "skin_id": 81021,
+      "base_skin_id": 81021,
+      "champion_id": 81,
+      "name": "战斗学院 伊泽瑞尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0122dadf102d195ac327220875aa165585840d3c9ff35333ae64686781429b05",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81021/81021.fantome",
+      "files": [
+        {
+          "path": "skins/81/81021/81021/Ezreal.wad.client",
+          "size": 94353,
+          "sha256": "ce5d548ee0ce354a7cfa3f4ecebcadb82681b069438812e12764bdecabe1d03a"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8069,
+          "bytes_after": 94353,
+          "replacement_hashes": [
+            "7381291aaf9c949c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ezreal.wad.client",
+            "normal_hash": "7381291aaf9c949c",
+            "border_hash": "af33e63142a9992b",
+            "bytes": 86252,
+            "sha256": "89366de329c7559c88bfe4e202605a6abf2c4871e134e6ca5fea57d7e423a314"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 81032,
+      "base_skin_id": 81021,
+      "champion_id": 81,
+      "name": "战斗学院 伊泽瑞尔 白金学长",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f57871698d89740d2b339eeb624a41993395d818103c651c0f7faeaccc2fc962",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81021/81032/81032.fantome",
+      "files": [
+        {
+          "path": "skins/81/81021/81032/Ezreal.wad.client",
+          "size": 89403,
+          "sha256": "14dc5c8dd7263af5bd6d9c8e4aa9103e9394600fe5d04087e5cd9fde2b3d615d"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3119,
+          "bytes_after": 89403,
+          "replacement_hashes": [
+            "7381291aaf9c949c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ezreal.wad.client",
+            "normal_hash": "7381291aaf9c949c",
+            "border_hash": "af33e63142a9992b",
+            "bytes": 86252,
+            "sha256": "89366de329c7559c88bfe4e202605a6abf2c4871e134e6ca5fea57d7e423a314"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

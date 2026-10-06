@@ -1,0 +1,123 @@
+{
+  "champion_id": 81,
+  "base_skin_id": 81019,
+  "name": "SSG 伊泽瑞尔",
+  "variants": [
+    {
+      "skin_id": 81019,
+      "base_skin_id": 81019,
+      "champion_id": 81,
+      "name": "SSG 伊泽瑞尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dc2ce3b32256d085abb262cfb1a46ba0881fb9a387b9473a0590618009c43a8e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81019/81019.fantome",
+      "files": [
+        {
+          "path": "skins/81/81019/81019/Ezreal.wad.client",
+          "size": 93086,
+          "sha256": "79b130c49676433bee538379421ab23d99e4d4f93c35c082c826da183d81db4e"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6802,
+          "bytes_after": 93086,
+          "replacement_hashes": [
+            "d145cc376b9e494a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ezreal.wad.client",
+            "normal_hash": "d145cc376b9e494a",
+            "border_hash": "c73f544398a76ae8",
+            "bytes": 86252,
+            "sha256": "56f2f21614ab306171a17b272612fb76ce0f13466efa2efe19c567c2723aeb7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 81075,
+      "base_skin_id": 81019,
+      "champion_id": 81,
+      "name": "SSG 伊泽瑞尔 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6571325c72e8ba2956ce12fa1178fff5aa4f2d4095e5140d87ccda888ca80c07",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81019/81075/81075.fantome",
+      "files": [
+        {
+          "path": "skins/81/81019/81075/Ezreal.wad.client",
+          "size": 88867,
+          "sha256": "9cac362f65cdf74b2410f567f4f0830d711a3a43fb16bcfdb90c4d0b8cccaf3a"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2583,
+          "bytes_after": 88867,
+          "replacement_hashes": [
+            "d145cc376b9e494a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ezreal.wad.client",
+            "normal_hash": "d145cc376b9e494a",
+            "border_hash": "c73f544398a76ae8",
+            "bytes": 86252,
+            "sha256": "56f2f21614ab306171a17b272612fb76ce0f13466efa2efe19c567c2723aeb7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

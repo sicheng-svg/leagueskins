@@ -1,0 +1,65 @@
+{
+  "skin_id": 805001,
+  "base_skin_id": 805001,
+  "champion_id": 805,
+  "name": "西部魔影 洛克",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3c8b4fe8fc36300e542a9b0232fa69c40f836ab67f891615a3ac6f67a6151190",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "805/805001/805001.fantome",
+  "files": [
+    {
+      "path": "skins/805/805001/805001/Locke.wad.client",
+      "size": 99896,
+      "sha256": "e5984a71bfcc82a6de46afd941bbcca7506d7ef2a73c204629fd7dbfbb5ea9a3"
+    }
+  ],
+  "wads": {
+    "Locke.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 13612,
+      "bytes_after": 99896,
+      "replacement_hashes": [
+        "b7c184ee9dd3d8f1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Locke.wad.client",
+        "normal_hash": "b7c184ee9dd3d8f1",
+        "border_hash": "cceb39682472d32d",
+        "bytes": 86252,
+        "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+      },
+      {
+        "archive": "Locke.wad.client",
+        "normal_hash": "b7c184ee9dd3d8f1",
+        "border_hash": "cceb39682472d32d",
+        "bytes": 86252,
+        "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

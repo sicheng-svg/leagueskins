@@ -1,0 +1,65 @@
+{
+  "champion_id": 81,
+  "base_skin_id": 81018,
+  "name": "星之守护者 伊泽瑞尔",
+  "variants": [
+    {
+      "skin_id": 81018,
+      "base_skin_id": 81018,
+      "champion_id": 81,
+      "name": "星之守护者 伊泽瑞尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b9746337c536b41ef6b00d815f78b2b9128e079947ec3c5da19b9459b9594e9d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81018/81018.fantome",
+      "files": [
+        {
+          "path": "skins/81/81018/81018/Ezreal.wad.client",
+          "size": 94387,
+          "sha256": "c2b83093a66f619dccb9a6b5ea8f511e330c71a54c463c7a7aabc513d786227f"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8103,
+          "bytes_after": 94387,
+          "replacement_hashes": [
+            "312f146309dc85bd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ezreal.wad.client",
+            "normal_hash": "312f146309dc85bd",
+            "border_hash": "9d58e1fcaf0976b4",
+            "bytes": 86252,
+            "sha256": "c80ce8a376dd92c7a4beb280ce2f638cd264e67df1bd36a5e8aa86a8eac1cad6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

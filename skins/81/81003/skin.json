@@ -1,0 +1,103 @@
+{
+  "champion_id": 81,
+  "base_skin_id": 81003,
+  "name": "冰川勇者 伊泽瑞尔",
+  "variants": [
+    {
+      "skin_id": 81003,
+      "base_skin_id": 81003,
+      "champion_id": 81,
+      "name": "冰川勇者 伊泽瑞尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a2330728ed1442015d7331e973f84c5910fcd01f965916cfb5d2a222665557f6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81003/81003.fantome",
+      "files": [
+        {
+          "path": "skins/81/81003/81003/Ezreal.wad.client",
+          "size": 6424,
+          "sha256": "e1b171dffcde5d8eb0f0d014f80bb7f52d8bc0f662252c9d07d40887806800d6"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6424,
+          "bytes_after": 6424,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 81074,
+      "base_skin_id": 81003,
+      "champion_id": 81,
+      "name": "冰川勇者 伊泽瑞尔 至强",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fba4aa23f80a6d8716beac693fb286102d52cf7c501103d5e70f93aa07ce63f5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "81/81003/81074/81074.fantome",
+      "files": [
+        {
+          "path": "skins/81/81003/81074/Ezreal.wad.client",
+          "size": 2573,
+          "sha256": "7a7ade97074840c2f3b160ba7b741996b6be3decbf715aadedfef67ffad0ba23"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2573,
+          "bytes_after": 2573,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

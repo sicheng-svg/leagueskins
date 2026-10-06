@@ -1,0 +1,65 @@
+{
+  "champion_id": 21,
+  "base_skin_id": 21041,
+  "name": "至臻 绝息圣堂 厄运小姐",
+  "variants": [
+    {
+      "skin_id": 21041,
+      "base_skin_id": 21041,
+      "champion_id": 21,
+      "name": "至臻 绝息圣堂 厄运小姐",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "50af2c8e68062e8d99286184ab97939ad0d05c144d8ab5d3fb96644e1a0c873a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21041/21041.fantome",
+      "files": [
+        {
+          "path": "skins/21/21041/21041/MissFortune.wad.client",
+          "size": 92783,
+          "sha256": "de2d518fbba2cf1a48c3cc5ca87a429b367b4ba62f98a738df53aed1ef6f866f"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6499,
+          "bytes_after": 92783,
+          "replacement_hashes": [
+            "8ca0c74ba1db3a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "8ca0c74ba1db3a22",
+            "border_hash": "53983bc1d292bd43",
+            "bytes": 86252,
+            "sha256": "127b02a4c893404fdb6e0cf9b52b8519be9bd0e66376c44204a1d81abd240167"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

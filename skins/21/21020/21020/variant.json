@@ -1,0 +1,58 @@
+{
+  "skin_id": 21020,
+  "base_skin_id": 21020,
+  "champion_id": 21,
+  "name": "至臻 魅惑女巫 厄运小姐",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2fc97990b9c3ed557b7d8247a8fdd8a2034cc26af7c71f2df7a66ad02cea72f7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "21/21020/21020.fantome",
+  "files": [
+    {
+      "path": "skins/21/21020/21020/MissFortune.wad.client",
+      "size": 92278,
+      "sha256": "ac00e071b1da4cee11da3bd9e0d3f3f5a4da2d2500b6d7d30436a9b616c2de41"
+    }
+  ],
+  "wads": {
+    "MissFortune.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5994,
+      "bytes_after": 92278,
+      "replacement_hashes": [
+        "8f50d10ffa1085c8"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MissFortune.wad.client",
+        "normal_hash": "8f50d10ffa1085c8",
+        "border_hash": "e440947e4eeac67f",
+        "bytes": 86252,
+        "sha256": "15dfec9d85ae38873f172eb2c14dc029b94ace9125449c08989f687a021bf13f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

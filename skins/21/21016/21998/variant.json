@@ -1,0 +1,59 @@
+{
+  "skin_id": 21998,
+  "base_skin_id": 21016,
+  "champion_id": 21,
+  "name": "21998",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "58aed107d6580d2da7e58eda9d4f0e84aa90581abd92405a2631c46a2bd6d29e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+  },
+  "source_package": "21/21016/21998/21998.fantome",
+  "files": [
+    {
+      "path": "skins/21/21016/21998/MissFortune.wad.client",
+      "size": 93942,
+      "sha256": "988e18d64e189eac83a44c26ef02a9c9d94357fd16f5724e4afcc5f802b86039"
+    }
+  ],
+  "wads": {
+    "MissFortune.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.3",
+      "bytes_before": 7658,
+      "bytes_after": 93942,
+      "replacement_hashes": [
+        "025f784c5a5fc05c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "MissFortune.wad.client",
+        "normal_hash": "025f784c5a5fc05c",
+        "border_hash": "909f9f1f56b7b31e",
+        "bytes": 86252,
+        "sha256": "25938b6b985b776a402f9b326e6d3bb76be9d462d4650dadf86a531a674d7c23",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

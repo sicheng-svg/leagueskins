@@ -1,0 +1,592 @@
+{
+  "champion_id": 203,
+  "base_skin_id": 203003,
+  "name": "灵魂莲华 千珏",
+  "variants": [
+    {
+      "skin_id": 203003,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4e1332ab9d5cdbf35947c400e6fb16d007d66a7d7b144751b96479bfa78b7719",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203003.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203003/Kindred.wad.client",
+          "size": 93651,
+          "sha256": "51d95038e02772acfb7853311eec6a25fc27e008457e7086dd391926c0e691c6"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 4,
+          "entries_after": 5,
+          "was_sorted": false,
+          "version": "3.3",
+          "bytes_before": 7367,
+          "bytes_after": 93651,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203004,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 流火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ace528e8e1d8461dd088d8c59c0d9a65d08c75031599f0bca21467bbfc71a9f4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203004/203004.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203004/Kindred.wad.client",
+          "size": 90353,
+          "sha256": "9e91467d419c9ada9fdc04196349df9a82a99c436d03de40114a03339a6b6fea"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4069,
+          "bytes_after": 90353,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203005,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 雁来",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b651024c3967a38cf826f8580c79c5ed926040c5c65cf254cf0917f938b19953",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203005/203005.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203005/Kindred.wad.client",
+          "size": 90291,
+          "sha256": "a904fc3bd2873b9bdb1fad6833513274e5abfd3f22a05f789759972bacb249ac"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4007,
+          "bytes_after": 90291,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203006,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 森萌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c16d1001c8a6d66be0e189948f947d944994ddf3f82218d7ecff6c6621c911dd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203006/203006.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203006/Kindred.wad.client",
+          "size": 90288,
+          "sha256": "9d3cb3d82b6f4a0859fe14afdea034d74afca2f6984a814c393c58fb0165ca57"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4004,
+          "bytes_after": 90288,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203007,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 融冰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4fc8fdc532582ea6a8b67aa56be9d4511ca70e372aecc7ca9fd8f7157c0ce2eb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203007/203007.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203007/Kindred.wad.client",
+          "size": 90289,
+          "sha256": "e881b3d4a0ad4bad2afed35d5d87fd0fcfab3e68439f441ab1cf921a7cc062a0"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4005,
+          "bytes_after": 90289,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203008,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 春晓",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0c6f7b6996625be63c1ffef0a6463744c26f20310a69902d20ca7a171b2c7419",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203008/203008.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203008/Kindred.wad.client",
+          "size": 90323,
+          "sha256": "7780c43f52377d3a7ff0a3a16c35c72852f3918378a2e5ceb51e2d85a6093211"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4039,
+          "bytes_after": 90323,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203009,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 月升",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1181768dc737d8423294cb42d70a58430a2756dca273333f8c7684e06c6e6e1f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203009/203009.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203009/Kindred.wad.client",
+          "size": 90291,
+          "sha256": "0d138068d7f15b7bca1681e65d9bbe2b834719dc1c444d8dae35b66fb7ecadc2"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4007,
+          "bytes_after": 90291,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203010,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 雪落",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "abf7d79c4566a322e14fbf82774b51384064c3c0b4e08d60f36270e53992459e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203010/203010.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203010/Kindred.wad.client",
+          "size": 90291,
+          "sha256": "e05f0175ab44bd9b98b6b22ac9a6d21e36ec323a3b3419b917fc35bebc1bd296"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4007,
+          "bytes_after": 90291,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 203011,
+      "base_skin_id": 203003,
+      "champion_id": 203,
+      "name": "灵魂莲华 千珏 霜见",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a565e7182991e3633adf8afde79d5838c44b03f1d25c1471540b190b049cccf2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "203/203003/203011/203011.fantome",
+      "files": [
+        {
+          "path": "skins/203/203003/203011/Kindred.wad.client",
+          "size": 90355,
+          "sha256": "84f8be71a41c4ec8b783a2b9e912871ac18d7d14b09246bd2b8a78568ecfb04f"
+        }
+      ],
+      "wads": {
+        "Kindred.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4071,
+          "bytes_after": 90355,
+          "replacement_hashes": [
+            "31a59d09ad3a7d66"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          },
+          {
+            "archive": "Kindred.wad.client",
+            "normal_hash": "31a59d09ad3a7d66",
+            "border_hash": "0836a54d11e774ec",
+            "bytes": 86252,
+            "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

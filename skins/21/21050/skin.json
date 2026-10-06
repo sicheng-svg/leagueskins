@@ -1,0 +1,587 @@
+{
+  "champion_id": 21,
+  "base_skin_id": 21050,
+  "name": "青花瓷 厄运小姐",
+  "variants": [
+    {
+      "skin_id": 21050,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f026d0f613af8ff71ce9726e2c110c7eee6226a8252d186fa10165b6813a1a0e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21050.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21050/MissFortune.wad.client",
+          "size": 92400,
+          "sha256": "35d6104526391e1ef5df4ff590640222011b5a62cc1229d4a3403e7531fe1b2f"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6116,
+          "bytes_after": 92400,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21051,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 牡丹",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "427b387ad44eb334da10a76a1db1bdb82fede316a3382a2c4bd1ed2264a1c268",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21051/21051.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21051/MissFortune.wad.client",
+          "size": 88757,
+          "sha256": "e723df9e806797264cd706d64d330d541116fd9c729bb2d59163bdd6dfb6c337"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2473,
+          "bytes_after": 88757,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21052,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 含苞",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "565aeb669c8947fc0094fbc48cfad1381ca0cd44cebda6b691c479f8d7e16930",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21052/21052.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21052/MissFortune.wad.client",
+          "size": 88723,
+          "sha256": "e4c65283e0e03dcd40a3589f518963e53e3f36ccb53c80833fcb44ee2fd47ac7"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2439,
+          "bytes_after": 88723,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21053,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 釉色",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "54320e488ac3c00f34df8d982494a8e33ca725e7f7a55db75bd8850ff7bc0a5c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21053/21053.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21053/MissFortune.wad.client",
+          "size": 88699,
+          "sha256": "5e2ad3e35202bbe7fde89c4687b6fc380dec9b40c95047a830c72b1691885da4"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2415,
+          "bytes_after": 88699,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21054,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 墨色",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3c94edfbf143fa65580dbed7c9e9a313ef3d9e9502d2a38f1b9f1e6ce9b73679",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21054/21054.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21054/MissFortune.wad.client",
+          "size": 88701,
+          "sha256": "406afaa74e9497e93c600403ed37b95d1d1d8e939368e230e8ac37bfd92a4496"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2417,
+          "bytes_after": 88701,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21055,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 初妆",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "23d144bf09ca624397d917d046da6ea2a32465fa08df34751935167fdf5a7184",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21055/21055.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21055/MissFortune.wad.client",
+          "size": 88700,
+          "sha256": "bc0c3375af9fa5422936b46f014bf2b62d5a8976e54af978688c505e9fa239ae"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2416,
+          "bytes_after": 88700,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21056,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 天青",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "92639cafe49d50268dbf00176cfd9246999f053ff9539283d9ea4e125230ad42",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21056/21056.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21056/MissFortune.wad.client",
+          "size": 88698,
+          "sha256": "0095612e181abcaceed1cdf110df47f9f4cb0d34f2c7de19edad2e8aa5e1afdd"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2414,
+          "bytes_after": 88698,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21057,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 月色",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "823606b65752866e6844fe33817d7ec4b7058efb9f9f1cab67cbd5a45ebb9d9d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21057/21057.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21057/MissFortune.wad.client",
+          "size": 88700,
+          "sha256": "1acb2009c4e95400f976e2de27b44fd37b5a6778f7e30cab23c99071ebf8ebd3"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2416,
+          "bytes_after": 88700,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21058,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 金辉玉洁",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9186b2ce6c81e6e3b5443ff106d44d840ded0cd8910465b249b24a20e66853cd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21058/21058.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21058/MissFortune.wad.client",
+          "size": 88723,
+          "sha256": "415ad531e3e8de3e4fa85f9d01a3c9ddc57e5eb3bed9192b54a7583d7a7cd825"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2439,
+          "bytes_after": 88723,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 21059,
+      "base_skin_id": 21050,
+      "champion_id": 21,
+      "name": "青花瓷 厄运小姐 锦鲤",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a06c9b6f82284a27756186f00a3338eb546cd1eb672d13cca8e017d28bc6e13a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "21/21050/21059/21059.fantome",
+      "files": [
+        {
+          "path": "skins/21/21050/21059/MissFortune.wad.client",
+          "size": 88758,
+          "sha256": "b81fe0c0b9a2d873bbce151cb950727e4d674590f6bc57d668bcd6d3a006482b"
+        }
+      ],
+      "wads": {
+        "MissFortune.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2474,
+          "bytes_after": 88758,
+          "replacement_hashes": [
+            "0c7422ab191c0134"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MissFortune.wad.client",
+            "normal_hash": "0c7422ab191c0134",
+            "border_hash": "52318e5ebe283f86",
+            "bytes": 86252,
+            "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

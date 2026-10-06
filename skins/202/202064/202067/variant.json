@@ -1,0 +1,65 @@
+{
+  "skin_id": 202067,
+  "base_skin_id": 202064,
+  "champion_id": 202,
+  "name": "绝息圣堂 烬 昼梦狂想曲",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d0cabc28c30ac270eed0d560fc2f0ffeaa4180d3d3ed6d528ad78694061d22c4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "202/202064/202067/202067.fantome",
+  "files": [
+    {
+      "path": "skins/202/202064/202067/Jhin.wad.client",
+      "size": 89823,
+      "sha256": "9fa12138d3e409f7828ac5e99f0b776cb972e335713d7c8cc8d52c3f53475623"
+    }
+  ],
+  "wads": {
+    "Jhin.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3539,
+      "bytes_after": 89823,
+      "replacement_hashes": [
+        "7564c747b4e32389"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Jhin.wad.client",
+        "normal_hash": "7564c747b4e32389",
+        "border_hash": "e85ee2d19d5dc504",
+        "bytes": 86252,
+        "sha256": "3828a632ea2365d2e339f813132b6f5889f4a212abb6ca11842e3c9f523b9d61"
+      },
+      {
+        "archive": "Jhin.wad.client",
+        "normal_hash": "7564c747b4e32389",
+        "border_hash": "e85ee2d19d5dc504",
+        "bytes": 86252,
+        "sha256": "3828a632ea2365d2e339f813132b6f5889f4a212abb6ca11842e3c9f523b9d61"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 21001,
+  "base_skin_id": 21001,
+  "champion_id": 21,
+  "name": "西部牛仔 厄运小姐",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fb61f1420e468217471974961a919f82d944255fe2efc8c6b6f1b7cde47a4e27",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "21/21001/21001.fantome",
+  "files": [
+    {
+      "path": "skins/21/21001/21001/MissFortune.wad.client",
+      "size": 2298,
+      "sha256": "f3144ab75d6d1d7ba0f5c70b26b08e5f5a7ceb0f2c1352024f5e6ad3047afbe0"
+    }
+  ],
+  "wads": {
+    "MissFortune.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2298,
+      "bytes_after": 2298,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

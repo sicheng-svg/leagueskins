@@ -1,0 +1,65 @@
+{
+  "skin_id": 203019,
+  "base_skin_id": 203012,
+  "champion_id": 203,
+  "name": "青花瓷 千珏 墨色",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b76debeca44f9176353c1167bc59e2cf582cd666d0077b94fb4f1ba210af661f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "203/203012/203019/203019.fantome",
+  "files": [
+    {
+      "path": "skins/203/203012/203019/Kindred.wad.client",
+      "size": 90340,
+      "sha256": "4e44bc696877c83bc9f0ef5b8091c17b1de0455dc3beb77b8c985f1bccc844ae"
+    }
+  ],
+  "wads": {
+    "Kindred.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4056,
+      "bytes_after": 90340,
+      "replacement_hashes": [
+        "537669d04bc7978d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kindred.wad.client",
+        "normal_hash": "537669d04bc7978d",
+        "border_hash": "7144c2c7af8cc3c9",
+        "bytes": 86252,
+        "sha256": "efd4d119725b63aeeeeb483ce2d37c3b4bf70b271819c180bfbf58d3a23be713"
+      },
+      {
+        "archive": "Kindred.wad.client",
+        "normal_hash": "537669d04bc7978d",
+        "border_hash": "7144c2c7af8cc3c9",
+        "bytes": 86252,
+        "sha256": "efd4d119725b63aeeeeb483ce2d37c3b4bf70b271819c180bfbf58d3a23be713"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

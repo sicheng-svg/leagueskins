@@ -1,0 +1,65 @@
+{
+  "skin_id": 203011,
+  "base_skin_id": 203003,
+  "champion_id": 203,
+  "name": "灵魂莲华 千珏 霜见",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a565e7182991e3633adf8afde79d5838c44b03f1d25c1471540b190b049cccf2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "203/203003/203011/203011.fantome",
+  "files": [
+    {
+      "path": "skins/203/203003/203011/Kindred.wad.client",
+      "size": 90355,
+      "sha256": "84f8be71a41c4ec8b783a2b9e912871ac18d7d14b09246bd2b8a78568ecfb04f"
+    }
+  ],
+  "wads": {
+    "Kindred.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4071,
+      "bytes_after": 90355,
+      "replacement_hashes": [
+        "31a59d09ad3a7d66"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kindred.wad.client",
+        "normal_hash": "31a59d09ad3a7d66",
+        "border_hash": "0836a54d11e774ec",
+        "bytes": 86252,
+        "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+      },
+      {
+        "archive": "Kindred.wad.client",
+        "normal_hash": "31a59d09ad3a7d66",
+        "border_hash": "0836a54d11e774ec",
+        "bytes": 86252,
+        "sha256": "2541e611ff39015158bc3105033b58306cb69512530c0112989d31e55c105202"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

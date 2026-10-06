@@ -1,0 +1,48 @@
+{
+  "skin_id": 203025,
+  "base_skin_id": 203022,
+  "champion_id": 203,
+  "name": "猫狗大战 千珏 美萌喵汪",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "754ff40b4bd2ef3c2b1a1269a003f714001f6e5fdfa1ec6e5bd3c7adb5647a12",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "203/203022/203025/203025.fantome",
+  "files": [
+    {
+      "path": "skins/203/203022/203025/Kindred.wad.client",
+      "size": 4277,
+      "sha256": "7896612ea26aff61b6379c8d57d1cc8760f4467be5d19c306bc711483da5f46f"
+    }
+  ],
+  "wads": {
+    "Kindred.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4277,
+      "bytes_after": 4277,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

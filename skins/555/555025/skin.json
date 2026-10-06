@@ -1,0 +1,529 @@
+{
+  "champion_id": 555,
+  "base_skin_id": 555025,
+  "name": "灵能特工 派克",
+  "variants": [
+    {
+      "skin_id": 555025,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "14a08854051a9b2888af78d475123a192764f56ec4640e512fb841e6add1a597",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555025.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555025/Pyke.wad.client",
+          "size": 92699,
+          "sha256": "3c1933e58d29a671d6895244d55945bddaad3a4d095702c2c2f70dd6b0d605e4"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6415,
+          "bytes_after": 92699,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555026,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：龙焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2bc6fecae16b145168a69e1bd51422b40848a6c71cff83c32177b0694c7e5b76",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555026/555026.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555026/Pyke.wad.client",
+          "size": 89363,
+          "sha256": "4088f7918cd3d9ad60ce7d65f74bd297e96ec2503ea997e82f7a7b8dba86969e"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3079,
+          "bytes_after": 89363,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555027,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：灰熊",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "646b7e9cc4d13a53e517509c121778989fa3aed9273b490ac407bd0e210ec3c2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555027/555027.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555027/Pyke.wad.client",
+          "size": 89307,
+          "sha256": "3a4fad37946610d3e080fe54241049bd175f9fe8f86cf0bdc7f4211800fd0710"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3023,
+          "bytes_after": 89307,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555028,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：银翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "139d50f4971c91e5370fd0078893266227b9eb5c4ad4fe9b79876ce1462f0e5f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555028/555028.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555028/Pyke.wad.client",
+          "size": 89309,
+          "sha256": "4267dbc9dcbd0d2f646e9c35d47a4a17ed338000c7a1f09565279f01517f1654"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3025,
+          "bytes_after": 89309,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555029,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：蝮蛇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "01e7e187d1655e7eb9beec50346a877d95be117a4e988e0b56fdfcf646c67eee",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555029/555029.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555029/Pyke.wad.client",
+          "size": 89308,
+          "sha256": "af875fbdc671ccaf941ada7a64a1c6039f44ea9f182e4360dc668cb664a15c81"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3024,
+          "bytes_after": 89308,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555030,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：毒牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6dbb09397ef9c95c3f16efdf006c53a660700160a347639d6137a5a7807ee805",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555030/555030.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555030/Pyke.wad.client",
+          "size": 89367,
+          "sha256": "05c4f77570e994d725d891e8e042dc21c005af7eb8ba64cc7e2f5b309c6502a1"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3083,
+          "bytes_after": 89367,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555031,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：天狼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ee714a1d4885b9acf40b30f7c9026d216464aa752f5ae35c341c2e916e014dd9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555031/555031.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555031/Pyke.wad.client",
+          "size": 89336,
+          "sha256": "07f846392c3b36f6d777dd21ade288ef9a8e104632a96e484ef84c97c52df4c7"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3052,
+          "bytes_after": 89336,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555032,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：猎人",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "db3a8cbd31e4abe2c87741c66f37f3c1955911c38f25e8e3fbbd688e7b47e4bb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555032/555032.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555032/Pyke.wad.client",
+          "size": 89368,
+          "sha256": "38d5edfc2009f82621e833a1e2245a7640e67905a390ab6f393b18131d7f7901"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3084,
+          "bytes_after": 89368,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555033,
+      "base_skin_id": 555025,
+      "champion_id": 555,
+      "name": "灵能特工 派克 代号：蜘蛛",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3c599a0673eb833a6ea0b011b2f5b0f4cccb0b4fdea7f459f9792235b9b94bda",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555025/555033/555033.fantome",
+      "files": [
+        {
+          "path": "skins/555/555025/555033/Pyke.wad.client",
+          "size": 89310,
+          "sha256": "2583092f995689ed9cc81bd88c3d13e1f5146043c9fb86f47646d4b32d1ce7a0"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3026,
+          "bytes_after": 89310,
+          "replacement_hashes": [
+            "91407c12ed4f6f53"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "91407c12ed4f6f53",
+            "border_hash": "ebc5a06caaeaf023",
+            "bytes": 86252,
+            "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

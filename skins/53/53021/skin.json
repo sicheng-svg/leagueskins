@@ -1,0 +1,55 @@
+{
+  "champion_id": 53,
+  "base_skin_id": 53021,
+  "name": "银白枪骑 布里茨",
+  "variants": [
+    {
+      "skin_id": 53021,
+      "base_skin_id": 53021,
+      "champion_id": 53,
+      "name": "银白枪骑 布里茨",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "501eec807ee0c93f4d8a4d5692d3bd8d43d219eb387164e83cdf76f3ec8c4f91",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "53/53021/53021.fantome",
+      "files": [
+        {
+          "path": "skins/53/53021/53021/Blitzcrank.wad.client",
+          "size": 3883,
+          "sha256": "d0b31052a0ce8543e4449a530e6ab70cc1f1011ab239616a85926f04782f28a0"
+        }
+      ],
+      "wads": {
+        "Blitzcrank.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3883,
+          "bytes_after": 3883,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

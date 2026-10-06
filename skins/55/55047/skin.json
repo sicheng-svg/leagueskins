@@ -1,0 +1,587 @@
+{
+  "champion_id": 55,
+  "base_skin_id": 55047,
+  "name": "花仙使者 卡特琳娜",
+  "variants": [
+    {
+      "skin_id": 55047,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5e8dce752e5272c6301e6d3083818d8f2822804f15bcd0141e5562bd1400760d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55047.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55047/Katarina.wad.client",
+          "size": 90574,
+          "sha256": "ec213bace29d425d3caccd718279800d28186dbf16d6a82f59c1af001e0abb99"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4290,
+          "bytes_after": 90574,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55049,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 凤仙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5863debd93b3cf418c7c1c0e98b30511bfba68cd22cbcbfc408f25161ed7aee1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55049/55049.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55049/Katarina.wad.client",
+          "size": 88345,
+          "sha256": "f26b42e104a94deb2df110dbfa248a2c461102f9263534d700f94c710a580469"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2061,
+          "bytes_after": 88345,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55050,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 玉带",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f258cd15af063854bece3bf71a6101af99fb9eb33f1eb4d775fd1f314a99d46a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55050/55050.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55050/Katarina.wad.client",
+          "size": 88297,
+          "sha256": "48a6f55eec86f6b914fb0c242e51b98a98a09d3538363d8ce65247454726dbb2"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2013,
+          "bytes_after": 88297,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55051,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 霜降",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "08a68361f9bf6a99dc631c30a335fb29f645fbbf079db20e587ffb9b0ddca44e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55051/55051.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55051/Katarina.wad.client",
+          "size": 88295,
+          "sha256": "c4d5d9d61ae988fdc30f7ce4b9532f96b94c268df9ebd739d51ea080d972c45a"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2011,
+          "bytes_after": 88295,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55052,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 榆绿",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ac104d2e5a51fae0495250077a7dbdd9ec5c6784823cb6fdee00c908d8fb575b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55052/55052.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55052/Katarina.wad.client",
+          "size": 88299,
+          "sha256": "e8f911dcbf91b7c47b5b54024433406c986dc4538d6e0c28ccde9c4d8abd0a73"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2015,
+          "bytes_after": 88299,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55053,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 茜草",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e01d194595fb65cc98a263073235e84a0ad54450f8dc879f69d8a426c9fd4e4b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55053/55053.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55053/Katarina.wad.client",
+          "size": 88295,
+          "sha256": "7c45433747e3d3dd1b6c8321678326e868c970139f4a6f5d9a8f91072c10de5b"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2011,
+          "bytes_after": 88295,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55054,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 黑星",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3ad40757de241d9ab865423c9cdb30c796c9d79926a725f77eb8042d9b2b14f5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55054/55054.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55054/Katarina.wad.client",
+          "size": 88296,
+          "sha256": "9f42c22e2e1c298dd466e612f915a3321f61c43ed49a5d0c9be03e482ba7a49d"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2012,
+          "bytes_after": 88296,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55055,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 桃六点",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "49558fd8f1b27ea56a075f788ad59c90ba05f32b359d829cb094f66516b1595e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55055/55055.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55055/Katarina.wad.client",
+          "size": 88318,
+          "sha256": "66812c7be0c3d63f8416f5ce6890c01c2983f4d441d2ab372d2c7d3e0130472f"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2034,
+          "bytes_after": 88318,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55056,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 构月",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a744c2e2247425bb5111313f70e1a6d58236f48d1abb51707caf933b58a169ea",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55056/55056.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55056/Katarina.wad.client",
+          "size": 88297,
+          "sha256": "55928b0064232701eadb95861ebdb73bb6d449de79bab97a7d889de11209d551"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2013,
+          "bytes_after": 88297,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 55057,
+      "base_skin_id": 55047,
+      "champion_id": 55,
+      "name": "花仙使者 卡特琳娜 迷人幻翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6bfc04c391f1b8b1a1bdc452f896463878ec6c3953a25d198799d2f0dabfbb0b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55047/55057/55057.fantome",
+      "files": [
+        {
+          "path": "skins/55/55047/55057/Katarina.wad.client",
+          "size": 88347,
+          "sha256": "77a70c33f3660fca9c07cb4d796b2e3a549c3333a88ca100f820f8259ec098e5"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2063,
+          "bytes_after": 88347,
+          "replacement_hashes": [
+            "253afe800454de56"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "253afe800454de56",
+            "border_hash": "6fd4183480faf26b",
+            "bytes": 86252,
+            "sha256": "d6021496bf11f6ec38188495cbbb12947cd76a73b3f6db033b4403a8c555b108"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

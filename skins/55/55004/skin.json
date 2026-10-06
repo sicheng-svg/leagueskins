@@ -1,0 +1,65 @@
+{
+  "champion_id": 55,
+  "base_skin_id": 55004,
+  "name": "暗夜猫女 卡特琳娜",
+  "variants": [
+    {
+      "skin_id": 55004,
+      "base_skin_id": 55004,
+      "champion_id": 55,
+      "name": "暗夜猫女 卡特琳娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "21c9b17b508d3b1bfd7fb2e5746670cdb8f4606f9ea1e53928e8e48cd521f91b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "55/55004/55004.fantome",
+      "files": [
+        {
+          "path": "skins/55/55004/55004/Katarina.wad.client",
+          "size": 88794,
+          "sha256": "f9cb71a39f24d7ea2320ed8ff6798aa7fea31b8a5a960ab729726e8154ad9db3"
+        }
+      ],
+      "wads": {
+        "Katarina.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2510,
+          "bytes_after": 88794,
+          "replacement_hashes": [
+            "6e9b5e6b693e0a02"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Katarina.wad.client",
+            "normal_hash": "6e9b5e6b693e0a02",
+            "border_hash": "546772301f68d550",
+            "bytes": 86252,
+            "sha256": "b5b205d959d83a4139436fa27b9bd1e5cd8d49cfd95ceb9811504f299fb0926c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 55020,
+  "base_skin_id": 55012,
+  "champion_id": 55,
+  "name": "战斗学院 卡特琳娜 九头蛇",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8721372f4e304c72387fc26997bd50aac82b59d6769238a7b8cf0d088686bd26",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "55/55012/55020/55020.fantome",
+  "files": [
+    {
+      "path": "skins/55/55012/55020/Katarina.wad.client",
+      "size": 88798,
+      "sha256": "37a8721543cedcbf8d3a321c076a468a2910bb30fe1b156b8dbccde752129d5e"
+    }
+  ],
+  "wads": {
+    "Katarina.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2514,
+      "bytes_after": 88798,
+      "replacement_hashes": [
+        "a3c81716e1edf09a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Katarina.wad.client",
+        "normal_hash": "a3c81716e1edf09a",
+        "border_hash": "aab72dc04fa5b854",
+        "bytes": 86252,
+        "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "champion_id": 555,
+  "base_skin_id": 555053,
+  "name": "斗魂觉醒 派克",
+  "variants": [
+    {
+      "skin_id": 555053,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bcc0743690abd9920cc0234f7f48fcdf297d8d2460531b353d656d07d6083683",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555053.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555053/Pyke.wad.client",
+          "size": 91061,
+          "sha256": "49f5ceb66e9045fb48f8fd222068d183edd3f51d7f6f4d5fae96b14e0c2d2dd8"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4777,
+          "bytes_after": 91061,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555055,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 烈之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3d861c18661a5a334ef75ad58893a1c13e0625d1d72b20c3f1c08707529558bc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555055/555055.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555055/Pyke.wad.client",
+          "size": 88920,
+          "sha256": "ba811cc27218831bfa6315e092e287853b527623cd2fbcdb6375802ad62781b1"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2636,
+          "bytes_after": 88920,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555056,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 影之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e8e378d746418880ca6af73b1b0cbfcbb6a856d5b212258c7319cb5f6d0a4ac0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555056/555056.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555056/Pyke.wad.client",
+          "size": 88870,
+          "sha256": "62d140647a45ff25572cd46a4badeeb303c607225e7f80704fce3a1872206c50"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2586,
+          "bytes_after": 88870,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555057,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 毅之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "41368c9baa83599c87a29e31ce046fd0f75ccb68df496ec0db0747a9b2910a2a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555057/555057.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555057/Pyke.wad.client",
+          "size": 88870,
+          "sha256": "ce4bfd7195f563715f96df7edef8c16af1b0c521227f80a1c7af92b18d4c9508"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2586,
+          "bytes_after": 88870,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555058,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 飒之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "03c42d029532b30a24df1c69cdc843c865879b495847232726c7aab0439e09aa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555058/555058.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555058/Pyke.wad.client",
+          "size": 88870,
+          "sha256": "3b195a742d8e38b246a59aa3aaded9d766168ee29adcbe16ce54e88e1c09bd51"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2586,
+          "bytes_after": 88870,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555059,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 幻之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "780b6a1099741534a69286c34398156aea2c2fc9abb1b50d04153dfb7d8a37e1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555059/555059.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555059/Pyke.wad.client",
+          "size": 88891,
+          "sha256": "4f7123b3fa78872bc8cc590e82fa1eed33d3b80c09c94d49b20a173d18b4490e"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2607,
+          "bytes_after": 88891,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555060,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 韧之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "716447975cb3a2edae963c9186e0cf76ca8728ad992753f2e3175755adf2dc9e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555060/555060.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555060/Pyke.wad.client",
+          "size": 88872,
+          "sha256": "90aa2160d8979654ea0dbb76ea1b0d8a9cb9c1d54ca90ce13dc28c222b00a82b"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2588,
+          "bytes_after": 88872,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555061,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 生之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ce184393524ad3456b28d52b822298282f4e378769fbd85ad95300414e0e5153",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555061/555061.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555061/Pyke.wad.client",
+          "size": 88873,
+          "sha256": "3732e30b7a326cb3e70183546dd66cced7346a168ab789dbc9bc1d8d5fca2232"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2589,
+          "bytes_after": 88873,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555062,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 幽之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fe4a4faba95ee61cb5de59ed92c946c444fb6763a17f87fccad306b824ea40de",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555062/555062.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555062/Pyke.wad.client",
+          "size": 88872,
+          "sha256": "e33cde40b4b2aeb02d3dbae7c4905d0d3069599758832f8c9cf476398507cd76"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2588,
+          "bytes_after": 88872,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555063,
+      "base_skin_id": 555053,
+      "champion_id": 555,
+      "name": "斗魂觉醒 派克 无限斗志",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "90045998b17c33d3e707c019e07b4bc117c99d9e8b879970f11aca13d93176fe",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555053/555063/555063.fantome",
+      "files": [
+        {
+          "path": "skins/555/555053/555063/Pyke.wad.client",
+          "size": 88925,
+          "sha256": "7ea135ca43747846ec5d80596e1ef68ed452d946ae0bb3b88680d86de324c023"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2641,
+          "bytes_after": 88925,
+          "replacement_hashes": [
+            "35fc98a9eb2f0959"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "35fc98a9eb2f0959",
+            "border_hash": "d9c4b5ae1929c678",
+            "bytes": 86252,
+            "sha256": "c10abe085382aec5be66eafbf66e3d7b05c7d31b678a88d79f05c54ffd6f6eeb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

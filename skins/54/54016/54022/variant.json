@@ -1,0 +1,58 @@
+{
+  "skin_id": 54022,
+  "base_skin_id": 54016,
+  "champion_id": 54,
+  "name": "奥德赛 墨菲特 小行星带探险者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bfbf75761693b6f6c079337f07422047f3058128fd11bd0b19fd67d4dc14441e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "54/54016/54022/54022.fantome",
+  "files": [
+    {
+      "path": "skins/54/54016/54022/Malphite.wad.client",
+      "size": 88380,
+      "sha256": "dfd1b7db8ee34588d7287841862c583529a137133d76aec790e7848c65adfd09"
+    }
+  ],
+  "wads": {
+    "Malphite.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2096,
+      "bytes_after": 88380,
+      "replacement_hashes": [
+        "79e20da1f2b4ee24"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Malphite.wad.client",
+        "normal_hash": "79e20da1f2b4ee24",
+        "border_hash": "5a3ff3b8f1980a6d",
+        "bytes": 86252,
+        "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

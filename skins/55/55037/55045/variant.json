@@ -1,0 +1,58 @@
+{
+  "skin_id": 55045,
+  "base_skin_id": 55037,
+  "champion_id": 55,
+  "name": "西部魔影 执行人 卡特琳娜 谦卑",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7d56189572500102a14973fe7a75f3d5ac55eff3d771b088f227852ed2a0c691",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "55/55037/55045/55045.fantome",
+  "files": [
+    {
+      "path": "skins/55/55037/55045/Katarina.wad.client",
+      "size": 88306,
+      "sha256": "99965590daad7053f9634dcde9490c3aaab548201ff90ed6cd5c21671270cbbd"
+    }
+  ],
+  "wads": {
+    "Katarina.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2022,
+      "bytes_after": 88306,
+      "replacement_hashes": [
+        "b281073fc9126d28"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Katarina.wad.client",
+        "normal_hash": "b281073fc9126d28",
+        "border_hash": "e5d884e9858d4bf7",
+        "bytes": 86252,
+        "sha256": "86d579741425b8885b6a482c5a316224a9fecf07e525503323cfb8057884f8b9"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "champion_id": 54,
+  "base_skin_id": 54024,
+  "name": "至臻 暗星 墨菲特",
+  "variants": [
+    {
+      "skin_id": 54024,
+      "base_skin_id": 54024,
+      "champion_id": 54,
+      "name": "至臻 暗星 墨菲特",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b2c1c4bc7294de9bb8ff8491970e240cc9817340c86034584a277c9df37f70d5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54024/54024.fantome",
+      "files": [
+        {
+          "path": "skins/54/54024/54024/Malphite.wad.client",
+          "size": 91084,
+          "sha256": "a321eabbe5ab3b0ce74f8e9597be4b448e07280b619bffa3d37c9ae359537089"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4800,
+          "bytes_after": 91084,
+          "replacement_hashes": [
+            "5a41e946573be29d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "5a41e946573be29d",
+            "border_hash": "d127ed9705bfab0c",
+            "bytes": 86252,
+            "sha256": "db48eac6a8358c1fbfb21321e56c6462ff489d62bd194a20adaec1268e8b09fe"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

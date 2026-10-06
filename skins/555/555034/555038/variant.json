@@ -1,0 +1,58 @@
+{
+  "skin_id": 555038,
+  "base_skin_id": 555034,
+  "champion_id": 555,
+  "name": "光明哨兵 派克 虚无抗击者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e642e5e471236a9f061325c65695ee4cc8fcf1b1fe9d0d6b6b7fc908833bc52f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "555/555034/555038/555038.fantome",
+  "files": [
+    {
+      "path": "skins/555/555034/555038/Pyke.wad.client",
+      "size": 88831,
+      "sha256": "be3fffeab0f855364eb284eac12676ce5dd1bb9987c4ef6fa15a2ad79278f7cd"
+    }
+  ],
+  "wads": {
+    "Pyke.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2547,
+      "bytes_after": 88831,
+      "replacement_hashes": [
+        "b28c2d4729a90f6e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Pyke.wad.client",
+        "normal_hash": "b28c2d4729a90f6e",
+        "border_hash": "91534fe49360568e",
+        "bytes": 86252,
+        "sha256": "f4de6b72eca00b8608b96052480ab167a00d070ca8dbc8b6d3565067c6924a5d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

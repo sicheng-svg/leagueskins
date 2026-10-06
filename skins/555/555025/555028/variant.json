@@ -1,0 +1,58 @@
+{
+  "skin_id": 555028,
+  "base_skin_id": 555025,
+  "champion_id": 555,
+  "name": "灵能特工 派克 代号：银翼",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "139d50f4971c91e5370fd0078893266227b9eb5c4ad4fe9b79876ce1462f0e5f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "555/555025/555028/555028.fantome",
+  "files": [
+    {
+      "path": "skins/555/555025/555028/Pyke.wad.client",
+      "size": 89309,
+      "sha256": "4267dbc9dcbd0d2f646e9c35d47a4a17ed338000c7a1f09565279f01517f1654"
+    }
+  ],
+  "wads": {
+    "Pyke.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3025,
+      "bytes_after": 89309,
+      "replacement_hashes": [
+        "91407c12ed4f6f53"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Pyke.wad.client",
+        "normal_hash": "91407c12ed4f6f53",
+        "border_hash": "ebc5a06caaeaf023",
+        "bytes": 86252,
+        "sha256": "d61b87cb68da6553a6e84926cb960f660ba4bd154ff1588f1886eac85319e78f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

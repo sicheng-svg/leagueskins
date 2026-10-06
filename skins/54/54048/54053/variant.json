@@ -1,0 +1,48 @@
+{
+  "skin_id": 54053,
+  "base_skin_id": 54048,
+  "champion_id": 54,
+  "name": "沙碉 墨菲特 陨铁之城",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d6febef2dde3d60fc81c0bc0f4edbb6fc220634144c051e82ae60843d5051e67",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "54/54048/54053/54053.fantome",
+  "files": [
+    {
+      "path": "skins/54/54048/54053/Malphite.wad.client",
+      "size": 2035,
+      "sha256": "70cd5d3e1390fa4ef5270ce584d8946f0a0b171f05c1790886ebdafe4f6c591f"
+    }
+  ],
+  "wads": {
+    "Malphite.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2035,
+      "bytes_after": 2035,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

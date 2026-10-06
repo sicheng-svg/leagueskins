@@ -1,0 +1,48 @@
+{
+  "skin_id": 53020,
+  "base_skin_id": 53020,
+  "champion_id": 53,
+  "name": "暮色枪骑 布里茨",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "aec31ae58e21d5cba6056562aae248ec26902150272fbc793f7cc61418a79bae",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "53/53020/53020.fantome",
+  "files": [
+    {
+      "path": "skins/53/53020/53020/Blitzcrank.wad.client",
+      "size": 3967,
+      "sha256": "ee95226f3c2d98d9b86459d567190e82053351e7b102867706d4626e21893ad4"
+    }
+  ],
+  "wads": {
+    "Blitzcrank.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3967,
+      "bytes_after": 3967,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

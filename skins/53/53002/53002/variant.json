@@ -1,0 +1,58 @@
+{
+  "skin_id": 53002,
+  "base_skin_id": 53002,
+  "champion_id": 53,
+  "name": "钢铁之门 布里茨",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9c4c0eac1add34b90b5fe0fa4c279d5eb324268ea7164927e9d71a9155d41233",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "53/53002/53002.fantome",
+  "files": [
+    {
+      "path": "skins/53/53002/53002/Blitzcrank.wad.client",
+      "size": 88374,
+      "sha256": "6c89d0319c8411e383aba0f9256c718c1ac6d3384c55593e65f61d9feb651c64"
+    }
+  ],
+  "wads": {
+    "Blitzcrank.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2090,
+      "bytes_after": 88374,
+      "replacement_hashes": [
+        "ea1777d998af5418"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Blitzcrank.wad.client",
+        "normal_hash": "ea1777d998af5418",
+        "border_hash": "23dfbe56018cdfe1",
+        "bytes": 86252,
+        "sha256": "bb47ab1a7514ac310e33e3e89ca24ae157bb02c189f15c2a2b7ea66d70778754"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

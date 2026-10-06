@@ -1,0 +1,65 @@
+{
+  "champion_id": 53,
+  "base_skin_id": 53076,
+  "name": "铁锈浓浓 布里茨",
+  "variants": [
+    {
+      "skin_id": 53076,
+      "base_skin_id": 53076,
+      "champion_id": 53,
+      "name": "铁锈浓浓 布里茨",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a5299de4b17bff78d7bc7f4b0a127295b8c16291d64e03b07645a655d582e98d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "53/53076/53076.fantome",
+      "files": [
+        {
+          "path": "skins/53/53076/53076/Blitzcrank.wad.client",
+          "size": 88473,
+          "sha256": "17193328a9a85b5363e306c831dfa2367af084929545e797f57ad009957410b2"
+        }
+      ],
+      "wads": {
+        "Blitzcrank.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2189,
+          "bytes_after": 88473,
+          "replacement_hashes": [
+            "3cf78abc875ef091"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Blitzcrank.wad.client",
+            "normal_hash": "3cf78abc875ef091",
+            "border_hash": "1ac55c6c6e152247",
+            "bytes": 86252,
+            "sha256": "ff915f0b27bd5cd013dc13a70f2d3aaa24a5fdf76c3cdb426fa48dab534f5888"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

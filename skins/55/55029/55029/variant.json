@@ -1,0 +1,59 @@
+{
+  "skin_id": 55029,
+  "base_skin_id": 55029,
+  "champion_id": 55,
+  "name": "女帝 卡特琳娜",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6cc68623bee3281d9b751623a0d3cb8c4db488546f2ca410290ce53bd52c3cb1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "8c393ed7621b1333000c7d8e8e0a7ca52751b440ff567043b230f7a007d445b3"
+  },
+  "source_package": "55/55029/55029.fantome",
+  "files": [
+    {
+      "path": "skins/55/55029/55029/Katarina.wad.client",
+      "size": 99532,
+      "sha256": "98fab7f7a736c9386c9995f8704a5ca1a96347b15e4fc11d384f4bb2a41e3bd2"
+    }
+  ],
+  "wads": {
+    "Katarina.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 13248,
+      "bytes_after": 99532,
+      "replacement_hashes": [
+        "0814e7816d8ec8ec"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Katarina.wad.client",
+        "normal_hash": "0814e7816d8ec8ec",
+        "border_hash": "0814e7816d8ec8ec",
+        "bytes": 86252,
+        "sha256": "e9e363adbf52eb0f1d0cbc36e4d85d392c2459b7b0a78c8bcde77ead98ed9da6",
+        "strategy": "embed_existing_border"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 15,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "champion_id": 526,
+  "base_skin_id": 526020,
+  "name": "西部魔影 芮尔",
+  "variants": [
+    {
+      "skin_id": 526020,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "082231fdfb680caae38b69dd6c656e17e6d5dbbaa666a6876dc763cc3e6483d4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526020.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526020/Rell.wad.client",
+          "size": 93832,
+          "sha256": "d562348e5ff78975e209589be5015a95d825e5d63c083e18cecb0d915ce7e947"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7548,
+          "bytes_after": 93832,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526021,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 温和",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f171530d94ee42f6c03a91810b93ff46b8cfd45cda6ec3b0099a99aa2f340e29",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526021/526021.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526021/Rell.wad.client",
+          "size": 90007,
+          "sha256": "8ae1eff6e5dfaa3eff2708a6df534fb47fbd02a7c32aaef37a94db92c4873bba"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3723,
+          "bytes_after": 90007,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526022,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 善良",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "64e754d9e87826e5897ddfacd7cc397fa913876d1032b594471388864013134b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526022/526022.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526022/Rell.wad.client",
+          "size": 89952,
+          "sha256": "16bf5f468759b879afc4ff29a29c1884712ff4e904a5bc830371c83204a73535"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3668,
+          "bytes_after": 89952,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526023,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 诚实",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e27a5e3f81d2c873dfc766fc2b217f9a38c3cf4db448f5688489e2c527272771",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526023/526023.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526023/Rell.wad.client",
+          "size": 89948,
+          "sha256": "ae0c41fb53ddc07517a3f77713b826d1f3b97b88ec79466fe80555975260579d"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3664,
+          "bytes_after": 89948,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526024,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 恭敬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "547f344b54213ffeb7f1148bbbb2a71ec0c78809bb9bd0beaa7ac4533ee3cf95",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526024/526024.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526024/Rell.wad.client",
+          "size": 89948,
+          "sha256": "21ae96572587fbe625a3e73cdc12a46139bf922f48f95cbb5f50fa80bd656dc8"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3664,
+          "bytes_after": 89948,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526025,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 忠诚",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ed51c851e9c5a0a9ffe5e8de7dfacfc24ed70e061fd3142c3c721dd010ae606c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526025/526025.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526025/Rell.wad.client",
+          "size": 89979,
+          "sha256": "48c03e456dadde7932d2b716007ad844bae003eaff34bf814546853df01cae97"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3695,
+          "bytes_after": 89979,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526026,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 节制",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "694f13c0712b75d802c1a080efb384314df02d8574376cd26c9f7a35c18bc7af",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526026/526026.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526026/Rell.wad.client",
+          "size": 89978,
+          "sha256": "77c6d35af8de075f96e0f5bc634e0b025c45d73a29fb8cccfc598dd660f34a3d"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3694,
+          "bytes_after": 89978,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526027,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 纯洁",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "140e48220e990efbbbae57c4360b7f85798fb90b2852254663693a7effb093ca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526027/526027.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526027/Rell.wad.client",
+          "size": 89952,
+          "sha256": "d43acfe95d85fc61069323aa535902c5b35c16aa86e8f4e7cc99b0779638f5f5"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3668,
+          "bytes_after": 89952,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526028,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 豪爽",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aeaf173bf4cf288866e76990d263dd98a3ac60712211094cbfa19f4fd4474aa1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526028/526028.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526028/Rell.wad.client",
+          "size": 89952,
+          "sha256": "96d57c49d8b38b6fbf1b78326d011ac89ece24b1d6b9b32935e0bedcebd56ae2"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3668,
+          "bytes_after": 89952,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526029,
+      "base_skin_id": 526020,
+      "champion_id": 526,
+      "name": "西部魔影 芮尔 正午幻日",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "df4a9d7f6d787e72e1799e15f311dd9b65318d673198bb0a1592ab064ef100ba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526020/526029/526029.fantome",
+      "files": [
+        {
+          "path": "skins/526/526020/526029/Rell.wad.client",
+          "size": 90008,
+          "sha256": "37c1a503ea2f5db8ce89923b891adb20f5b5c48f5820f71d9d15c2b2021ea2a0"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3724,
+          "bytes_after": 90008,
+          "replacement_hashes": [
+            "e21de2b7c8b3d309"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "e21de2b7c8b3d309",
+            "border_hash": "adedd36559365cee",
+            "bytes": 86252,
+            "sha256": "42248b8290d7ad52d509d9e9885e8b4d56e5ed036dbf15593c74bfa095967e26"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

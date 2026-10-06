@@ -1,0 +1,48 @@
+{
+  "skin_id": 555010,
+  "base_skin_id": 555009,
+  "champion_id": 555,
+  "name": "狂乱之月 派克",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bb5bc0e17b1d81333e70f61116cff995fc6374b4a13a803009f11d37e659f66f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "555/555009/555010/555010.fantome",
+  "files": [
+    {
+      "path": "skins/555/555009/555010/Pyke.wad.client",
+      "size": 2519,
+      "sha256": "a69b1f3d6c8d6f840ca7dfd0032288e73bdec3dc6c9d3885174cd7c2cbd3a182"
+    }
+  ],
+  "wads": {
+    "Pyke.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2519,
+      "bytes_after": 2519,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

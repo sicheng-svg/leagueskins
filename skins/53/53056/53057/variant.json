@@ -1,0 +1,48 @@
+{
+  "skin_id": 53057,
+  "base_skin_id": 53056,
+  "champion_id": 53,
+  "name": "元气满满小红红 布里茨",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "72e971f152f9dc141b9a828af0e2229fd2f3e1dab3257869f11c52c3ac764663",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "53/53056/53057/53057.fantome",
+  "files": [
+    {
+      "path": "skins/53/53056/53057/Blitzcrank.wad.client",
+      "size": 2022,
+      "sha256": "3ba15055b71a55f3e7fbf69007cd4c1a0628bb224b7d7b15d9c80825b8f9f7c2"
+    }
+  ],
+  "wads": {
+    "Blitzcrank.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2022,
+      "bytes_after": 2022,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

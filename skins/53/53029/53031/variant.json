@@ -1,0 +1,58 @@
+{
+  "skin_id": 53031,
+  "base_skin_id": 53029,
+  "champion_id": 53,
+  "name": "“猫猫” 布里和里茨 大黑抓不到与我灰灰有啥关系",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3e8935b276bdff7dc92939be0e956a19e24f5a8aed3b6bf426a954e1cfc59f6f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "53/53029/53031/53031.fantome",
+  "files": [
+    {
+      "path": "skins/53/53029/53031/Blitzcrank.wad.client",
+      "size": 89217,
+      "sha256": "641697dd492bd3e713d891ae9adf9c6fdc543c2fcd8c95b94d4de8bdd5a3ba3b"
+    }
+  ],
+  "wads": {
+    "Blitzcrank.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2933,
+      "bytes_after": 89217,
+      "replacement_hashes": [
+        "285301f1b75f7bab"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Blitzcrank.wad.client",
+        "normal_hash": "285301f1b75f7bab",
+        "border_hash": "100881836d26f6e2",
+        "bytes": 86252,
+        "sha256": "e5d4c5c7614596b9e31dfe29f48aed6b48e0f7dca6ad9c27de7afe25c86bc5cd"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

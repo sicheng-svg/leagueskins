@@ -1,0 +1,58 @@
+{
+  "skin_id": 555046,
+  "base_skin_id": 555044,
+  "champion_id": 555,
+  "name": "灰烬骑士 派克 余烬觉醒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2c10ff9c6fe5207dbc6329708a99f3b5e2fb1531e313e7a38c0c2980ff9b83c4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "555/555044/555046/555046.fantome",
+  "files": [
+    {
+      "path": "skins/555/555044/555046/Pyke.wad.client",
+      "size": 89428,
+      "sha256": "f2a0350e8f2902e698e95bc236eaa75cee5396547d5e68b62924c07294c09ece"
+    }
+  ],
+  "wads": {
+    "Pyke.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3144,
+      "bytes_after": 89428,
+      "replacement_hashes": [
+        "ef7096e1e309bf3c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Pyke.wad.client",
+        "normal_hash": "ef7096e1e309bf3c",
+        "border_hash": "31d5956a5f29c9c6",
+        "bytes": 86252,
+        "sha256": "239bf4041b13ab2b37f00b375cdf2fde9ac6bee40e719e27424d24759bfc1441"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

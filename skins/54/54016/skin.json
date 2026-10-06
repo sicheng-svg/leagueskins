@@ -1,0 +1,413 @@
+{
+  "champion_id": 54,
+  "base_skin_id": 54016,
+  "name": "奥德赛 墨菲特",
+  "variants": [
+    {
+      "skin_id": 54016,
+      "base_skin_id": 54016,
+      "champion_id": 54,
+      "name": "奥德赛 墨菲特",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "41c0c0a726751984777ea77e224b3c4e7f8fe1ee308086413077d01dc903c81c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54016/54016.fantome",
+      "files": [
+        {
+          "path": "skins/54/54016/54016/Malphite.wad.client",
+          "size": 90335,
+          "sha256": "9f9fa1c9bc97e8c2c731c18c3e8f43d5045ad7a781c9f751d7839edb1766725f"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4051,
+          "bytes_after": 90335,
+          "replacement_hashes": [
+            "79e20da1f2b4ee24"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "79e20da1f2b4ee24",
+            "border_hash": "5a3ff3b8f1980a6d",
+            "bytes": 86252,
+            "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 54017,
+      "base_skin_id": 54016,
+      "champion_id": 54,
+      "name": "奥德赛 墨菲特 星河征服者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ae47d4a5bfdf1bdd1710827b6bedfb9716a2b93f698e36411c4b4af4c8db0884",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54016/54017/54017.fantome",
+      "files": [
+        {
+          "path": "skins/54/54016/54017/Malphite.wad.client",
+          "size": 88429,
+          "sha256": "5863be1bf967f02d583c5b8d2b7c216f46e147f0e325b3b33027fe252724575b"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2145,
+          "bytes_after": 88429,
+          "replacement_hashes": [
+            "79e20da1f2b4ee24"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "79e20da1f2b4ee24",
+            "border_hash": "5a3ff3b8f1980a6d",
+            "bytes": 86252,
+            "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 54018,
+      "base_skin_id": 54016,
+      "champion_id": 54,
+      "name": "奥德赛 墨菲特 虫洞穿行者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1ae1ee3158e2eaa4244c4489ead1effe483099ad714abfdfd580d8c403ae2a4f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54016/54018/54018.fantome",
+      "files": [
+        {
+          "path": "skins/54/54016/54018/Malphite.wad.client",
+          "size": 88371,
+          "sha256": "0ee1db12a058282b30e71db71fb0b5219cebabc8c6e3655e17b86b0ffb97917f"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2087,
+          "bytes_after": 88371,
+          "replacement_hashes": [
+            "79e20da1f2b4ee24"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "79e20da1f2b4ee24",
+            "border_hash": "5a3ff3b8f1980a6d",
+            "bytes": 86252,
+            "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 54019,
+      "base_skin_id": 54016,
+      "champion_id": 54,
+      "name": "奥德赛 墨菲特 星云环游者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b0a751931bb6fdcd51e8b21848d2097e44929a2ff03da0dbdc83c261c62efa35",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54016/54019/54019.fantome",
+      "files": [
+        {
+          "path": "skins/54/54016/54019/Malphite.wad.client",
+          "size": 88372,
+          "sha256": "a768a99341f19d4baa30cd691d14581f70e482351dc28b840926763c27122bfe"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2088,
+          "bytes_after": 88372,
+          "replacement_hashes": [
+            "79e20da1f2b4ee24"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "79e20da1f2b4ee24",
+            "border_hash": "5a3ff3b8f1980a6d",
+            "bytes": 86252,
+            "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 54020,
+      "base_skin_id": 54016,
+      "champion_id": 54,
+      "name": "奥德赛 墨菲特 恒星游历者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06c2a3299f76d985229a34af67af73bde30e9fe1fe4c912762c2c47c64c2312b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54016/54020/54020.fantome",
+      "files": [
+        {
+          "path": "skins/54/54016/54020/Malphite.wad.client",
+          "size": 88379,
+          "sha256": "149d147df10b0c60dafbee399d635657d2dfe4385a43d49b5ffb056049fc49e8"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2095,
+          "bytes_after": 88379,
+          "replacement_hashes": [
+            "79e20da1f2b4ee24"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "79e20da1f2b4ee24",
+            "border_hash": "5a3ff3b8f1980a6d",
+            "bytes": 86252,
+            "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 54021,
+      "base_skin_id": 54016,
+      "champion_id": 54,
+      "name": "奥德赛 墨菲特 流星群竞速者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1d9ef1e66dc2c05afd9a4eb8b57cd2b60a63a12da85beed59d2ec66959397d2a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54016/54021/54021.fantome",
+      "files": [
+        {
+          "path": "skins/54/54016/54021/Malphite.wad.client",
+          "size": 88377,
+          "sha256": "6b6dfee4fa10f350e338a53836ce6aa8dba11ca1905964e86401ee25098f2903"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2093,
+          "bytes_after": 88377,
+          "replacement_hashes": [
+            "79e20da1f2b4ee24"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "79e20da1f2b4ee24",
+            "border_hash": "5a3ff3b8f1980a6d",
+            "bytes": 86252,
+            "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 54022,
+      "base_skin_id": 54016,
+      "champion_id": 54,
+      "name": "奥德赛 墨菲特 小行星带探险者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bfbf75761693b6f6c079337f07422047f3058128fd11bd0b19fd67d4dc14441e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "54/54016/54022/54022.fantome",
+      "files": [
+        {
+          "path": "skins/54/54016/54022/Malphite.wad.client",
+          "size": 88380,
+          "sha256": "dfd1b7db8ee34588d7287841862c583529a137133d76aec790e7848c65adfd09"
+        }
+      ],
+      "wads": {
+        "Malphite.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2096,
+          "bytes_after": 88380,
+          "replacement_hashes": [
+            "79e20da1f2b4ee24"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malphite.wad.client",
+            "normal_hash": "79e20da1f2b4ee24",
+            "border_hash": "5a3ff3b8f1980a6d",
+            "bytes": 86252,
+            "sha256": "8119b8f6c6aab1181c2bafa62e66b3d96809f88476441aa8ff17ed49037ef839"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

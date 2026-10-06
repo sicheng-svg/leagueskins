@@ -1,0 +1,58 @@
+{
+  "skin_id": 54040,
+  "base_skin_id": 54037,
+  "champion_id": 54,
+  "name": "春晖山神 墨菲特 喜气洋洋",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5abee061466ce39f382a0273dac6843ce4b378dabab4d6d37d0774333abf21c3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "54/54037/54040/54040.fantome",
+  "files": [
+    {
+      "path": "skins/54/54037/54040/Malphite.wad.client",
+      "size": 88592,
+      "sha256": "cae83a4f01fdb008152bd748b8ddc17462d414b8fa7113788263b3650e91fc8a"
+    }
+  ],
+  "wads": {
+    "Malphite.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2308,
+      "bytes_after": 88592,
+      "replacement_hashes": [
+        "e7884a10f7278fc8"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Malphite.wad.client",
+        "normal_hash": "e7884a10f7278fc8",
+        "border_hash": "4d1896da39c5b6cf",
+        "bytes": 86252,
+        "sha256": "45d897e5b8225baa2aa38898ba0758b0406641918e549c95f253e6173710599f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

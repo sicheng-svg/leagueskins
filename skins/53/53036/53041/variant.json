@@ -1,0 +1,48 @@
+{
+  "skin_id": 53041,
+  "base_skin_id": 53036,
+  "champion_id": 53,
+  "name": "胜利机器人 布里茨 单排/双排 最强王者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0c9633596f6975607854c46b5b140b025f9119c035f8c3633f5e47683c8b2cdc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "53/53036/53041/53041.fantome",
+  "files": [
+    {
+      "path": "skins/53/53036/53041/Blitzcrank.wad.client",
+      "size": 2042,
+      "sha256": "f5aa8e2f13b0978d8f9549a1ea6a236920603e6bedb81d84f9ca73027ac47eeb"
+    }
+  ],
+  "wads": {
+    "Blitzcrank.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2042,
+      "bytes_after": 2042,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

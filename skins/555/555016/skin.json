@@ -1,0 +1,529 @@
+{
+  "champion_id": 555,
+  "base_skin_id": 555016,
+  "name": "源计划：毁灭 派克",
+  "variants": [
+    {
+      "skin_id": 555016,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d1328c9779da7e133282ce607ca21fd8a5aa9495fd718f3d9fc496aaacdbff7d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555016.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555016/Pyke.wad.client",
+          "size": 90112,
+          "sha256": "dfc5223eb9209804701fc86a8fcc92a9f277f817a62be989ebe4d10774306552"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3828,
+          "bytes_after": 90112,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555017,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 燎原",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b9cc31ba6a567d9a03f33b186f46496099fd4f17a188bfca26e7074d01e4c472",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555017/555017.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555017/Pyke.wad.client",
+          "size": 90105,
+          "sha256": "8ceb8852339a15f31057631b3217bda533ff279809f7bd29fc7f8c70ae0ff412"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3821,
+          "bytes_after": 90105,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555018,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 裂变",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "133042d984bdd064afc17dc88d13b8860de0f9b859e2f86940d0e8ea7d3ccd38",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555018/555018.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555018/Pyke.wad.client",
+          "size": 90155,
+          "sha256": "f1196b12b5fa8a73d69b8cb8b3d50f5a93fa6f27dddcbbf1c601d14a6f834c5c"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3871,
+          "bytes_after": 90155,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555019,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 冥火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "043cde4f47b81587c5ed7c420a8f711c489870698102784db81e2497d6db61b7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555019/555019.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555019/Pyke.wad.client",
+          "size": 90102,
+          "sha256": "271c2e1dcb7f1c09c6c67772d965b5ffd209a2afbaf57fff02bd070725e8f159"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3818,
+          "bytes_after": 90102,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555020,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 雪崩",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ac3ab636d1d155f2b6e043ae52775100c0ccfb9b82f144505482258523843d16",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555020/555020.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555020/Pyke.wad.client",
+          "size": 90107,
+          "sha256": "4c5b0986b7e9991b9fc6201b64347547c9c77449f0fe44dbe0e43c068b005d0e"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3823,
+          "bytes_after": 90107,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555021,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 天谴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f52e1d6b6eb687b3bd0832ce8338e240c532a8194c96897fc01125d1d760e0eb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555021/555021.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555021/Pyke.wad.client",
+          "size": 90106,
+          "sha256": "61dbcd246ef645e2818c6293bea91a93d662aee4a114bee2a987c51eda94d12b"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3822,
+          "bytes_after": 90106,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555022,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 暴走",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d43d5dc436f23ab2c322257d18687841c222e8188ded9cfaf53091259400d2bb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555022/555022.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555022/Pyke.wad.client",
+          "size": 90105,
+          "sha256": "8c007622277dd1d894c269c92b20f3b9ea65e6494f806ef20275e644108f7d64"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3821,
+          "bytes_after": 90105,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555023,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 幻灭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6b606766f62f04eda51beb886cd80e05141b790a0aced09f0226b0d9e1156675",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555023/555023.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555023/Pyke.wad.client",
+          "size": 90130,
+          "sha256": "9a1323fd1a71e00b4956fdf99116d3d75c2ae663b26f7fe87bc7d485b607ee3a"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3846,
+          "bytes_after": 90130,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555024,
+      "base_skin_id": 555016,
+      "champion_id": 555,
+      "name": "源计划：毁灭 派克 惩戒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "42d9ab900f4433e852582ae71b8052114ddae7b45a818a0338f64a53eb2b8a16",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555016/555024/555024.fantome",
+      "files": [
+        {
+          "path": "skins/555/555016/555024/Pyke.wad.client",
+          "size": 90156,
+          "sha256": "14d9d1af69a93f07a0289a17148e7810a9eaf22de98536b61a2d4bd5ef48c0c0"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3872,
+          "bytes_after": 90156,
+          "replacement_hashes": [
+            "5844fc0614d10d04"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "5844fc0614d10d04",
+            "border_hash": "a260c7edfe7db120",
+            "bytes": 86252,
+            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

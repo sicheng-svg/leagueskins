@@ -1,0 +1,58 @@
+{
+  "skin_id": 53026,
+  "base_skin_id": 53022,
+  "champion_id": 53,
+  "name": "大魔法锅 布里茨 剧毒之源",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "93e6b7fc603dfe871c7323500c1e0be217f3bbbb65b5dcdd3edc326e65070ba3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "53/53022/53026/53026.fantome",
+  "files": [
+    {
+      "path": "skins/53/53022/53026/Blitzcrank.wad.client",
+      "size": 88378,
+      "sha256": "a595af0a13738ce2ea4e98cdac6092f02cb5153d89c73c41dccf7710492e7b9a"
+    }
+  ],
+  "wads": {
+    "Blitzcrank.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2094,
+      "bytes_after": 88378,
+      "replacement_hashes": [
+        "99560278bdb44350"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Blitzcrank.wad.client",
+        "normal_hash": "99560278bdb44350",
+        "border_hash": "51349650d5de317d",
+        "bytes": 86252,
+        "sha256": "537ddfc80fb09d90513205b16e15d737b83e887f485f915a792faf631c3de221"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

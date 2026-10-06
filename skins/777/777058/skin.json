@@ -1,0 +1,66 @@
+{
+  "champion_id": 777,
+  "base_skin_id": 777058,
+  "name": "西部魔影 炽天使 永恩",
+  "variants": [
+    {
+      "skin_id": 777058,
+      "base_skin_id": 777058,
+      "champion_id": 777,
+      "name": "西部魔影 炽天使 永恩",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b68a53678e80b67311f0b4b845b14dd7836314dfaf91b893602298d522b818dc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "777/777058/777058.fantome",
+      "files": [
+        {
+          "path": "skins/777/777058/777058/Yone.wad.client",
+          "size": 91054,
+          "sha256": "5290488c82afe0d6a163bd3548203e1297810980d40b4b67040b32e7309e4814"
+        }
+      ],
+      "wads": {
+        "Yone.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4770,
+          "bytes_after": 91054,
+          "replacement_hashes": [
+            "83cf979f08190e3b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yone.wad.client",
+            "normal_hash": "83cf979f08190e3b",
+            "border_hash": "41ce9909c4d5a6f9",
+            "bytes": 86252,
+            "sha256": "14eb1fa213f2966abf5c88d8b93586b72aab4032028fbdd13db1abf61fde7a34",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

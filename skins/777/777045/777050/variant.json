@@ -1,0 +1,58 @@
+{
+  "skin_id": 777050,
+  "base_skin_id": 777045,
+  "champion_id": 777,
+  "name": "心之钢 永恩 本真风范",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "058476af941a41d918e30bdc35e74ffca2e3e9c6bb7bc817bfa333353f4380e6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "777/777045/777050/777050.fantome",
+  "files": [
+    {
+      "path": "skins/777/777045/777050/Yone.wad.client",
+      "size": 89786,
+      "sha256": "8197fb8620074379e6b4a861d96fd57348342e17b631d0dfd14c89186b191f06"
+    }
+  ],
+  "wads": {
+    "Yone.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3502,
+      "bytes_after": 89786,
+      "replacement_hashes": [
+        "7fc906dea3c9be85"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yone.wad.client",
+        "normal_hash": "7fc906dea3c9be85",
+        "border_hash": "8300d6c65ef90e3a",
+        "bytes": 86252,
+        "sha256": "e91f70a71c3cd2513dbdee6df1f24473e2b9ed73e15b725baa3009bff7c1a8e9"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

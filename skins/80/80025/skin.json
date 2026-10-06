@@ -1,0 +1,587 @@
+{
+  "champion_id": 80,
+  "base_skin_id": 80025,
+  "name": "破败军团 潘森",
+  "variants": [
+    {
+      "skin_id": 80025,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a4e215e3ed6e2dab227804191f964ab645b169f494341e29a7f38987f55568a5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80025.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80025/Pantheon.wad.client",
+          "size": 94123,
+          "sha256": "3b8baa0fc7ec6338008714c605dc06cb7c08850c06276554d063846a81db7963"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7839,
+          "bytes_after": 94123,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80027,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 帝国征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7f106ac88fe883611653f4e298b152bc720d2e0b76a8aef378ed1ec8395182cc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80027/80027.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80027/Pantheon.wad.client",
+          "size": 89514,
+          "sha256": "2a2b369785801b696021c4206bdfb7db58d1d9265098bc940daa35b392fd041d"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3230,
+          "bytes_after": 89514,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80028,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 山峰征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3216da8d61fc48d375c045b9d0b0fefca7a727a79215a009ecb75087ae4e0a00",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80028/80028.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80028/Pantheon.wad.client",
+          "size": 89458,
+          "sha256": "7333298e9fbd65f55da56fec3a7be668db1e3f2eede33b67869c4d40a2b3bcb4"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3174,
+          "bytes_after": 89458,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80029,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 都市征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7ee61224294dfe5f1c6982b93dd900a9eaabc6b949cdb01b7435d96d0dce0aba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80029/80029.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80029/Pantheon.wad.client",
+          "size": 89460,
+          "sha256": "a14019a6e3b8d006fabcf6e1cf1bf154216bd5d24a26dbad6e28c2792c8810bf"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3176,
+          "bytes_after": 89460,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80030,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 海港征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "65d06df464e5c82863391b4705946a8cfa3d80e85862f0e72c5b040439e22484",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80030/80030.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80030/Pantheon.wad.client",
+          "size": 89466,
+          "sha256": "b4f50dfa7469f08773877ebbfbf13ddd90bcdda971c01e59be2d259526278093"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3182,
+          "bytes_after": 89466,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80031,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 森林征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a9bf0ff785d3bf0256c1e5b2c11321a157e51cf071f4927db6d7cfae65f378f3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80031/80031.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80031/Pantheon.wad.client",
+          "size": 89464,
+          "sha256": "0a799b00bf9a30ceb06645e16ab21c665ca14595d94c7eddcf91252846c027b6"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3180,
+          "bytes_after": 89464,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80032,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 灵岛征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c425d2bce868aa182f407408bf0a50bd69c5272b23098cb9f3695e9db15f8fc2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80032/80032.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80032/Pantheon.wad.client",
+          "size": 89486,
+          "sha256": "1af65c59f198e8b18805d4a587c6948970431d59d4977ad4e5281bd280bca36a"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3202,
+          "bytes_after": 89486,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80033,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 虚无征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ceec410fa0fe262bd74054d24412c36b7582e739b54438b15a2beb6834455e4e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80033/80033.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80033/Pantheon.wad.client",
+          "size": 89464,
+          "sha256": "f0f7d2b9ee8867292b9e7e5dc043480a081f6b8e1c6476aa017d15dac6105fe5"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3180,
+          "bytes_after": 89464,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80034,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 极地征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cbb18d2e50873bc50b9e3a6271686b8463e4b87780defb943684314ca329f144",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80034/80034.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80034/Pantheon.wad.client",
+          "size": 89463,
+          "sha256": "7c52a11bb175e8ed35ab276b860c1b48b401fd2a0794dd2932b2c3087a4077d4"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3179,
+          "bytes_after": 89463,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 80035,
+      "base_skin_id": 80025,
+      "champion_id": 80,
+      "name": "破败军团 潘森 咒缚征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4d946568ae5879becda8e1dd4bd07403007b3413395505b5757b69660a32d068",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "80/80025/80035/80035.fantome",
+      "files": [
+        {
+          "path": "skins/80/80025/80035/Pantheon.wad.client",
+          "size": 89518,
+          "sha256": "bb1aea9be45de9d80f7be34ecc9d41c64de144734342230a77027339fad3e6c2"
+        }
+      ],
+      "wads": {
+        "Pantheon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3234,
+          "bytes_after": 89518,
+          "replacement_hashes": [
+            "4d6b6086c0a2a304"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pantheon.wad.client",
+            "normal_hash": "4d6b6086c0a2a304",
+            "border_hash": "ab6217d0d49e1f5f",
+            "bytes": 86252,
+            "sha256": "e3fa43838913c9381d7b096b4678a2dd10e6547292aed80c368abaa6d515bfca"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

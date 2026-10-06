@@ -1,0 +1,58 @@
+{
+  "skin_id": 777004,
+  "base_skin_id": 777001,
+  "champion_id": 777,
+  "name": "灵魂莲华 永恩 雁来",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "463d694634838df6ae28301e36aeb84ff0726486f5c565dde0a0e17fb58dc70c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "777/777001/777004/777004.fantome",
+  "files": [
+    {
+      "path": "skins/777/777001/777004/Yone.wad.client",
+      "size": 89454,
+      "sha256": "ae342b8196b97a612b7bf1c79943f9bdadf009e698b724746c0112fc6737fddf"
+    }
+  ],
+  "wads": {
+    "Yone.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3170,
+      "bytes_after": 89454,
+      "replacement_hashes": [
+        "286f17ecd75df2cc"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yone.wad.client",
+        "normal_hash": "286f17ecd75df2cc",
+        "border_hash": "b886b4c87f8ef0ee",
+        "bytes": 86252,
+        "sha256": "962463e965478c7cad9819e3eef719a2aa1c7bd0a1a450a1aad7af6924bf3c26"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

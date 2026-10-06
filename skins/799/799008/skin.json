@@ -1,0 +1,413 @@
+{
+  "champion_id": 799,
+  "base_skin_id": 799008,
+  "name": "T1 安蓓萨",
+  "variants": [
+    {
+      "skin_id": 799008,
+      "base_skin_id": 799008,
+      "champion_id": 799,
+      "name": "T1 安蓓萨",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6d508c32928b27d3106f7ae78cacc299c83bfde01ed575faa5a888230e8ff761",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "799/799008/799008.fantome",
+      "files": [
+        {
+          "path": "skins/799/799008/799008/Ambessa.wad.client",
+          "size": 94980,
+          "sha256": "044abd10e2353e735f814374681974cd19c4e0ab21e3bce4b03ae69cbfbb8e05"
+        }
+      ],
+      "wads": {
+        "Ambessa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8696,
+          "bytes_after": 94980,
+          "replacement_hashes": [
+            "88307e9a0832592f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ambessa.wad.client",
+            "normal_hash": "88307e9a0832592f",
+            "border_hash": "d5ae38354bc2d8af",
+            "bytes": 86252,
+            "sha256": "059060da0412bfe7d4506d2a2cc8acb8623627125addee11d4607259ddcda21e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 799009,
+      "base_skin_id": 799008,
+      "champion_id": 799,
+      "name": "T1 安蓓萨 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c155460baaf2ef0493a06acd3547a5cb89742c99d2fea5954cf87e6af7b8c03b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "799/799008/799009/799009.fantome",
+      "files": [
+        {
+          "path": "skins/799/799008/799009/Ambessa.wad.client",
+          "size": 89812,
+          "sha256": "777bf4d56d98fe8570631584a7f2089d941af0a43a797b65a98e0c5cd12cb43e"
+        }
+      ],
+      "wads": {
+        "Ambessa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3528,
+          "bytes_after": 89812,
+          "replacement_hashes": [
+            "88307e9a0832592f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ambessa.wad.client",
+            "normal_hash": "88307e9a0832592f",
+            "border_hash": "d5ae38354bc2d8af",
+            "bytes": 86252,
+            "sha256": "059060da0412bfe7d4506d2a2cc8acb8623627125addee11d4607259ddcda21e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 799010,
+      "base_skin_id": 799008,
+      "champion_id": 799,
+      "name": "T1 安蓓萨 混合的世界",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "166608f93f72e026e8b11f5658ff378eb29d5537a1d94a5aa227cfd5f7bde755",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "799/799008/799010/799010.fantome",
+      "files": [
+        {
+          "path": "skins/799/799008/799010/Ambessa.wad.client",
+          "size": 89752,
+          "sha256": "94e82e7eb41cac76e68f2420eebcaa40f07a57bf8603928e69206123aebb17a2"
+        }
+      ],
+      "wads": {
+        "Ambessa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3468,
+          "bytes_after": 89752,
+          "replacement_hashes": [
+            "88307e9a0832592f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ambessa.wad.client",
+            "normal_hash": "88307e9a0832592f",
+            "border_hash": "d5ae38354bc2d8af",
+            "bytes": 86252,
+            "sha256": "059060da0412bfe7d4506d2a2cc8acb8623627125addee11d4607259ddcda21e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 799011,
+      "base_skin_id": 799008,
+      "champion_id": 799,
+      "name": "T1 安蓓萨 决战在即",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8d7a27d8f9bf766d635fbb74a3b7ce874c3d213074c6412030fb97b142027d54",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "799/799008/799011/799011.fantome",
+      "files": [
+        {
+          "path": "skins/799/799008/799011/Ambessa.wad.client",
+          "size": 89807,
+          "sha256": "785a4d3b7f2802885d6bb4deccd8d9e072102a2871b0d63a7d8952c53b094d49"
+        }
+      ],
+      "wads": {
+        "Ambessa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3523,
+          "bytes_after": 89807,
+          "replacement_hashes": [
+            "88307e9a0832592f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ambessa.wad.client",
+            "normal_hash": "88307e9a0832592f",
+            "border_hash": "d5ae38354bc2d8af",
+            "bytes": 86252,
+            "sha256": "059060da0412bfe7d4506d2a2cc8acb8623627125addee11d4607259ddcda21e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 799012,
+      "base_skin_id": 799008,
+      "champion_id": 799,
+      "name": "T1 安蓓萨 燃",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f9e4a8c766ec65549b9258526c3a7ee2751135e1b77d37a16d59a81a8212c1c0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "799/799008/799012/799012.fantome",
+      "files": [
+        {
+          "path": "skins/799/799008/799012/Ambessa.wad.client",
+          "size": 89755,
+          "sha256": "e0a9ce998b4dd4182e45f277643b17a9200843cdae2085b00fc537833286f902"
+        }
+      ],
+      "wads": {
+        "Ambessa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3471,
+          "bytes_after": 89755,
+          "replacement_hashes": [
+            "88307e9a0832592f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ambessa.wad.client",
+            "normal_hash": "88307e9a0832592f",
+            "border_hash": "d5ae38354bc2d8af",
+            "bytes": 86252,
+            "sha256": "059060da0412bfe7d4506d2a2cc8acb8623627125addee11d4607259ddcda21e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 799013,
+      "base_skin_id": 799008,
+      "champion_id": 799,
+      "name": "T1 安蓓萨 登神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4386a2fb07e21689c657805922957bf087a2b3f5a9dba9995feb435e2f58149c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "799/799008/799013/799013.fantome",
+      "files": [
+        {
+          "path": "skins/799/799008/799013/Ambessa.wad.client",
+          "size": 89754,
+          "sha256": "3f89f55e57ea0df13d52cfb29cae4029f1af260746844c6b487ad2b1fa95a63b"
+        }
+      ],
+      "wads": {
+        "Ambessa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3470,
+          "bytes_after": 89754,
+          "replacement_hashes": [
+            "88307e9a0832592f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ambessa.wad.client",
+            "normal_hash": "88307e9a0832592f",
+            "border_hash": "d5ae38354bc2d8af",
+            "bytes": 86252,
+            "sha256": "059060da0412bfe7d4506d2a2cc8acb8623627125addee11d4607259ddcda21e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 799014,
+      "base_skin_id": 799008,
+      "champion_id": 799,
+      "name": "T1 安蓓萨 王冠之重",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0f7f99405fc82798616bef722af570b2bf51cd30e664cb017016f02c085e3037",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "799/799008/799014/799014.fantome",
+      "files": [
+        {
+          "path": "skins/799/799008/799014/Ambessa.wad.client",
+          "size": 89753,
+          "sha256": "f275e31aa6dcc010f0f533d4194751ea8809dff6d5b572e5b8b53cf897588639"
+        }
+      ],
+      "wads": {
+        "Ambessa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3469,
+          "bytes_after": 89753,
+          "replacement_hashes": [
+            "88307e9a0832592f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ambessa.wad.client",
+            "normal_hash": "88307e9a0832592f",
+            "border_hash": "d5ae38354bc2d8af",
+            "bytes": 86252,
+            "sha256": "059060da0412bfe7d4506d2a2cc8acb8623627125addee11d4607259ddcda21e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

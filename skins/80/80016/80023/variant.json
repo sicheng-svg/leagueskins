@@ -1,0 +1,58 @@
+{
+  "skin_id": 80023,
+  "base_skin_id": 80016,
+  "champion_id": 80,
+  "name": "未来战士 潘森 宇称守恒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "51e2a504609c777fc079ec212b01830f280857feeb06f62be9790344de8396c7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "80/80016/80023/80023.fantome",
+  "files": [
+    {
+      "path": "skins/80/80016/80023/Pantheon.wad.client",
+      "size": 89462,
+      "sha256": "38b7948352b703bbf05bf542e4a5f9987a6980208a7fcc815879a338d2b76a6a"
+    }
+  ],
+  "wads": {
+    "Pantheon.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3178,
+      "bytes_after": 89462,
+      "replacement_hashes": [
+        "555813350fad4381"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Pantheon.wad.client",
+        "normal_hash": "555813350fad4381",
+        "border_hash": "cf99075d3535ff11",
+        "bytes": 86252,
+        "sha256": "a2f2a33fa0386db4c5c6360b98be5fd45caba8891bcfdc8ba0efe8f0f79fbbc3"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

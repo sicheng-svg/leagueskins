@@ -1,0 +1,48 @@
+{
+  "skin_id": 78034,
+  "base_skin_id": 78033,
+  "champion_id": 78,
+  "name": "咖啡甜心 波比 草莓戚风",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "731245d519bb24ebcba00cec135ba8959b93170f2aaf9d418b1f1e6e9f995578",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "78/78033/78034/78034.fantome",
+  "files": [
+    {
+      "path": "skins/78/78033/78034/Poppy.wad.client",
+      "size": 2786,
+      "sha256": "cfa79751cfa2f32b666314dbb0ead8b7d73b8a9be066b2183603d0d4a1533611"
+    }
+  ],
+  "wads": {
+    "Poppy.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2786,
+      "bytes_after": 2786,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

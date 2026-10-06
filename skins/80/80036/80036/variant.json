@@ -1,0 +1,58 @@
+{
+  "skin_id": 80036,
+  "base_skin_id": 80036,
+  "champion_id": 80,
+  "name": "灰烬征服者 潘森",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "723c2b6696abf8c4d1871c13e3741efc0d00386fcefbcc696fb743e0672589a7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "80/80036/80036.fantome",
+  "files": [
+    {
+      "path": "skins/80/80036/80036/Pantheon.wad.client",
+      "size": 94997,
+      "sha256": "431281947548f63c4e52072ad91946e99d35ed4dcadf3df6bd86f5cfaa1393d4"
+    }
+  ],
+  "wads": {
+    "Pantheon.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8713,
+      "bytes_after": 94997,
+      "replacement_hashes": [
+        "9c951ff20c02ff9c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Pantheon.wad.client",
+        "normal_hash": "9c951ff20c02ff9c",
+        "border_hash": "fd285a1054d72ce8",
+        "bytes": 86252,
+        "sha256": "13ea6a26778009a91350857f2759ac7b8a4de072e1ce9dd517e35b27153277e7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 77,
+  "base_skin_id": 77002,
+  "name": "四神之力 乌迪尔",
+  "variants": [
+    {
+      "skin_id": 77002,
+      "base_skin_id": 77002,
+      "champion_id": 77,
+      "name": "四神之力 乌迪尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "87681dd4c180967489fafe453b19728c15a3c2db4cf4e01f8ca7edac3d6074f3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "77/77002/77002.fantome",
+      "files": [
+        {
+          "path": "skins/77/77002/77002/Udyr.wad.client",
+          "size": 7841,
+          "sha256": "efd4cd9da060e8f2e158254c16b22e86a2a0af219d721cdd417041ad83cbfd6e"
+        }
+      ],
+      "wads": {
+        "Udyr.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7841,
+          "bytes_after": 7841,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

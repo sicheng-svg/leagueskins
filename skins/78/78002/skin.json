@@ -1,0 +1,65 @@
+{
+  "champion_id": 78,
+  "base_skin_id": 78002,
+  "name": "波比的巧克力工坊",
+  "variants": [
+    {
+      "skin_id": 78002,
+      "base_skin_id": 78002,
+      "champion_id": 78,
+      "name": "波比的巧克力工坊",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1d8fc0522eff85b531fb67e6ce281fba218ad9e607f00e4cfab8b0e4f2e4ba93",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "78/78002/78002.fantome",
+      "files": [
+        {
+          "path": "skins/78/78002/78002/Poppy.wad.client",
+          "size": 90223,
+          "sha256": "e593d25ed3a87c611b24630a22ab4e538147f52974df8e139f12bd9e77b6cc6a"
+        }
+      ],
+      "wads": {
+        "Poppy.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3939,
+          "bytes_after": 90223,
+          "replacement_hashes": [
+            "a9209b60728fa84e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Poppy.wad.client",
+            "normal_hash": "a9209b60728fa84e",
+            "border_hash": "88fd880bd259be80",
+            "bytes": 86252,
+            "sha256": "50b7427590c025a5a1e4f43196e1ecebaba0c47312f18ce9dd3592a0a7456e1e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

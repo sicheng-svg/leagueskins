@@ -1,0 +1,58 @@
+{
+  "skin_id": 78019,
+  "base_skin_id": 78016,
+  "champion_id": 78,
+  "name": "宇航员 波比 宇宙速度",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6870bf012816f8d4ba5d2e7f689b385c64690f6e79d8e475774d725f8a0df176",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "78/78016/78019/78019.fantome",
+  "files": [
+    {
+      "path": "skins/78/78016/78019/Poppy.wad.client",
+      "size": 89642,
+      "sha256": "e8b0fe2871fa239edd2929c3a3a5b0934192a9cf23815da9a3974d1673102ff3"
+    }
+  ],
+  "wads": {
+    "Poppy.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3358,
+      "bytes_after": 89642,
+      "replacement_hashes": [
+        "cc0ff290c75aea32"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Poppy.wad.client",
+        "normal_hash": "cc0ff290c75aea32",
+        "border_hash": "890cfa1d6bdab1ec",
+        "bytes": 86252,
+        "sha256": "077c26d9b79a9e207a7587c0ca956f41c22af6d517808105a3ce86b041c47c6b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

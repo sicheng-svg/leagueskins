@@ -1,0 +1,58 @@
+{
+  "skin_id": 8038,
+  "base_skin_id": 8030,
+  "champion_id": 8,
+  "name": "咖啡甜心 弗拉基米尔 焦糖布丁",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ce5e9ea209ab387a3b29f3d6c9a206af10ecf35f5934a08f3becd1e26bf1443b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "8/8030/8038/8038.fantome",
+  "files": [
+    {
+      "path": "skins/8/8030/8038/Vladimir.wad.client",
+      "size": 88930,
+      "sha256": "5164710e3164e34d276645841af588edb626fe300d9aaf903c3db849d76a60e5"
+    }
+  ],
+  "wads": {
+    "Vladimir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2646,
+      "bytes_after": 88930,
+      "replacement_hashes": [
+        "3cdf999ab86196c2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Vladimir.wad.client",
+        "normal_hash": "3cdf999ab86196c2",
+        "border_hash": "789d9d1f0c46d1fe",
+        "bytes": 86252,
+        "sha256": "0857c3445c95dbcea5393ac4eceb423b6029d720fbb201bbfc8147c214495149"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 777064,
+  "base_skin_id": 777055,
+  "champion_id": 777,
+  "name": "西部魔影 永恩 正午幻日",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "84c1645218a80e2bd3a657cc158c56bbce5458406d1a415fb86858ad25241f7d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "777/777055/777064/777064.fantome",
+  "files": [
+    {
+      "path": "skins/777/777055/777064/Yone.wad.client",
+      "size": 90793,
+      "sha256": "7eabfaccae94db3cb0e97e9990f9597c0b877c5de2e5e74d2b1f4b42b283dc11"
+    }
+  ],
+  "wads": {
+    "Yone.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4509,
+      "bytes_after": 90793,
+      "replacement_hashes": [
+        "6dd912055511c823"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yone.wad.client",
+        "normal_hash": "6dd912055511c823",
+        "border_hash": "2f785498d0c4b41b",
+        "bytes": 86252,
+        "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

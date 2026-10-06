@@ -1,0 +1,58 @@
+{
+  "skin_id": 79038,
+  "base_skin_id": 79029,
+  "champion_id": 79,
+  "name": "西部魔影 古拉加斯 正午幻日",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fc1ef421a448ccb8536704226627296c335e26af492b3884f944f9a0423a54f8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "79/79029/79038/79038.fantome",
+  "files": [
+    {
+      "path": "skins/79/79029/79038/Gragas.wad.client",
+      "size": 88515,
+      "sha256": "c114df8aad32a6718e45794a9632c2204af6a1731224057c862115b92c384461"
+    }
+  ],
+  "wads": {
+    "Gragas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2231,
+      "bytes_after": 88515,
+      "replacement_hashes": [
+        "d41e51ede4f2e172"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Gragas.wad.client",
+        "normal_hash": "d41e51ede4f2e172",
+        "border_hash": "194d5c451557d7e3",
+        "bytes": 86252,
+        "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

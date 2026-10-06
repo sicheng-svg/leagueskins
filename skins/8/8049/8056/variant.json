@@ -1,0 +1,48 @@
+{
+  "skin_id": 8056,
+  "base_skin_id": 8049,
+  "champion_id": 8,
+  "name": "灵能特工 弗拉基米尔 代号：蜘蛛",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b8cf286380857fd81807e3d99ca2c80bb0de2f739309f6f8a0949b0e92773150",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "8/8049/8056/8056.fantome",
+  "files": [
+    {
+      "path": "skins/8/8049/8056/Vladimir.wad.client",
+      "size": 2501,
+      "sha256": "0b262856d0b08359a83a471a3fe6fc9dc8673ee6d7f46d11fa1e5fa0ee077e21"
+    }
+  ],
+  "wads": {
+    "Vladimir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2501,
+      "bytes_after": 2501,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

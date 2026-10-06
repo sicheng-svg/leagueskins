@@ -1,0 +1,58 @@
+{
+  "skin_id": 777010,
+  "base_skin_id": 777010,
+  "champion_id": 777,
+  "name": "战斗学院 永恩",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e7cc741c7c652580696af797fa5ef3cfe749f969211792796ce68e9c4bbc126c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "777/777010/777010.fantome",
+  "files": [
+    {
+      "path": "skins/777/777010/777010/Yone.wad.client",
+      "size": 93875,
+      "sha256": "3c2ef4124b5af5c6fa4f754aabac9592754d846e08ba2f1d5cdf703183dc3ad4"
+    }
+  ],
+  "wads": {
+    "Yone.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7591,
+      "bytes_after": 93875,
+      "replacement_hashes": [
+        "0658c5fb90c02853"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yone.wad.client",
+        "normal_hash": "0658c5fb90c02853",
+        "border_hash": "68e6c9e713fcbbb2",
+        "bytes": 86252,
+        "sha256": "740169e1eef9d90e63b49c6e2edcc602ae0cd8cebc5042b9c99b3c0215843cd8"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "champion_id": 79,
+  "base_skin_id": 79029,
+  "name": "西部魔影 古拉加斯",
+  "variants": [
+    {
+      "skin_id": 79029,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0361c1e12074be85a984644f21253fe3c97e4ceb00d730f391b4952e9f868dfb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79029.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79029/Gragas.wad.client",
+          "size": 90240,
+          "sha256": "ec232b7291af33f0112583c36da88331bb711a681833c6ee1c235a5c229c4e2f"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3956,
+          "bytes_after": 90240,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79030,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 温和",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d69d30547170afef38e8385358619edaa7ce3c79336ef579f8d33f307f1ab624",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79030/79030.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79030/Gragas.wad.client",
+          "size": 88514,
+          "sha256": "983bf1ac59145d619a42127ed758bbb10f6f681cacc359af4908d3d44c239cdd"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2230,
+          "bytes_after": 88514,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79031,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 忠诚",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "af1d1966b972dc822936547fdfe7bbeb6a995ad96c6a35f0cb0b4eeb82a8cd1f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79031/79031.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79031/Gragas.wad.client",
+          "size": 88480,
+          "sha256": "5ce970d980cab1c22bdbe1a18ddaabf48d06febaa75db9cbd2762d2d2482d2a8"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2196,
+          "bytes_after": 88480,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79032,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 豪爽",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cd69128d5048f4972a284ebed0944c48cb6d0c5e041f4253ddb9823dbd31bb35",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79032/79032.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79032/Gragas.wad.client",
+          "size": 88458,
+          "sha256": "45675d49329e0361a8c6fba114deaaf47d1d175eab42a9c4293a35e01e70f063"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2174,
+          "bytes_after": 88458,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79033,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 善良",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8e80d3fa71a18b7342ba767de208a13fdf5a919b70e5b00926042edb3230652e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79033/79033.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79033/Gragas.wad.client",
+          "size": 88464,
+          "sha256": "1af87369200ce7b8da3daa2872417bd3e87a6cfd9df110c98770ff3e89efff17"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2180,
+          "bytes_after": 88464,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79034,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 恭敬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "888400af23492c3aa3671b56f4f25ba4a6cd921f2aa51eb59faa5060200e2689",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79034/79034.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79034/Gragas.wad.client",
+          "size": 88460,
+          "sha256": "03faa6d21c965cb02b6387fc9f6c6256c4603c745f28e5f124f7b81e7837d495"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2176,
+          "bytes_after": 88460,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79035,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 节制",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d6d7625aaad1af355d6a83b5c7c545e67922cd6feb973f5c5ce3c6c281230f0f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79035/79035.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79035/Gragas.wad.client",
+          "size": 88482,
+          "sha256": "d02b2e8df9ddf4b47531d2d53df469d6848a077d211f831951348b82201227ca"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2198,
+          "bytes_after": 88482,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79036,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 诚实",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "609f969f9755cd4dfb2b20f12cd9a1e549218ecb4dd452903b35ada7fa8f789a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79036/79036.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79036/Gragas.wad.client",
+          "size": 88463,
+          "sha256": "c9aa709f951cfe223971a0d37641da888e5df5dd6855dce65bb8c1a13df783bc"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2179,
+          "bytes_after": 88463,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79037,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 谦卑",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "21fe8c97b635295caa3629cf384b93b5a8d7182020e0a76d501acb85c7b51e85",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79037/79037.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79037/Gragas.wad.client",
+          "size": 88460,
+          "sha256": "a236ae14c46897335ae4a946c515eb142467f8e809a43ae9c47af07c557ea8e5"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2176,
+          "bytes_after": 88460,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 79038,
+      "base_skin_id": 79029,
+      "champion_id": 79,
+      "name": "西部魔影 古拉加斯 正午幻日",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fc1ef421a448ccb8536704226627296c335e26af492b3884f944f9a0423a54f8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "79/79029/79038/79038.fantome",
+      "files": [
+        {
+          "path": "skins/79/79029/79038/Gragas.wad.client",
+          "size": 88515,
+          "sha256": "c114df8aad32a6718e45794a9632c2204af6a1731224057c862115b92c384461"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2231,
+          "bytes_after": 88515,
+          "replacement_hashes": [
+            "d41e51ede4f2e172"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gragas.wad.client",
+            "normal_hash": "d41e51ede4f2e172",
+            "border_hash": "194d5c451557d7e3",
+            "bytes": 86252,
+            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

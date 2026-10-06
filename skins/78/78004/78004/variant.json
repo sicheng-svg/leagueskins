@@ -1,0 +1,58 @@
+{
+  "skin_id": 78004,
+  "base_skin_id": 78004,
+  "champion_id": 78,
+  "name": "圣诞玩偶 波比",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e1da14f69b81b3401b7c267a495d834407699e7f0b616ad9d92022680a3468a4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "78/78004/78004.fantome",
+  "files": [
+    {
+      "path": "skins/78/78004/78004/Poppy.wad.client",
+      "size": 90275,
+      "sha256": "315a02e34b3de031a230b9760b9025f7749ce5610974708b31ad883c251a3cfc"
+    }
+  ],
+  "wads": {
+    "Poppy.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3991,
+      "bytes_after": 90275,
+      "replacement_hashes": [
+        "2de10d5d24dce6cc"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Poppy.wad.client",
+        "normal_hash": "2de10d5d24dce6cc",
+        "border_hash": "63e16d19bd7c87e3",
+        "bytes": 86252,
+        "sha256": "5680269a30d96ac547181100c8f1987f66bd07949053bb5fbab8e58083305107"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

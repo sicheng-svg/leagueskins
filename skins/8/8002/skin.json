@@ -1,0 +1,55 @@
+{
+  "champion_id": 8,
+  "base_skin_id": 8002,
+  "name": "弗拉基米尔侯爵",
+  "variants": [
+    {
+      "skin_id": 8002,
+      "base_skin_id": 8002,
+      "champion_id": 8,
+      "name": "弗拉基米尔侯爵",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bb65a7da79b57072f97f26e9db0de0ed01ec2145a3f12aaa99ec974a61920091",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8002/8002.fantome",
+      "files": [
+        {
+          "path": "skins/8/8002/8002/Vladimir.wad.client",
+          "size": 5590,
+          "sha256": "65b86051e73d1a3d8f4f156f5ab5468ef06297db070a9bdbf94a526046fa5fd7"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5590,
+          "bytes_after": 5590,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

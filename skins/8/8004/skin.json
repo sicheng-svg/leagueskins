@@ -1,0 +1,55 @@
+{
+  "champion_id": 8,
+  "base_skin_id": 8004,
+  "name": "霹雳游侠 弗拉基米尔",
+  "variants": [
+    {
+      "skin_id": 8004,
+      "base_skin_id": 8004,
+      "champion_id": 8,
+      "name": "霹雳游侠 弗拉基米尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b14928293fa4001bd86e4ab1ef9717b39b24516fe0a501c5e4bf7d0499aa8b6a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8004/8004.fantome",
+      "files": [
+        {
+          "path": "skins/8/8004/8004/Vladimir.wad.client",
+          "size": 5617,
+          "sha256": "0aaab43967acd0091e571e4f4e9bf2b21b4dc8f157530415a3668f6ba65cb7d6"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5617,
+          "bytes_after": 5617,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

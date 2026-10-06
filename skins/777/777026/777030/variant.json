@@ -1,0 +1,48 @@
+{
+  "skin_id": 777030,
+  "base_skin_id": 777026,
+  "champion_id": 777,
+  "name": "海之歌 永恩 浪漫氛围",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "103f2e610e107b8df539bcb2978f1cade15feb770eb9849e12749ce6dde08f2e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "777/777026/777030/777030.fantome",
+  "files": [
+    {
+      "path": "skins/777/777026/777030/Yone.wad.client",
+      "size": 3293,
+      "sha256": "95449ab23de2bbfd4aacb0a70b488d43917b01b602bc9b924ad710b2bbf5009d"
+    }
+  ],
+  "wads": {
+    "Yone.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3293,
+      "bytes_after": 3293,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

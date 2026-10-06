@@ -1,0 +1,48 @@
+{
+  "skin_id": 8024,
+  "base_skin_id": 8021,
+  "champion_id": 8,
+  "name": "波江星神 弗拉基米尔 夜神星魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "16c38a6e4a1ef51393bb594afdda62bdb348b9d997e7c6a15076e9e338880d9c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "8/8021/8024/8024.fantome",
+  "files": [
+    {
+      "path": "skins/8/8021/8024/Vladimir.wad.client",
+      "size": 2691,
+      "sha256": "ed545cfd0977e5cd69060f3a0bf9c96701a9dbc4b97d7fe3b2729c5db9cc353f"
+    }
+  ],
+  "wads": {
+    "Vladimir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2691,
+      "bytes_after": 2691,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

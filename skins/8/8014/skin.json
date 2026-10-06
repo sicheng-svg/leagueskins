@@ -1,0 +1,413 @@
+{
+  "champion_id": 8,
+  "base_skin_id": 8014,
+  "name": "黑夜使者 弗拉基米尔",
+  "variants": [
+    {
+      "skin_id": 8014,
+      "base_skin_id": 8014,
+      "champion_id": 8,
+      "name": "黑夜使者 弗拉基米尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2dde0cf9bb217ece1ba83ab223e63c72a46841168d719fe0e814d4c62e99792d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8014/8014.fantome",
+      "files": [
+        {
+          "path": "skins/8/8014/8014/Vladimir.wad.client",
+          "size": 95151,
+          "sha256": "303014b04ba18026e8a8a712b2fc53831f20d501edad3637e3135bd41081acc8"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8867,
+          "bytes_after": 95151,
+          "replacement_hashes": [
+            "83a60a5c78d3165f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "83a60a5c78d3165f",
+            "border_hash": "4cab9718b71c48f4",
+            "bytes": 86252,
+            "sha256": "006b40530ccec7070d1a9bef55a23c43aded7d6c980635a47a092f943364ec46"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 8015,
+      "base_skin_id": 8014,
+      "champion_id": 8,
+      "name": "黑夜使者 弗拉基米尔 绝顶之巅",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "013b89c92241c36d6a732b631a7e2b66c060afd1c34fda15f4fd61f3a97c4ae6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8014/8015/8015.fantome",
+      "files": [
+        {
+          "path": "skins/8/8014/8015/Vladimir.wad.client",
+          "size": 89139,
+          "sha256": "ebc93b49515f7c8c0a8565008b494afd0c79362e68883e4ccab20548644aa352"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2855,
+          "bytes_after": 89139,
+          "replacement_hashes": [
+            "83a60a5c78d3165f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "83a60a5c78d3165f",
+            "border_hash": "4cab9718b71c48f4",
+            "bytes": 86252,
+            "sha256": "006b40530ccec7070d1a9bef55a23c43aded7d6c980635a47a092f943364ec46"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 8016,
+      "base_skin_id": 8014,
+      "champion_id": 8,
+      "name": "黑夜使者 弗拉基米尔 超凡之势",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "08f6081629f47d784d1e06bdb719f2836321db49988cde0ad13ad7335d9f3234",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8014/8016/8016.fantome",
+      "files": [
+        {
+          "path": "skins/8/8014/8016/Vladimir.wad.client",
+          "size": 89083,
+          "sha256": "38d9186484e12b09c322bf96554baa97a626a5deff086b0b1e8a6915d3b0180e"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2799,
+          "bytes_after": 89083,
+          "replacement_hashes": [
+            "83a60a5c78d3165f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "83a60a5c78d3165f",
+            "border_hash": "4cab9718b71c48f4",
+            "bytes": 86252,
+            "sha256": "006b40530ccec7070d1a9bef55a23c43aded7d6c980635a47a092f943364ec46"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 8017,
+      "base_skin_id": 8014,
+      "champion_id": 8,
+      "name": "黑夜使者 弗拉基米尔 最强之尊",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5c2c02c4c6b38e3dd8f18016d5cc2641888c154f2c517c54104b9d938f94ac93",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8014/8017/8017.fantome",
+      "files": [
+        {
+          "path": "skins/8/8014/8017/Vladimir.wad.client",
+          "size": 89086,
+          "sha256": "f05dcf805a27eab698787c336beff9483207bb8f99fba028eee1466945cd517b"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2802,
+          "bytes_after": 89086,
+          "replacement_hashes": [
+            "83a60a5c78d3165f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "83a60a5c78d3165f",
+            "border_hash": "4cab9718b71c48f4",
+            "bytes": 86252,
+            "sha256": "006b40530ccec7070d1a9bef55a23c43aded7d6c980635a47a092f943364ec46"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 8018,
+      "base_skin_id": 8014,
+      "champion_id": 8,
+      "name": "黑夜使者 弗拉基米尔 登临之锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b51ecb6e9ce03f9e250572e2f0b74d1665f21d67f704fba55ce62f9e05e9e59a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8014/8018/8018.fantome",
+      "files": [
+        {
+          "path": "skins/8/8014/8018/Vladimir.wad.client",
+          "size": 89138,
+          "sha256": "233c68790afb58764f8071644a2224b1ac5ac126fd870ecaa100058fe0074c0a"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2854,
+          "bytes_after": 89138,
+          "replacement_hashes": [
+            "83a60a5c78d3165f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "83a60a5c78d3165f",
+            "border_hash": "4cab9718b71c48f4",
+            "bytes": 86252,
+            "sha256": "006b40530ccec7070d1a9bef55a23c43aded7d6c980635a47a092f943364ec46"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 8019,
+      "base_skin_id": 8014,
+      "champion_id": 8,
+      "name": "黑夜使者 弗拉基米尔 宁夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "66f1d3518f97159933d0594657f474698cd23e61c4699c1af5b895fc3c4c1500",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8014/8019/8019.fantome",
+      "files": [
+        {
+          "path": "skins/8/8014/8019/Vladimir.wad.client",
+          "size": 89137,
+          "sha256": "803ca9201fb236202f72342567d46f6540039eb0cba14dbf55cf637698cef53c"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2853,
+          "bytes_after": 89137,
+          "replacement_hashes": [
+            "83a60a5c78d3165f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "83a60a5c78d3165f",
+            "border_hash": "4cab9718b71c48f4",
+            "bytes": 86252,
+            "sha256": "006b40530ccec7070d1a9bef55a23c43aded7d6c980635a47a092f943364ec46"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 8020,
+      "base_skin_id": 8014,
+      "champion_id": 8,
+      "name": "黑夜使者 弗拉基米尔 傲视之威",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4d121cdd315379c7408f98b4fb28215a3e12fafb28c1f2a5bda253223daf601a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8014/8020/8020.fantome",
+      "files": [
+        {
+          "path": "skins/8/8014/8020/Vladimir.wad.client",
+          "size": 89088,
+          "sha256": "52fc7d87f5ae049cf62033a51c134d3a7d0a13da3f795c6bb5250d42ac2d65ce"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2804,
+          "bytes_after": 89088,
+          "replacement_hashes": [
+            "83a60a5c78d3165f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "83a60a5c78d3165f",
+            "border_hash": "4cab9718b71c48f4",
+            "bytes": 86252,
+            "sha256": "006b40530ccec7070d1a9bef55a23c43aded7d6c980635a47a092f943364ec46"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

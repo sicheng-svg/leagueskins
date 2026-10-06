@@ -1,0 +1,65 @@
+{
+  "champion_id": 8,
+  "base_skin_id": 8003,
+  "name": "诺斯费拉图  弗拉基米尔",
+  "variants": [
+    {
+      "skin_id": 8003,
+      "base_skin_id": 8003,
+      "champion_id": 8,
+      "name": "诺斯费拉图  弗拉基米尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "79742a2f8620cd37d3ac1576d0271bf9e372eea5a4526881ea360a946a23f402",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "8/8003/8003.fantome",
+      "files": [
+        {
+          "path": "skins/8/8003/8003/Vladimir.wad.client",
+          "size": 91939,
+          "sha256": "8d4ad2be2aa4bedf79e93fadca1a8d3b1c1a5b8fd0a28d3f3320e9bfd459a549"
+        }
+      ],
+      "wads": {
+        "Vladimir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5655,
+          "bytes_after": 91939,
+          "replacement_hashes": [
+            "1bc6cb44c877ca96"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vladimir.wad.client",
+            "normal_hash": "1bc6cb44c877ca96",
+            "border_hash": "fa29401751e1a819",
+            "bytes": 86252,
+            "sha256": "a8aa069b240d513d2d6349807fcbef845fe369288fc51b7a9929efa1a6ff8e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

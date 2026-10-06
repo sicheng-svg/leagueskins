@@ -1,0 +1,58 @@
+{
+  "skin_id": 245017,
+  "base_skin_id": 245012,
+  "champion_id": 245,
+  "name": "不给糖就捣蛋 艾克 深渊捣蛋鬼",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2b87ed67d5db0e69ae3d096dbf7aebe9a0d429eaf2fd38ebf77d1015470e07d2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "245/245012/245017/245017.fantome",
+  "files": [
+    {
+      "path": "skins/245/245012/245017/Ekko.wad.client",
+      "size": 89376,
+      "sha256": "c2657423e13489ed8c105533f738776b171de45df0027e00618b367666006083"
+    }
+  ],
+  "wads": {
+    "Ekko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3092,
+      "bytes_after": 89376,
+      "replacement_hashes": [
+        "04a8b3d90fd3cd5e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ekko.wad.client",
+        "normal_hash": "04a8b3d90fd3cd5e",
+        "border_hash": "a635e857991971e5",
+        "bytes": 86252,
+        "sha256": "377de7c1a56f6a4275fc50c247574431fe2ef95376a8aee3cf55acc252f0670e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

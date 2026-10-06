@@ -1,0 +1,58 @@
+{
+  "skin_id": 246017,
+  "base_skin_id": 246011,
+  "champion_id": 246,
+  "name": "女帝 奇亚娜 纹章之刻印·无我",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d760ea4cd438aa3dd273084979cbd26d021d95cef88d7e73016114962ccff0aa",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "246/246011/246017/246017.fantome",
+  "files": [
+    {
+      "path": "skins/246/246011/246017/Qiyana.wad.client",
+      "size": 88983,
+      "sha256": "5870b0c9c4c921040def6d64af0d2e3476d979fd13dd9ef62eebec504556e171"
+    }
+  ],
+  "wads": {
+    "Qiyana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2699,
+      "bytes_after": 88983,
+      "replacement_hashes": [
+        "9af1d011d080e16b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Qiyana.wad.client",
+        "normal_hash": "9af1d011d080e16b",
+        "border_hash": "418f348e27cc7cac",
+        "bytes": 86252,
+        "sha256": "8eb1c4af4c3f392cb8561e287b03f3fa31763fa86e291374363dffd93492bf6e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

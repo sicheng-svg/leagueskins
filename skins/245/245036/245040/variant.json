@@ -1,0 +1,48 @@
+{
+  "skin_id": 245040,
+  "base_skin_id": 245036,
+  "champion_id": 245,
+  "name": "野火首领 艾克 坚定不移",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4c85e4b037b2918d76be4642ae04aaf6083d8a69e8cfadeee5c2c4855533bcda",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "245/245036/245040/245040.fantome",
+  "files": [
+    {
+      "path": "skins/245/245036/245040/Ekko.wad.client",
+      "size": 3175,
+      "sha256": "ad7cc804309b28b7e5a30bf9ee9d1128a831b1d40168f34f234444fb1e23ba7d"
+    }
+  ],
+  "wads": {
+    "Ekko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3175,
+      "bytes_after": 3175,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

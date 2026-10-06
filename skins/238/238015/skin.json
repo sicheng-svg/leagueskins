@@ -1,0 +1,592 @@
+{
+  "champion_id": 238,
+  "base_skin_id": 238015,
+  "name": "灵能特工 劫",
+  "variants": [
+    {
+      "skin_id": 238015,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9117b708bf0e0a83cadff144c97b588efa0d50d81946b183207c5d3383fab42e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238015.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238015/Zed.wad.client",
+          "size": 92294,
+          "sha256": "22bd6921f5f773ab8366ec8a4cd32bb566b19832ac860d84e40539dfff698a24"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6010,
+          "bytes_after": 92294,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238016,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：蜘蛛",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "82fc7b965fbd9d1fc22fc146508a20e14921ee186d468e3a65840113f5ee26f1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238016/238016.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238016/Zed.wad.client",
+          "size": 89844,
+          "sha256": "6a67ecad237f9fddde06b8ed75e81901b04eb4d7bbbbd06d688a6c6a5e888112"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3560,
+          "bytes_after": 89844,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238017,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：龙焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ed268804c72e8513dcc4c813ebe8da347bc71587903f6cabd9cca81558107454",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238017/238017.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238017/Zed.wad.client",
+          "size": 89897,
+          "sha256": "730634ce4d9f5f6dcafa9c9072dfd8a5eff34964bb8d3e610f7421f91ff39821"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3613,
+          "bytes_after": 89897,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238018,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：毒牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "04ca15b29f3acd501f1c30f51e259c2906d50f3f14d73638a6df5a3d42b7a40c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238018/238018.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238018/Zed.wad.client",
+          "size": 89845,
+          "sha256": "5adf16e6dba95d9f9c089340f3a014ec24c1854c003265254624c210e81644a8"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3561,
+          "bytes_after": 89845,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238019,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：猎人",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ef18f196f45143b3df13d99c629b3ced48f2e6b19c683bce36c32b8161599562",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238019/238019.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238019/Zed.wad.client",
+          "size": 89900,
+          "sha256": "4d7318bb7eb6b4f04da4ff24b7acd86b2e74e10d4c6bc01a4e82d8fb526ebf21"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3616,
+          "bytes_after": 89900,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238020,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：灰熊",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "27099490721a1e923e594919cc5ead6350f0eb55864753ec2f33b9bd8ba2a9ac",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238020/238020.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238020/Zed.wad.client",
+          "size": 89846,
+          "sha256": "b81c39d71994638de6ebbe93472e5906f4e0df19885dad0e1fecdc6605b6a350"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3562,
+          "bytes_after": 89846,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238021,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：银翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "47e97f2acd8c57573c52f05e29656984acb7260fe3d0fa4bba79f53a9855ce29",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238021/238021.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238021/Zed.wad.client",
+          "size": 89850,
+          "sha256": "075d246c2e3617fe98a499ffd159257f471251c704df50b8a44731d04b4eedfe"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3566,
+          "bytes_after": 89850,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238022,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：蝮蛇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c2c83adda2b837e6a1c113e9d913b4ea3b3c909fdd80e16a4fc5fe7bbe12a966",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238022/238022.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238022/Zed.wad.client",
+          "size": 89850,
+          "sha256": "84c2d2a2c00992a26286216303a2614c76b729d12f4097b142162b79af61f2bc"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3566,
+          "bytes_after": 89850,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 238023,
+      "base_skin_id": 238015,
+      "champion_id": 238,
+      "name": "灵能特工 劫 代号：真理",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fca6ee7fc8b61d686164fc895c33fb159f1b215152175b05ab64f6ddefce9820",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "238/238015/238023/238023.fantome",
+      "files": [
+        {
+          "path": "skins/238/238015/238023/Zed.wad.client",
+          "size": 89849,
+          "sha256": "b570c60787e9829c374acca1a6eefa22f1437fa393c733bfb64d635b62e6f5f9"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3565,
+          "bytes_after": 89849,
+          "replacement_hashes": [
+            "1e4c9e9f131f9998"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          },
+          {
+            "archive": "Zed.wad.client",
+            "normal_hash": "1e4c9e9f131f9998",
+            "border_hash": "9b593b8b01f60873",
+            "bytes": 86252,
+            "sha256": "55144a6f03c4d5f9f412ab37f8abacc981342be97b1366f0545d3ee92ba94010"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

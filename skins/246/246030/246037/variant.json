@@ -1,0 +1,58 @@
+{
+  "skin_id": 246037,
+  "base_skin_id": 246030,
+  "champion_id": 246,
+  "name": "春晖神女 奇亚娜 团团圆圆",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fa063fc64cf679a7ac4ab31965800559196686106d81b17de306e15ce4ef44f4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "246/246030/246037/246037.fantome",
+  "files": [
+    {
+      "path": "skins/246/246030/246037/Qiyana.wad.client",
+      "size": 89252,
+      "sha256": "d6d6e5fdffda974e297fc52abbf084e60ebd03b4e14105708a66ff9feb6fe7a8"
+    }
+  ],
+  "wads": {
+    "Qiyana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2968,
+      "bytes_after": 89252,
+      "replacement_hashes": [
+        "180f20afc3e17284"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Qiyana.wad.client",
+        "normal_hash": "180f20afc3e17284",
+        "border_hash": "ee5a384e1142694b",
+        "bytes": 86252,
+        "sha256": "baee3af825e68bbd98a23aa998c6ae6f63c4d1fae692b1b721ae4290f9fd9c54"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

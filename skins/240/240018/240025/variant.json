@@ -1,0 +1,48 @@
+{
+  "skin_id": 240025,
+  "base_skin_id": 240018,
+  "champion_id": 240,
+  "name": "狗粮克烈 吃了惹人爱！",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "91df26fb918c217b42925ce49a8ab0b46a9a0baf1a6f7fd4f19f2d571cd52f8f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "240/240018/240025/240025.fantome",
+  "files": [
+    {
+      "path": "skins/240/240018/240025/Kled.wad.client",
+      "size": 6147,
+      "sha256": "ed0db80d9602961ac853bc712b35ba94b0d418e7b937a8ff1f73731ae099e65b"
+    }
+  ],
+  "wads": {
+    "Kled.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6147,
+      "bytes_after": 6147,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 24030,
+  "base_skin_id": 24022,
+  "champion_id": 24,
+  "name": "至高天 贾克斯 胧光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3ce82acf6252d7ae5999b59d60ac217ecf5edb2b46027e8433352265236536a1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "24/24022/24030/24030.fantome",
+  "files": [
+    {
+      "path": "skins/24/24022/24030/Jax.wad.client",
+      "size": 89148,
+      "sha256": "01b04a7178238c0d806919b768d49716a7c5706cb209cc7834fd4d145a940126"
+    }
+  ],
+  "wads": {
+    "Jax.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2864,
+      "bytes_after": 89148,
+      "replacement_hashes": [
+        "7c0d2ba3aaef26fb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Jax.wad.client",
+        "normal_hash": "7c0d2ba3aaef26fb",
+        "border_hash": "025dddf77491a8f5",
+        "bytes": 86252,
+        "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

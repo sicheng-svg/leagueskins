@@ -1,0 +1,59 @@
+{
+  "skin_id": 245056,
+  "base_skin_id": 245056,
+  "champion_id": 245,
+  "name": "真实伤害 突破界限 艾克",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "cb7def65a6f74d4ae4d2086bae0a97aeb361e882dc8b1673187a18a0b5d7b438",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+  },
+  "source_package": "245/245056/245056.fantome",
+  "files": [
+    {
+      "path": "skins/245/245056/245056/Ekko.wad.client",
+      "size": 95330,
+      "sha256": "267db5d95e1ef90cf2df90901a36913950139a5277cecef8cc155cdd55b2dfac"
+    }
+  ],
+  "wads": {
+    "Ekko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 9046,
+      "bytes_after": 95330,
+      "replacement_hashes": [
+        "91cd641dcfd652c7"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ekko.wad.client",
+        "normal_hash": "91cd641dcfd652c7",
+        "border_hash": "8dbce4e8ba1a116c",
+        "bytes": 86252,
+        "sha256": "40d9f560c16104bbe984f252c4ef32792623f37b69a77c846c9bcc87176cc735",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

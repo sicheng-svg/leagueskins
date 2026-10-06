@@ -1,0 +1,65 @@
+{
+  "skin_id": 238069,
+  "base_skin_id": 238069,
+  "champion_id": 238,
+  "name": "至臻 灵魂莲华 劫",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "27e7c760f819fb5e306a36c790a0250b809a713b309f5b5d94a4ccc40c2230e0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "238/238069/238069.fantome",
+  "files": [
+    {
+      "path": "skins/238/238069/238069/Zed.wad.client",
+      "size": 92463,
+      "sha256": "9e64386520a3533c0e66b4c6da207aa45d3871cbfaf760d9347000294b6cf3b7"
+    }
+  ],
+  "wads": {
+    "Zed.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6179,
+      "bytes_after": 92463,
+      "replacement_hashes": [
+        "9f592db89216ec38"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "9f592db89216ec38",
+        "border_hash": "11d2947aed9191e8",
+        "bytes": 86252,
+        "sha256": "8e2f16ed0e55243fc286cbab3bfd872b57e1881b9da7e29e3be10c2d443c7df2"
+      },
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "9f592db89216ec38",
+        "border_hash": "11d2947aed9191e8",
+        "bytes": 86252,
+        "sha256": "8e2f16ed0e55243fc286cbab3bfd872b57e1881b9da7e29e3be10c2d443c7df2"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

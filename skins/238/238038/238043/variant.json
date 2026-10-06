@@ -1,0 +1,65 @@
+{
+  "skin_id": 238043,
+  "base_skin_id": 238038,
+  "champion_id": 238,
+  "name": "至高天 劫 寒芒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9e724d155a0fcaf602fb931b9d4ea33d43adb7c86c06f88e8ae383be961200ee",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "238/238038/238043/238043.fantome",
+  "files": [
+    {
+      "path": "skins/238/238038/238043/Zed.wad.client",
+      "size": 90480,
+      "sha256": "533034d96e05d30de4c4099773414c6dce62e7215a5319e693d569521ab8bafe"
+    }
+  ],
+  "wads": {
+    "Zed.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4196,
+      "bytes_after": 90480,
+      "replacement_hashes": [
+        "48a71f61b7cc10f5"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "48a71f61b7cc10f5",
+        "border_hash": "3a5fb5a4f9c6f596",
+        "bytes": 86252,
+        "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+      },
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "48a71f61b7cc10f5",
+        "border_hash": "3a5fb5a4f9c6f596",
+        "bytes": 86252,
+        "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

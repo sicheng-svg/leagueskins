@@ -1,0 +1,48 @@
+{
+  "skin_id": 245038,
+  "base_skin_id": 245036,
+  "champion_id": 245,
+  "name": "野火首领 艾克 不屈不挠",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bc6b6ee2673dcee2d9a28ec86b6b955ca1e598f71a9c97bd2006779bca972759",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "245/245036/245038/245038.fantome",
+  "files": [
+    {
+      "path": "skins/245/245036/245038/Ekko.wad.client",
+      "size": 3173,
+      "sha256": "f55fbd52f534a7c697694962007eea12b9967b506578248f718fdf858895b4ca"
+    }
+  ],
+  "wads": {
+    "Ekko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3173,
+      "bytes_after": 3173,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

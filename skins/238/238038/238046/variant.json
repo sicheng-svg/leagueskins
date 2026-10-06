@@ -1,0 +1,65 @@
+{
+  "skin_id": 238046,
+  "base_skin_id": 238038,
+  "champion_id": 238,
+  "name": "至高天 劫 遁影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ce8dfa572e0aced62f85370a6aa0424fd46f051daabab60d422c689f00112953",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "238/238038/238046/238046.fantome",
+  "files": [
+    {
+      "path": "skins/238/238038/238046/Zed.wad.client",
+      "size": 90481,
+      "sha256": "a935d14030a4ba5f3d1acd2b095b39550cbdbf67512ec1241ec8629d07bc6a6b"
+    }
+  ],
+  "wads": {
+    "Zed.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4197,
+      "bytes_after": 90481,
+      "replacement_hashes": [
+        "48a71f61b7cc10f5"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "48a71f61b7cc10f5",
+        "border_hash": "3a5fb5a4f9c6f596",
+        "bytes": 86252,
+        "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+      },
+      {
+        "archive": "Zed.wad.client",
+        "normal_hash": "48a71f61b7cc10f5",
+        "border_hash": "3a5fb5a4f9c6f596",
+        "bytes": 86252,
+        "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

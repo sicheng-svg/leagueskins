@@ -1,0 +1,48 @@
+{
+  "skin_id": 24040,
+  "base_skin_id": 24033,
+  "champion_id": 24,
+  "name": "源计划：孤狼 贾克斯 燎原",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "35a19a764a756637e0300182ea0f97b009f1a5cb83243cd4a8154c484dbef93a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "24/24033/24040/24040.fantome",
+  "files": [
+    {
+      "path": "skins/24/24033/24040/Jax.wad.client",
+      "size": 3062,
+      "sha256": "cc82421b21d5afe9f87c19af610c43db114969204c14e26db8f705c9b638f3a7"
+    }
+  ],
+  "wads": {
+    "Jax.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3062,
+      "bytes_after": 3062,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

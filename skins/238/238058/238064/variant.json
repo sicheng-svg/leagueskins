@@ -1,0 +1,48 @@
+{
+  "skin_id": 238064,
+  "base_skin_id": 238058,
+  "champion_id": 238,
+  "name": "腥红之月 劫 绿松",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9b6cf8f1be4b457fb60792e51f47e14c324d845c44e3e30fc96882e5404af8fc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "238/238058/238064/238064.fantome",
+  "files": [
+    {
+      "path": "skins/238/238058/238064/Zed.wad.client",
+      "size": 3717,
+      "sha256": "623d1eaebbaea1b8cb33fcb6122a4ac4acdaafd7b3ca574af1d0551ae840514a"
+    }
+  ],
+  "wads": {
+    "Zed.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3717,
+      "bytes_after": 3717,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

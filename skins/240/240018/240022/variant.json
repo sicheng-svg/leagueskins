@@ -1,0 +1,48 @@
+{
+  "skin_id": 240022,
+  "base_skin_id": 240018,
+  "champion_id": 240,
+  "name": "狗粮克烈 吃了更健康！",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "00733a60ea6c080ed33fac6bc8e8712102153278a430d3df41b86190f170e775",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "240/240018/240022/240022.fantome",
+  "files": [
+    {
+      "path": "skins/240/240018/240022/Kled.wad.client",
+      "size": 6174,
+      "sha256": "3364b9819349f4c90fe5ca07ad254fb767e68a25d0df656b7a49350aff8db04e"
+    }
+  ],
+  "wads": {
+    "Kled.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6174,
+      "bytes_after": 6174,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

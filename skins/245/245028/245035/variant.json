@@ -1,0 +1,58 @@
+{
+  "skin_id": 245035,
+  "base_skin_id": 245028,
+  "champion_id": 245,
+  "name": "未来战士 艾克 降维打击",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "09edc05ce27e0694c78fa1828acea94c3c5e8c62eb96cef84e42e30bed6c7dd7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "245/245028/245035/245035.fantome",
+  "files": [
+    {
+      "path": "skins/245/245028/245035/Ekko.wad.client",
+      "size": 89361,
+      "sha256": "7688b392e7d388db8304d6df3f0f0880fbe49013c99add679c96ce6c684727f6"
+    }
+  ],
+  "wads": {
+    "Ekko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3077,
+      "bytes_after": 89361,
+      "replacement_hashes": [
+        "29c1f5ee03557ebf"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ekko.wad.client",
+        "normal_hash": "29c1f5ee03557ebf",
+        "border_hash": "dcbc87012f3b35e3",
+        "bytes": 86252,
+        "sha256": "141ce49ffb5c8682e3d1b03c06b4dea029c3364961cac9fc80f2d2da369d568b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

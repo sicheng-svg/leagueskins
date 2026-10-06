@@ -1,0 +1,471 @@
+{
+  "champion_id": 246,
+  "base_skin_id": 246001,
+  "name": "战场BOSS 奇亚娜",
+  "variants": [
+    {
+      "skin_id": 246001,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1ed36a6504e63a8066c807eccbade49dad43135032b0e873339bc00aa6909a9f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246001.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246001/Qiyana.wad.client",
+          "size": 93008,
+          "sha256": "69a7888146ae0f1c60dc0dcbbd5fb8cc546449351981fe36854e23bdb7a6c6d2"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6724,
+          "bytes_after": 93008,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 246003,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜 杀意女王",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "466e62b794040625c418eb136e129fd49cef022b6bdce1f6c3f411083f819af2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246003/246003.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246003/Qiyana.wad.client",
+          "size": 89060,
+          "sha256": "f5f61c2fbb92d1b0ac691c004c2b12aa795961113fc477fe4d62856bde6bf726"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2776,
+          "bytes_after": 89060,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 246004,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜 毒桃公主",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "634b08a99a7beae2418ba601add201318024803931dd3050973c65edbdcf823b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246004/246004.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246004/Qiyana.wad.client",
+          "size": 89032,
+          "sha256": "2c5a227e315ed45aacbec3a4d077cc6651f0f9182e2abed90ed0209e9a8927e0"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2748,
+          "bytes_after": 89032,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 246005,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜 时之魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b1e0e3f9d8686164ae5433e6011d4a35bc8a084616acbeb38298944b94989ca1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246005/246005.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246005/Qiyana.wad.client",
+          "size": 89007,
+          "sha256": "d74e38b536cafd05db15b847d4c2891e044c893e0de6ba1be79f99db07a539cb"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2723,
+          "bytes_after": 89007,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 246006,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜 叹息之轮",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "158624684b92920acbdf13efcd0ad06e5d13f64bcbbf805ab2c92911821ee64a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246006/246006.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246006/Qiyana.wad.client",
+          "size": 89007,
+          "sha256": "327d00e9500c2a867f515f3bd834f78e5fd982a57b86821b0c25c054d56bd30a"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2723,
+          "bytes_after": 89007,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 246007,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜 绝杀王女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aaadee8b907f4dcbe2e90fcced797c1767642d8485067cc11977dc2142c2e08f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246007/246007.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246007/Qiyana.wad.client",
+          "size": 89006,
+          "sha256": "facd4f260e48fe7547a7d69c8ed249ec8b0d97142e09b39f97f0f82dbfc9d331"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2722,
+          "bytes_after": 89006,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 246008,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜 K.O.",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "34ed8c174d778c7a779ec682ced1a43d7db45c62d962fbe34ff036ac0e5e5217",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246008/246008.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246008/Qiyana.wad.client",
+          "size": 89063,
+          "sha256": "292141cf6db9b77a58c1661f18730f974b7896842e4cfd74254ebdba129ed03f"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2779,
+          "bytes_after": 89063,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 246009,
+      "base_skin_id": 246001,
+      "champion_id": 246,
+      "name": "战场BOSS 奇亚娜 隐藏强者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cbcfd22f4e6dc7fc0bcccb132f812cee024094ecc9dfbc5a900a1b750a193c99",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246001/246009/246009.fantome",
+      "files": [
+        {
+          "path": "skins/246/246001/246009/Qiyana.wad.client",
+          "size": 89006,
+          "sha256": "c9ffd90868edf31919a43cc64043ec602c9b27a0d30185f57e4fce3586366e99"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2722,
+          "bytes_after": 89006,
+          "replacement_hashes": [
+            "fbea613e4fa98b8f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "fbea613e4fa98b8f",
+            "border_hash": "88c95648820501ae",
+            "bytes": 86252,
+            "sha256": "cb4ffdd4d92e1b07eae247acb32fd59834dcb23795a6482151539392b8bd775f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

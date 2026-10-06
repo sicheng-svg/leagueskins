@@ -1,0 +1,587 @@
+{
+  "champion_id": 245,
+  "base_skin_id": 245045,
+  "name": "星之守护者 艾克",
+  "variants": [
+    {
+      "skin_id": 245045,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "941d9905451fe6e758a2fe76e97df9e4af362e98997376ba55dc1d6d258dac73",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245045.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245045/Ekko.wad.client",
+          "size": 93781,
+          "sha256": "39797bf24d346e968e28ecce6744a66270c7b7f13f32687db098a8147337befa"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7497,
+          "bytes_after": 93781,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245047,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 热情之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fc947e5132701670eeaa97a2b4f59263d031ef0cf3fd52dc390acc661baa7ef9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245047/245047.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245047/Ekko.wad.client",
+          "size": 89635,
+          "sha256": "d7ac423ff62ffcb95937d7e10043436bad9fec0c557e0c5b59225a8b4ee0a556"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3351,
+          "bytes_after": 89635,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245048,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 智慧之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4e2ab51ef0f7f43fe2063a866a19623c389a537c2bb2104cb0bcdf5b17de49e5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245048/245048.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245048/Ekko.wad.client",
+          "size": 89579,
+          "sha256": "a0fced67a21f80354f30f6e2cc692dfc773b276ba70e5635e855c638e341415b"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3295,
+          "bytes_after": 89579,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245049,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 勇气之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "80bb3fa0f85bdde44f54045416f8396766b6bc415c0fa2a328b0201116683721",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245049/245049.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245049/Ekko.wad.client",
+          "size": 89579,
+          "sha256": "7fc5e3f76e074481e5418fd72670e3e8f84c6312500ab40469f059ec54e533f1"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3295,
+          "bytes_after": 89579,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245050,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 爱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ec218f9227c03513df62d0e86a7ec08155ed77b726f5bb9f829326b8cdfbf174",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245050/245050.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245050/Ekko.wad.client",
+          "size": 89584,
+          "sha256": "88ed4c9a12c13c3ca82b6f6e9a6437927b902006028ddc44757ca8d5772b3b2f"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3300,
+          "bytes_after": 89584,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245051,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 拥抱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f0036a9ba22dfe96cb0e00a16eb32637a6ca32bebc97b71134f156dc09e408e3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245051/245051.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245051/Ekko.wad.client",
+          "size": 89581,
+          "sha256": "09df0d48791b9a33ed2b109d8fe918fbc62d2258f8f1ca35d481de59187e4305"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3297,
+          "bytes_after": 89581,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245052,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 重生之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5ac47bf04554a6659da5b477c981060c92744d8864e94804f37e71934756a9bb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245052/245052.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245052/Ekko.wad.client",
+          "size": 89581,
+          "sha256": "873a6d52240b144f423287fb9bf8170515eb04a8ae98df45d9581447d6fcfe75"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3297,
+          "bytes_after": 89581,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245053,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 正义之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e7f8c915ce6c35823a7517787cefc168842039a230d304a2ae607a7ad9a648d5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245053/245053.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245053/Ekko.wad.client",
+          "size": 89582,
+          "sha256": "9332b615fe0f65ffe1470fd89d54c589354568161d9e525c0357ffb4f688a80a"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3298,
+          "bytes_after": 89582,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245054,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 守护之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8f0baf6402256baac1978cc059b1290f96d55a5d00ce5a171d1953917b806ff2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245054/245054.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245054/Ekko.wad.client",
+          "size": 89581,
+          "sha256": "358c149a869f4411122bc94f003304d1a9b444dbaf942cbf2ae379797200d403"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3297,
+          "bytes_after": 89581,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245055,
+      "base_skin_id": 245045,
+      "champion_id": 245,
+      "name": "星之守护者 艾克 希望之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0a641e046eeccbbe027944c2bb6a8e991542ecec1f2119d8ba76d5b26e1a38f9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245045/245055/245055.fantome",
+      "files": [
+        {
+          "path": "skins/245/245045/245055/Ekko.wad.client",
+          "size": 89635,
+          "sha256": "a658ab170f862362551d744e778c019bd6419c79b1069ae93a28d4810a22c40d"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3351,
+          "bytes_after": 89635,
+          "replacement_hashes": [
+            "6554063fcad5bb0c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "6554063fcad5bb0c",
+            "border_hash": "aa2bd4aa4db3c7e6",
+            "bytes": 86252,
+            "sha256": "02890a1e72b16c2c124b4dd7b2b642cece56edf005a36b2e7c9636fdb44c7819"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

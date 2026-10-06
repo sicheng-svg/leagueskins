@@ -1,0 +1,123 @@
+{
+  "champion_id": 245,
+  "base_skin_id": 245057,
+  "name": "双城之战2 孤勇者 艾克",
+  "variants": [
+    {
+      "skin_id": 245057,
+      "base_skin_id": 245057,
+      "champion_id": 245,
+      "name": "双城之战2 孤勇者 艾克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "45cbef598eeefc8e73231fd62974e51695e63e7350d2e22f0bd9325f282ed381",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245057/245057.fantome",
+      "files": [
+        {
+          "path": "skins/245/245057/245057/Ekko.wad.client",
+          "size": 93652,
+          "sha256": "2482182d783e53bf1e8a4bea82a5274ebbf4b99a90e2e970cbef7be49931bdb2"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7368,
+          "bytes_after": 93652,
+          "replacement_hashes": [
+            "254c85eb99965d7d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "254c85eb99965d7d",
+            "border_hash": "97bf4e86640f81d5",
+            "bytes": 86252,
+            "sha256": "b86ab6747b7babb579e2d3ded0813f68194278623b7a58bbc0d416c176e61cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 245058,
+      "base_skin_id": 245057,
+      "champion_id": 245,
+      "name": "双城之战2 孤勇者 艾克 典范",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c228474d59be60cc232e204e65b4d421ee1a055b34266c3cacbd45a6a645bb8a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "245/245057/245058/245058.fantome",
+      "files": [
+        {
+          "path": "skins/245/245057/245058/Ekko.wad.client",
+          "size": 89576,
+          "sha256": "a619b4d1929cae1d2232ade42308edb05a0e4171d056f3114f4fc181254d01ea"
+        }
+      ],
+      "wads": {
+        "Ekko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3292,
+          "bytes_after": 89576,
+          "replacement_hashes": [
+            "254c85eb99965d7d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ekko.wad.client",
+            "normal_hash": "254c85eb99965d7d",
+            "border_hash": "97bf4e86640f81d5",
+            "bytes": 86252,
+            "sha256": "b86ab6747b7babb579e2d3ded0813f68194278623b7a58bbc0d416c176e61cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

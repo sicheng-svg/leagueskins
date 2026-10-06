@@ -1,0 +1,65 @@
+{
+  "champion_id": 246,
+  "base_skin_id": 246010,
+  "name": "至臻 真实伤害 奇亚娜",
+  "variants": [
+    {
+      "skin_id": 246010,
+      "base_skin_id": 246010,
+      "champion_id": 246,
+      "name": "至臻 真实伤害 奇亚娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "082bc3757b224c9bb1f394f46be48463b49e3495f55b7c423c8c313f485e8349",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "246/246010/246010.fantome",
+      "files": [
+        {
+          "path": "skins/246/246010/246010/Qiyana.wad.client",
+          "size": 92935,
+          "sha256": "82f0a35f7a9305c1a261fb7ebfe35b040ed32d29c8a132e2eca1061af6613df0"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6651,
+          "bytes_after": 92935,
+          "replacement_hashes": [
+            "939b426305769140"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "939b426305769140",
+            "border_hash": "f2ea6045d25c5ac2",
+            "bytes": 86252,
+            "sha256": "2786d5f896d9b1f3bfbf4c658310d3f0b9e45c220a33115a057a15e32d2c6525"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

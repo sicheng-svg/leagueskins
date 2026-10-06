@@ -1,0 +1,58 @@
+{
+  "skin_id": 246002,
+  "base_skin_id": 246002,
+  "champion_id": 246,
+  "name": "真实伤害 奇亚娜",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4b442feadae4d275092e670b1957569269127a064f9db7d978f595575691555e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "246/246002/246002.fantome",
+  "files": [
+    {
+      "path": "skins/246/246002/246002/Qiyana.wad.client",
+      "size": 92670,
+      "sha256": "9fdd6b0d2d5b7aaf7876ba3a434e0365751657cadafef046e271308e79a2c86c"
+    }
+  ],
+  "wads": {
+    "Qiyana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6386,
+      "bytes_after": 92670,
+      "replacement_hashes": [
+        "06b5250a98e45354"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Qiyana.wad.client",
+        "normal_hash": "06b5250a98e45354",
+        "border_hash": "f2ea6045d25c5ac2",
+        "bytes": 86252,
+        "sha256": "2786d5f896d9b1f3bfbf4c658310d3f0b9e45c220a33115a057a15e32d2c6525"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

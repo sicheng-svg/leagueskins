@@ -1,0 +1,58 @@
+{
+  "skin_id": 25019,
+  "base_skin_id": 25017,
+  "champion_id": 25,
+  "name": "玉剑传说 苍鸾 黄栌",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d66caff1191f0108f8494c00af20ec213d04145c0cc13bf86795794d09c9620e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "25/25017/25019/25019.fantome",
+  "files": [
+    {
+      "path": "skins/25/25017/25019/Morgana.wad.client",
+      "size": 88887,
+      "sha256": "d63bc3132b6aa01d665f0c84b225450926231c9e660e16313aa5cb64b991b7f7"
+    }
+  ],
+  "wads": {
+    "Morgana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2603,
+      "bytes_after": 88887,
+      "replacement_hashes": [
+        "65c3d78cdfe85476"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Morgana.wad.client",
+        "normal_hash": "65c3d78cdfe85476",
+        "border_hash": "9f6fae02152943cb",
+        "bytes": 86252,
+        "sha256": "59bd168989b729ddb5b89e5d73f01337e15757756b90cc005236185efba6c6bd"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

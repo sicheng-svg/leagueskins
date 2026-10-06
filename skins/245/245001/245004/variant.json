@@ -1,0 +1,48 @@
+{
+  "skin_id": 245004,
+  "base_skin_id": 245001,
+  "champion_id": 245,
+  "name": "时之砂 艾克 秩序",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "58f4733808a812aa01c2f025e6a0e49f019a7285b66302024669f0366c516975",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "245/245001/245004/245004.fantome",
+  "files": [
+    {
+      "path": "skins/245/245001/245004/Ekko.wad.client",
+      "size": 3285,
+      "sha256": "49ea083ca44d9103be522b42d4520fd5cc9147cff1c8f98ebde52577e6613ce6"
+    }
+  ],
+  "wads": {
+    "Ekko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3285,
+      "bytes_after": 3285,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

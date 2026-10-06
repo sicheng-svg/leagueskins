@@ -1,0 +1,48 @@
+{
+  "skin_id": 360041,
+  "base_skin_id": 360035,
+  "champion_id": 360,
+  "name": "战斗教授 莎弥拉 夜枭",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0aca8a43f9b0c71b60aa50e4b2bacbc8cd57e1bc0bc787f08a8a2f0298a45f4c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "360/360035/360041/360041.fantome",
+  "files": [
+    {
+      "path": "skins/360/360035/360041/Samira.wad.client",
+      "size": 3327,
+      "sha256": "86365b70915e911cadf6610fa9f8264a13831778bbdbb7c01b6e919708d9431d"
+    }
+  ],
+  "wads": {
+    "Samira.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3327,
+      "bytes_after": 3327,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

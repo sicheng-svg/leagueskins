@@ -1,0 +1,58 @@
+{
+  "skin_id": 360015,
+  "base_skin_id": 360010,
+  "champion_id": 360,
+  "name": "“音浪狂舞” 莎弥拉 越塔没关系",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6ccff46ac66c3b449603a55e963f75e4fa871c597f02c13766cb176d3f15a2fa",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "360/360010/360015/360015.fantome",
+  "files": [
+    {
+      "path": "skins/360/360010/360015/Samira.wad.client",
+      "size": 89587,
+      "sha256": "b17660dcea511dd987222f5799e83a1640dbbcea3f3027f99bcd3c0b8a96014d"
+    }
+  ],
+  "wads": {
+    "Samira.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3303,
+      "bytes_after": 89587,
+      "replacement_hashes": [
+        "7099cc59719cffec"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Samira.wad.client",
+        "normal_hash": "7099cc59719cffec",
+        "border_hash": "cf547a41bcc8e536",
+        "bytes": 86252,
+        "sha256": "f663e0addfffc649e5841d8f4ee9050993579ae4aab7cd990fc6a744fb1ebd8a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

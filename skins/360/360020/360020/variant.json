@@ -1,0 +1,58 @@
+{
+  "skin_id": 360020,
+  "base_skin_id": 360020,
+  "champion_id": 360,
+  "name": "西部魔影 持枪女巫 莎弥拉",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "789478554a359738fd1a5f1b01665990d28f1dbd5c51e17cffc6835387dc0849",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "360/360020/360020.fantome",
+  "files": [
+    {
+      "path": "skins/360/360020/360020/Samira.wad.client",
+      "size": 94396,
+      "sha256": "5f2bda8054ffbbf41cb487a4dfd5947c36ec3da2da684b70d3e579a86b50178c"
+    }
+  ],
+  "wads": {
+    "Samira.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8112,
+      "bytes_after": 94396,
+      "replacement_hashes": [
+        "165636ec7525cf7b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Samira.wad.client",
+        "normal_hash": "165636ec7525cf7b",
+        "border_hash": "5972d245f11b3504",
+        "bytes": 86252,
+        "sha256": "854a20b1f208cceef6eece58f2040ed08cc7606d60a6879f0a84a7dc843d7000"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

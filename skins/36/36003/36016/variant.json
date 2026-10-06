@@ -1,0 +1,48 @@
+{
+  "skin_id": 36016,
+  "base_skin_id": 36003,
+  "champion_id": 36,
+  "name": "律政大亨 蒙多 生意兴隆",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0de5a0a85304d8e156805277fab9449afce4ad32aaf020e57d17cb0c1460eb03",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "36/36003/36016/36016.fantome",
+  "files": [
+    {
+      "path": "skins/36/36003/36016/DrMundo.wad.client",
+      "size": 3017,
+      "sha256": "21ade81039441f249610d65a043361eec1b2bd93e741732ac20f0242ad33f38a"
+    }
+  ],
+  "wads": {
+    "DrMundo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3017,
+      "bytes_after": 3017,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

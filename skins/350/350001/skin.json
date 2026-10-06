@@ -1,0 +1,587 @@
+{
+  "champion_id": 350,
+  "base_skin_id": 350001,
+  "name": "战斗校长 悠米",
+  "variants": [
+    {
+      "skin_id": 350001,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2686d5658096d6ccbda79c3870b049a8a751bcb5e8a90836f5efa0a634f8bc31",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350001.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350001/Yuumi.wad.client",
+          "size": 93632,
+          "sha256": "13df1076243b98d2dc194e341a33850f12c7530e61dc2abb6d5479344c0e1564"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7348,
+          "bytes_after": 93632,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350002,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 不死鸟",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7ddc4cc68600ce892f42ffc3507ea44a4646880174b474938e3485ef7768caf9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350002/350002.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350002/Yuumi.wad.client",
+          "size": 89400,
+          "sha256": "f4c3c2272d59ae579403633e7ad386a02f02a1b46227b8a090dc13d01915bbde"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3116,
+          "bytes_after": 89400,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350003,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 火蜥蜴",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "94183aa74a999166c05213639e6bc29a4b70bf3c6081e00a3e16dd4ba167f72e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350003/350003.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350003/Yuumi.wad.client",
+          "size": 89350,
+          "sha256": "ab5dd53a4b97ea868f12a5b26f28d0303f4264bdde8672b38a8804aeae8c0ba8"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3066,
+          "bytes_after": 89350,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350004,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 风精灵",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b0f883541a95ce4548b8b470f44beb18f48c3112e864b70aed3a067ad18b0f91",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350004/350004.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350004/Yuumi.wad.client",
+          "size": 89349,
+          "sha256": "d704389850b4b4567514f7ecdf5eef6d8488f077a3610b3301de4063470ac4be"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3065,
+          "bytes_after": 89349,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350005,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 天马",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bac6ed066aa018d4b89e1882a7532d274c03e880bd14c054d5d6b468e22fe1fe",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350005/350005.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350005/Yuumi.wad.client",
+          "size": 89348,
+          "sha256": "267dbd5aca9142c9ca5aeac7dfe3671f06f3bbb08e31d20d9c2182c99d6614e9"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3064,
+          "bytes_after": 89348,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350006,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 独角兽",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7c775731dd15cbe65593c3aa036c9bd096b5eb23340092919fc21123d559e615",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350006/350006.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350006/Yuumi.wad.client",
+          "size": 89373,
+          "sha256": "4deab58ad5e6145bdb44b6b7417b647ecf49b7779dadbaa08f3089d5ea85e3ea"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3089,
+          "bytes_after": 89373,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350007,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 狮鹫",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cce89c153f68d6f61f6133b834f7be9432410c0548fc85f82ad2643decac6d2c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350007/350007.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350007/Yuumi.wad.client",
+          "size": 89351,
+          "sha256": "59a880f99e9eb704ee42f3b91493dd9ed161bc6ffb62061ad7695f26133f5a06"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3067,
+          "bytes_after": 89351,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350008,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 梦魇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b549abd939d96c101432c5b54c8d9faa0ca10f3feb402f2258c1d21aa2ec2c6c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350008/350008.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350008/Yuumi.wad.client",
+          "size": 89350,
+          "sha256": "0438f50a06ee506f227dc4b83509fbf268d42cf3939e2a8de35771f9464be267"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3066,
+          "bytes_after": 89350,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350009,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 黑龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "905e2aea7962be6582b663852a4ba7ff91774e782713cfdb406fa7f6e716fd69",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350009/350009.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350009/Yuumi.wad.client",
+          "size": 89349,
+          "sha256": "52cfe0cb6a6949b380d6d1cdc479b6a1f8a8bebcfff2492b792fe0294c62c2ba"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3065,
+          "bytes_after": 89349,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 350010,
+      "base_skin_id": 350001,
+      "champion_id": 350,
+      "name": "战斗校长 悠米 盛典礼服",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "447dbde070eb442d556b93fde00af1cd5d7f6379fc36fa7629e1b0df6fb66f41",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "350/350001/350010/350010.fantome",
+      "files": [
+        {
+          "path": "skins/350/350001/350010/Yuumi.wad.client",
+          "size": 89405,
+          "sha256": "f6a0d568509e8c9a5ffb7ed4a7243f936fcb20f5e900941ac3ccd8b8b8db395e"
+        }
+      ],
+      "wads": {
+        "Yuumi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3121,
+          "bytes_after": 89405,
+          "replacement_hashes": [
+            "86581a3260bfe72f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yuumi.wad.client",
+            "normal_hash": "86581a3260bfe72f",
+            "border_hash": "3adfb1a231932e90",
+            "bytes": 86252,
+            "sha256": "0d95b198bf6a32c3266458d2408617b1c67196fc027935090ea255f558ccc5da"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

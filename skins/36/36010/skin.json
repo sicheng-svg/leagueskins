@@ -1,0 +1,355 @@
+{
+  "champion_id": 36,
+  "base_skin_id": 36010,
+  "name": "冰封王子 蒙多",
+  "variants": [
+    {
+      "skin_id": 36010,
+      "base_skin_id": 36010,
+      "champion_id": 36,
+      "name": "冰封王子 蒙多",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "37a115d081a3291986bb6bf1610c62be2f068fc00d1ca60b45ab568914ba16e0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "36/36010/36010.fantome",
+      "files": [
+        {
+          "path": "skins/36/36010/36010/DrMundo.wad.client",
+          "size": 93217,
+          "sha256": "612bdeb79cffc3aa5856eb970bf75eb4cd5750b0b8864303abdb584a1596e9ab"
+        }
+      ],
+      "wads": {
+        "DrMundo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6933,
+          "bytes_after": 93217,
+          "replacement_hashes": [
+            "5c4286bdf05f0570"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "DrMundo.wad.client",
+            "normal_hash": "5c4286bdf05f0570",
+            "border_hash": "869c6dbeb384035f",
+            "bytes": 86252,
+            "sha256": "f26a00d0baf30becfba169fee7cc93586ecc93ecdf43e8f724e6a1f4662e1542"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 36011,
+      "base_skin_id": 36010,
+      "champion_id": 36,
+      "name": "骄傲王子 蒙多",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f19c51123629ea3071f7daf455f10b1be4dc923285e47701de6bb75d0a6bc850",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "36/36010/36011/36011.fantome",
+      "files": [
+        {
+          "path": "skins/36/36010/36011/DrMundo.wad.client",
+          "size": 89347,
+          "sha256": "6a007e09131fa0693e8ba72a4a988e8fd4870d25cce1931e4423b8d268b57d36"
+        }
+      ],
+      "wads": {
+        "DrMundo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3063,
+          "bytes_after": 89347,
+          "replacement_hashes": [
+            "5c4286bdf05f0570"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "DrMundo.wad.client",
+            "normal_hash": "5c4286bdf05f0570",
+            "border_hash": "869c6dbeb384035f",
+            "bytes": 86252,
+            "sha256": "f26a00d0baf30becfba169fee7cc93586ecc93ecdf43e8f724e6a1f4662e1542"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 36012,
+      "base_skin_id": 36010,
+      "champion_id": 36,
+      "name": "忧郁王子 蒙多",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b45502c1abb2cdb8bf623898dfa70a260529cbf3d90a746be827f32ce4620dff",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "36/36010/36012/36012.fantome",
+      "files": [
+        {
+          "path": "skins/36/36010/36012/DrMundo.wad.client",
+          "size": 89317,
+          "sha256": "da0bcdf6075754356558e61288ff84c8da1438076b2e0207905c2fad3643147d"
+        }
+      ],
+      "wads": {
+        "DrMundo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3033,
+          "bytes_after": 89317,
+          "replacement_hashes": [
+            "5c4286bdf05f0570"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "DrMundo.wad.client",
+            "normal_hash": "5c4286bdf05f0570",
+            "border_hash": "869c6dbeb384035f",
+            "bytes": 86252,
+            "sha256": "f26a00d0baf30becfba169fee7cc93586ecc93ecdf43e8f724e6a1f4662e1542"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 36013,
+      "base_skin_id": 36010,
+      "champion_id": 36,
+      "name": "失落王子 蒙多",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ef75ea3e9956caec7531a4ace74a1b401cf9491e5e634b206a4078ebe8960d36",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "36/36010/36013/36013.fantome",
+      "files": [
+        {
+          "path": "skins/36/36010/36013/DrMundo.wad.client",
+          "size": 89317,
+          "sha256": "2bf3f550f791c5b4d06096c26b706deb50b191e2bde5d2ca7ca066e932e00c92"
+        }
+      ],
+      "wads": {
+        "DrMundo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3033,
+          "bytes_after": 89317,
+          "replacement_hashes": [
+            "5c4286bdf05f0570"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "DrMundo.wad.client",
+            "normal_hash": "5c4286bdf05f0570",
+            "border_hash": "869c6dbeb384035f",
+            "bytes": 86252,
+            "sha256": "f26a00d0baf30becfba169fee7cc93586ecc93ecdf43e8f724e6a1f4662e1542"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 36014,
+      "base_skin_id": 36010,
+      "champion_id": 36,
+      "name": "寂寞王子 蒙多",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2e8631da4967b7612a52690ef2962aaa3071615f54c81915622acd1cc75681da",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "36/36010/36014/36014.fantome",
+      "files": [
+        {
+          "path": "skins/36/36010/36014/DrMundo.wad.client",
+          "size": 89318,
+          "sha256": "9d1e783d26674dc9c6bbf07205ac13880e1d841ee06f0a94ba48cc45b179785d"
+        }
+      ],
+      "wads": {
+        "DrMundo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3034,
+          "bytes_after": 89318,
+          "replacement_hashes": [
+            "5c4286bdf05f0570"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "DrMundo.wad.client",
+            "normal_hash": "5c4286bdf05f0570",
+            "border_hash": "869c6dbeb384035f",
+            "bytes": 86252,
+            "sha256": "f26a00d0baf30becfba169fee7cc93586ecc93ecdf43e8f724e6a1f4662e1542"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 36015,
+      "base_skin_id": 36010,
+      "champion_id": 36,
+      "name": "情歌王子 蒙多",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2598146d91d9ebd92ebbcd167c12220116ca4cedf4c750358614e09d4631a3d2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "36/36010/36015/36015.fantome",
+      "files": [
+        {
+          "path": "skins/36/36010/36015/DrMundo.wad.client",
+          "size": 89319,
+          "sha256": "6c7430a8bc22d5ba031d6d18cc7aa7d97231ee7c80bd56f9257f89b39969db16"
+        }
+      ],
+      "wads": {
+        "DrMundo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3035,
+          "bytes_after": 89319,
+          "replacement_hashes": [
+            "5c4286bdf05f0570"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "DrMundo.wad.client",
+            "normal_hash": "5c4286bdf05f0570",
+            "border_hash": "869c6dbeb384035f",
+            "bytes": 86252,
+            "sha256": "f26a00d0baf30becfba169fee7cc93586ecc93ecdf43e8f724e6a1f4662e1542"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 350049,
+  "base_skin_id": 350049,
+  "champion_id": 350,
+  "name": "人工智能 悠米",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4bb5bf06f7c931c008662d5086180c0d4a436ed3bf0c86fad4f63930897eafae",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "350/350049/350049.fantome",
+  "files": [
+    {
+      "path": "skins/350/350049/350049/Yuumi.wad.client",
+      "size": 94163,
+      "sha256": "7212d48f6bb29b208c6d5b789058609a342663a50dc15cc028c5011872f26070"
+    }
+  ],
+  "wads": {
+    "Yuumi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7879,
+      "bytes_after": 94163,
+      "replacement_hashes": [
+        "82db7318adcf8019"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yuumi.wad.client",
+        "normal_hash": "82db7318adcf8019",
+        "border_hash": "3905cf998b35da4d",
+        "bytes": 86252,
+        "sha256": "5417e6a5ca3a513b9b9f78124dc78c6577eceee358eea4fc9912be0e3fafbaf4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 37023,
+  "base_skin_id": 37017,
+  "champion_id": 37,
+  "name": "灵能特工 娑娜 代号：真理",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "210b4567334144b802f05d8113a49f84366b64e44bfbddf8ed2575a226760307",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "37/37017/37023/37023.fantome",
+  "files": [
+    {
+      "path": "skins/37/37017/37023/Sona.wad.client",
+      "size": 98612,
+      "sha256": "dce5915a2494139aea717f65040f20b3aab8401824561b123d3faadf0a391df8"
+    }
+  ],
+  "wads": {
+    "Sona.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 12328,
+      "bytes_after": 98612,
+      "replacement_hashes": [
+        "cc24bd14d7ed6100"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sona.wad.client",
+        "normal_hash": "cc24bd14d7ed6100",
+        "border_hash": "eb0f0df5da1ed631",
+        "bytes": 86252,
+        "sha256": "158474d15fd53527c3942f00ac262b05d95d39673be76feec3133b7539e33ba7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 21,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

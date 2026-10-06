@@ -1,0 +1,58 @@
+{
+  "skin_id": 37015,
+  "base_skin_id": 37009,
+  "champion_id": 37,
+  "name": "奥德赛 娑娜 小行星带探险者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "885296a039e4d421a984c543a868f212787f0ef709ae1744d5ccfd503701933b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "37/37009/37015/37015.fantome",
+  "files": [
+    {
+      "path": "skins/37/37009/37015/Sona.wad.client",
+      "size": 88931,
+      "sha256": "fc2434c8bdc8d94ccbee3b88e573a51954a0e66f4d04b638eec203db549ef174"
+    }
+  ],
+  "wads": {
+    "Sona.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2647,
+      "bytes_after": 88931,
+      "replacement_hashes": [
+        "da825d57fa312d99"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sona.wad.client",
+        "normal_hash": "da825d57fa312d99",
+        "border_hash": "d46c7e36e65137be",
+        "bytes": 86252,
+        "sha256": "731a1ab8b90f39e4b4fc43993d2d2a4ba81f6e13094245952f566959530b42a5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

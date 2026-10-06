@@ -1,0 +1,657 @@
+{
+  "champion_id": 35,
+  "base_skin_id": 35043,
+  "name": "斗魂觉醒 萨科",
+  "variants": [
+    {
+      "skin_id": 35043,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4b1ab9ddb859a8a828f734298131d54e7618574552beffbb12c4f7f885d208ad",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35043.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35043/Shaco.wad.client",
+          "size": 91688,
+          "sha256": "3d6837dc11e3205f5402e4a4bfc1dc47891e1bd279d4f745e67eeaba6878e76d"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5404,
+          "bytes_after": 91688,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35045,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 烈之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8a2724f1789f695c625955fb5d070d813e750ab85cf5464d16ce2128631267d8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35045/35045.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35045/Shaco.wad.client",
+          "size": 89981,
+          "sha256": "5b5c0bfb911567f02495f2016bc24f649da50d740d59ba59a9d7fa981cec8574"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3697,
+          "bytes_after": 89981,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35046,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 韧之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "13f570dc9dbdc47d46a6f86599f6f8eff81459a61c3e8bfeb50d8739099f48bd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35046/35046.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35046/Shaco.wad.client",
+          "size": 89931,
+          "sha256": "e4c95398178d32e47ba16763a4ca62d4bc1f29b3dc900b91f6edfca980db645b"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3647,
+          "bytes_after": 89931,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35047,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 幻之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9ce4a318411afe390f965b989326c18d96a5611df96687f0f82561f1f0cb9c19",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35047/35047.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35047/Shaco.wad.client",
+          "size": 89951,
+          "sha256": "0afcf1035c43314e9b278705751442f3a1f54b84204109aaa1a1e0f1c6e829a6"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3667,
+          "bytes_after": 89951,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35048,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 飒之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "51e372611d209ae614cb3c43fd1538e9a31ecc32245d8223c5382cb5eec5e03a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35048/35048.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35048/Shaco.wad.client",
+          "size": 89930,
+          "sha256": "818238de6a262cc8e8b7c5f84c4634ff3fdf52bba0c1122250e2aabe685efc4a"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3646,
+          "bytes_after": 89930,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35049,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 锐之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "75087042cdb18c6861f08e6294653a23869da14ab1d37ee22c74b9bb071f2f0d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35049/35049.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35049/Shaco.wad.client",
+          "size": 89931,
+          "sha256": "ec95ce42de37636e3a54a658923d930da6974ca9152278bacad6943c0ec66120"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3647,
+          "bytes_after": 89931,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35050,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 狡之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "496c53bbf19eb82f92262003409e925ba26ddf9c40d50d79a225244d9e190d28",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35050/35050.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35050/Shaco.wad.client",
+          "size": 89933,
+          "sha256": "f084c46a715343b2008b0242086432493ab03b64f0233e81140b273a7dec82cf"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3649,
+          "bytes_after": 89933,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35051,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 魅之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4adbc223f4c662e2451af8cfcf80df98a9dc1d785493e6a7e67c313ee135dd4f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35051/35051.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35051/Shaco.wad.client",
+          "size": 89933,
+          "sha256": "5a6075dfb778455bd9a367bba973d06f4b385e4c1ed0d1fe104bd42315d362d3"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3649,
+          "bytes_after": 89933,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35052,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 幽之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d4da692e02e7b75b3948cfb1653da1c0325f43f933e8b66ccb1c3f32293afeca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35052/35052.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35052/Shaco.wad.client",
+          "size": 89930,
+          "sha256": "19637eed710d0be5cfb42f4185e9a1fe4a04a632747dba2127324d4e5b36dc34"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3646,
+          "bytes_after": 89930,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 35053,
+      "base_skin_id": 35043,
+      "champion_id": 35,
+      "name": "斗魂觉醒 萨科 无限斗志",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2ae7d021c84162c4c3b1b5de85d922fe5c316a88728ad6b9f123c82cda392836",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "35/35043/35053/35053.fantome",
+      "files": [
+        {
+          "path": "skins/35/35043/35053/Shaco.wad.client",
+          "size": 89986,
+          "sha256": "5a4991443e578fb2bc0a7647e08c7b08670bc2f6acc66b27d61618f82392de38"
+        }
+      ],
+      "wads": {
+        "Shaco.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3702,
+          "bytes_after": 89986,
+          "replacement_hashes": [
+            "7620fc93e1d2e8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          },
+          {
+            "archive": "Shaco.wad.client",
+            "normal_hash": "7620fc93e1d2e8bc",
+            "border_hash": "bde1351abb5844f3",
+            "bytes": 86252,
+            "sha256": "7cf1d3d82edc4279df65fd6fbaa92350dbb4ab3d038a77b11ccd4a164dc5837f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

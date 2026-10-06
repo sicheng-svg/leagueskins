@@ -1,0 +1,65 @@
+{
+  "champion_id": 360,
+  "base_skin_id": 360030,
+  "name": "斗魂觉醒 莎弥拉",
+  "variants": [
+    {
+      "skin_id": 360030,
+      "base_skin_id": 360030,
+      "champion_id": 360,
+      "name": "斗魂觉醒 莎弥拉",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8c27909cb3c0e59208a5f69036a79809995114b4b6b46f89f643593df98f9c03",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "360/360030/360030.fantome",
+      "files": [
+        {
+          "path": "skins/360/360030/360030/Samira.wad.client",
+          "size": 91214,
+          "sha256": "81efffcc5ba95b0050e81c123327bf7368c6cb4ae7bd1856dae791efeb9c5060"
+        }
+      ],
+      "wads": {
+        "Samira.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4930,
+          "bytes_after": 91214,
+          "replacement_hashes": [
+            "b12d49feacc445f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Samira.wad.client",
+            "normal_hash": "b12d49feacc445f6",
+            "border_hash": "aeeff1b284139d20",
+            "bytes": 86252,
+            "sha256": "e918950fc1c4a373cab6443bc25fde85a52ce26c75e39410432a8918b456d8a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

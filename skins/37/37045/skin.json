@@ -1,0 +1,529 @@
+{
+  "champion_id": 37,
+  "base_skin_id": 37045,
+  "name": "玉剑传说 琴仙子",
+  "variants": [
+    {
+      "skin_id": 37045,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a5e669926a4ea3d433fd0746605beef01152b7b6a3096702bc7af79b262c32ca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37045.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37045/Sona.wad.client",
+          "size": 93576,
+          "sha256": "1f2bd179a8c67b4caa522a0c325b09d42b22100455e6f668326d31cf23ce55ea"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7292,
+          "bytes_after": 93576,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37047,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 胭脂",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d1aaae8372b3cbdba566d303f153c0231f9f8259cab54409d4af805825b9a209",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37047/37047.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37047/Sona.wad.client",
+          "size": 89184,
+          "sha256": "a7c6c5c40d638074024ed3a09697c3de2cf920519c691c6d3dc9467ce6fe74f3"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2900,
+          "bytes_after": 89184,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37048,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 丁香",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c45b4a0ffe97bef123ab1585408d766ad4fa564d8babd45cb3ff6ea8138beedc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37048/37048.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37048/Sona.wad.client",
+          "size": 89152,
+          "sha256": "60d155c52c54f19a7420389f609df2beb7306788e3aa6e023a424205c01dc3ec"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2868,
+          "bytes_after": 89152,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37049,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 黄栌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1849631f911ac4e76bedfb6ddd56d836db6c96bf2fd60ad3a5bbba5e9dc43f26",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37049/37049.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37049/Sona.wad.client",
+          "size": 89126,
+          "sha256": "c4adda9596ffac607cd235cf756853f1630edda53549a2db48ca374454645844"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2842,
+          "bytes_after": 89126,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37050,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 珐琅",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "002d2a50bea7d481a3fc84df4099e5cdbd6e6494c5726b9d00cf49b8a7676f4c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37050/37050.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37050/Sona.wad.client",
+          "size": 89131,
+          "sha256": "94095081ccd6563f69a0a773d23d6dcbbb1c993b1723efc08ff20844954878d3"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2847,
+          "bytes_after": 89131,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37051,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 翡翠",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "05dc667cd41e066a0ccf26c32b937e6de854ed645586132baad098572ae755ad",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37051/37051.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37051/Sona.wad.client",
+          "size": 89131,
+          "sha256": "a26664b6fabcf0e7146ccdb715277971de1d31c739c5d3259a28a59166afb2c1"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2847,
+          "bytes_after": 89131,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37052,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 珠光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "79380a91055183956092721f7ff0b2b5333cda828c9d7859a6ed4747e8487adf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37052/37052.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37052/Sona.wad.client",
+          "size": 89132,
+          "sha256": "0ec97b05fe4b02427e2c204a4f369b18b1fe445cefe972dc3b6a651ccd034643"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2848,
+          "bytes_after": 89132,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37053,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 青竹",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "58385996b24e1a1c1e2b472efd1797306b3f35d42782cf8aa87cb1aecb5b621e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37053/37053.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37053/Sona.wad.client",
+          "size": 89134,
+          "sha256": "4a55f34d94e69c6db094af77ac1208baff17fcbe79c21cb7e8917b7a3399d1f8"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2850,
+          "bytes_after": 89134,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37054,
+      "base_skin_id": 37045,
+      "champion_id": 37,
+      "name": "玉剑传说 琴仙子 墨云",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9e0fe9d42cf8cdc754136cfd49fa6827f10a5f39a83ad5fdb6b813c09fee269a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37045/37054/37054.fantome",
+      "files": [
+        {
+          "path": "skins/37/37045/37054/Sona.wad.client",
+          "size": 89132,
+          "sha256": "2d47a99755d3baaded24ddd305314573a8a277178fbfed072d83b1d1f0d6522e"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2848,
+          "bytes_after": 89132,
+          "replacement_hashes": [
+            "b53b9cf9af223653"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "b53b9cf9af223653",
+            "border_hash": "c434130d1358244f",
+            "bytes": 86252,
+            "sha256": "dfbd29f1b12c9d6f11f0513af4cb39296edb80cbcdd9388e89d1432e03bae7a9"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

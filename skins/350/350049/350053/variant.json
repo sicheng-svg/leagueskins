@@ -1,0 +1,58 @@
+{
+  "skin_id": 350053,
+  "base_skin_id": 350049,
+  "champion_id": 350,
+  "name": "人工智能 悠米 梦幻强袭",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "100ef3e5ad5b74f7cbd4d9aefc71bba31eab617482d56c4d3679ca0620c95b4f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "350/350049/350053/350053.fantome",
+  "files": [
+    {
+      "path": "skins/350/350049/350053/Yuumi.wad.client",
+      "size": 89739,
+      "sha256": "615e3584209497af74891e14375f601d05692237d9a4d31982003bea9f96223c"
+    }
+  ],
+  "wads": {
+    "Yuumi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3455,
+      "bytes_after": 89739,
+      "replacement_hashes": [
+        "82db7318adcf8019"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yuumi.wad.client",
+        "normal_hash": "82db7318adcf8019",
+        "border_hash": "3905cf998b35da4d",
+        "bytes": 86252,
+        "sha256": "5417e6a5ca3a513b9b9f78124dc78c6577eceee358eea4fc9912be0e3fafbaf4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

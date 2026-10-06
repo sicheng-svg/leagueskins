@@ -1,0 +1,58 @@
+{
+  "skin_id": 350035,
+  "base_skin_id": 350028,
+  "champion_id": 350,
+  "name": "魅惑女巫 悠米 高冷化身",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f0099ecb902094ef2f6ae458d0e069ee723ad74a5e2b0ec0e7bdd8fb7ed91a96",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "350/350028/350035/350035.fantome",
+  "files": [
+    {
+      "path": "skins/350/350028/350035/Yuumi.wad.client",
+      "size": 89521,
+      "sha256": "0e88ae3656de7a2777dca59c6b098dd61c5d5a6bea62b286c3d4c15cd95f8533"
+    }
+  ],
+  "wads": {
+    "Yuumi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3237,
+      "bytes_after": 89521,
+      "replacement_hashes": [
+        "c34ee9a1a089c424"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yuumi.wad.client",
+        "normal_hash": "c34ee9a1a089c424",
+        "border_hash": "4d7305ebfb566b95",
+        "bytes": 86252,
+        "sha256": "5abec9be2166e771dbca70a19e88bc916385d63f570d243a313dc9ffe9db26f5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

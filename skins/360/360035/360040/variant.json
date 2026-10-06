@@ -1,0 +1,48 @@
+{
+  "skin_id": 360040,
+  "base_skin_id": 360035,
+  "champion_id": 360,
+  "name": "战斗教授 莎弥拉 天马",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "df055aa3d8018a0929e1fc0682471b02ab712d1dd53cd8bc9806f11f94529ca5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "360/360035/360040/360040.fantome",
+  "files": [
+    {
+      "path": "skins/360/360035/360040/Samira.wad.client",
+      "size": 3330,
+      "sha256": "17543c56d0046f2c020c907541307e9b22e4e19db2f06c8b57075c66193b13b1"
+    }
+  ],
+  "wads": {
+    "Samira.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3330,
+      "bytes_after": 3330,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

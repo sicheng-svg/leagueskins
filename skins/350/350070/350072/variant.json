@@ -1,0 +1,58 @@
+{
+  "skin_id": 350072,
+  "base_skin_id": 350070,
+  "champion_id": 350,
+  "name": "龙马烈焰 悠米 日进斗金",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2e67dfef03db8146935b87243eff8b7c4dc9d6e0716f698d3a1a1cfd8d6598c4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "350/350070/350072/350072.fantome",
+  "files": [
+    {
+      "path": "skins/350/350070/350072/Yuumi.wad.client",
+      "size": 89541,
+      "sha256": "a4e282156866910bb2b544bb9e552474f2de325ab2439fac80f0c4e2cd55008b"
+    }
+  ],
+  "wads": {
+    "Yuumi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3257,
+      "bytes_after": 89541,
+      "replacement_hashes": [
+        "7c652d4911300c2c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yuumi.wad.client",
+        "normal_hash": "7c652d4911300c2c",
+        "border_hash": "a9750e2f5328a83a",
+        "bytes": 86252,
+        "sha256": "33e10a437b83a11356e40d599b4f2d1cd6ea5e86ecf020425d47f1515aabea51"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

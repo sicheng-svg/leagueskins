@@ -1,0 +1,58 @@
+{
+  "skin_id": 37018,
+  "base_skin_id": 37017,
+  "champion_id": 37,
+  "name": "灵能特工 娑娜 代号：龙焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d95962c13a9a03b74bd25d4afe197b8c37681a8e693a58959ada410be1b29956",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "37/37017/37018/37018.fantome",
+  "files": [
+    {
+      "path": "skins/37/37017/37018/Sona.wad.client",
+      "size": 98667,
+      "sha256": "d57777c4e5b4142d427fedba8f4dfc5e003ac7bbea21efa1c1e92b33aee1a042"
+    }
+  ],
+  "wads": {
+    "Sona.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 12383,
+      "bytes_after": 98667,
+      "replacement_hashes": [
+        "cc24bd14d7ed6100"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sona.wad.client",
+        "normal_hash": "cc24bd14d7ed6100",
+        "border_hash": "eb0f0df5da1ed631",
+        "bytes": 86252,
+        "sha256": "158474d15fd53527c3942f00ac262b05d95d39673be76feec3133b7539e33ba7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 21,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

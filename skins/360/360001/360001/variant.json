@@ -1,0 +1,58 @@
+{
+  "skin_id": 360001,
+  "base_skin_id": 360001,
+  "champion_id": 360,
+  "name": "灵能特工 莎弥拉",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bdd8ec85139321ddf33d4a18737b1c2967674216f2150daf0fc8ab3b2d051e24",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "360/360001/360001.fantome",
+  "files": [
+    {
+      "path": "skins/360/360001/360001/Samira.wad.client",
+      "size": 94621,
+      "sha256": "ebd639279886622483a9b0ae576575befe442f46a935cbde40daeccabb4e3960"
+    }
+  ],
+  "wads": {
+    "Samira.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8337,
+      "bytes_after": 94621,
+      "replacement_hashes": [
+        "40061abd9414585b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Samira.wad.client",
+        "normal_hash": "40061abd9414585b",
+        "border_hash": "74b594b22507b5a7",
+        "bytes": 86252,
+        "sha256": "1da16584e636ba2a34915dd8dbe63ef3409c876e149f992463dbbb8d5dd14935"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

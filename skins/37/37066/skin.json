@@ -1,0 +1,529 @@
+{
+  "champion_id": 37,
+  "base_skin_id": 37066,
+  "name": "莲华温泉 娑娜",
+  "variants": [
+    {
+      "skin_id": 37066,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1f5a5f372e8eaf95b509318862b05aafb8d16ee9eb6c089373efdbdef5540abf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37066.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37066/Sona.wad.client",
+          "size": 93658,
+          "sha256": "48e42fd166de4bd53d337d5f70b34d5d34ca4aa8be68f3fb84c11f792034c3d0"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7374,
+          "bytes_after": 93658,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37067,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 流火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "364c00e35a94f00ccd810934c0be64debacad4bc900bb92931ac22c6d8541738",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37067/37067.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37067/Sona.wad.client",
+          "size": 89318,
+          "sha256": "6113afae0ccf10ac7e33c3f42deb103b953f7af63af280c1469de0202cf4644b"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3034,
+          "bytes_after": 89318,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37068,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 雁来",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "067f2633ed15f4a121b4a5cdbe205e854bf6bd1bf5467e071ca444dbe82a5ce7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37068/37068.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37068/Sona.wad.client",
+          "size": 89260,
+          "sha256": "3a74ce8d58867477d6ede4e94fa02aa1c5a0e13f4cd8667a25fd9f5d532b1e12"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2976,
+          "bytes_after": 89260,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37069,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 云开",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "adf956a80a2855bda521db0409160f01679bb1107363c0ceef5578500c253254",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37069/37069.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37069/Sona.wad.client",
+          "size": 89259,
+          "sha256": "0ed1413d9f6b8847c838b815f1a50afa7e17a864377c56fa7f120882aaae1288"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2975,
+          "bytes_after": 89259,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37070,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 风起",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "85ce73913111081614106c385fe60efd8abe65c638aa5f226741cd4d24926972",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37070/37070.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37070/Sona.wad.client",
+          "size": 89263,
+          "sha256": "b8a6180288ff939485d79f6c133a165edbb66cbeaaf46f1138a6c739a2b0ded2"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2979,
+          "bytes_after": 89263,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37071,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 星回",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3ff2d9be22a8f8fff712b89d19558b878b0ab8453eaabaf4c7350acb124ac6bd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37071/37071.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37071/Sona.wad.client",
+          "size": 89266,
+          "sha256": "6771ec5afe92e512173abbd06f581a4e9ddb3db055a8b6c71589f4d842e5ca42"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2982,
+          "bytes_after": 89266,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37072,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 朝花",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f531088c2393301ee5580daa356820a27b9224279046c99d1194c04ea0ac3f79",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37072/37072.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37072/Sona.wad.client",
+          "size": 89288,
+          "sha256": "1af44be00ecb49de6a17de13649a030bf5d607584b0a8bbf5d2d6da1efee3c73"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3004,
+          "bytes_after": 89288,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37073,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 月升",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ccd2c134be554bc4439608b7e9764f10a07ad2d51e4937b40f38dfe0a9b36c57",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37073/37073.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37073/Sona.wad.client",
+          "size": 89261,
+          "sha256": "aaefd5975aa821ec81741d9278908bb2759dbbd71dac533b4d56af7c9179a7c6"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2977,
+          "bytes_after": 89261,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 37074,
+      "base_skin_id": 37066,
+      "champion_id": 37,
+      "name": "莲华温泉 娑娜 春晓",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cf832a63b0df5c3bab086a01d8fffecef4e02c3973565b5c12268da78f04d2ab",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "37/37066/37074/37074.fantome",
+      "files": [
+        {
+          "path": "skins/37/37066/37074/Sona.wad.client",
+          "size": 89287,
+          "sha256": "b9b4b82348de1d95e564c1bae9cd06aa91264739328e511ca094080f44386047"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3003,
+          "bytes_after": 89287,
+          "replacement_hashes": [
+            "4ae462a2a71c1bad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sona.wad.client",
+            "normal_hash": "4ae462a2a71c1bad",
+            "border_hash": "3e06414b26dd253b",
+            "bytes": 86252,
+            "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

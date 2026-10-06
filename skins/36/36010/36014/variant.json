@@ -1,0 +1,58 @@
+{
+  "skin_id": 36014,
+  "base_skin_id": 36010,
+  "champion_id": 36,
+  "name": "寂寞王子 蒙多",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2e8631da4967b7612a52690ef2962aaa3071615f54c81915622acd1cc75681da",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "36/36010/36014/36014.fantome",
+  "files": [
+    {
+      "path": "skins/36/36010/36014/DrMundo.wad.client",
+      "size": 89318,
+      "sha256": "9d1e783d26674dc9c6bbf07205ac13880e1d841ee06f0a94ba48cc45b179785d"
+    }
+  ],
+  "wads": {
+    "DrMundo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3034,
+      "bytes_after": 89318,
+      "replacement_hashes": [
+        "5c4286bdf05f0570"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "DrMundo.wad.client",
+        "normal_hash": "5c4286bdf05f0570",
+        "border_hash": "869c6dbeb384035f",
+        "bytes": 86252,
+        "sha256": "f26a00d0baf30becfba169fee7cc93586ecc93ecdf43e8f724e6a1f4662e1542"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

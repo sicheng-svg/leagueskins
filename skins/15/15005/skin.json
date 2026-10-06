@@ -1,0 +1,55 @@
+{
+  "champion_id": 15,
+  "base_skin_id": 15005,
+  "name": "创战纪 希维尔",
+  "variants": [
+    {
+      "skin_id": 15005,
+      "base_skin_id": 15005,
+      "champion_id": 15,
+      "name": "创战纪 希维尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7669a824b057bf316fa3d64226f62a30f6cd8a8f846184d7a67a34af35cf02f7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15005/15005.fantome",
+      "files": [
+        {
+          "path": "skins/15/15005/15005/Sivir.wad.client",
+          "size": 2378,
+          "sha256": "5140414ad85be3029cfbd37793f2053465de91bc7312505b421b64fbade2d57d"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2378,
+          "bytes_after": 2378,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

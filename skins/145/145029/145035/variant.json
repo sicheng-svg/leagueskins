@@ -1,0 +1,58 @@
+{
+  "skin_id": 145035,
+  "base_skin_id": 145029,
+  "champion_id": 145,
+  "name": "神龙尊者 玉境灵龙 卡莎 朝云",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6c4ee7dbdf4ab1eea9ff5c0c9bbf499d303d7a111bf3076154ba330aefe2a83b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "145/145029/145035/145035.fantome",
+  "files": [
+    {
+      "path": "skins/145/145029/145035/Kaisa.wad.client",
+      "size": 89739,
+      "sha256": "d3276c1b8183a649708a5763b719fe0c2347f3034b74194d240afd893fd4a79c"
+    }
+  ],
+  "wads": {
+    "Kaisa.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3455,
+      "bytes_after": 89739,
+      "replacement_hashes": [
+        "afb3772e66417f7b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kaisa.wad.client",
+        "normal_hash": "afb3772e66417f7b",
+        "border_hash": "65726524f88f8693",
+        "bytes": 86252,
+        "sha256": "49eb818e910f30b5a6fdf4592a169c49fd6ab420666082214bef43ed638ed994"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

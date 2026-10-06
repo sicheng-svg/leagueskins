@@ -1,0 +1,58 @@
+{
+  "skin_id": 15029,
+  "base_skin_id": 15025,
+  "champion_id": 15,
+  "name": "奥德赛 希维尔 虫洞穿行者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "41675b7d8086f44efdd2790885216c688f28851cda59da9a4ba1daf73539050c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15025/15029/15029.fantome",
+  "files": [
+    {
+      "path": "skins/15/15025/15029/Sivir.wad.client",
+      "size": 88297,
+      "sha256": "e0358c71850fba3538ae4ac81c7d6d2d7eadad0ffea4e79a164c4c750b6568f4"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2013,
+      "bytes_after": 88297,
+      "replacement_hashes": [
+        "ba63249d0d7734f6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sivir.wad.client",
+        "normal_hash": "ba63249d0d7734f6",
+        "border_hash": "139607f11d57ff18",
+        "bytes": 86252,
+        "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

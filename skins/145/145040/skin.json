@@ -1,0 +1,413 @@
+{
+  "champion_id": 145,
+  "base_skin_id": 145040,
+  "name": "星之守护者 卡莎",
+  "variants": [
+    {
+      "skin_id": 145040,
+      "base_skin_id": 145040,
+      "champion_id": 145,
+      "name": "星之守护者 卡莎",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b631889331a7963b422306013d8ec6486add7f5b6929f8c8122c74a50ed57497",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145040/145040.fantome",
+      "files": [
+        {
+          "path": "skins/145/145040/145040/Kaisa.wad.client",
+          "size": 90938,
+          "sha256": "81f54263aacbfef76711923e5de1be5917f076e6582de5b2ede80e8c5c29dfe3"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4654,
+          "bytes_after": 90938,
+          "replacement_hashes": [
+            "12b911051549ffee"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "12b911051549ffee",
+            "border_hash": "09208509f9992e41",
+            "bytes": 86252,
+            "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 17,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145041,
+      "base_skin_id": 145040,
+      "champion_id": 145,
+      "name": "星之守护者 卡莎 热情之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "46ecb12534a9d745cdba37994cce78c2c954a3bc0e40c6677a67c88af4af26e6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145040/145041/145041.fantome",
+      "files": [
+        {
+          "path": "skins/145/145040/145041/Kaisa.wad.client",
+          "size": 91044,
+          "sha256": "61d6047177012f9000e272623f02ccf1dcc1cefe36d130b513095550a1e96832"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4760,
+          "bytes_after": 91044,
+          "replacement_hashes": [
+            "12b911051549ffee"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "12b911051549ffee",
+            "border_hash": "09208509f9992e41",
+            "bytes": 86252,
+            "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 17,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145042,
+      "base_skin_id": 145040,
+      "champion_id": 145,
+      "name": "星之守护者 卡莎 爱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "384414cf6be63f7d3dfe704c4070322691f48db8ff02b1e54fd3cb09e10cd20c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145040/145042/145042.fantome",
+      "files": [
+        {
+          "path": "skins/145/145040/145042/Kaisa.wad.client",
+          "size": 90946,
+          "sha256": "8301ec8653b1c4875d66e2acd8fa13e57aef14d1ad70c1fac5a0bbcb2cfaaeda"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4662,
+          "bytes_after": 90946,
+          "replacement_hashes": [
+            "12b911051549ffee"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "12b911051549ffee",
+            "border_hash": "09208509f9992e41",
+            "bytes": 86252,
+            "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 17,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145043,
+      "base_skin_id": 145040,
+      "champion_id": 145,
+      "name": "星之守护者 卡莎 飞翔之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "386e33d468232d1eab7c3e234605ac2430e8d1984a74cffb5f505157e42a7438",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145040/145043/145043.fantome",
+      "files": [
+        {
+          "path": "skins/145/145040/145043/Kaisa.wad.client",
+          "size": 90949,
+          "sha256": "676edd740ca983d93af8f036e756c17c22e54445260bb6090b71b1d9c5b4a50e"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4665,
+          "bytes_after": 90949,
+          "replacement_hashes": [
+            "12b911051549ffee"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "12b911051549ffee",
+            "border_hash": "09208509f9992e41",
+            "bytes": 86252,
+            "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 17,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145044,
+      "base_skin_id": 145040,
+      "champion_id": 145,
+      "name": "星之守护者 卡莎 勇气之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bdf210fd437d4b0185d263b85dba663ec6b0a026a1c9ad5dd5c4ae518e045884",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145040/145044/145044.fantome",
+      "files": [
+        {
+          "path": "skins/145/145040/145044/Kaisa.wad.client",
+          "size": 90951,
+          "sha256": "802e7e980277dcbec20149e96ef21b389c6e6504c7f75c78bd9c7f7f471a0dbb"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4667,
+          "bytes_after": 90951,
+          "replacement_hashes": [
+            "12b911051549ffee"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "12b911051549ffee",
+            "border_hash": "09208509f9992e41",
+            "bytes": 86252,
+            "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 17,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145045,
+      "base_skin_id": 145040,
+      "champion_id": 145,
+      "name": "星之守护者 卡莎 重生之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b2e77822bcb006f1641ce7d551b3e4eb27f909d508f3757972a59c0992e88820",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145040/145045/145045.fantome",
+      "files": [
+        {
+          "path": "skins/145/145040/145045/Kaisa.wad.client",
+          "size": 90949,
+          "sha256": "fef02306557ada711dc1fdf41beca2c5434d777c38430f5e4d6792130e7bf076"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4665,
+          "bytes_after": 90949,
+          "replacement_hashes": [
+            "12b911051549ffee"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "12b911051549ffee",
+            "border_hash": "09208509f9992e41",
+            "bytes": 86252,
+            "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 17,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145046,
+      "base_skin_id": 145040,
+      "champion_id": 145,
+      "name": "星之守护者 卡莎 希望之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a5c03fdb6af54ec96fac2259a9933b672046bd1a98dfa338c3754c5b4f5811e5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145040/145046/145046.fantome",
+      "files": [
+        {
+          "path": "skins/145/145040/145046/Kaisa.wad.client",
+          "size": 91042,
+          "sha256": "2278532bb20457ded4a94dd4c809cdc3466de6b3ed944b205696ebef36f47766"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4758,
+          "bytes_after": 91042,
+          "replacement_hashes": [
+            "12b911051549ffee"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "12b911051549ffee",
+            "border_hash": "09208509f9992e41",
+            "bytes": 86252,
+            "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 17,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

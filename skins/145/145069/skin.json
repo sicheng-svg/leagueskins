@@ -1,0 +1,587 @@
+{
+  "champion_id": 145,
+  "base_skin_id": 145069,
+  "name": "暗星 卡莎",
+  "variants": [
+    {
+      "skin_id": 145069,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7d95937cac9002553c41a72876eb3c6dd96e6316f54e792ba1b0b6a6534464a1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145069.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145069/Kaisa.wad.client",
+          "size": 101072,
+          "sha256": "5843bc56996c4bd91e87b6da1e9224833a813e54f89cdc83b7ba7400bc40e26b"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 14788,
+          "bytes_after": 101072,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145072,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 战神星之爆",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "038e0f7bcd3bf189a35dd0be1e73b88f0e8798cc1c0fa6af9d6f7636e2142bbf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145072/145072.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145072/Kaisa.wad.client",
+          "size": 90102,
+          "sha256": "0fca8acaaf024f0fab85a553aa0929a365e6975aedb7786c831b3c78ec4f2c20"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3818,
+          "bytes_after": 90102,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145073,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 智神星之嫉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "78315846919828f3d266dd5a8ce7ad34d100b3bc6d68313f59e6162d37fec1a9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145073/145073.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145073/Kaisa.wad.client",
+          "size": 90048,
+          "sha256": "1df2278eb0ac9381ddf97d014e566f1e98c19939f679a285844f22f9a3ced4d7"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3764,
+          "bytes_after": 90048,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145074,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 爱神星之怨",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "31d0c4365debdb09e23694bca4344c2207f00f33f957271af4a77f2bd4077e60",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145074/145074.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145074/Kaisa.wad.client",
+          "size": 90049,
+          "sha256": "73f27aa1fb1008832cc10423b158d9dd78115f0e0ed3320c9473886231ef2aac"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3765,
+          "bytes_after": 90049,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145075,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 主神星之黯",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "42edc44a61516344529dc762bc8037ff51f389dcf532153318093bdafbf8f461",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145075/145075.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145075/Kaisa.wad.client",
+          "size": 90049,
+          "sha256": "99e7a0de55e4ce0575d0ec72690c966219dfa08149520b7ee50d321f0575e29e"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3765,
+          "bytes_after": 90049,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145076,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 美神星之灭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "186de1cd138e4687633727ae0b1e4d01524a475ead92b7664e86742cc8d25d9d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145076/145076.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145076/Kaisa.wad.client",
+          "size": 90072,
+          "sha256": "b93a45876de86139bf96a337bcc41bc2df140023631d86e2942b47030d1812ab"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3788,
+          "bytes_after": 90072,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145077,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 猎神星之败",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ad4821f71c67486fb7231a60fff5c0edc90c587e0c9d2b5b84f99a81d6c3aa88",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145077/145077.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145077/Kaisa.wad.client",
+          "size": 90049,
+          "sha256": "390d8e9339f91e964e254b14ce1eb372d924c0eade792e1f8f5d3cceb3aceb6f"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3765,
+          "bytes_after": 90049,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145078,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 梦神星之魇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1f1d520f6f91b01fa7ca97467dde7db24353b36e1345e4bde3d37f9a68ab54cd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145078/145078.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145078/Kaisa.wad.client",
+          "size": 90049,
+          "sha256": "5202e95ba99256c378872297a0a5cbd7de175d27844de1ea20fe07a7edc442b9"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3765,
+          "bytes_after": 90049,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145079,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 天神星之陨",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b6f219873a24d49cc946e40187cd290a88f365e09b90bf980847548dba08ad00",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145079/145079.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145079/Kaisa.wad.client",
+          "size": 90049,
+          "sha256": "471f8dcb845f2dc8149776aa61db9410a2e2026525b2cdae7f275a0b7aa23a88"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3765,
+          "bytes_after": 90049,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145080,
+      "base_skin_id": 145069,
+      "champion_id": 145,
+      "name": "暗星 卡莎 类星体",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "60dfd148f92a7e3fa75c93cbeb3186e9e6b64ce787be346b3966b6f0838a846c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145069/145080/145080.fantome",
+      "files": [
+        {
+          "path": "skins/145/145069/145080/Kaisa.wad.client",
+          "size": 90101,
+          "sha256": "f9cf9e60d2e7f86c716d87460344353d7f1745433a974e58181fbd40040471d1"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3817,
+          "bytes_after": 90101,
+          "replacement_hashes": [
+            "05d60f9645e40b46"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "05d60f9645e40b46",
+            "border_hash": "3be65d63b6eef2cb",
+            "bytes": 86252,
+            "sha256": "9986478fac4ca1ea83d558134f88b4e35f08e0e0894718f14fefc9eacf7b9748"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

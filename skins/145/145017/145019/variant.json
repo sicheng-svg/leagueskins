@@ -1,0 +1,58 @@
+{
+  "skin_id": 145019,
+  "base_skin_id": 145017,
+  "champion_id": 145,
+  "name": "电玩女神 卡莎 强袭丽影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a282363fc542c4eb3e10875bbe4ebec431256edb7b87f89e1573db6f0bfb0635",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "145/145017/145019/145019.fantome",
+  "files": [
+    {
+      "path": "skins/145/145017/145019/Kaisa.wad.client",
+      "size": 89734,
+      "sha256": "f66406199a717ffc1b75d9fbebec3e04eeade72098009c4ca71ae8c84f6b8d05"
+    }
+  ],
+  "wads": {
+    "Kaisa.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3450,
+      "bytes_after": 89734,
+      "replacement_hashes": [
+        "da224f1daa8468f1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kaisa.wad.client",
+        "normal_hash": "da224f1daa8468f1",
+        "border_hash": "6a0c1febd8cdce2a",
+        "bytes": 86252,
+        "sha256": "3b18b65aec95ed3d67da18934dcee28f81650acd4bc66650054cbecdbcae2403"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

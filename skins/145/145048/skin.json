@@ -1,0 +1,587 @@
+{
+  "champion_id": 145,
+  "base_skin_id": 145048,
+  "name": "墨之影武者 卡莎",
+  "variants": [
+    {
+      "skin_id": 145048,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "480a9c9ef87405e861f676fff4aea4ef9572f873454aaf600eb421c845c76399",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145048.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145048/Kaisa.wad.client",
+          "size": 98135,
+          "sha256": "19efbfb8d259d501c302fe5ee94c130dc6b40050e59a84cab05b53b3178228aa"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11851,
+          "bytes_after": 98135,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145049,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 炽墨挥影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f6427cc260e75e7e546d26a9db052a31cb3000a6066b9249657347efaa4d3d5d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145049/145049.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145049/Kaisa.wad.client",
+          "size": 89836,
+          "sha256": "8e8afaf618da30360930de27a99321a4ab3f09f4ecb288e49c8be529d320e943"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3552,
+          "bytes_after": 89836,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145050,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 金墨耀影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "37be23e4b03f2b0956c8b08c704907bb50d8b72ec6cf55cb48ca98d5ac8e2639",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145050/145050.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145050/Kaisa.wad.client",
+          "size": 89787,
+          "sha256": "97bb88aa6c55ec84140a8662a313ade1224381da86aa523f17c28e0280317ff0"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3503,
+          "bytes_after": 89787,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145051,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 岩墨裂影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a5d53b92a2bb9860d91ef0b9962bbc43af73654ae000477d3a1efdfd5188e1ab",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145051/145051.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145051/Kaisa.wad.client",
+          "size": 89785,
+          "sha256": "4c0604712ae6dd7c8635041ba7a1d930361ae6df0ac8a463a81628e225ae099d"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3501,
+          "bytes_after": 89785,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145052,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 森墨拂影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "64a9988c3aee3ccdde4f8b7073a01a4f0e86e5992d85f28741c394b1a74d73c6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145052/145052.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145052/Kaisa.wad.client",
+          "size": 89786,
+          "sha256": "ce4037c43fd7ee390276e595a42341c9c0344d31b4794ac74fbef96a08a0cec4"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3502,
+          "bytes_after": 89786,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145053,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 云墨漾影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "16be2e67b2eeb26151ed087ea21105b23fc122b2deadf378aa238b2b67401856",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145053/145053.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145053/Kaisa.wad.client",
+          "size": 89786,
+          "sha256": "4e6ebb6de75ec4983d88cdc18734c3f0372b95aede0142deee74df9af2758057"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3502,
+          "bytes_after": 89786,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145054,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 玄墨蕴影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f9a6689f0cc566e048ccc2c63bdb97af3e1e3621520895a6f3b3105b70a37d52",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145054/145054.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145054/Kaisa.wad.client",
+          "size": 89784,
+          "sha256": "cfde13e5bd52f153a852fd70f6b0aa769d4ed25822f8c64ef86421a9cd3c0435"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3500,
+          "bytes_after": 89784,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145055,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 紫墨掠影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "805fe88e1f035ef67cb872b727c714f4bf0aac4ddd8151592f2169c78a5ef8f7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145055/145055.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145055/Kaisa.wad.client",
+          "size": 89784,
+          "sha256": "5e8fb1df0608e5e71785500fd9564df0d310881cd3c9400dec137bd496df69bf"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3500,
+          "bytes_after": 89784,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145056,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 樱墨映影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "765e0f8cab8ca112e1092d5609a2aa0fd68b684d11ab6c8d40bb896d426019f4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145056/145056.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145056/Kaisa.wad.client",
+          "size": 89807,
+          "sha256": "8caf38258eb693b19fff7bde18451827a5722738e4450d6650214d5848621c58"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3523,
+          "bytes_after": 89807,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 145057,
+      "base_skin_id": 145048,
+      "champion_id": 145,
+      "name": "墨之影武者 卡莎 灵墨刻影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4f1fe41adfa622aee20a1f2fedd47eeba0a54239521ee26ed438af0cfb5bdc34",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145048/145057/145057.fantome",
+      "files": [
+        {
+          "path": "skins/145/145048/145057/Kaisa.wad.client",
+          "size": 89840,
+          "sha256": "b0db0425fbe98c69838b06feee9f8e0e08fc8136571b33c8cfd6ec9e3d9793d7"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3556,
+          "bytes_after": 89840,
+          "replacement_hashes": [
+            "07e49b62e89c81dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "07e49b62e89c81dd",
+            "border_hash": "9d677cc9a1d7618d",
+            "bytes": 86252,
+            "sha256": "e789707094d04e2c0784fe30fa8a9d03493ac0810508f52ba0346d5ef07ffd7e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

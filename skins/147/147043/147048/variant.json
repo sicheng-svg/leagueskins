@@ -1,0 +1,58 @@
+{
+  "skin_id": 147048,
+  "base_skin_id": 147043,
+  "champion_id": 147,
+  "name": "幻灵白鸽 萨勒芬妮 连绵奔袭",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "91ec03ee9765a0c49444dec6828cd6057a2c2965a03814ed81366cb181c7f85c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "147/147043/147048/147048.fantome",
+  "files": [
+    {
+      "path": "skins/147/147043/147048/Seraphine.wad.client",
+      "size": 90168,
+      "sha256": "fd4e8e40f75c960915f5d1f6bcf2afb9484b728073e26e1b44dfc604a9122d3d"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3884,
+      "bytes_after": 90168,
+      "replacement_hashes": [
+        "58279d6ff1812e6b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Seraphine.wad.client",
+        "normal_hash": "58279d6ff1812e6b",
+        "border_hash": "a2640c56d63fd7b1",
+        "bytes": 86252,
+        "sha256": "5ae28635f19897727796a1e3f2e7b55b06bd7b55c23e196a0da457cb351a0097"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

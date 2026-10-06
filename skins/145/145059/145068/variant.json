@@ -1,0 +1,58 @@
+{
+  "skin_id": 145068,
+  "base_skin_id": 145059,
+  "champion_id": 145,
+  "name": "天龙之子 卡莎 云起龙骧",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2038490d449568148b94f55ae9b407cc0cfe5ece516b06cb54d2269bd067e4cd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "145/145059/145068/145068.fantome",
+  "files": [
+    {
+      "path": "skins/145/145059/145068/Kaisa.wad.client",
+      "size": 89992,
+      "sha256": "7dd40770ede1d726eb041994ef2f9cecdf9da68fc6733ca54610b9f383f9e9d3"
+    }
+  ],
+  "wads": {
+    "Kaisa.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3708,
+      "bytes_after": 89992,
+      "replacement_hashes": [
+        "1f82fc2156c39668"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kaisa.wad.client",
+        "normal_hash": "1f82fc2156c39668",
+        "border_hash": "fb3d497ad250fc32",
+        "bytes": 86252,
+        "sha256": "5a737567245c76b407de525c694c5acf07f42dea2d310b4538030047322bdaf0"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

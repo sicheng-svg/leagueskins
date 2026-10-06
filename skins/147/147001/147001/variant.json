@@ -1,0 +1,63 @@
+{
+  "skin_id": 147001,
+  "base_skin_id": 147001,
+  "champion_id": 147,
+  "name": "K/DA ALL OUT 萨勒芬妮 独立音乐人",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "595dc3641126b53d63a8feba501ab03ecc21e55f69330b0e60635a239b888048",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+  },
+  "source_package": "147/147001/147001.fantome",
+  "files": [
+    {
+      "path": "skins/147/147001/147001/Seraphine.wad.client",
+      "size": 482187,
+      "sha256": "521cd0ac969170bb7c295fcd704f3bf7addba73e171e652f8a43dbcaff503ec5"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6877,
+      "bytes_after": 482187,
+      "replacement_hashes": [
+        "400775bc03028951"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Seraphine.wad.client",
+        "normal_hash": "400775bc03028951",
+        "border_hash": "cccf95a8ba3cc390",
+        "bytes": 86252,
+        "sha256": "d2b248b4a6f5f77ee54e1f4b163f2f506c5d14ca78350985630b89490b41524e",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Seraphine.wad.client": [
+      "b7a7212649620aed"
+    ]
+  },
+  "references": {
+    "paths": 152,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

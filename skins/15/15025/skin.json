@@ -1,0 +1,529 @@
+{
+  "champion_id": 15,
+  "base_skin_id": 15025,
+  "name": "奥德赛 希维尔",
+  "variants": [
+    {
+      "skin_id": 15025,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "406fef1ee0bf077ca81fcb879f647a198a7f6f4a9663db7e3aebfd8e857d2c3d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15025.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15025/Sivir.wad.client",
+          "size": 91390,
+          "sha256": "17f059d98df93c253b36f72471df8fe906d9ca7bb6e272822732652461f1a440"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5106,
+          "bytes_after": 91390,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15026,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 宇宙探索者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ccb88a9713f9e719f189b5bf3a572ef2e7dc9de79cb9fe2a4989958ec4c30acd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15026/15026.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15026/Sivir.wad.client",
+          "size": 88354,
+          "sha256": "54596ffd9a4ffb9edc0fde3e964e5cf0b2d0c7fe11efb4d1c39baa5b076d5874"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2070,
+          "bytes_after": 88354,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15027,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 银河征服者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "44ace3d69a70649da0671255bc62aa13c70acc5510a6571b8c875aeaf23d6797",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15027/15027.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15027/Sivir.wad.client",
+          "size": 88354,
+          "sha256": "1f3f2cabf5842d085b7928482af200df23916e1b1961ccea2552f3e3ded54140"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2070,
+          "bytes_after": 88354,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15028,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 巨行星搬运者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c95d944b65f07525c316a4e9f59397dbde9b01f2589a21ade03e73bf7a50e4e6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15028/15028.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15028/Sivir.wad.client",
+          "size": 88298,
+          "sha256": "3619e7cecfcf05013e78c8c3c77e8522bfcf384bd19c46d1d45766a3655a863f"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2014,
+          "bytes_after": 88298,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15029,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 虫洞穿行者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "41675b7d8086f44efdd2790885216c688f28851cda59da9a4ba1daf73539050c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15029/15029.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15029/Sivir.wad.client",
+          "size": 88297,
+          "sha256": "e0358c71850fba3538ae4ac81c7d6d2d7eadad0ffea4e79a164c4c750b6568f4"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2013,
+          "bytes_after": 88297,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15030,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 小行星带探险者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5dba000ddd73ce3742ab4d9a5514ba8f99dfd3f5e567b5825879270a3bf4a578",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15030/15030.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15030/Sivir.wad.client",
+          "size": 88301,
+          "sha256": "5105c5f7a7e866a007813a7dfc12bfcdcd40ebd4176e0e2655c68bac3018665c"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2017,
+          "bytes_after": 88301,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15031,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 恒星游历者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4b69f8d5fec2ce2d82ae50b30ca4909c3784b1615609b5af4ec9f97937965878",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15031/15031.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15031/Sivir.wad.client",
+          "size": 88321,
+          "sha256": "fdfd449195449309a3fcbc2c26bd4a82c659809d60096fabeedefddd9225c0b3"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2037,
+          "bytes_after": 88321,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15032,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 星辉收割者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7384e02861c32fc9e99d140d9c7128dc0acec3a762a1439d4d42f031de920de9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15032/15032.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15032/Sivir.wad.client",
+          "size": 88299,
+          "sha256": "490893dbf5fee9466fa173147e32e70689bc8e8c899428a1deefedfca4a2a79b"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2015,
+          "bytes_after": 88299,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15033,
+      "base_skin_id": 15025,
+      "champion_id": 15,
+      "name": "奥德赛 希维尔 星盘遨游者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e3e0f57c40df4f5a230fc4ae7ff463fba94016f535410cf44e094d3f6d21c502",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15025/15033/15033.fantome",
+      "files": [
+        {
+          "path": "skins/15/15025/15033/Sivir.wad.client",
+          "size": 88299,
+          "sha256": "4b2f139052cf94b6dbd815268c0aaeab2b1f4de71f4adfabc61371e25f96b6e3"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2015,
+          "bytes_after": 88299,
+          "replacement_hashes": [
+            "ba63249d0d7734f6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "ba63249d0d7734f6",
+            "border_hash": "139607f11d57ff18",
+            "bytes": 86252,
+            "sha256": "020f1a63a864807939b3f6b5710bffce6bfacf3309c1118ab2880fea0733030e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

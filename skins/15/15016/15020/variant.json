@@ -1,0 +1,48 @@
+{
+  "skin_id": 15020,
+  "base_skin_id": 15016,
+  "champion_id": 15,
+  "name": "深寒之月 希维尔",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3a80a0867102c65bd9d978d8633fab795573fbdf7b99d26798cde2a858874cc5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15016/15020/15020.fantome",
+  "files": [
+    {
+      "path": "skins/15/15016/15020/Sivir.wad.client",
+      "size": 1932,
+      "sha256": "253488f61b9fd708a9acc936a3f2eef9ce5965da534014524635f90f41edbe88"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1932,
+      "bytes_after": 1932,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

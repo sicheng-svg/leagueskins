@@ -1,0 +1,48 @@
+{
+  "skin_id": 15019,
+  "base_skin_id": 15016,
+  "champion_id": 15,
+  "name": "幻惑之月 希维尔",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "693df20c5e0e5f244996233e67cc691c92809a05b583923cccf476acae48c180",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15016/15019/15019.fantome",
+  "files": [
+    {
+      "path": "skins/15/15016/15019/Sivir.wad.client",
+      "size": 1927,
+      "sha256": "0dff666bdbcb9aa9a699dc328778836f56f4ec0e579146b42fdc7f15abbf3edd"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1927,
+      "bytes_after": 1927,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

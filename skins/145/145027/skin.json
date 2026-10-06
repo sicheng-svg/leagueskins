@@ -1,0 +1,65 @@
+{
+  "champion_id": 145,
+  "base_skin_id": 145027,
+  "name": "至臻 K/DA ALL OUT 卡莎",
+  "variants": [
+    {
+      "skin_id": 145027,
+      "base_skin_id": 145027,
+      "champion_id": 145,
+      "name": "至臻 K/DA ALL OUT 卡莎",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b5630d12c6e43289069d9e15dd7d92244e64c379d0a2760eb012156ac3e21e40",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "145/145027/145027.fantome",
+      "files": [
+        {
+          "path": "skins/145/145027/145027/Kaisa.wad.client",
+          "size": 100049,
+          "sha256": "1a32061fbbc3528e832cfd894165e4cefed729e4699c2f54d61d7442b4579c3f"
+        }
+      ],
+      "wads": {
+        "Kaisa.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 13765,
+          "bytes_after": 100049,
+          "replacement_hashes": [
+            "afd9e9291a5c7e72"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kaisa.wad.client",
+            "normal_hash": "afd9e9291a5c7e72",
+            "border_hash": "77ba960bd9466800",
+            "bytes": 86252,
+            "sha256": "e3dc6fac4172c4f90dde0b366c138ef17803acf776cffd038a5995ca064f3967"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

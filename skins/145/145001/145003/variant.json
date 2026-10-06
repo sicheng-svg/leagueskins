@@ -1,0 +1,48 @@
+{
+  "skin_id": 145003,
+  "base_skin_id": 145001,
+  "champion_id": 145,
+  "name": "弹幕天使 卡莎 炽天使·热忱",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7c87eba4295b4dc16da13ebe7df255adacbe251b5dbda2bec865d7b3baca81cc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "145/145001/145003/145003.fantome",
+  "files": [
+    {
+      "path": "skins/145/145001/145003/Kaisa.wad.client",
+      "size": 3517,
+      "sha256": "d21d57ec872bd61ab1b20a049c1fb1a60f41046b57b2c55248e1a702dc8c901d"
+    }
+  ],
+  "wads": {
+    "Kaisa.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3517,
+      "bytes_after": 3517,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

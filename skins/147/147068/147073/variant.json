@@ -1,0 +1,58 @@
+{
+  "skin_id": 147073,
+  "base_skin_id": 147068,
+  "champion_id": 147,
+  "name": "T1 萨勒芬妮 燃",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "eec361956dc61da67eb20c15f92427fd4e14c38008010cfcf5893e7aa0287f3b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "147/147068/147073/147073.fantome",
+  "files": [
+    {
+      "path": "skins/147/147068/147073/Seraphine.wad.client",
+      "size": 90103,
+      "sha256": "0af359a819254405988223531b46ec383438f10c5368652e685350f03ef1139c"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3819,
+      "bytes_after": 90103,
+      "replacement_hashes": [
+        "c75d7ca1ab26abc6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Seraphine.wad.client",
+        "normal_hash": "c75d7ca1ab26abc6",
+        "border_hash": "fc6abb7dd166b7a2",
+        "bytes": 86252,
+        "sha256": "4dd9ef02d094a46c66182dc2e63cd20a37dd5f883f2708ae382e7903f0b0efbe"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

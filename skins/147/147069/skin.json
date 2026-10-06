@@ -1,0 +1,413 @@
+{
+  "champion_id": 147,
+  "base_skin_id": 147069,
+  "name": "心之歌 萨勒芬妮",
+  "variants": [
+    {
+      "skin_id": 147069,
+      "base_skin_id": 147069,
+      "champion_id": 147,
+      "name": "心之歌 萨勒芬妮",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5ba212a058600c5e38c7e1ccde820fc7d72af3e5b3d196218e251bba557a7715",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147069/147069.fantome",
+      "files": [
+        {
+          "path": "skins/147/147069/147069/Seraphine.wad.client",
+          "size": 97285,
+          "sha256": "1887565231d4d2c864dfdd1b919855c904160893d0b3f85316fd643667f725e2"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11001,
+          "bytes_after": 97285,
+          "replacement_hashes": [
+            "45d2d3ea068d6abc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "45d2d3ea068d6abc",
+            "border_hash": "012ccf8b8edf7efa",
+            "bytes": 86252,
+            "sha256": "c33b6812afa581fff7193e75f3a959237ea2c7d45062b12907324e0a4a9d1437"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147076,
+      "base_skin_id": 147069,
+      "champion_id": 147,
+      "name": "心之歌 萨勒芬妮 我会走向你",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a026a0adf5a7e6066614443b7f9c00b05d730ffc2bec02747a92ed9cf4b12537",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147069/147076/147076.fantome",
+      "files": [
+        {
+          "path": "skins/147/147069/147076/Seraphine.wad.client",
+          "size": 90525,
+          "sha256": "4a13501147d20fb9bff964df0b9cbf47672b2d4a57fc5cd5d4f43c4c3b5f0591"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4241,
+          "bytes_after": 90525,
+          "replacement_hashes": [
+            "45d2d3ea068d6abc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "45d2d3ea068d6abc",
+            "border_hash": "012ccf8b8edf7efa",
+            "bytes": 86252,
+            "sha256": "c33b6812afa581fff7193e75f3a959237ea2c7d45062b12907324e0a4a9d1437"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147077,
+      "base_skin_id": 147069,
+      "champion_id": 147,
+      "name": "心之歌 萨勒芬妮 光年之约",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d38d30d158974b9c0e0a853b9de13a1f4c901a15adf7809bc3fb36be45da46b8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147069/147077/147077.fantome",
+      "files": [
+        {
+          "path": "skins/147/147069/147077/Seraphine.wad.client",
+          "size": 90472,
+          "sha256": "34b1c92a7741db96d65460fed914922ea3a3c6e33fb822847dbe517ddfe217aa"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4188,
+          "bytes_after": 90472,
+          "replacement_hashes": [
+            "45d2d3ea068d6abc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "45d2d3ea068d6abc",
+            "border_hash": "012ccf8b8edf7efa",
+            "bytes": 86252,
+            "sha256": "c33b6812afa581fff7193e75f3a959237ea2c7d45062b12907324e0a4a9d1437"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147078,
+      "base_skin_id": 147069,
+      "champion_id": 147,
+      "name": "心之歌 萨勒芬妮 晴彩泡沫",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "790c3706dcca2586c757092e48fedf59a813b95990c965ba4db67d82d0705faa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147069/147078/147078.fantome",
+      "files": [
+        {
+          "path": "skins/147/147069/147078/Seraphine.wad.client",
+          "size": 90472,
+          "sha256": "a4934b055eb9e717ad4ac10a3c39bdad7179e666e7116b7fc4c8cd0cb3145fa0"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4188,
+          "bytes_after": 90472,
+          "replacement_hashes": [
+            "45d2d3ea068d6abc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "45d2d3ea068d6abc",
+            "border_hash": "012ccf8b8edf7efa",
+            "bytes": 86252,
+            "sha256": "c33b6812afa581fff7193e75f3a959237ea2c7d45062b12907324e0a4a9d1437"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147079,
+      "base_skin_id": 147069,
+      "champion_id": 147,
+      "name": "心之歌 萨勒芬妮 独一无二",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0699a8709efb419e3467b19777991337351dad34734d7cabd8f6fdb985593641",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147069/147079/147079.fantome",
+      "files": [
+        {
+          "path": "skins/147/147069/147079/Seraphine.wad.client",
+          "size": 90467,
+          "sha256": "7b45d9d7a91ceef7ee5a306c28d7316f647168f7b03449c2b8e4d0301a05faab"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4183,
+          "bytes_after": 90467,
+          "replacement_hashes": [
+            "45d2d3ea068d6abc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "45d2d3ea068d6abc",
+            "border_hash": "012ccf8b8edf7efa",
+            "bytes": 86252,
+            "sha256": "c33b6812afa581fff7193e75f3a959237ea2c7d45062b12907324e0a4a9d1437"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147080,
+      "base_skin_id": 147069,
+      "champion_id": 147,
+      "name": "心之歌 萨勒芬妮 挽手说梦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d7324da76a2fef5043c410f34fc55c794fc68fa79c719ca0cfa1d7ea47b19eaf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147069/147080/147080.fantome",
+      "files": [
+        {
+          "path": "skins/147/147069/147080/Seraphine.wad.client",
+          "size": 90473,
+          "sha256": "ac25a525659712281b8bafb23a05f82b5b4bceb9654fc4c0219336dc044c0440"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4189,
+          "bytes_after": 90473,
+          "replacement_hashes": [
+            "45d2d3ea068d6abc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "45d2d3ea068d6abc",
+            "border_hash": "012ccf8b8edf7efa",
+            "bytes": 86252,
+            "sha256": "c33b6812afa581fff7193e75f3a959237ea2c7d45062b12907324e0a4a9d1437"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147081,
+      "base_skin_id": 147069,
+      "champion_id": 147,
+      "name": "心之歌 萨勒芬妮 带走我的心",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a6b25b140a60e22d6c11020e5da30f7c15386e00759ef448cbed455c4b3de5a7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147069/147081/147081.fantome",
+      "files": [
+        {
+          "path": "skins/147/147069/147081/Seraphine.wad.client",
+          "size": 90469,
+          "sha256": "2a329c40c8a713f43969d4d43db9b69ba7ca339942d7203d3d4ebab4767b507e"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4185,
+          "bytes_after": 90469,
+          "replacement_hashes": [
+            "45d2d3ea068d6abc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "45d2d3ea068d6abc",
+            "border_hash": "012ccf8b8edf7efa",
+            "bytes": 86252,
+            "sha256": "c33b6812afa581fff7193e75f3a959237ea2c7d45062b12907324e0a4a9d1437"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

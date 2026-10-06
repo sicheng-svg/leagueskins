@@ -1,0 +1,48 @@
+{
+  "skin_id": 147017,
+  "base_skin_id": 147014,
+  "champion_id": 147,
+  "name": "海之歌 萨勒芬妮 浪漫氛围",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1287a6857d4218d1eb3213b3945f5a3d07be1e15c1c15c2408cf041825b065cf",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "147/147014/147017/147017.fantome",
+  "files": [
+    {
+      "path": "skins/147/147014/147017/Seraphine.wad.client",
+      "size": 3175,
+      "sha256": "c608c08d6ef3a1b716cad58906cd584cab7f884b1d453331bafa0af68d40fea0"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3175,
+      "bytes_after": 3175,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

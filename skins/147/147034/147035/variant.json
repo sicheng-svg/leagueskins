@@ -1,0 +1,58 @@
+{
+  "skin_id": 147035,
+  "base_skin_id": 147034,
+  "champion_id": 147,
+  "name": "星之守护者 萨勒芬妮 热情之光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8a4967a8dde3427458a78bec388840a48604598071e4cbb68d683b96b9c2063d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "147/147034/147035/147035.fantome",
+  "files": [
+    {
+      "path": "skins/147/147034/147035/Seraphine.wad.client",
+      "size": 89430,
+      "sha256": "664368b3889c4fabffe5935e8ae30ebec6d82e7e51698ff0b9cb8701fd1530ab"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3146,
+      "bytes_after": 89430,
+      "replacement_hashes": [
+        "0029a83c634ec0d1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Seraphine.wad.client",
+        "normal_hash": "0029a83c634ec0d1",
+        "border_hash": "2d2a43f1c54fd11e",
+        "bytes": 86252,
+        "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

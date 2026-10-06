@@ -1,0 +1,58 @@
+{
+  "skin_id": 147032,
+  "base_skin_id": 147024,
+  "champion_id": 147,
+  "name": "花仙子 萨勒芬妮 樟青",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fb60115b30984dd3708bbfb03b931ff1673237718e1389e21448763f9b9e3ab2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "147/147024/147032/147032.fantome",
+  "files": [
+    {
+      "path": "skins/147/147024/147032/Seraphine.wad.client",
+      "size": 89407,
+      "sha256": "a33cd71f192cf2af7a47ad6342f9a692c12463873707b427853ecb1101f46cc1"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3123,
+      "bytes_after": 89407,
+      "replacement_hashes": [
+        "d47a259f3d641d22"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Seraphine.wad.client",
+        "normal_hash": "d47a259f3d641d22",
+        "border_hash": "09a6f0545b80dfc8",
+        "bytes": 86252,
+        "sha256": "998201190fca7cf48043e8066b8e62461e46186dbc8aac2e30c944fb93ce246a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

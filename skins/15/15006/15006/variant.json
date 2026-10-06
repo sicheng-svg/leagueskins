@@ -1,0 +1,48 @@
+{
+  "skin_id": 15006,
+  "base_skin_id": 15006,
+  "champion_id": 15,
+  "name": "冰雪风暴 希维尔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7dd979830ba9df5ed1a4260f818f79889e981b2634fee9910997fa3009a79c18",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15006/15006.fantome",
+  "files": [
+    {
+      "path": "skins/15/15006/15006/Sivir.wad.client",
+      "size": 2748,
+      "sha256": "3a9db28934f54297c476fda8ca965dfffd4191a5ff0f71a00e4a80779600e912"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2748,
+      "bytes_after": 2748,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

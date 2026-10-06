@@ -1,0 +1,58 @@
+{
+  "skin_id": 147061,
+  "base_skin_id": 147059,
+  "champion_id": 147,
+  "name": "龙马烈焰 萨勒芬妮 日进斗金",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c3b807a0d700a0216336bb0d5b4ea597f993d1724b3dca350c836ad0fd95b17a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "147/147059/147061/147061.fantome",
+  "files": [
+    {
+      "path": "skins/147/147059/147061/Seraphine.wad.client",
+      "size": 89458,
+      "sha256": "b5ec0c253111f0ebab1fe871506d24961c3956570e4c522aa51f2a5d49b0ad77"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3174,
+      "bytes_after": 89458,
+      "replacement_hashes": [
+        "7f090756827af6cb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Seraphine.wad.client",
+        "normal_hash": "7f090756827af6cb",
+        "border_hash": "57cd1a6d7683dd71",
+        "bytes": 86252,
+        "sha256": "aeeddba43b3c1358eecae001b76c2e317a948ddf47ce51d1a1bcd000eb6ec19a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

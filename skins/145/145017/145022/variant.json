@@ -1,0 +1,58 @@
+{
+  "skin_id": 145022,
+  "base_skin_id": 145017,
+  "champion_id": 145,
+  "name": "电玩女神 卡莎 钢铁天使",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "da6ed1604d4a7db61f602310c614ba7e054e73da433257c101528fb725314ef4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "145/145017/145022/145022.fantome",
+  "files": [
+    {
+      "path": "skins/145/145017/145022/Kaisa.wad.client",
+      "size": 89682,
+      "sha256": "ed73370ecb4430639ebf240d86d0d07b95d4d46fd18f70e738c629757e92e15a"
+    }
+  ],
+  "wads": {
+    "Kaisa.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3398,
+      "bytes_after": 89682,
+      "replacement_hashes": [
+        "da224f1daa8468f1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kaisa.wad.client",
+        "normal_hash": "da224f1daa8468f1",
+        "border_hash": "6a0c1febd8cdce2a",
+        "bytes": 86252,
+        "sha256": "3b18b65aec95ed3d67da18934dcee28f81650acd4bc66650054cbecdbcae2403"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 147068,
+  "base_skin_id": 147068,
+  "champion_id": 147,
+  "name": "T1 萨勒芬妮",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "214a6ed959a9a989f0bf62931b541521bd738cbd1849a17bbdd555f971eff7d2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "147/147068/147068.fantome",
+  "files": [
+    {
+      "path": "skins/147/147068/147068/Seraphine.wad.client",
+      "size": 95862,
+      "sha256": "f1b997f33e9f2c21b9f386c49e7790f06b7b6c965223ece3c87553dbf4445347"
+    }
+  ],
+  "wads": {
+    "Seraphine.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 9578,
+      "bytes_after": 95862,
+      "replacement_hashes": [
+        "c75d7ca1ab26abc6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Seraphine.wad.client",
+        "normal_hash": "c75d7ca1ab26abc6",
+        "border_hash": "fc6abb7dd166b7a2",
+        "bytes": 86252,
+        "sha256": "4dd9ef02d094a46c66182dc2e63cd20a37dd5f883f2708ae382e7903f0b0efbe"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

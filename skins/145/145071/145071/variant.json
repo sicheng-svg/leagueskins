@@ -1,0 +1,73 @@
+{
+  "skin_id": 145071,
+  "base_skin_id": 145071,
+  "champion_id": 145,
+  "name": "145071",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1b6a4d437c3aef35cf53d76093cc1d5ebb1377f97bb7f470e381fda80fd87842",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+  },
+  "source_package": "145/145071/145071.fantome",
+  "files": [
+    {
+      "path": "skins/145/145071/145071/Kaisa.wad.client",
+      "size": 967803,
+      "sha256": "558350ea62ef29c57f303c0c84e7c64297141e391bac625c7f04f4eea9ddb9ff"
+    }
+  ],
+  "wads": {
+    "Kaisa.wad.client": {
+      "entries_before": 1,
+      "entries_after": 4,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 15607,
+      "bytes_after": 967803,
+      "replacement_hashes": [
+        "040a2e023c83f23a",
+        "6051cbc0e2f28992",
+        "e1bf0ed7398fc614"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kaisa.wad.client",
+        "normal_hash": "6051cbc0e2f28992",
+        "border_hash": "e1bf0ed7398fc614",
+        "bytes": 689932,
+        "sha256": "21e89a941993a4a9dc8e606697e790c4244611da267c0e4bdc1eb07038192595",
+        "strategy": "bake_native_augment_layers",
+        "layers": [
+          {
+            "path": "ASSETS/Characters/Kaisa/Skins/Skin71/UI/KaisaLoadScreen_Augments_Border_Premium.tex",
+            "sha256": "42567ed9f2b3e733be23981a9ec8dd4664b6bc693816b56b220ae1b6ed089c45"
+          },
+          {
+            "path": "ASSETS/Characters/Kaisa/Skins/Skin71/UI/KaisaLoadScreen_Augments_Border_Signature.tex",
+            "sha256": "ab096d1011be170406ab026a18ab16faa1ae91b572e9257ad1777b769b6b0a41"
+          }
+        ],
+        "placement": "scale_native_layers_to_loading_card",
+        "in_game": "not_verified"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

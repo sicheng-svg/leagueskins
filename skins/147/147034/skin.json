@@ -1,0 +1,529 @@
+{
+  "champion_id": 147,
+  "base_skin_id": 147034,
+  "name": "星之守护者 萨勒芬妮",
+  "variants": [
+    {
+      "skin_id": 147034,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eedfda5932524e80d58cacf093016d4c8615d4dfaa2fe3fe10a15ac889272c7c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147034.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147034/Seraphine.wad.client",
+          "size": 94737,
+          "sha256": "76885df356e78fbf9803ffa01e149f6d2c2f258dc2219cf484f097a6b51a1184"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8453,
+          "bytes_after": 94737,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147035,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 热情之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8a4967a8dde3427458a78bec388840a48604598071e4cbb68d683b96b9c2063d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147035/147035.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147035/Seraphine.wad.client",
+          "size": 89430,
+          "sha256": "664368b3889c4fabffe5935e8ae30ebec6d82e7e51698ff0b9cb8701fd1530ab"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3146,
+          "bytes_after": 89430,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147036,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 智慧之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3a0d65a6319adf30446a39f753cafb85ca3fe007bde6c021968d760f8110c14e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147036/147036.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147036/Seraphine.wad.client",
+          "size": 89375,
+          "sha256": "23deed78aa21fed6e415169da175b811b0edfd1b0e5c329f4961f572845dc749"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3091,
+          "bytes_after": 89375,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147037,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 未来之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b98360914a974c536bace1a4c4ade20b81b4ee319de767be6826e008f2b1b6e6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147037/147037.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147037/Seraphine.wad.client",
+          "size": 89398,
+          "sha256": "afa55cd217b50bc029287d4f52de261b36a02afcd59b922bc69e95afa1e99c52"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3114,
+          "bytes_after": 89398,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147038,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 拥抱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2b509e30ce58c75cbe13e3a749cc98e9a2788837021ef38667f84ed008af1717",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147038/147038.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147038/Seraphine.wad.client",
+          "size": 89378,
+          "sha256": "aaca4f8115c0a93112947baf017ea8618f92d8c8f8ffd526559d3975c405e611"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3094,
+          "bytes_after": 89378,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147039,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 勇气之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ee65d15ac74965cb818d71773e7c8aac059099b973d619ae442d9b37abb37855",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147039/147039.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147039/Seraphine.wad.client",
+          "size": 89378,
+          "sha256": "729f8a1ead8aa732680258c2103f3519c1e2a2898b31537a2c798f8e0e5e0655"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3094,
+          "bytes_after": 89378,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147040,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 正义之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "69a734f61c4074b4939b679d717e3ebc0ea684c46bd8e6e742172a1ec28c740a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147040/147040.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147040/Seraphine.wad.client",
+          "size": 89380,
+          "sha256": "3ee0bd344ca3018c30da2b16ec2d06fa97908a8d992fd4959d3e8e256fa8c43d"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3096,
+          "bytes_after": 89380,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147041,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 守护之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2e856eaa807f199f87aa3a84e8a551c9e4d7e6fa8116908ea1e93ce1dad5a3a0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147041/147041.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147041/Seraphine.wad.client",
+          "size": 89379,
+          "sha256": "9df75433f10625f8e6a11868b0cf7ba19c15e61f263519f44b1af7a4822feb99"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3095,
+          "bytes_after": 89379,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 147042,
+      "base_skin_id": 147034,
+      "champion_id": 147,
+      "name": "星之守护者 萨勒芬妮 月虹之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "23f32898d611b266459323aeaa5cfa0daf5a53ec8a839612e72a23065603f1ff",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "147/147034/147042/147042.fantome",
+      "files": [
+        {
+          "path": "skins/147/147034/147042/Seraphine.wad.client",
+          "size": 89382,
+          "sha256": "71790bd0e145a436c0ba92e27b756d60f351ff5956668eb4271b8263676cfb7c"
+        }
+      ],
+      "wads": {
+        "Seraphine.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3098,
+          "bytes_after": 89382,
+          "replacement_hashes": [
+            "0029a83c634ec0d1"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Seraphine.wad.client",
+            "normal_hash": "0029a83c634ec0d1",
+            "border_hash": "2d2a43f1c54fd11e",
+            "bytes": 86252,
+            "sha256": "6b05494024117921b125c6aa280dd1cf0167851db7cfe39411e4e7d038ad8ef6"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

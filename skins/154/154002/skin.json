@@ -1,0 +1,55 @@
+{
+  "champion_id": 154,
+  "base_skin_id": 154002,
+  "name": "泳池派对 扎克",
+  "variants": [
+    {
+      "skin_id": 154002,
+      "base_skin_id": 154002,
+      "champion_id": 154,
+      "name": "泳池派对 扎克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3d3a117bcdbc5b81ea13b3a257e1e7578121e7e1a58f9a25ad0861fd003e80e5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "154/154002/154002.fantome",
+      "files": [
+        {
+          "path": "skins/154/154002/154002/Zac.wad.client",
+          "size": 5205,
+          "sha256": "cbdd82bf952c3127261b56614313551ac0050a38f52b530951c66fedbe8b2131"
+        }
+      ],
+      "wads": {
+        "Zac.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5205,
+          "bytes_after": 5205,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

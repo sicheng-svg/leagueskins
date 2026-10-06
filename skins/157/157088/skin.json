@@ -1,0 +1,529 @@
+{
+  "champion_id": 157,
+  "base_skin_id": 157088,
+  "name": "踏雪寻梅 亚索",
+  "variants": [
+    {
+      "skin_id": 157088,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3d6e2be7028d2c4feb1f2116683bc07b852a1616b6fc85f42860d5edd24878db",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157088.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157088/Yasuo.wad.client",
+          "size": 92822,
+          "sha256": "99f1644d6165510b6a2741b8582aa9c11e1bc49288c3202f4a3b7e3329d31854"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6538,
+          "bytes_after": 92822,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157089,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 岁寒特妍",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6e101b2544658d9ed2a1653be809fc257b6821b2f3526b17d448b58d94dd3489",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157089/157089.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157089/Yasuo.wad.client",
+          "size": 89318,
+          "sha256": "0061930c6c39672fbfb0db3755d3b3e00a1f43dc7b3aba0bf084df5ed5c8cc42"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3034,
+          "bytes_after": 89318,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157090,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 狂飙卷沙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bf75cadf948ba34e7f0b57e163c2787c4cfe8cdc9f74b8f6a8b12ea90351af29",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157090/157090.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157090/Yasuo.wad.client",
+          "size": 89289,
+          "sha256": "d89ea714bb8f5f0623b54265741c1944867b5d98a946303be32e8d56a4245609"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3005,
+          "bytes_after": 89289,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157091,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 玉立冰洁",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "484806094e512add3fe0199c4a70cca6d08a970981aafbca11f5bf749bb1bc0c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157091/157091.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157091/Yasuo.wad.client",
+          "size": 89289,
+          "sha256": "36c406ebf833cbb084bebcb8aa2a0d3f9f741fa2950757b2177890b37893a81a"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3005,
+          "bytes_after": 89289,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157092,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 绛萼著霜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7423849dfaab1677be13d1e7ef0e128624be21d59c0c111d528dcdfc9000c6b2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157092/157092.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157092/Yasuo.wad.client",
+          "size": 89289,
+          "sha256": "061b59c5ba82cb47358cfc1f9c7e45d137fad7df3680e59960eaa888ae0b26a3"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3005,
+          "bytes_after": 89289,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157093,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 明蟾照夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ebfcb7bbcf661eff0d58d137e6af44544e3ff0745836cd4534f3127981167c09",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157093/157093.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157093/Yasuo.wad.client",
+          "size": 89288,
+          "sha256": "c6e23ff35b28e2adec985fcab5db28910f08136b721f90514e12ee84b3fa78cc"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3004,
+          "bytes_after": 89288,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157094,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 琼英缀雪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ed87bed89e90634ff9bec2efd00fa6404167e9508319cb733e9148e041fee30d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157094/157094.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157094/Yasuo.wad.client",
+          "size": 89288,
+          "sha256": "f1d7c333e08e3ab61a7849885ae2657353ff1159a817fb7961d1f5b4c86d6954"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3004,
+          "bytes_after": 89288,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157095,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 竹映梅香",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5d0544e618b85c84e9dd41d19baeed0a94b0479763491b8d01f4ef9a07f335e0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157095/157095.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157095/Yasuo.wad.client",
+          "size": 89289,
+          "sha256": "a78950b9c00e7795e3522645ecdd8976daee8639e4b6d32acba00df82038fdd0"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3005,
+          "bytes_after": 89289,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157096,
+      "base_skin_id": 157088,
+      "champion_id": 157,
+      "name": "踏雪寻梅 亚索 独步早春",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "22ae9444b9e9d0971ae6f79af8348cc7900e8beead545c14eb9abea26ddb137c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157088/157096/157096.fantome",
+      "files": [
+        {
+          "path": "skins/157/157088/157096/Yasuo.wad.client",
+          "size": 89286,
+          "sha256": "3379dc7b611ca981fa974420d460315c1802aa172e52a0bb3bd21a38df97437d"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3002,
+          "bytes_after": 89286,
+          "replacement_hashes": [
+            "cd4d8addf53295b7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cd4d8addf53295b7",
+            "border_hash": "15e2488790a63d06",
+            "bytes": 86252,
+            "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

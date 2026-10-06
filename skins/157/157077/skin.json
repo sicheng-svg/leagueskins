@@ -1,0 +1,587 @@
+{
+  "champion_id": 157,
+  "base_skin_id": 157077,
+  "name": "幻灵孤狼 亚索",
+  "variants": [
+    {
+      "skin_id": 157077,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0461b54325ec0367b8fc0af62c019705f9fab5105e792d928ed795db71cbdbc0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157077.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157077/Yasuo.wad.client",
+          "size": 94088,
+          "sha256": "b57420223a4071698245142bd2e648fc23e5f8bf778c5534fc41971288e66cd3"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7804,
+          "bytes_after": 94088,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157078,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 勇气赞歌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3007ea6b3fefa0cb9176836e8852ecfdaa1c3b1a42077f61d13fc7deb701026a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157078/157078.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157078/Yasuo.wad.client",
+          "size": 89247,
+          "sha256": "baa4909e50a679b67deb6da6ba6ab346f9debfe4845cb45e09f44f475c655a57"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2963,
+          "bytes_after": 89247,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157079,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 灿烂轰击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "abb2dc2572ccdb4e490a5b1e3b2a06a67d7aee4ffa30667fe7c154927b43a4f2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157079/157079.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157079/Yasuo.wad.client",
+          "size": 89195,
+          "sha256": "5aa448c597dfbc6987809ba601af5f1774e3f9f1bb725b8be969716aa1046ea6"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2911,
+          "bytes_after": 89195,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157080,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 梦幻强袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7dcaf125835f2e31fe6900967a6267a2d0a3407fd10d344b9c060274a9f81fe5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157080/157080.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157080/Yasuo.wad.client",
+          "size": 89220,
+          "sha256": "065f21c10324157c0f6909194a695ba52beb31bc8804e4e05f99e1a9a5251c02"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2936,
+          "bytes_after": 89220,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157081,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 活力奔袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "264c57e9c6d38ada1126fc4860d29d7a79cd8efaea632d9b88556b5647ebdf61",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157081/157081.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157081/Yasuo.wad.client",
+          "size": 89198,
+          "sha256": "42191e051769bc3f551af3374b6f53d43acda6e170deb2b0589f68102775bfa5"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2914,
+          "bytes_after": 89198,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157082,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 连绵奔袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a604a61321ad5d725941c8c4b816ea1a554e320f9f56e3f4b2e20341392fce62",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157082/157082.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157082/Yasuo.wad.client",
+          "size": 89199,
+          "sha256": "12302b560088bc880f2ab134af30583ae8365587f7e244e0866dc8b868229244"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2915,
+          "bytes_after": 89199,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157083,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 优雅气度",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "901b57d68a714d7a57c2c5bce3212c47f5b6550f5b75c5299215750c9712c1a5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157083/157083.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157083/Yasuo.wad.client",
+          "size": 89198,
+          "sha256": "67d32e6b3d16e80c76ecafbfac6bbbe7d414b2463c50f15120480e5b9efc815c"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2914,
+          "bytes_after": 89198,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157084,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 魅影闪击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6d7df4ca7813ab1cd8f79243c03f2d275a16aa979fed47bbb46091ce2cc362df",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157084/157084.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157084/Yasuo.wad.client",
+          "size": 89199,
+          "sha256": "c385dbf933c7d6cfc4af41fbf16e01eba428cee12f7d5906d1593f5ba2d6bff1"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2915,
+          "bytes_after": 89199,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157085,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 钢铁守备",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0cc19cfd58ceddf1d3b79d6ef8da075bddaada0d5d705406ae0d4406c6794e53",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157085/157085.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157085/Yasuo.wad.client",
+          "size": 89197,
+          "sha256": "55230460b0d96a9915ea38a2b9c54010639b79ca3af05483e5d4cbef466571cb"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2913,
+          "bytes_after": 89197,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157086,
+      "base_skin_id": 157077,
+      "champion_id": 157,
+      "name": "幻灵孤狼 亚索 隐秘夜影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0fe5f2021581e3d5d7bfb1fc4a99e9362df138fb5411c870459c7719244e610d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157077/157086/157086.fantome",
+      "files": [
+        {
+          "path": "skins/157/157077/157086/Yasuo.wad.client",
+          "size": 89254,
+          "sha256": "7c60630bbb68af9bf56de16ec1be95486e73557fe97da912681aa78429c76545"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2970,
+          "bytes_after": 89254,
+          "replacement_hashes": [
+            "bafbb03d4a2f0a8b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "bafbb03d4a2f0a8b",
+            "border_hash": "bfd86f79d3934c63",
+            "bytes": 86252,
+            "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

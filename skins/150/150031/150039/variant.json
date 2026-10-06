@@ -1,0 +1,65 @@
+{
+  "skin_id": 150039,
+  "base_skin_id": 150031,
+  "champion_id": 150,
+  "name": "灵之菊 纳尔 智慧之物",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8c32eced01beef3bfb6283650d02ab2c1ad89048f8a3ea2cd98c488c6004c891",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "150/150031/150039/150039.fantome",
+  "files": [
+    {
+      "path": "skins/150/150031/150039/Gnar.wad.client",
+      "size": 90861,
+      "sha256": "86a3b9881bad6aa0ffd1bc91e4d3da9c4e0fe11fea1cd2682112e2f6699755bb"
+    }
+  ],
+  "wads": {
+    "Gnar.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4577,
+      "bytes_after": 90861,
+      "replacement_hashes": [
+        "43b552985cef425d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Gnar.wad.client",
+        "normal_hash": "43b552985cef425d",
+        "border_hash": "c95ed9afc2021184",
+        "bytes": 86252,
+        "sha256": "532275039851474ea19b117d6bea34b2d49ac4c1acd27a6122e996fcf4cd60a3"
+      },
+      {
+        "archive": "Gnar.wad.client",
+        "normal_hash": "43b552985cef425d",
+        "border_hash": "c95ed9afc2021184",
+        "bytes": 86252,
+        "sha256": "532275039851474ea19b117d6bea34b2d49ac4c1acd27a6122e996fcf4cd60a3"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

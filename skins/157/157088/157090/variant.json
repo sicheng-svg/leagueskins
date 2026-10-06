@@ -1,0 +1,58 @@
+{
+  "skin_id": 157090,
+  "base_skin_id": 157088,
+  "champion_id": 157,
+  "name": "踏雪寻梅 亚索 狂飙卷沙",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bf75cadf948ba34e7f0b57e163c2787c4cfe8cdc9f74b8f6a8b12ea90351af29",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "157/157088/157090/157090.fantome",
+  "files": [
+    {
+      "path": "skins/157/157088/157090/Yasuo.wad.client",
+      "size": 89289,
+      "sha256": "d89ea714bb8f5f0623b54265741c1944867b5d98a946303be32e8d56a4245609"
+    }
+  ],
+  "wads": {
+    "Yasuo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3005,
+      "bytes_after": 89289,
+      "replacement_hashes": [
+        "cd4d8addf53295b7"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yasuo.wad.client",
+        "normal_hash": "cd4d8addf53295b7",
+        "border_hash": "15e2488790a63d06",
+        "bytes": 86252,
+        "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

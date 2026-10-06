@@ -1,0 +1,65 @@
+{
+  "skin_id": 154017,
+  "base_skin_id": 154014,
+  "champion_id": 154,
+  "name": "至高天 扎克 青炬",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8c7e9750827dedbbe9faa03111c0d72770947c41dc7d81e5c951490969bc424a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "154/154014/154017/154017.fantome",
+  "files": [
+    {
+      "path": "skins/154/154014/154017/Zac.wad.client",
+      "size": 90036,
+      "sha256": "80d35c06a4dca4418d5d41a7dc3d34563a5e2ff2926ae949ad198007fd64c35e"
+    }
+  ],
+  "wads": {
+    "Zac.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3752,
+      "bytes_after": 90036,
+      "replacement_hashes": [
+        "ec8fb075cdac1751"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zac.wad.client",
+        "normal_hash": "ec8fb075cdac1751",
+        "border_hash": "049b884d13f165f9",
+        "bytes": 86252,
+        "sha256": "7b2fe193d7aeb52253223883fed6694bde3b1bbacac8bdca667a0f9f96186382"
+      },
+      {
+        "archive": "Zac.wad.client",
+        "normal_hash": "ec8fb075cdac1751",
+        "border_hash": "049b884d13f165f9",
+        "bytes": 86252,
+        "sha256": "7b2fe193d7aeb52253223883fed6694bde3b1bbacac8bdca667a0f9f96186382"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

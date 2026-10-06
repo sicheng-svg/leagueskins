@@ -1,0 +1,58 @@
+{
+  "skin_id": 157086,
+  "base_skin_id": 157077,
+  "champion_id": 157,
+  "name": "幻灵孤狼 亚索 隐秘夜影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0fe5f2021581e3d5d7bfb1fc4a99e9362df138fb5411c870459c7719244e610d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "157/157077/157086/157086.fantome",
+  "files": [
+    {
+      "path": "skins/157/157077/157086/Yasuo.wad.client",
+      "size": 89254,
+      "sha256": "7c60630bbb68af9bf56de16ec1be95486e73557fe97da912681aa78429c76545"
+    }
+  ],
+  "wads": {
+    "Yasuo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2970,
+      "bytes_after": 89254,
+      "replacement_hashes": [
+        "bafbb03d4a2f0a8b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yasuo.wad.client",
+        "normal_hash": "bafbb03d4a2f0a8b",
+        "border_hash": "bfd86f79d3934c63",
+        "bytes": 86252,
+        "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

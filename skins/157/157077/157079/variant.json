@@ -1,0 +1,58 @@
+{
+  "skin_id": 157079,
+  "base_skin_id": 157077,
+  "champion_id": 157,
+  "name": "幻灵孤狼 亚索 灿烂轰击",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "abb2dc2572ccdb4e490a5b1e3b2a06a67d7aee4ffa30667fe7c154927b43a4f2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "157/157077/157079/157079.fantome",
+  "files": [
+    {
+      "path": "skins/157/157077/157079/Yasuo.wad.client",
+      "size": 89195,
+      "sha256": "5aa448c597dfbc6987809ba601af5f1774e3f9f1bb725b8be969716aa1046ea6"
+    }
+  ],
+  "wads": {
+    "Yasuo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2911,
+      "bytes_after": 89195,
+      "replacement_hashes": [
+        "bafbb03d4a2f0a8b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yasuo.wad.client",
+        "normal_hash": "bafbb03d4a2f0a8b",
+        "border_hash": "bfd86f79d3934c63",
+        "bytes": 86252,
+        "sha256": "ced618ec700fb8fb5a2123d6bffb073784a1ebac821b80c353c3a3c68006a968"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

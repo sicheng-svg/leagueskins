@@ -1,0 +1,58 @@
+{
+  "skin_id": 157027,
+  "base_skin_id": 157018,
+  "champion_id": 157,
+  "name": "真实伤害 亚索 锐意之风",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7064b249c032f251cabff168aeb03f12519056ccad8223f605c2bb71abf9c996",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "157/157018/157027/157027.fantome",
+  "files": [
+    {
+      "path": "skins/157/157018/157027/Yasuo.wad.client",
+      "size": 89414,
+      "sha256": "d7cab1d1b87a08a78ea1901ee862a56acfe6518cc7638aaa4b11d9188e15b1b4"
+    }
+  ],
+  "wads": {
+    "Yasuo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3130,
+      "bytes_after": 89414,
+      "replacement_hashes": [
+        "dc78d44173a76074"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yasuo.wad.client",
+        "normal_hash": "dc78d44173a76074",
+        "border_hash": "ec2296bb9193877c",
+        "bytes": 86252,
+        "sha256": "7dc7cc70ac53a0bb3e9b19928a7a2ac7d39307e1a4f37488fe9916ed5c0b4167"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

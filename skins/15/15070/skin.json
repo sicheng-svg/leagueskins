@@ -1,0 +1,65 @@
+{
+  "champion_id": 15,
+  "base_skin_id": 15070,
+  "name": "十五周年纪念 希维尔",
+  "variants": [
+    {
+      "skin_id": 15070,
+      "base_skin_id": 15070,
+      "champion_id": 15,
+      "name": "十五周年纪念 希维尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dd2808a647f33eba905adcf65c2d2058a759fe381e316602d157318236138a53",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15070/15070.fantome",
+      "files": [
+        {
+          "path": "skins/15/15070/15070/Sivir.wad.client",
+          "size": 91357,
+          "sha256": "923b176750ae691e184de38335aabcf4ff410d180a3b957a4c3f051b3fabcb2d"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5073,
+          "bytes_after": 91357,
+          "replacement_hashes": [
+            "9f55e07d776444e6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "9f55e07d776444e6",
+            "border_hash": "b70fb9c505d77566",
+            "bytes": 86252,
+            "sha256": "315f8bd089b7adbf10cff0cda868f1aa6d751a0b575b8107d8baaf6164998690"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

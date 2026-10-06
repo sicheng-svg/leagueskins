@@ -1,0 +1,58 @@
+{
+  "skin_id": 157026,
+  "base_skin_id": 157017,
+  "champion_id": 157,
+  "name": "战场BOSS 亚索 K.O.",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fb053f039e8d99d051e0d9f72b20844c13fd3a5ed259bb81ff3a4b26ea9f1d52",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "157/157017/157026/157026.fantome",
+  "files": [
+    {
+      "path": "skins/157/157017/157026/Yasuo.wad.client",
+      "size": 89160,
+      "sha256": "1312860506a2aab2e27526dddf8dd10b36095569712ca037ff7b2c22ce9a3e04"
+    }
+  ],
+  "wads": {
+    "Yasuo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2876,
+      "bytes_after": 89160,
+      "replacement_hashes": [
+        "49e18f3f94a1d3b9"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yasuo.wad.client",
+        "normal_hash": "49e18f3f94a1d3b9",
+        "border_hash": "9d671b0ad3d1ad2e",
+        "bytes": 86252,
+        "sha256": "a56984038604d5c1a98831472ff94acfcb5632d58fcb6761f2d8a233d332554b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

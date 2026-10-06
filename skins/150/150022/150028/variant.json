@@ -1,0 +1,65 @@
+{
+  "skin_id": 150028,
+  "base_skin_id": 150022,
+  "champion_id": 150,
+  "name": "永恒之森 纳尔 樱落",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fed3c0f990ed618b57e4d4b78800bfc7c5ea4f4220000af0168e4551bf9c5ca9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "150/150022/150028/150028.fantome",
+  "files": [
+    {
+      "path": "skins/150/150022/150028/Gnar.wad.client",
+      "size": 90860,
+      "sha256": "aea4058e2f09999b969223ddf240cb0c2451d411a6f4a00d2aad1c3c48162ad3"
+    }
+  ],
+  "wads": {
+    "Gnar.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4576,
+      "bytes_after": 90860,
+      "replacement_hashes": [
+        "a5f93a82411c9af9"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Gnar.wad.client",
+        "normal_hash": "a5f93a82411c9af9",
+        "border_hash": "3017999cc7dd9ee7",
+        "bytes": 86252,
+        "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+      },
+      {
+        "archive": "Gnar.wad.client",
+        "normal_hash": "a5f93a82411c9af9",
+        "border_hash": "3017999cc7dd9ee7",
+        "bytes": 86252,
+        "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

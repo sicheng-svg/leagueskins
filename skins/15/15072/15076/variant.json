@@ -1,0 +1,48 @@
+{
+  "skin_id": 15076,
+  "base_skin_id": 15072,
+  "champion_id": 15,
+  "name": "源计划：幽灵 希维尔 默化",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7e94ede419f551aef0ff0373ea6628aef441d3ba8ac914e895a7a7afd1b608a3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15072/15076/15076.fantome",
+  "files": [
+    {
+      "path": "skins/15/15072/15076/Sivir.wad.client",
+      "size": 2181,
+      "sha256": "9f22a65cad7c15311c9391a7556677f940a3c5781e687983662407f25a986ad8"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2181,
+      "bytes_after": 2181,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

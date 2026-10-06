@@ -1,0 +1,58 @@
+{
+  "skin_id": 16032,
+  "base_skin_id": 16027,
+  "champion_id": 16,
+  "name": "灵魂莲华 索拉卡 春晓",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "af0147cf3c97dd75ddf6b695aff788efb60a6b20e8edccf037ac2398e583033e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "16/16027/16032/16032.fantome",
+  "files": [
+    {
+      "path": "skins/16/16027/16032/Soraka.wad.client",
+      "size": 88471,
+      "sha256": "cb56081df0cebf0d7ddb88fc3f0a19d0bd3e4424d60364bc9efd4447e6d7b23c"
+    }
+  ],
+  "wads": {
+    "Soraka.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2187,
+      "bytes_after": 88471,
+      "replacement_hashes": [
+        "fb4938d094b41436"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Soraka.wad.client",
+        "normal_hash": "fb4938d094b41436",
+        "border_hash": "0294b58cbbf25980",
+        "bytes": 86252,
+        "sha256": "a53850b1486e035d75e17c8ae8ed34270e0ba510299e53495e39effed9380c33"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

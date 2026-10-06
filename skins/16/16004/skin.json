@@ -1,0 +1,103 @@
+{
+  "champion_id": 16,
+  "base_skin_id": 16004,
+  "name": "灵魂收割者 索拉卡",
+  "variants": [
+    {
+      "skin_id": 16004,
+      "base_skin_id": 16004,
+      "champion_id": 16,
+      "name": "灵魂收割者 索拉卡",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0ca3a0630da5b293906ea26160cd1d085580f3ccabdc37f687bb88e773a06fc0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16004/16004.fantome",
+      "files": [
+        {
+          "path": "skins/16/16004/16004/Soraka.wad.client",
+          "size": 4708,
+          "sha256": "55944e371111cd69b1eff83efd7a38d79f56cdac972ba461db1e24b7ebc28ce4"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4708,
+          "bytes_after": 4708,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 16062,
+      "base_skin_id": 16004,
+      "champion_id": 16,
+      "name": "灵魂收割者 索拉卡 末日",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6d81dd45f783c2ffffb228c19109732799924fbde1bdcbcd1978437ef1ce6ced",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16004/16062/16062.fantome",
+      "files": [
+        {
+          "path": "skins/16/16004/16062/Soraka.wad.client",
+          "size": 1916,
+          "sha256": "98b4dd3a28236c577e44c20ee12475b1523e12ca91ab44fa537536d59b03c0c3"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1916,
+          "bytes_after": 1916,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

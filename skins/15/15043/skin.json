@@ -1,0 +1,413 @@
+{
+  "champion_id": 15,
+  "base_skin_id": 15043,
+  "name": "日蚀骑士 希维尔",
+  "variants": [
+    {
+      "skin_id": 15043,
+      "base_skin_id": 15043,
+      "champion_id": 15,
+      "name": "日蚀骑士 希维尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8e1c7954dc17b9f693234f7455a0219eea44fc9498bf2582ac9853378437ce05",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15043/15043.fantome",
+      "files": [
+        {
+          "path": "skins/15/15043/15043/Sivir.wad.client",
+          "size": 93443,
+          "sha256": "668822cbbbe87b5afff1e5c52c39a50a8969f7e43948fde6deae650a69951aaa"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7159,
+          "bytes_after": 93443,
+          "replacement_hashes": [
+            "51c73d7267b84e10"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "51c73d7267b84e10",
+            "border_hash": "2c039809f7f7141e",
+            "bytes": 86252,
+            "sha256": "c5513e6e18a1fdbde714c45f475f4d0a49143c2672a89523a5ca97b4daf0eb74"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15044,
+      "base_skin_id": 15043,
+      "champion_id": 15,
+      "name": "日蚀骑士 希维尔 英勇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8c7c297f5933db9c178346841e06cc6053e003e177ab1ab8eb5a918bec3d3fb5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15043/15044/15044.fantome",
+      "files": [
+        {
+          "path": "skins/15/15043/15044/Sivir.wad.client",
+          "size": 89029,
+          "sha256": "9055cd40d34fa83c2bee4734bf76f21be567c5826adfedff69ac66891ec9cd6c"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2745,
+          "bytes_after": 89029,
+          "replacement_hashes": [
+            "51c73d7267b84e10"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "51c73d7267b84e10",
+            "border_hash": "2c039809f7f7141e",
+            "bytes": 86252,
+            "sha256": "c5513e6e18a1fdbde714c45f475f4d0a49143c2672a89523a5ca97b4daf0eb74"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15045,
+      "base_skin_id": 15043,
+      "champion_id": 15,
+      "name": "日蚀骑士 希维尔 荣誉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8a4c18f4957448c985f09bd9c21b60af324e9d13dc19c3ac4004ab73764755ad",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15043/15045/15045.fantome",
+      "files": [
+        {
+          "path": "skins/15/15043/15045/Sivir.wad.client",
+          "size": 88976,
+          "sha256": "c2c46d33f42e5f84cb16eebdaa9c9fd53456532053780f0cc2441fdc00ca260a"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2692,
+          "bytes_after": 88976,
+          "replacement_hashes": [
+            "51c73d7267b84e10"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "51c73d7267b84e10",
+            "border_hash": "2c039809f7f7141e",
+            "bytes": 86252,
+            "sha256": "c5513e6e18a1fdbde714c45f475f4d0a49143c2672a89523a5ca97b4daf0eb74"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15046,
+      "base_skin_id": 15043,
+      "champion_id": 15,
+      "name": "日蚀骑士 希维尔 牺牲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "224e0a54bf6816cedb5f6ae1dce260bcef50fc14b37b49ba2d078d75f2c04b7f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15043/15046/15046.fantome",
+      "files": [
+        {
+          "path": "skins/15/15043/15046/Sivir.wad.client",
+          "size": 88979,
+          "sha256": "9856db45e766e2324681542876d5162fe97e7babe8d37da21f02e7b60f4edabb"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2695,
+          "bytes_after": 88979,
+          "replacement_hashes": [
+            "51c73d7267b84e10"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "51c73d7267b84e10",
+            "border_hash": "2c039809f7f7141e",
+            "bytes": 86252,
+            "sha256": "c5513e6e18a1fdbde714c45f475f4d0a49143c2672a89523a5ca97b4daf0eb74"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15047,
+      "base_skin_id": 15043,
+      "champion_id": 15,
+      "name": "日蚀骑士 希维尔 无私",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6abf93a7912b6fec9a16a2f895c2f4f3b72ff412b31814c42eb53b9df89b3b43",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15043/15047/15047.fantome",
+      "files": [
+        {
+          "path": "skins/15/15043/15047/Sivir.wad.client",
+          "size": 88978,
+          "sha256": "2220da7728f4f9a3ff7b8b8cc6ca2b02c37e6968a45884bfa54fbbdee8c5a0db"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2694,
+          "bytes_after": 88978,
+          "replacement_hashes": [
+            "51c73d7267b84e10"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "51c73d7267b84e10",
+            "border_hash": "2c039809f7f7141e",
+            "bytes": 86252,
+            "sha256": "c5513e6e18a1fdbde714c45f475f4d0a49143c2672a89523a5ca97b4daf0eb74"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15048,
+      "base_skin_id": 15043,
+      "champion_id": 15,
+      "name": "日蚀骑士 希维尔 浪漫",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dc0867da0b7df2928f3df3f5ae8514eb28ea169ca56cc70b4b17e02d5cae05ce",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15043/15048/15048.fantome",
+      "files": [
+        {
+          "path": "skins/15/15043/15048/Sivir.wad.client",
+          "size": 88998,
+          "sha256": "35a6fe3800d936c70aae05801c5ff620e7b47e8e3ce115b1e17b0aee5810d1d3"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2714,
+          "bytes_after": 88998,
+          "replacement_hashes": [
+            "51c73d7267b84e10"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "51c73d7267b84e10",
+            "border_hash": "2c039809f7f7141e",
+            "bytes": 86252,
+            "sha256": "c5513e6e18a1fdbde714c45f475f4d0a49143c2672a89523a5ca97b4daf0eb74"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 15049,
+      "base_skin_id": 15043,
+      "champion_id": 15,
+      "name": "日蚀骑士 希维尔 无畏",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "716190200fafbb7eaf058840decdd904cf479684c5402f20dddc920b7c5e8ee0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "15/15043/15049/15049.fantome",
+      "files": [
+        {
+          "path": "skins/15/15043/15049/Sivir.wad.client",
+          "size": 88976,
+          "sha256": "87165b552d1fe579edaeb3fa77d15ae8052f484b2bfa43b7c852cc71411b350d"
+        }
+      ],
+      "wads": {
+        "Sivir.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2692,
+          "bytes_after": 88976,
+          "replacement_hashes": [
+            "51c73d7267b84e10"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sivir.wad.client",
+            "normal_hash": "51c73d7267b84e10",
+            "border_hash": "2c039809f7f7141e",
+            "bytes": 86252,
+            "sha256": "c5513e6e18a1fdbde714c45f475f4d0a49143c2672a89523a5ca97b4daf0eb74"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

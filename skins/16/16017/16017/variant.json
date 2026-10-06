@@ -1,0 +1,58 @@
+{
+  "skin_id": 16017,
+  "base_skin_id": 16017,
+  "champion_id": 16,
+  "name": "至臻 星之守护者 索拉卡",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "55c7f3451cf2cec8a8821968ac12d2b09aad80bd66ca02ba7639c178a852ef03",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "16/16017/16017.fantome",
+  "files": [
+    {
+      "path": "skins/16/16017/16017/Soraka.wad.client",
+      "size": 90548,
+      "sha256": "f6f4dd6d918c35bd7427186cacb7a5b3d607ce5796961f2cad942499a719badb"
+    }
+  ],
+  "wads": {
+    "Soraka.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4264,
+      "bytes_after": 90548,
+      "replacement_hashes": [
+        "4642213ac442210d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Soraka.wad.client",
+        "normal_hash": "4642213ac442210d",
+        "border_hash": "dceac71cebb2cfa7",
+        "bytes": 86252,
+        "sha256": "6d6cdce6d6a7f332b6df4991e7d642c8d4b3df5f4871f1bf2c781de4e6fe1e3c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

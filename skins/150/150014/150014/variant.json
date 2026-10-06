@@ -1,0 +1,65 @@
+{
+  "skin_id": 150014,
+  "base_skin_id": 150014,
+  "champion_id": 150,
+  "name": "SSG 纳尔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f08ce621546d97dd5425d7e9f284d79c43632dbc2be668f86592058d3bd0cc6e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "150/150014/150014.fantome",
+  "files": [
+    {
+      "path": "skins/150/150014/150014/Gnar.wad.client",
+      "size": 93413,
+      "sha256": "f539b7eb0af170ed0db3a78691f10fe3579fa50ff01282fb5f870b4e6c195059"
+    }
+  ],
+  "wads": {
+    "Gnar.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7129,
+      "bytes_after": 93413,
+      "replacement_hashes": [
+        "775a047aeb7e05f2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Gnar.wad.client",
+        "normal_hash": "775a047aeb7e05f2",
+        "border_hash": "32ddd8e5edf8652b",
+        "bytes": 86252,
+        "sha256": "91b5550fd9804d030294b597e53d86bf4174d1d73bd90f489fdee3e70441d8dd"
+      },
+      {
+        "archive": "Gnar.wad.client",
+        "normal_hash": "775a047aeb7e05f2",
+        "border_hash": "32ddd8e5edf8652b",
+        "bytes": 86252,
+        "sha256": "91b5550fd9804d030294b597e53d86bf4174d1d73bd90f489fdee3e70441d8dd"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

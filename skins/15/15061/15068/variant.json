@@ -1,0 +1,58 @@
+{
+  "skin_id": 15068,
+  "base_skin_id": 15061,
+  "champion_id": 15,
+  "name": "伏虎之力 希维尔 霸气虎步",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "469cb099b873309eb9ea5fe84c35bb857883fea3641d4f16d5e2ce008e15c5c4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15061/15068/15068.fantome",
+  "files": [
+    {
+      "path": "skins/15/15061/15068/Sivir.wad.client",
+      "size": 88425,
+      "sha256": "5a684a332124ef11776dc7964ea2f139bd1408eb73e68ba13806ab8ad1eb1bea"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2141,
+      "bytes_after": 88425,
+      "replacement_hashes": [
+        "bd578befa965a472"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sivir.wad.client",
+        "normal_hash": "bd578befa965a472",
+        "border_hash": "91260e928f8e4bdf",
+        "bytes": 86252,
+        "sha256": "a46fd7e439e2e7ac833b924021aabf37654fa4fbe2250a240d42daba2d09b918"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

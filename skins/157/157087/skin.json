@@ -1,0 +1,66 @@
+{
+  "champion_id": 157,
+  "base_skin_id": 157087,
+  "name": "创世 黑夜使者 亚索",
+  "variants": [
+    {
+      "skin_id": 157087,
+      "base_skin_id": 157087,
+      "champion_id": 157,
+      "name": "创世 黑夜使者 亚索",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "97ee7bc484d6946d356790bcb1d18a0f2b90b1fae74a093505c870394b5f66e7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "157/157087/157087.fantome",
+      "files": [
+        {
+          "path": "skins/157/157087/157087/Yasuo.wad.client",
+          "size": 113065,
+          "sha256": "0c2901998ce83722bc522608c97a8b9403deee6048f5eff9138e1a7faa07bab8"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 26781,
+          "bytes_after": 113065,
+          "replacement_hashes": [
+            "cb898f8be93756c6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "cb898f8be93756c6",
+            "border_hash": "c87a28614e91c5ac",
+            "bytes": 86252,
+            "sha256": "dcc5494e606f2ee60216c72081bacb8655c68d3743a1cdbe6d83dda09e36ee22",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 105,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

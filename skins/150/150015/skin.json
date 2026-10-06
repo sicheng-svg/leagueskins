@@ -1,0 +1,462 @@
+{
+  "champion_id": 150,
+  "base_skin_id": 150015,
+  "name": "宇航员 纳尔",
+  "variants": [
+    {
+      "skin_id": 150015,
+      "base_skin_id": 150015,
+      "champion_id": 150,
+      "name": "宇航员 纳尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f6fbbb1fc591817106de93eae1a7b4d56f5b40c95d65d9ba27543cfc0cf13bd8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "150/150015/150015.fantome",
+      "files": [
+        {
+          "path": "skins/150/150015/150015/Gnar.wad.client",
+          "size": 93989,
+          "sha256": "c985de113fc129d71de92656205bfe7e7ec390950168a9ac0423976f5a286ba1"
+        }
+      ],
+      "wads": {
+        "Gnar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7705,
+          "bytes_after": 93989,
+          "replacement_hashes": [
+            "2af69862904d02af"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          },
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 150016,
+      "base_skin_id": 150015,
+      "champion_id": 150,
+      "name": "宇航员 纳尔 平坦宇宙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "309fad10f9dd2aa7f3cea4c917a43b41ec356776d38e09962aa3a3a5b87e973f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "150/150015/150016/150016.fantome",
+      "files": [
+        {
+          "path": "skins/150/150015/150016/Gnar.wad.client",
+          "size": 90464,
+          "sha256": "a7c0e0945c0b7c1210629fb13a3472f7f6c6e5f60d187e225a9a4808adbf7fc7"
+        }
+      ],
+      "wads": {
+        "Gnar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4180,
+          "bytes_after": 90464,
+          "replacement_hashes": [
+            "2af69862904d02af"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          },
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 150017,
+      "base_skin_id": 150015,
+      "champion_id": 150,
+      "name": "宇航员 纳尔 重力弹弓",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a132e0129328d824142b502275be5eb02fb2f71cb50850119758d79867bac67d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "150/150015/150017/150017.fantome",
+      "files": [
+        {
+          "path": "skins/150/150015/150017/Gnar.wad.client",
+          "size": 90408,
+          "sha256": "5c3e6cdda475933ce678d3ff0fed9a55ce26949d6f7dea15757773afd0903b89"
+        }
+      ],
+      "wads": {
+        "Gnar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4124,
+          "bytes_after": 90408,
+          "replacement_hashes": [
+            "2af69862904d02af"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          },
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 150018,
+      "base_skin_id": 150015,
+      "champion_id": 150,
+      "name": "宇航员 纳尔 万有引力",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9793411d14a94a1a46bf8ef5091e634f1c92b5d841182c5419295aab872954c5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "150/150015/150018/150018.fantome",
+      "files": [
+        {
+          "path": "skins/150/150015/150018/Gnar.wad.client",
+          "size": 90435,
+          "sha256": "9bee6884fcb6e5a99acca42e0f5a094aec848676aaaad31f848c63ff80b03a07"
+        }
+      ],
+      "wads": {
+        "Gnar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4151,
+          "bytes_after": 90435,
+          "replacement_hashes": [
+            "2af69862904d02af"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          },
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 150019,
+      "base_skin_id": 150015,
+      "champion_id": 150,
+      "name": "宇航员 纳尔 月球漫步",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c613c18cf33c4743a542588d94be610f562177fd6267666bd1ff19e9d67b805d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "150/150015/150019/150019.fantome",
+      "files": [
+        {
+          "path": "skins/150/150015/150019/Gnar.wad.client",
+          "size": 90407,
+          "sha256": "7697b620c96739dcba28d7f0649db69bb6ff004732b9e0678d9b505db2e0fd83"
+        }
+      ],
+      "wads": {
+        "Gnar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4123,
+          "bytes_after": 90407,
+          "replacement_hashes": [
+            "2af69862904d02af"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          },
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 150020,
+      "base_skin_id": 150015,
+      "champion_id": 150,
+      "name": "宇航员 纳尔 原行星盘",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e5766188f7e96fb97f98fff5fe738140fd84c85e1446948324e29c4c77935c19",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "150/150015/150020/150020.fantome",
+      "files": [
+        {
+          "path": "skins/150/150015/150020/Gnar.wad.client",
+          "size": 90413,
+          "sha256": "7fd90b19dd4fdffc2aa2486ca543dedbd5b82b65bae0b9a31ceb84d1554cbaab"
+        }
+      ],
+      "wads": {
+        "Gnar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4129,
+          "bytes_after": 90413,
+          "replacement_hashes": [
+            "2af69862904d02af"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          },
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 150021,
+      "base_skin_id": 150015,
+      "champion_id": 150,
+      "name": "宇航员 纳尔 无尽永前",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "38cf11b7953c326ad6ed75c4f3a009f3c22e0d93de997f5a2b8db68c10c9e189",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "150/150015/150021/150021.fantome",
+      "files": [
+        {
+          "path": "skins/150/150015/150021/Gnar.wad.client",
+          "size": 90469,
+          "sha256": "891dcff0d740b888ccf5145f9c6ad531739643e25bc53ec68d3b9afe3ed3bc40"
+        }
+      ],
+      "wads": {
+        "Gnar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4185,
+          "bytes_after": 90469,
+          "replacement_hashes": [
+            "2af69862904d02af"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          },
+          {
+            "archive": "Gnar.wad.client",
+            "normal_hash": "2af69862904d02af",
+            "border_hash": "3017999cc7dd9ee7",
+            "bytes": 86252,
+            "sha256": "de667b97b1b1bbcbc3475b05616f9ae6d155a17a878df42b7d1085cea155deb8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

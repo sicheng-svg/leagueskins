@@ -1,0 +1,645 @@
+{
+  "champion_id": 157,
+  "base_skin_id": 157056,
+  "name": "墨之影武者 亚索",
+  "variants": [
+    {
+      "skin_id": 157056,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "35214e07387f88c4593c5faa5f807db03dc9f1a7c609569bc8246abc52311645",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157056.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157056/Yasuo.wad.client",
+          "size": 98507,
+          "sha256": "4b409149a946c866c987118e0aefbb45624510d71d93aef84fb4f5cf5a37d4c2"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12223,
+          "bytes_after": 98507,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157058,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 炽墨挥影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4a9471a0b1b268dbda3b67c01ba915baffcdaeeac8187497ef3c59bea8953918",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157058/157058.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157058/Yasuo.wad.client",
+          "size": 89793,
+          "sha256": "235bc1e2172ed49188d64d2d017e321413b6472245e741aba731ad69a59b276a"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3509,
+          "bytes_after": 89793,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157059,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 金墨耀影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b32015f970e99e8033ae2ab72c9d83797ccfdafa07754938f0713386faae7088",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157059/157059.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157059/Yasuo.wad.client",
+          "size": 89741,
+          "sha256": "e9e878277fe514ed6319d88ce147dea9dcf8102ae2bed3215abac70b71c05063"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3457,
+          "bytes_after": 89741,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157060,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 云墨漾影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6bb2400a52b15c441af3eb9840735abb53ca6072600a6b7cb2dbc6b1c312b59b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157060/157060.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157060/Yasuo.wad.client",
+          "size": 89742,
+          "sha256": "fe42eec44c76625310afa2ad679ed9eb676306b05b69d9575c2ebf11eea270df"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3458,
+          "bytes_after": 89742,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157061,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 森墨拂影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9946cb310351d5e4ec6295c5784790894a1cfca5dbf18139b993a4fa659bea4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157061/157061.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157061/Yasuo.wad.client",
+          "size": 89744,
+          "sha256": "66d6c50bbb74ecf4af4c091723056c7e3745ead9f6d0a06eb2aeac6328207754"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3460,
+          "bytes_after": 89744,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157062,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 晶墨绽影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ee6a9fd49dcf7b84edd998f6ed0060152d661f4688322a2ae6630c3ee2c77bdd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157062/157062.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157062/Yasuo.wad.client",
+          "size": 89740,
+          "sha256": "80a077e6b8dd4c455bc2288e1cc0a2d01d31d24dd08a3374f380cf6df29c37e6"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3456,
+          "bytes_after": 89740,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157063,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 樱墨映影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d8b1427bae16f13ecbb8cd1763d27b1850a29e9eb3520ab050f33057bee48e53",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157063/157063.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157063/Yasuo.wad.client",
+          "size": 89761,
+          "sha256": "4e61df3e090688d25bae83175aa086ee2b2042f3171bc332685f7fced2fba402"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3477,
+          "bytes_after": 89761,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157064,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 松墨彰影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cadffb8a688a50c506905261e73400d654e0787be0da7414b9af442d632402b5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157064/157064.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157064/Yasuo.wad.client",
+          "size": 89740,
+          "sha256": "e7b00f38bd47f08d181994ced4b530b69ffd8b2d783fa7d45da5d9b9a6ee8490"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3456,
+          "bytes_after": 89740,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157065,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 玄墨蕴影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4a99402895d59bd9128897a26a19c9332978bea54ff1f900974600385b8ad511",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157065/157065.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157065/Yasuo.wad.client",
+          "size": 89739,
+          "sha256": "7d55e7c178a7e5c1180f2f4707b688f8cfc74a320dba408ce838005f1d76893f"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3455,
+          "bytes_after": 89739,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157066,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 灵墨刻影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3286fbde9fe602dc535ea08d2bf605b2a2229eed15fff526c7686a65f0aa93a0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157066/157066.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157066/Yasuo.wad.client",
+          "size": 89792,
+          "sha256": "ee6c135d15f8f63aef306c6b62883b60505dcdb57ca3080bd972bf6dc22ec414"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3508,
+          "bytes_after": 89792,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 157067,
+      "base_skin_id": 157056,
+      "champion_id": 157,
+      "name": "墨之影武者 亚索 破障",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3d825870cb108e2f94f639e8c5e39bff7a0ca5682bc16d86b485ff0808c79700",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "157/157056/157067/157067.fantome",
+      "files": [
+        {
+          "path": "skins/157/157056/157067/Yasuo.wad.client",
+          "size": 89794,
+          "sha256": "8e3bf2026122bc7d9b7d185fece03a6815b458b1a3e550d71a08b64e3c8410c2"
+        }
+      ],
+      "wads": {
+        "Yasuo.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3510,
+          "bytes_after": 89794,
+          "replacement_hashes": [
+            "4d8e08e4884d0cc8"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yasuo.wad.client",
+            "normal_hash": "4d8e08e4884d0cc8",
+            "border_hash": "70870e5efc1c0fb0",
+            "bytes": 86252,
+            "sha256": "34ebef7525c5b4cec808d1705b18ed33d1e0bb5fbd10f0ba126429a8204efb7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

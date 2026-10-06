@@ -1,0 +1,58 @@
+{
+  "skin_id": 15058,
+  "base_skin_id": 15050,
+  "champion_id": 15,
+  "name": "剪纸仙灵 希维尔 团团圆圆",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3e0a29251f90da7cb13c1b6480a33d665cf080920276ee04074e0f7892cff1d5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15050/15058/15058.fantome",
+  "files": [
+    {
+      "path": "skins/15/15050/15058/Sivir.wad.client",
+      "size": 88380,
+      "sha256": "767ced39cc841e3d4d7eb64848a074af655e4560e1c6e7ccc218a12083a70ad8"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2096,
+      "bytes_after": 88380,
+      "replacement_hashes": [
+        "810803f2cce909f0"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sivir.wad.client",
+        "normal_hash": "810803f2cce909f0",
+        "border_hash": "750037fbbc62ced9",
+        "bytes": 86252,
+        "sha256": "e89e017a68606198ba672506e005e200ebacec8b3859e989cb7ab2fdc2d39d69"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "champion_id": 16,
+  "base_skin_id": 16016,
+  "name": "黑夜使者 索拉卡",
+  "variants": [
+    {
+      "skin_id": 16016,
+      "base_skin_id": 16016,
+      "champion_id": 16,
+      "name": "黑夜使者 索拉卡",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "194689265fba68bff60831ca14c910de5a5dbd397f400ba0da2927c9d38f0dc7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16016/16016.fantome",
+      "files": [
+        {
+          "path": "skins/16/16016/16016/Soraka.wad.client",
+          "size": 93632,
+          "sha256": "70a3cd6ffd8ef8605798e42a015203ba161565e08bee8fc8d44b07c7513d850f"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7348,
+          "bytes_after": 93632,
+          "replacement_hashes": [
+            "f9664b6a54e52c58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Soraka.wad.client",
+            "normal_hash": "f9664b6a54e52c58",
+            "border_hash": "9dec3ee4db288c4d",
+            "bytes": 86252,
+            "sha256": "f9742a6e38cb9ea58d7d1fd96386bb6ced7b3a5d1b6e1ef244917c4894f412cd"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "champion_id": 16,
+  "base_skin_id": 16009,
+  "name": "冬境仙灵 索拉卡",
+  "variants": [
+    {
+      "skin_id": 16009,
+      "base_skin_id": 16009,
+      "champion_id": 16,
+      "name": "冬境仙灵 索拉卡",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9f56f04db3d7644688bbd07c99f2eb6c63146161a970bd596e6c60003c6ee66",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16009/16009.fantome",
+      "files": [
+        {
+          "path": "skins/16/16009/16009/Soraka.wad.client",
+          "size": 90504,
+          "sha256": "5212a4e2f56a83273ce9372df22a37cd49e15195c727243115a5fa9e8e27add0"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4220,
+          "bytes_after": 90504,
+          "replacement_hashes": [
+            "3d0e5325243056fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Soraka.wad.client",
+            "normal_hash": "3d0e5325243056fa",
+            "border_hash": "925db76b41d99084",
+            "bytes": 86252,
+            "sha256": "89e161942727c5bbf93de2eeead16b401f7ab9d846313f4f9cd7df6ca565746d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 16010,
+      "base_skin_id": 16009,
+      "champion_id": 16,
+      "name": "焰阳仙灵 索拉卡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f65ef33afb96ac26c69cb50ff1de5139a2ce99c4f04ebf7100bbd3cc9536b12e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16009/16010/16010.fantome",
+      "files": [
+        {
+          "path": "skins/16/16009/16010/Soraka.wad.client",
+          "size": 88516,
+          "sha256": "8a2204156cd9439ce091682fd5cb6a24c684c8d945279bf341aacfdea5dc896a"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2232,
+          "bytes_after": 88516,
+          "replacement_hashes": [
+            "3d0e5325243056fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Soraka.wad.client",
+            "normal_hash": "3d0e5325243056fa",
+            "border_hash": "925db76b41d99084",
+            "bytes": 86252,
+            "sha256": "89e161942727c5bbf93de2eeead16b401f7ab9d846313f4f9cd7df6ca565746d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 16011,
+      "base_skin_id": 16009,
+      "champion_id": 16,
+      "name": "白雪仙灵 索拉卡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1d9f2f22e88d5bec16582f30f381e00aeb601400e9356bf5b5460156ab5908e9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16009/16011/16011.fantome",
+      "files": [
+        {
+          "path": "skins/16/16009/16011/Soraka.wad.client",
+          "size": 88480,
+          "sha256": "4c6be3d07d15f244c591e5e65892eabba72f641ce9bbd1ac89435080671750b7"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2196,
+          "bytes_after": 88480,
+          "replacement_hashes": [
+            "3d0e5325243056fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Soraka.wad.client",
+            "normal_hash": "3d0e5325243056fa",
+            "border_hash": "925db76b41d99084",
+            "bytes": 86252,
+            "sha256": "89e161942727c5bbf93de2eeead16b401f7ab9d846313f4f9cd7df6ca565746d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 16012,
+      "base_skin_id": 16009,
+      "champion_id": 16,
+      "name": "夜幕仙灵 索拉卡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c3c93c7462631d8c6752309ec83b721650b8d44f2b3fb6f8c1d6ed64f9dc685c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16009/16012/16012.fantome",
+      "files": [
+        {
+          "path": "skins/16/16009/16012/Soraka.wad.client",
+          "size": 88483,
+          "sha256": "34ab034c900b1c6b745860cd54b441eb7aafe1ca188d71026e920fd6885dcdea"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2199,
+          "bytes_after": 88483,
+          "replacement_hashes": [
+            "3d0e5325243056fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Soraka.wad.client",
+            "normal_hash": "3d0e5325243056fa",
+            "border_hash": "925db76b41d99084",
+            "bytes": 86252,
+            "sha256": "89e161942727c5bbf93de2eeead16b401f7ab9d846313f4f9cd7df6ca565746d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 16013,
+      "base_skin_id": 16009,
+      "champion_id": 16,
+      "name": "极光仙灵 索拉卡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1e05193962959d25caf12a95dcf2c5295e10bf805c632d0b4cc5bb287fd09dd0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16009/16013/16013.fantome",
+      "files": [
+        {
+          "path": "skins/16/16009/16013/Soraka.wad.client",
+          "size": 88483,
+          "sha256": "b748895840b3596469b4eca8db9edd7a4187b9451bc2c8280ca1b4fcb38c26e8"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2199,
+          "bytes_after": 88483,
+          "replacement_hashes": [
+            "3d0e5325243056fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Soraka.wad.client",
+            "normal_hash": "3d0e5325243056fa",
+            "border_hash": "925db76b41d99084",
+            "bytes": 86252,
+            "sha256": "89e161942727c5bbf93de2eeead16b401f7ab9d846313f4f9cd7df6ca565746d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 16014,
+      "base_skin_id": 16009,
+      "champion_id": 16,
+      "name": "蔷薇仙灵 索拉卡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e626a1945656172eb13ad45347525a9a96013760420c1bdf6e0da777f47fa57",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "16/16009/16014/16014.fantome",
+      "files": [
+        {
+          "path": "skins/16/16009/16014/Soraka.wad.client",
+          "size": 88481,
+          "sha256": "80bbaab16f8342ae2d10c47a378c561462637e7a56ffbb62896ddd41f180d3e6"
+        }
+      ],
+      "wads": {
+        "Soraka.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2197,
+          "bytes_after": 88481,
+          "replacement_hashes": [
+            "3d0e5325243056fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Soraka.wad.client",
+            "normal_hash": "3d0e5325243056fa",
+            "border_hash": "925db76b41d99084",
+            "bytes": 86252,
+            "sha256": "89e161942727c5bbf93de2eeead16b401f7ab9d846313f4f9cd7df6ca565746d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

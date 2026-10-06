@@ -1,0 +1,58 @@
+{
+  "skin_id": 15037,
+  "base_skin_id": 15034,
+  "champion_id": 15,
+  "name": "咖啡甜心 希维尔 薄荷雪拔",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ff6421d7735b0c2c404c79766be3ba818ccca1b9c319d8c0ce331a269ff0c4d6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "15/15034/15037/15037.fantome",
+  "files": [
+    {
+      "path": "skins/15/15034/15037/Sivir.wad.client",
+      "size": 88286,
+      "sha256": "7fb3670fd813b7d257ea21b59934da0982bc623dc665ceb891d1d6fd1008e888"
+    }
+  ],
+  "wads": {
+    "Sivir.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2002,
+      "bytes_after": 88286,
+      "replacement_hashes": [
+        "f8ae5fa3755d841d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sivir.wad.client",
+        "normal_hash": "f8ae5fa3755d841d",
+        "border_hash": "1790b786332e3236",
+        "bytes": 86252,
+        "sha256": "d70aa7aca72b945a27db4ccb0b74357e73da56b394da91e159dcbb14355edeeb"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 154004,
+  "base_skin_id": 154000,
+  "champion_id": 154,
+  "name": "生化魔人 扎克 草莓软糖魔人",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4ca1b0c3c65e2ef4706e8e177673947398e85c2813e274fbe137d8fa0c31b79d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "154/154000/154004/154004.fantome",
+  "files": [
+    {
+      "path": "skins/154/154000/154004/Zac.wad.client",
+      "size": 2916,
+      "sha256": "36041451683d093459bed64471873a9e2fc33ce1d07ebde504a69901c25f468b"
+    }
+  ],
+  "wads": {
+    "Zac.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2916,
+      "bytes_after": 2916,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

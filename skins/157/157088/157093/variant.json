@@ -1,0 +1,58 @@
+{
+  "skin_id": 157093,
+  "base_skin_id": 157088,
+  "champion_id": 157,
+  "name": "踏雪寻梅 亚索 明蟾照夜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ebfcb7bbcf661eff0d58d137e6af44544e3ff0745836cd4534f3127981167c09",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "157/157088/157093/157093.fantome",
+  "files": [
+    {
+      "path": "skins/157/157088/157093/Yasuo.wad.client",
+      "size": 89288,
+      "sha256": "c6e23ff35b28e2adec985fcab5db28910f08136b721f90514e12ee84b3fa78cc"
+    }
+  ],
+  "wads": {
+    "Yasuo.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3004,
+      "bytes_after": 89288,
+      "replacement_hashes": [
+        "cd4d8addf53295b7"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yasuo.wad.client",
+        "normal_hash": "cd4d8addf53295b7",
+        "border_hash": "15e2488790a63d06",
+        "bytes": 86252,
+        "sha256": "0358f20b9980ab36fc97a9b4404ff7878407b430d941e53f94fdaab460344462"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

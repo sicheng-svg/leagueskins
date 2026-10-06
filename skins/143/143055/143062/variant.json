@@ -1,0 +1,48 @@
+{
+  "skin_id": 143062,
+  "base_skin_id": 143055,
+  "champion_id": 143,
+  "name": "腥红之月 婕拉 绿松",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bdf1c655691fb83d0caa926f1fb71c4c75159e49901cf5499f7da5530b18596f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "143/143055/143062/143062.fantome",
+  "files": [
+    {
+      "path": "skins/143/143055/143062/Zyra.wad.client",
+      "size": 7542,
+      "sha256": "82cd91adbaebe2f86f0ec20357b9e54e591bd60dbea256f25098ae60d8c6eaa4"
+    }
+  ],
+  "wads": {
+    "Zyra.wad.client": {
+      "entries_before": 5,
+      "entries_after": 5,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7542,
+      "bytes_after": 7542,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

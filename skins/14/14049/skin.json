@@ -1,0 +1,65 @@
+{
+  "champion_id": 14,
+  "base_skin_id": 14049,
+  "name": "最高清算 赛恩",
+  "variants": [
+    {
+      "skin_id": 14049,
+      "base_skin_id": 14049,
+      "champion_id": 14,
+      "name": "最高清算 赛恩",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "587982c37e6095b3b5f79e689814ca9eafa3336dbda4068efbe5294ff276a0d3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14049/14049.fantome",
+      "files": [
+        {
+          "path": "skins/14/14049/14049/Sion.wad.client",
+          "size": 92402,
+          "sha256": "6392b1f52912733e5689702927825e5f2a3d3452de45de6fa9aca43cb8738cf3"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6118,
+          "bytes_after": 92402,
+          "replacement_hashes": [
+            "0384a071689ed20d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "0384a071689ed20d",
+            "border_hash": "00271aa6dbf1a6bd",
+            "bytes": 86252,
+            "sha256": "404683e8a5cec628146620e99b891208f378b93d5907398c9e98b83bcf5d76ad"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 142016,
+  "base_skin_id": 142009,
+  "champion_id": 142,
+  "name": "星之守护者 佐伊 迷魂魔女",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d7891b1ebc95a28b32ccf7a18c9dbf618fda677c6ae364df915e46969ebd88ba",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "142/142009/142016/142016.fantome",
+  "files": [
+    {
+      "path": "skins/142/142009/142016/Zoe.wad.client",
+      "size": 90514,
+      "sha256": "1ed646956d68d0e7db1ee3a5b5a5031112e2f912fcfa29f5c89e2af4f4917176"
+    }
+  ],
+  "wads": {
+    "Zoe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4230,
+      "bytes_after": 90514,
+      "replacement_hashes": [
+        "04bc9a1a03ed997c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zoe.wad.client",
+        "normal_hash": "04bc9a1a03ed997c",
+        "border_hash": "e0d25c8dc46db9f7",
+        "bytes": 86252,
+        "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

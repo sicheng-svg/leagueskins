@@ -1,0 +1,48 @@
+{
+  "skin_id": 14041,
+  "base_skin_id": 14040,
+  "champion_id": 14,
+  "name": "星界圣骑 赛恩 战神星魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "aa783ced3051e9a26153eb789aabd42e8679910bb8ad98a73cd0792a1ca5d38b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "14/14040/14041/14041.fantome",
+  "files": [
+    {
+      "path": "skins/14/14040/14041/Sion.wad.client",
+      "size": 3038,
+      "sha256": "0ec84154e32514a95bad620de996c2df7db2e71b287047dc8fc46ee700dc1949"
+    }
+  ],
+  "wads": {
+    "Sion.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3038,
+      "bytes_after": 3038,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

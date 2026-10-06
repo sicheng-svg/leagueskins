@@ -1,0 +1,355 @@
+{
+  "champion_id": 141,
+  "base_skin_id": 141008,
+  "name": "黑夜使者 凯隐",
+  "variants": [
+    {
+      "skin_id": 141008,
+      "base_skin_id": 141008,
+      "champion_id": 141,
+      "name": "黑夜使者 凯隐",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2e6595ac26420ef6802dcab3d4b788cf949fb38093b74aa77a141740451230bb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "141/141008/141008.fantome",
+      "files": [
+        {
+          "path": "skins/141/141008/141008/Kayn.wad.client",
+          "size": 94601,
+          "sha256": "29e6345fcf7ba62f453a1aeaec8fbcfee64539b80a37f0b35b4c1d3e69534b79"
+        }
+      ],
+      "wads": {
+        "Kayn.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8317,
+          "bytes_after": 94601,
+          "replacement_hashes": [
+            "5f16bda994bc8573"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayn.wad.client",
+            "normal_hash": "5f16bda994bc8573",
+            "border_hash": "db463e39423b9f2f",
+            "bytes": 86252,
+            "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 141010,
+      "base_skin_id": 141008,
+      "champion_id": 141,
+      "name": "黑夜使者 凯隐 血夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c63666c3dff3aa788724f11dab22636904045727971ed543350f1974b388278a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "141/141008/141010/141010.fantome",
+      "files": [
+        {
+          "path": "skins/141/141008/141010/Kayn.wad.client",
+          "size": 89942,
+          "sha256": "3263d919c646e917f2c2e916feb1f6301e68031c89044cc6860dc82a2e204216"
+        }
+      ],
+      "wads": {
+        "Kayn.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3658,
+          "bytes_after": 89942,
+          "replacement_hashes": [
+            "5f16bda994bc8573"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayn.wad.client",
+            "normal_hash": "5f16bda994bc8573",
+            "border_hash": "db463e39423b9f2f",
+            "bytes": 86252,
+            "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 141011,
+      "base_skin_id": 141008,
+      "champion_id": 141,
+      "name": "黑夜使者 凯隐 炎夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "95a75baffb00240a1d7b317ed4c66e97af10e192fe053e62f75084760fac6085",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "141/141008/141011/141011.fantome",
+      "files": [
+        {
+          "path": "skins/141/141008/141011/Kayn.wad.client",
+          "size": 89888,
+          "sha256": "2d333be41a0c154f636fced176dcd73771d299735881a3f7ed950d419168ab1d"
+        }
+      ],
+      "wads": {
+        "Kayn.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3604,
+          "bytes_after": 89888,
+          "replacement_hashes": [
+            "5f16bda994bc8573"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayn.wad.client",
+            "normal_hash": "5f16bda994bc8573",
+            "border_hash": "db463e39423b9f2f",
+            "bytes": 86252,
+            "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 141012,
+      "base_skin_id": 141008,
+      "champion_id": 141,
+      "name": "黑夜使者 凯隐 幻夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "964aae36733aa91a07ce3434ffe404605229c4c1583f46158aaaf97f0ff3c1a0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "141/141008/141012/141012.fantome",
+      "files": [
+        {
+          "path": "skins/141/141008/141012/Kayn.wad.client",
+          "size": 89889,
+          "sha256": "bbcf8f5a5d4e87f425740e88136512551368557af6c5c142c14affa61e4a63a7"
+        }
+      ],
+      "wads": {
+        "Kayn.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3605,
+          "bytes_after": 89889,
+          "replacement_hashes": [
+            "5f16bda994bc8573"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayn.wad.client",
+            "normal_hash": "5f16bda994bc8573",
+            "border_hash": "db463e39423b9f2f",
+            "bytes": 86252,
+            "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 141013,
+      "base_skin_id": 141008,
+      "champion_id": 141,
+      "name": "黑夜使者 凯隐 寒夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "26fc2c8ed757a1ec059697da911afcee44548307cebbdaba3e21237f5bf7bcab",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "141/141008/141013/141013.fantome",
+      "files": [
+        {
+          "path": "skins/141/141008/141013/Kayn.wad.client",
+          "size": 89891,
+          "sha256": "e8571002693ef67ba30fc289b74b14055af244ab90c36a9e234ad77211e0840a"
+        }
+      ],
+      "wads": {
+        "Kayn.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3607,
+          "bytes_after": 89891,
+          "replacement_hashes": [
+            "5f16bda994bc8573"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayn.wad.client",
+            "normal_hash": "5f16bda994bc8573",
+            "border_hash": "db463e39423b9f2f",
+            "bytes": 86252,
+            "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 141014,
+      "base_skin_id": 141008,
+      "champion_id": 141,
+      "name": "黑夜使者 凯隐 陨夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2a2498fb546136dfa54eb8175e303f4066e78ba1b3b08debe86b2e222c1cffa1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "141/141008/141014/141014.fantome",
+      "files": [
+        {
+          "path": "skins/141/141008/141014/Kayn.wad.client",
+          "size": 89946,
+          "sha256": "887dcefab5201d3cb2b5330ea82b781002c865fff16e778c573d87e671ec9c0b"
+        }
+      ],
+      "wads": {
+        "Kayn.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3662,
+          "bytes_after": 89946,
+          "replacement_hashes": [
+            "5f16bda994bc8573"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Kayn.wad.client",
+            "normal_hash": "5f16bda994bc8573",
+            "border_hash": "db463e39423b9f2f",
+            "bytes": 86252,
+            "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "skin_id": 134048,
+  "base_skin_id": 134044,
+  "champion_id": 134,
+  "name": "灵魂莲华 辛德拉 雪落",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b14df40fec6e4118d8416c1e28cdde174353673f308eabff2528e08ad7246105",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "134/134044/134048/134048.fantome",
+  "files": [
+    {
+      "path": "skins/134/134044/134048/Syndra.wad.client",
+      "size": 91963,
+      "sha256": "6e922eebad21f95532dd2b1a57ceb40c2deaba8fc0bd9bc7c9fca317a2036dad"
+    }
+  ],
+  "wads": {
+    "Syndra.wad.client": {
+      "entries_before": 3,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 5679,
+      "bytes_after": 91963,
+      "replacement_hashes": [
+        "c6f4f2bddf27cd6c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Syndra.wad.client",
+        "normal_hash": "c6f4f2bddf27cd6c",
+        "border_hash": "24df384de62648b6",
+        "bytes": 86252,
+        "sha256": "33e6b89130d8f69610a541978f062e9b398836174105286e2d7c6ab14213ba4f"
+      },
+      {
+        "archive": "Syndra.wad.client",
+        "normal_hash": "c6f4f2bddf27cd6c",
+        "border_hash": "24df384de62648b6",
+        "bytes": 86252,
+        "sha256": "33e6b89130d8f69610a541978f062e9b398836174105286e2d7c6ab14213ba4f"
+      },
+      {
+        "archive": "Syndra.wad.client",
+        "normal_hash": "c6f4f2bddf27cd6c",
+        "border_hash": "24df384de62648b6",
+        "bytes": 86252,
+        "sha256": "33e6b89130d8f69610a541978f062e9b398836174105286e2d7c6ab14213ba4f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

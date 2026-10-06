@@ -1,0 +1,66 @@
+{
+  "champion_id": 136,
+  "base_skin_id": 136038,
+  "name": "开天龙神 青花瓷 奥瑞利安 · 索尔",
+  "variants": [
+    {
+      "skin_id": 136038,
+      "base_skin_id": 136038,
+      "champion_id": 136,
+      "name": "开天龙神 青花瓷 奥瑞利安 · 索尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "115aeb149442c3a398f37d1f4d3c43b44b95cca032371c604c5c52859b6762ad",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "136/136038/136038.fantome",
+      "files": [
+        {
+          "path": "skins/136/136038/136038/AurelionSol.wad.client",
+          "size": 98387,
+          "sha256": "874cadc5f3df828b6395774d08ef1054efcd9650fbdef418021b5ecb5b9b58c1"
+        }
+      ],
+      "wads": {
+        "AurelionSol.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12103,
+          "bytes_after": 98387,
+          "replacement_hashes": [
+            "6f80a0be70ff3d25"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "AurelionSol.wad.client",
+            "normal_hash": "6f80a0be70ff3d25",
+            "border_hash": "ad067a1653b08fda",
+            "bytes": 86252,
+            "sha256": "8fa07139443f1cbe89549e8fabc6bc4e0c517bd892feda8925922f44ee64c24b",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

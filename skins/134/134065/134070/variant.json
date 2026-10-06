@@ -1,0 +1,48 @@
+{
+  "skin_id": 134070,
+  "base_skin_id": 134065,
+  "champion_id": 134,
+  "name": "点心宝贝 辛德拉 菠菜点心",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5af07fd814c5a312e3eaf7a3d737e610cce1be59199f83e295fba795609be1fc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "134/134065/134070/134070.fantome",
+  "files": [
+    {
+      "path": "skins/134/134065/134070/Syndra.wad.client",
+      "size": 5281,
+      "sha256": "f2199b09b6fd7cc25772ad59e072423cab34ebea42832cb1a7a7589d458a8035"
+    }
+  ],
+  "wads": {
+    "Syndra.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 5281,
+      "bytes_after": 5281,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

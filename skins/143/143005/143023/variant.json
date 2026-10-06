@@ -1,0 +1,79 @@
+{
+  "skin_id": 143023,
+  "base_skin_id": 143005,
+  "champion_id": 143,
+  "name": "魔女 婕拉 饕餮",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a58ba3c40e147aa48ebe3232a68f7158326ab9482c63b3a5e6da1bf9ee9139d8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "143/143005/143023/143023.fantome",
+  "files": [
+    {
+      "path": "skins/143/143005/143023/Zyra.wad.client",
+      "size": 92624,
+      "sha256": "d00e06d8fbeb2734b79264bdde665d3943dffcad91894895abbaa7afd6a2f477"
+    }
+  ],
+  "wads": {
+    "Zyra.wad.client": {
+      "entries_before": 4,
+      "entries_after": 5,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6340,
+      "bytes_after": 92624,
+      "replacement_hashes": [
+        "0ae4161c7c1e131c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "0ae4161c7c1e131c",
+        "border_hash": "5f402ed1deb7fce3",
+        "bytes": 86252,
+        "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+      },
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "0ae4161c7c1e131c",
+        "border_hash": "5f402ed1deb7fce3",
+        "bytes": 86252,
+        "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+      },
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "0ae4161c7c1e131c",
+        "border_hash": "5f402ed1deb7fce3",
+        "bytes": 86252,
+        "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+      },
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "0ae4161c7c1e131c",
+        "border_hash": "5f402ed1deb7fce3",
+        "bytes": 86252,
+        "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 22,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

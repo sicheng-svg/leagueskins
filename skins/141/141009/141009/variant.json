@@ -1,0 +1,58 @@
+{
+  "skin_id": 141009,
+  "base_skin_id": 141009,
+  "champion_id": 141,
+  "name": "至臻 黑夜使者 凯隐",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bff2bb3afc7eb771a66cb7282a018d4685bcab19929450c0bc6ec9d5c44fb613",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "141/141009/141009.fantome",
+  "files": [
+    {
+      "path": "skins/141/141009/141009/Kayn.wad.client",
+      "size": 94809,
+      "sha256": "1dc9f0be218604afbca04ade98f528742a6acb67525ad2b7001b32197087cfd9"
+    }
+  ],
+  "wads": {
+    "Kayn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8525,
+      "bytes_after": 94809,
+      "replacement_hashes": [
+        "bb1c56e42c15e393"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kayn.wad.client",
+        "normal_hash": "bb1c56e42c15e393",
+        "border_hash": "16379150d4ee0564",
+        "bytes": 86252,
+        "sha256": "6bfff84a550ddbe5d424a6b02c09f406f923b2945839c4549f5f1b2d55e87f80"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

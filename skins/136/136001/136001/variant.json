@@ -1,0 +1,48 @@
+{
+  "skin_id": 136001,
+  "base_skin_id": 136001,
+  "champion_id": 136,
+  "name": "灰烬领主 奥瑞利安·索尔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1c5eeff116b6cc03b142a959b65a784748a688a8df62db4773f1de69f7564169",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "136/136001/136001.fantome",
+  "files": [
+    {
+      "path": "skins/136/136001/136001/AurelionSol.wad.client",
+      "size": 9127,
+      "sha256": "a28d420b5d172add50fdabf1dbde8598efaef1000724076693b159a4de9eb4c6"
+    }
+  ],
+  "wads": {
+    "AurelionSol.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 9127,
+      "bytes_after": 9127,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

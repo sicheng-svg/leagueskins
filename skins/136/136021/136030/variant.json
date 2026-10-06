@@ -1,0 +1,58 @@
+{
+  "skin_id": 136030,
+  "base_skin_id": 136021,
+  "champion_id": 136,
+  "name": "墨影之灵 奥瑞利安 · 索尔 灵墨刻影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f1cf84dd3f14fd41efb2711e3f68c52b5992772abf6da0c9b8651ac8a8ea1934",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "136/136021/136030/136030.fantome",
+  "files": [
+    {
+      "path": "skins/136/136021/136030/AurelionSol.wad.client",
+      "size": 89782,
+      "sha256": "02be6935413b2aad408862099a1bf1ebea8e3b0bcc813c053c4badb7419f35c0"
+    }
+  ],
+  "wads": {
+    "AurelionSol.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3498,
+      "bytes_after": 89782,
+      "replacement_hashes": [
+        "245de68dbdf887bc"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "AurelionSol.wad.client",
+        "normal_hash": "245de68dbdf887bc",
+        "border_hash": "91cba145569a80e2",
+        "bytes": 86252,
+        "sha256": "6ab86df7267cf3eed02e7dea3a7136259553442852d38d688c0e80af33bb5781"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

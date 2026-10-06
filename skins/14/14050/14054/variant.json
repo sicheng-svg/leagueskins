@@ -1,0 +1,48 @@
+{
+  "skin_id": 14054,
+  "base_skin_id": 14050,
+  "champion_id": 14,
+  "name": "玛格丽特披萨大厨 赛恩 谁放的蓝莓？！",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "419a3b9a0a06ba367dec400c067f9287717d81d4aab86d02612a3473038d187a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "14/14050/14054/14054.fantome",
+  "files": [
+    {
+      "path": "skins/14/14050/14054/Sion.wad.client",
+      "size": 2955,
+      "sha256": "bdc7a3858baf6663eea368e027d722fa036e1a09083cdce5b22ab87f99fb3b12"
+    }
+  ],
+  "wads": {
+    "Sion.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2955,
+      "bytes_after": 2955,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

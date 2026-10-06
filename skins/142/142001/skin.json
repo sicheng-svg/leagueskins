@@ -1,0 +1,55 @@
+{
+  "champion_id": 142,
+  "base_skin_id": 142001,
+  "name": "赛博潮流 佐伊",
+  "variants": [
+    {
+      "skin_id": 142001,
+      "base_skin_id": 142001,
+      "champion_id": 142,
+      "name": "赛博潮流 佐伊",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9566b6cf9bb39a2156a09ed45bd9694e7ef1b7bdbdfead32362b6248632e2f28",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142001/142001.fantome",
+      "files": [
+        {
+          "path": "skins/142/142001/142001/Zoe.wad.client",
+          "size": 9484,
+          "sha256": "684998dea8ba51302cbbbe709a305e3b8b78425e40235568ec5698cc4a4e0bff"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 9484,
+          "bytes_after": 9484,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

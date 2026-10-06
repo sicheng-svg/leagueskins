@@ -1,0 +1,48 @@
+{
+  "skin_id": 143009,
+  "base_skin_id": 143007,
+  "champion_id": 143,
+  "name": "水晶玫瑰 婕拉 浪漫花蕾",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c39cb1a8f8e34f40d616221ad98af648ec55e71eae9422109533816d47c5f8d1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "143/143007/143009/143009.fantome",
+  "files": [
+    {
+      "path": "skins/143/143007/143009/Zyra.wad.client",
+      "size": 7952,
+      "sha256": "97c5f1bad120297f4fa690a73588cdd286cd7eef42f80c44fb948c4c2f4b65dc"
+    }
+  ],
+  "wads": {
+    "Zyra.wad.client": {
+      "entries_before": 5,
+      "entries_after": 5,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7952,
+      "bytes_after": 7952,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

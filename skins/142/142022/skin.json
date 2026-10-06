@@ -1,0 +1,594 @@
+{
+  "champion_id": 142,
+  "base_skin_id": 142022,
+  "name": "北极星守望者 佐伊",
+  "variants": [
+    {
+      "skin_id": 142022,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "42bc39933344f4692b88dad9bec7a45b7bd3713e075dad81eaa3fffdac270a9b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142022.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142022/Zoe.wad.client",
+          "size": 95918,
+          "sha256": "a76e92485d0985f3cb3c9f3de2970cbc586c63a1f30fbab056f441a315a9c44e"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 9634,
+          "bytes_after": 95918,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          },
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142023,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 激昂脉冲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1a4514b9d6156fd3870922d76349256fdbaa94bd581ad1ebad92b655ad88d358",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142023/142023.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142023/Zoe.wad.client",
+          "size": 90193,
+          "sha256": "159ac8c9d0c07666070abc9be1ff8f576434d5263696da9cf9f0037b2a8f4c3b"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3909,
+          "bytes_after": 90193,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142024,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 幸运漩涡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "07357d4eee17aad99f6350f1896a2acdd37f28aed456a922071ba45b4e6dd7ec",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142024/142024.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142024/Zoe.wad.client",
+          "size": 90139,
+          "sha256": "70670919a3fcebf3ac7c26036b907c83449342d939d86710a834f9596f143ac1"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3855,
+          "bytes_after": 90139,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142025,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 聪颖光弧",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1ce19bb5d3f8ac6d2589d8d05aaca0538d83e1f5043369355a731c22117986a0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142025/142025.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142025/Zoe.wad.client",
+          "size": 90139,
+          "sha256": "c260f72df04a35306f025cba2c1b91b24113af2412322fb430b6812999a6517f"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3855,
+          "bytes_after": 90139,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142026,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 幸福光晕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5de305d4c8a199dd30efbd9751943902cf480650b1e8e6353b5f49bbd5385a5a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142026/142026.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142026/Zoe.wad.client",
+          "size": 90139,
+          "sha256": "ad17a760ee3d94ecdb2c7a06721ba823bb9ce28eb6a13418d4db807eb02ff03f"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3855,
+          "bytes_after": 90139,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142027,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 祥和面纱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9a8fe1dc028e8c9834234b29b45ee2e2fc0d4f31f1df69fd1f64151b9629de62",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142027/142027.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142027/Zoe.wad.client",
+          "size": 90140,
+          "sha256": "1b771ada760a8f95f78f1d2048eea1919e4a29cb309cfa7f7be2d5e4c96a1279"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3856,
+          "bytes_after": 90140,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142028,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 浪漫帘幕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9501898c79bf97f3aafc90e5b3486a9a34b52c11d3d1150bfc475442dff620dd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142028/142028.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142028/Zoe.wad.client",
+          "size": 90160,
+          "sha256": "a0bcc0d12a9c9b7ed456d958b3ecc5c834239e2b57b1bea3a3d20aa9931de46e"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3876,
+          "bytes_after": 90160,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142029,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 智慧纽带",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ac9c5873d8e0c6ff3d828806a6b0b95be50eefd3140dc92437847425928ed936",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142029/142029.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142029/Zoe.wad.client",
+          "size": 90139,
+          "sha256": "1065d8876210d4f8032a912dad332f65c4ef4b1e80dfa7213fdec8bbb5697020"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3855,
+          "bytes_after": 90139,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142030,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 七彩光斑",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4bf5e43f404ab6229d36d3fac4622b251e4cceaf7e6588e52e4d661db638a3ba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142030/142030.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142030/Zoe.wad.client",
+          "size": 90144,
+          "sha256": "ba639a8ca0ed0de82c7e17476e3cd5ec1893c2ef9b6a48db2dd7a77c2517ef67"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3860,
+          "bytes_after": 90144,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142031,
+      "base_skin_id": 142022,
+      "champion_id": 142,
+      "name": "北极星守望者 佐伊 花冠极光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c81e9d7379ee91deae6355c4efb488995f072d0d0b23ca5ed36b67fa7e38f16b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142022/142031/142031.fantome",
+      "files": [
+        {
+          "path": "skins/142/142022/142031/Zoe.wad.client",
+          "size": 90193,
+          "sha256": "14fec16f4774fa54c87addeab9a092d56fe587aa2f7078095058c2c9dc36170f"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3909,
+          "bytes_after": 90193,
+          "replacement_hashes": [
+            "630d56669ff4b414"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "630d56669ff4b414",
+            "border_hash": "bd443f0d2b5d26bd",
+            "bytes": 86252,
+            "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

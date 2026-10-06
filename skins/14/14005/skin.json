@@ -1,0 +1,529 @@
+{
+  "champion_id": 14,
+  "base_skin_id": 14005,
+  "name": "霸天零式 赛恩",
+  "variants": [
+    {
+      "skin_id": 14005,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bba0c461caf589e7868f56ed2136824981abedadb6f5c53d99c25f70c831a8e2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14005.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14005/Sion.wad.client",
+          "size": 93866,
+          "sha256": "9cb7dff57522acb7dcb62ca149ad62cb7e79b5fe2f613fa4b98bbbffb731287d"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7582,
+          "bytes_after": 93866,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14006,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 赤红战意",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6e7a0f40944ace711364c64a517c3f8b5aff1ad14914ef45fb0b360c57e37e42",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14006/14006.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14006/Sion.wad.client",
+          "size": 89278,
+          "sha256": "f8ab72b8c8c33be58c86d8f2d790c2bbf377769d6d2b965aee5204d629902b98"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2994,
+          "bytes_after": 89278,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14007,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 终极雪崩",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "040d9a45722e919d32502c16d00b4c921321c4a69330badd344a2bc5a2fd3a5d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14007/14007.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14007/Sion.wad.client",
+          "size": 89280,
+          "sha256": "c0f088365e9e62729382b436a1dce26719acce2bc4986cb96f6847a4c85de687"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2996,
+          "bytes_after": 89280,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14008,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 湮灭狂潮",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9914815da4d34f515a5e06aefaac9e63b3d1b45badbada55196d01b2b3d50c12",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14008/14008.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14008/Sion.wad.client",
+          "size": 89279,
+          "sha256": "b27c094e27ae6d46af1b33e0a41368554334889eb7e8897e49968be0c59370a2"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2995,
+          "bytes_after": 89279,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14009,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 毁灭余晖",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f3d5f1bbb58e6f6f15fbf12c5e251661d175921d5e1da59733be5a0472007e20",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14009/14009.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14009/Sion.wad.client",
+          "size": 89279,
+          "sha256": "b92d8f7fd5ccd1b3b277746f971666d420aa17fbcaf7e5883e7664ab36f7d95c"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2995,
+          "bytes_after": 89279,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14010,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 白金意志",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "26913f2175dfc236699d5892e87372c7b0fd4c9e7cabc80363b727c0015c3026",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14010/14010.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14010/Sion.wad.client",
+          "size": 89279,
+          "sha256": "4e5539d40debc640ea5c51225686a543a465a947dac788e647376139d407b839"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2995,
+          "bytes_after": 89279,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14011,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 主宰威能",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "43cbc2de7a44eaeacc7db1255c102b6031ff337386410e8b52c3f095d5be6e9e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14011/14011.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14011/Sion.wad.client",
+          "size": 89278,
+          "sha256": "7d83c39e07f38e9ceb7bf6d9735adfd61a0f8433e70eb43203ad6d3bf955a799"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2994,
+          "bytes_after": 89278,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14012,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 黑金霸权",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6e4a5e903b0ecaafa2be5ecabaf43fd4e0685e5daeeabc710033a5c269d29b55",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14012/14012.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14012/Sion.wad.client",
+          "size": 89277,
+          "sha256": "db6ac2f7e25064f672a18faf744f7db16dffb574ca1f40f702c787988badcf19"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2993,
+          "bytes_after": 89277,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 14013,
+      "base_skin_id": 14005,
+      "champion_id": 14,
+      "name": "霸天零式 赛恩 炽焰流星",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c826c4329057aafa114a9ccf903fb549bca8a7078dd1cbce384d0de285d805d0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14005/14013/14013.fantome",
+      "files": [
+        {
+          "path": "skins/14/14005/14013/Sion.wad.client",
+          "size": 89280,
+          "sha256": "57330ccc8c3db535eb01a34ec468c234de318b7d4a644d07034e08b0618f86fb"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2996,
+          "bytes_after": 89280,
+          "replacement_hashes": [
+            "9f81ac2026a9a345"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sion.wad.client",
+            "normal_hash": "9f81ac2026a9a345",
+            "border_hash": "317cee50abc78fee",
+            "bytes": 86252,
+            "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

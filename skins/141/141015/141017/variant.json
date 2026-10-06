@@ -1,0 +1,48 @@
+{
+  "skin_id": 141017,
+  "base_skin_id": 141015,
+  "champion_id": 141,
+  "name": "净雪之月 凯隐 化墨",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7ef50f21900f2278d30c0ef473d318c7ba7af64bfc29c150b0b865711ebebd3d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "141/141015/141017/141017.fantome",
+  "files": [
+    {
+      "path": "skins/141/141015/141017/Kayn.wad.client",
+      "size": 3607,
+      "sha256": "f23075f01039872d00313d602500e40683a3c6e80cb2b5b114d4d5c1cfb311eb"
+    }
+  ],
+  "wads": {
+    "Kayn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3607,
+      "bytes_after": 3607,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

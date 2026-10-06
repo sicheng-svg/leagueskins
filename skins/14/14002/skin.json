@@ -1,0 +1,55 @@
+{
+  "champion_id": 14,
+  "base_skin_id": 14002,
+  "name": "武仙座海格力斯 赛恩",
+  "variants": [
+    {
+      "skin_id": 14002,
+      "base_skin_id": 14002,
+      "champion_id": 14,
+      "name": "武仙座海格力斯 赛恩",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "413d7e5590d711439f44bd933f42977c55cacc4b6cf5f2e38741c3ea4dfbf0f4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "14/14002/14002.fantome",
+      "files": [
+        {
+          "path": "skins/14/14002/14002/Sion.wad.client",
+          "size": 3613,
+          "sha256": "a218debeae003ef5371645de32f9738d35b4ba92d8fec1f1f65c63676727697b"
+        }
+      ],
+      "wads": {
+        "Sion.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3613,
+          "bytes_after": 3613,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

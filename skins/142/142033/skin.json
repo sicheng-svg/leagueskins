@@ -1,0 +1,594 @@
+{
+  "champion_id": 142,
+  "base_skin_id": 142033,
+  "name": "暗星 佐伊",
+  "variants": [
+    {
+      "skin_id": 142033,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f49f1c146e8b40f9e38bc0c717f50f138d73245b48b1bad2431f6a554cf6bcc0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142033.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142033/Zoe.wad.client",
+          "size": 96399,
+          "sha256": "3e4fd198704dea59515a64806b0f648439cdc6785ac2ac397c5072676448afb9"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 10115,
+          "bytes_after": 96399,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          },
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142034,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 战神星之爆",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d23920be5844d9b33c9bf07874bbea284f36b158f3946b1c70e2b78b00c5f063",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142034/142034.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142034/Zoe.wad.client",
+          "size": 90296,
+          "sha256": "0d4a04982d5602f38f44083cad6c684e3ffa27b7ff141b2f45e24df3df30aab2"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4012,
+          "bytes_after": 90296,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142035,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 爱神星之怨",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c0223ab8a9639d9fd7b6f7c83f0a83dba304a2df560fe2c621e10b7eb29dcf66",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142035/142035.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142035/Zoe.wad.client",
+          "size": 90239,
+          "sha256": "0ccd9ae4ad8e813012e053d78418a915c067eff9aa63ccbe5ba2ac8a936db287"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3955,
+          "bytes_after": 90239,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142036,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 智神星之嫉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0d44f585da3e37ef3356a383f4bcaa6af195f79e8708c539cd484b510f78bf8e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142036/142036.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142036/Zoe.wad.client",
+          "size": 90242,
+          "sha256": "522afa03f2f6fd64c0693c5edbfdd2586fc1966c74a7996ff07926c06ac20850"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3958,
+          "bytes_after": 90242,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142037,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 美神星之灭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2a905f92ec829042ad1610a0277abc3e742dc0e36bff2b999c789bfd1dcc14b3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142037/142037.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142037/Zoe.wad.client",
+          "size": 90262,
+          "sha256": "7bfc20e1db8a597703ce131c552bad5de167c3360b872beaafad77ef9e43e56a"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3978,
+          "bytes_after": 90262,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142038,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 天神星之陨",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aa0b96eacc98c51ef38a7c4885424a6cdec337ca7f1d2bc0095ac51abc2cb69b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142038/142038.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142038/Zoe.wad.client",
+          "size": 90240,
+          "sha256": "b8b152be8c2c01d0348314ba415ae494b4a40a9ac46f114e786dc0f72f44be9b"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3956,
+          "bytes_after": 90240,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142039,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 主神星之黯",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "902dd5f4f8aa374d1a688af8fca01d6df3b7614ddec2ca489543f94fcc6e9099",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142039/142039.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142039/Zoe.wad.client",
+          "size": 90239,
+          "sha256": "90bebb3bb3ed3b73aa083b1eed68d0064c786c4b36fa0196af0e9fc171bc6984"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3955,
+          "bytes_after": 90239,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142040,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 夜神星之休",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eb59ae3869dc045b0a7558877c3bca36b5aa51cff32f8db8ff273d8e485dd3ff",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142040/142040.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142040/Zoe.wad.client",
+          "size": 90245,
+          "sha256": "2fe7d7cc33d85747ed90d66de349195e8b270d33e9181a79d0947fdfef6293d0"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3961,
+          "bytes_after": 90245,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142041,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 猎神星之败",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d6220d1db77518e57414c799b2121e0c27019363c06b9c21cd99357f3b99d6db",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142041/142041.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142041/Zoe.wad.client",
+          "size": 90241,
+          "sha256": "229d007dfd83f253460651818353bcc9ece976c536597ec605a97b5f51a68c2f"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3957,
+          "bytes_after": 90241,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142042,
+      "base_skin_id": 142033,
+      "champion_id": 142,
+      "name": "暗星 佐伊 类星体",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "54fb1bae70ede6a946e35853a86fa6c0fe8c1d85f6c423eca12bbf2f54a02aa3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142033/142042/142042.fantome",
+      "files": [
+        {
+          "path": "skins/142/142033/142042/Zoe.wad.client",
+          "size": 90297,
+          "sha256": "8499727be8769fd99037d2dcb41c01a07219c2fc41391ff087c52907a2170838"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4013,
+          "bytes_after": 90297,
+          "replacement_hashes": [
+            "2756cbde9bd23a22"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "2756cbde9bd23a22",
+            "border_hash": "4594d38c3ec11e38",
+            "bytes": 86252,
+            "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "champion_id": 134,
+  "base_skin_id": 134025,
+  "name": "魅惑女巫 辛德拉",
+  "variants": [
+    {
+      "skin_id": 134025,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9e012d34e624daa7afd3274195c4c2b141dcf3bd207353a63f2ce253feecfc6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134025.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134025/Syndra.wad.client",
+          "size": 94735,
+          "sha256": "41d85b7ac2edfca1ff38165b63bccd0c3b28580d026d4eccafbe3c22ce8f0d69"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 8451,
+          "bytes_after": 94735,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          },
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          },
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134026,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 热情化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "521d32dfbea2543faf069be6f4a0a24fb0e9cdd1637ce3fb1bfc19ab285de34d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134026/134026.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134026/Syndra.wad.client",
+          "size": 89081,
+          "sha256": "7463a2fe6ee49c29cc428105302b6a28dab567395ae0fa4d57adad51ee60f1d6"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2797,
+          "bytes_after": 89081,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134027,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 清新化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d4f4462165e3979f42968d3651d4bfa5da1cde3013396159a647bb1ae1463015",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134027/134027.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134027/Syndra.wad.client",
+          "size": 89043,
+          "sha256": "f08e42b863ad6a7705d7f74e49a03934ea73c0e702d75318e2547425ff8696f2"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2759,
+          "bytes_after": 89043,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134028,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 青春化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7a9d10454f3076f89673f59a4b1e8cd02dd9134eab9d7c7adc962f1200a22cd7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134028/134028.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134028/Syndra.wad.client",
+          "size": 89044,
+          "sha256": "01ee48e6d2065b03424b0d4de1a9264af9f4e50ed8e74cb66c2d1f90c8d5430e"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2760,
+          "bytes_after": 89044,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134029,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 浪漫化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d3fbbbdefe580c2a8bea919931919eea2f2b36f5081b9f7691d183a1d1f04651",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134029/134029.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134029/Syndra.wad.client",
+          "size": 89054,
+          "sha256": "5f0053dabb8b5770a5ebe09b909046fd204fbfc71462193c9acace37a42eda55"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2770,
+          "bytes_after": 89054,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134030,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 典雅化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3045269c4a811d8c14d9facd06ce9ae58aff070160c24eb97f58cae01d2b37a9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134030/134030.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134030/Syndra.wad.client",
+          "size": 89049,
+          "sha256": "2df8ec6910b163bf87a9c0dc4b50d9cb2142fd3e9dc86cf755716c201570be67"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2765,
+          "bytes_after": 89049,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134031,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 知性化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "87ed1bd37d8c2a44209ae2684551700a3c05062b3e24a517f83b936325ff4d8c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134031/134031.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134031/Syndra.wad.client",
+          "size": 89048,
+          "sha256": "d607c19913b6f8c4ed168bae022a4bfaa55ac3f30e86ae6480797ef0a9b688bf"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2764,
+          "bytes_after": 89048,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134032,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 纯真化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3290f8011d7c05dd9da61a4cebbde50b16eabbd91bdb976e4891ca67e09d4a53",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134032/134032.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134032/Syndra.wad.client",
+          "size": 89046,
+          "sha256": "b7c048811bb4dc88844fc51839a845676dadfb852a36e17900d893cbff0f4062"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2762,
+          "bytes_after": 89046,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134033,
+      "base_skin_id": 134025,
+      "champion_id": 134,
+      "name": "魅惑女巫 辛德拉 高冷化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7cf40f7af104b464d688ff03671be25e759f59feeb79740f17e931f7ebef1017",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134025/134033/134033.fantome",
+      "files": [
+        {
+          "path": "skins/134/134025/134033/Syndra.wad.client",
+          "size": 89045,
+          "sha256": "ac9ac2d21f2ca09e972cf31c24ceffb57489b9bf5e80b0b172b714bca056d4e9"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2761,
+          "bytes_after": 89045,
+          "replacement_hashes": [
+            "63f059a4f45baf21"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "63f059a4f45baf21",
+            "border_hash": "aae4b949f52839b2",
+            "bytes": 86252,
+            "sha256": "1ee305d72bb9c2551bfafd18dc83c749e21e919512f20af05ce347663db8e513"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

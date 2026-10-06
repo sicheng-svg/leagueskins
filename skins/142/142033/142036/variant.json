@@ -1,0 +1,58 @@
+{
+  "skin_id": 142036,
+  "base_skin_id": 142033,
+  "champion_id": 142,
+  "name": "暗星 佐伊 智神星之嫉",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0d44f585da3e37ef3356a383f4bcaa6af195f79e8708c539cd484b510f78bf8e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "142/142033/142036/142036.fantome",
+  "files": [
+    {
+      "path": "skins/142/142033/142036/Zoe.wad.client",
+      "size": 90242,
+      "sha256": "522afa03f2f6fd64c0693c5edbfdd2586fc1966c74a7996ff07926c06ac20850"
+    }
+  ],
+  "wads": {
+    "Zoe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3958,
+      "bytes_after": 90242,
+      "replacement_hashes": [
+        "2756cbde9bd23a22"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zoe.wad.client",
+        "normal_hash": "2756cbde9bd23a22",
+        "border_hash": "4594d38c3ec11e38",
+        "bytes": 86252,
+        "sha256": "0704ed5bd9639203094af435df02f3e73b104b7a50c8f16d9556705b7706d1e1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

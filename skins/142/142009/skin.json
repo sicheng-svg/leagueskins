@@ -1,0 +1,536 @@
+{
+  "champion_id": 142,
+  "base_skin_id": 142009,
+  "name": "星之守护者 佐伊",
+  "variants": [
+    {
+      "skin_id": 142009,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e8a0e0e3023ff7059e9cf0f116cb2d500cb828675acf2909df9dd850f9cd118",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142009.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142009/Zoe.wad.client",
+          "size": 97450,
+          "sha256": "f1913e7592dced19af22880a8d698187d39a7eee8043b24d5a5a69e4076344d3"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 11166,
+          "bytes_after": 97450,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          },
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142010,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 凋零魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "33584124923e8305781bfbb4353e8925e1034877f877b8c6cd735648739cd66d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142010/142010.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142010/Zoe.wad.client",
+          "size": 90518,
+          "sha256": "a9da3dbf974a36e15b3af2f1cea08c41b79e9f8d7e36bbd2cb7d311c1a5e88bd"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4234,
+          "bytes_after": 90518,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142011,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 幻梦魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "17c736f0bbeacda8efb0d601d3057f9f2329e0713be0bdc95d199c9796f18c0f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142011/142011.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142011/Zoe.wad.client",
+          "size": 90516,
+          "sha256": "8fe7e7730c54201795f13f93d99f0c2be6ac6231a1905a7a9ef132dc9c2fcb63"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4232,
+          "bytes_after": 90516,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142012,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 腐朽魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1804781e6f4c5cd935b3c22241defb8f00783a0dc13540a7487f5f1bc337e621",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142012/142012.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142012/Zoe.wad.client",
+          "size": 90515,
+          "sha256": "2651c30d93ce8809dda586a0393601471f2fe58920386c18d6c7ea28d74a8e3c"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4231,
+          "bytes_after": 90515,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142013,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 枯萎魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6873d3f18ae258571a720c5425be7ae86da3a6d5b5638003aa0e70765f26bec0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142013/142013.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142013/Zoe.wad.client",
+          "size": 90513,
+          "sha256": "4bcb8364b08f85ffc48178f72b26203b1272e97322c6bb90a23dc925a5edfbd9"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4229,
+          "bytes_after": 90513,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142014,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 深寒魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c67f551357ab45aa7ff8761dc948948e961923f2244ac9504a07228d4ce81bd3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142014/142014.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142014/Zoe.wad.client",
+          "size": 90516,
+          "sha256": "aa641fe3e23f15ae9057cab6892250b2de582f819247dff76a815dd46f8dffe7"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4232,
+          "bytes_after": 90516,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142015,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 灼热魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eb8f48f2ef8d3ad728afa20486474f4375ad47cb2b1518cbbafb77102060b8a9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142015/142015.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142015/Zoe.wad.client",
+          "size": 90567,
+          "sha256": "84c22f498fe44159f7340020c283ffccc3989fb445ae2adba015439b8ec66a50"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4283,
+          "bytes_after": 90567,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142016,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 迷魂魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d7891b1ebc95a28b32ccf7a18c9dbf618fda677c6ae364df915e46969ebd88ba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142016/142016.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142016/Zoe.wad.client",
+          "size": 90514,
+          "sha256": "1ed646956d68d0e7db1ee3a5b5a5031112e2f912fcfa29f5c89e2af4f4917176"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4230,
+          "bytes_after": 90514,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142017,
+      "base_skin_id": 142009,
+      "champion_id": 142,
+      "name": "星之守护者 佐伊 原初魔女",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "631b330b8efe28857322f7e2a37d66e62de93864f61cc0db6663ec23b61fe786",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142009/142017/142017.fantome",
+      "files": [
+        {
+          "path": "skins/142/142009/142017/Zoe.wad.client",
+          "size": 90570,
+          "sha256": "833947a0b09240429efb1c46ce9810b278204ca730314dc0b9f9e789bf8fab6b"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4286,
+          "bytes_after": 90570,
+          "replacement_hashes": [
+            "04bc9a1a03ed997c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "04bc9a1a03ed997c",
+            "border_hash": "e0d25c8dc46db9f7",
+            "bytes": 86252,
+            "sha256": "3f78693b6803f8ea0894e808e7d0ae0dd395bc3987477da34557af51c6d94962"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

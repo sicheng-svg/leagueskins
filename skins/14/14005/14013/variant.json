@@ -1,0 +1,58 @@
+{
+  "skin_id": 14013,
+  "base_skin_id": 14005,
+  "champion_id": 14,
+  "name": "霸天零式 赛恩 炽焰流星",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c826c4329057aafa114a9ccf903fb549bca8a7078dd1cbce384d0de285d805d0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "14/14005/14013/14013.fantome",
+  "files": [
+    {
+      "path": "skins/14/14005/14013/Sion.wad.client",
+      "size": 89280,
+      "sha256": "57330ccc8c3db535eb01a34ec468c234de318b7d4a644d07034e08b0618f86fb"
+    }
+  ],
+  "wads": {
+    "Sion.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2996,
+      "bytes_after": 89280,
+      "replacement_hashes": [
+        "9f81ac2026a9a345"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sion.wad.client",
+        "normal_hash": "9f81ac2026a9a345",
+        "border_hash": "317cee50abc78fee",
+        "bytes": 86252,
+        "sha256": "68dc1f629d611431bc27687906627c5d60485ff4459e9f5cfb6df61e104e0048"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

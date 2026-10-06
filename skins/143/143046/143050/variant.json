@@ -1,0 +1,48 @@
+{
+  "skin_id": 143050,
+  "base_skin_id": 143046,
+  "champion_id": 143,
+  "name": "妖怪艺术家 婕拉 碧荷",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ad081587563c6628ac3ee36a43f5766139d906ed80e62e77b1367ea871591ab6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "143/143046/143050/143050.fantome",
+  "files": [
+    {
+      "path": "skins/143/143046/143050/Zyra.wad.client",
+      "size": 7612,
+      "sha256": "f997bd6e3fc43bb39c005696e5c77a9701ff6e20c27a6030bade46d602194929"
+    }
+  ],
+  "wads": {
+    "Zyra.wad.client": {
+      "entries_before": 5,
+      "entries_after": 5,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7612,
+      "bytes_after": 7612,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

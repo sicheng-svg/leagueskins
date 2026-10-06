@@ -1,0 +1,48 @@
+{
+  "skin_id": 14028,
+  "base_skin_id": 14022,
+  "champion_id": 14,
+  "name": "黯晶战神 赛恩 凝结之魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "af4a42a01eaf030544a9f3487633b309d3854a75ea3b1b51b641aa85d59d5334",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "14/14022/14028/14028.fantome",
+  "files": [
+    {
+      "path": "skins/14/14022/14028/Sion.wad.client",
+      "size": 2832,
+      "sha256": "b07fbf097397556cbac51f1fdd94ecc9be99507929992cf0fdcbf94981e0f656"
+    }
+  ],
+  "wads": {
+    "Sion.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2832,
+      "bytes_after": 2832,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

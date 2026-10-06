@@ -1,0 +1,58 @@
+{
+  "skin_id": 14031,
+  "base_skin_id": 14030,
+  "champion_id": 14,
+  "name": "西部魔影 合成天使 赛恩 温和",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "09dcb952c5fe36b090f1ee7a432b93f089d9771387462160cd1d4e4ebe9de01a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "14/14030/14031/14031.fantome",
+  "files": [
+    {
+      "path": "skins/14/14030/14031/Sion.wad.client",
+      "size": 89313,
+      "sha256": "d83c26ffe7e07deee01e191d7b2551cbea3e1d3702e10c5a90680d4e7bc12d54"
+    }
+  ],
+  "wads": {
+    "Sion.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3029,
+      "bytes_after": 89313,
+      "replacement_hashes": [
+        "7ea66218304858f0"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sion.wad.client",
+        "normal_hash": "7ea66218304858f0",
+        "border_hash": "a8091f45660ca4bd",
+        "bytes": 86252,
+        "sha256": "c42089dea1eb57af58b8c1d94c0ec2cfa56ee0a894380752fdb85b55f3495439"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "champion_id": 142,
+  "base_skin_id": 142043,
+  "name": "至臻 永恒星灵 佐伊",
+  "variants": [
+    {
+      "skin_id": 142043,
+      "base_skin_id": 142043,
+      "champion_id": 142,
+      "name": "至臻 永恒星灵 佐伊",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e4f8881ebb3a616cb1177bb6221b7e95b76e7d4ea40a5fe7349505351deb3380",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142043/142043.fantome",
+      "files": [
+        {
+          "path": "skins/142/142043/142043/Zoe.wad.client",
+          "size": 96818,
+          "sha256": "eb4931059d5f1fcc481be97edd7c7ef91aa3d892f1293172fda26117167ec497"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 10534,
+          "bytes_after": 96818,
+          "replacement_hashes": [
+            "115c11ec2e3696fe"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "115c11ec2e3696fe",
+            "border_hash": "59dcffdc80dbc811",
+            "bytes": 86252,
+            "sha256": "f7a0394c27ac5b5f2342247b6b72d5588488b0b9c51c288fdcef7adb9c3e0abc"
+          },
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "115c11ec2e3696fe",
+            "border_hash": "59dcffdc80dbc811",
+            "bytes": 86252,
+            "sha256": "f7a0394c27ac5b5f2342247b6b72d5588488b0b9c51c288fdcef7adb9c3e0abc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 142044,
+      "base_skin_id": 142043,
+      "champion_id": 142,
+      "name": "至臻 永恒星灵 佐伊 全开",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "31c4f2e1cb314968c9b1de936abf808eeb2c984c76411a16ed50ff8d19ac971f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "142/142043/142044/142044.fantome",
+      "files": [
+        {
+          "path": "skins/142/142043/142044/Zoe.wad.client",
+          "size": 90412,
+          "sha256": "a7dfe06b9ed88ba27906af1486cda2dbda94c74d06346a8ec88fa315651016f7"
+        }
+      ],
+      "wads": {
+        "Zoe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4128,
+          "bytes_after": 90412,
+          "replacement_hashes": [
+            "115c11ec2e3696fe"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zoe.wad.client",
+            "normal_hash": "115c11ec2e3696fe",
+            "border_hash": "59dcffdc80dbc811",
+            "bytes": 86252,
+            "sha256": "f7a0394c27ac5b5f2342247b6b72d5588488b0b9c51c288fdcef7adb9c3e0abc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

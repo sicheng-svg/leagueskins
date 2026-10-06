@@ -1,0 +1,58 @@
+{
+  "skin_id": 136035,
+  "base_skin_id": 136031,
+  "champion_id": 136,
+  "name": "青花瓷 奥瑞利安 · 索尔 墨色",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "48ce9b4c0b2408758f0ae4005491141f32e9f6d0d6437ce112eaf7b737922b18",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "136/136031/136035/136035.fantome",
+  "files": [
+    {
+      "path": "skins/136/136031/136035/AurelionSol.wad.client",
+      "size": 90541,
+      "sha256": "44a491793d5420309e6e553f4bfba344c4b87a53483218f2a7af6d36b97b716f"
+    }
+  ],
+  "wads": {
+    "AurelionSol.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4257,
+      "bytes_after": 90541,
+      "replacement_hashes": [
+        "7b6bc4aa25b537c4"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "AurelionSol.wad.client",
+        "normal_hash": "7b6bc4aa25b537c4",
+        "border_hash": "9983e8d79488a37d",
+        "bytes": 86252,
+        "sha256": "4e22b0c25648ea00871f0d6275b7c8d132c0141e25badfbe709c70f4d07bf739"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

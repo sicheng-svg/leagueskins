@@ -1,0 +1,86 @@
+{
+  "skin_id": 143070,
+  "base_skin_id": 143064,
+  "champion_id": 143,
+  "name": "灵魂莲华 婕拉 星回",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "77af442c3777477907b8e4b6e4e8b8d948afedd981697834f6b06629c777a9b9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "143/143064/143070/143070.fantome",
+  "files": [
+    {
+      "path": "skins/143/143064/143070/Zyra.wad.client",
+      "size": 94787,
+      "sha256": "e3b7f85240545de42aa67130ebae54f7a2c17ed49116847cc0bc15e99ff1400d"
+    }
+  ],
+  "wads": {
+    "Zyra.wad.client": {
+      "entries_before": 5,
+      "entries_after": 6,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 8503,
+      "bytes_after": 94787,
+      "replacement_hashes": [
+        "699b80211bd87327"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "699b80211bd87327",
+        "border_hash": "3e596ec764b298e1",
+        "bytes": 86252,
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+      },
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "699b80211bd87327",
+        "border_hash": "3e596ec764b298e1",
+        "bytes": 86252,
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+      },
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "699b80211bd87327",
+        "border_hash": "3e596ec764b298e1",
+        "bytes": 86252,
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+      },
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "699b80211bd87327",
+        "border_hash": "3e596ec764b298e1",
+        "bytes": 86252,
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+      },
+      {
+        "archive": "Zyra.wad.client",
+        "normal_hash": "699b80211bd87327",
+        "border_hash": "3e596ec764b298e1",
+        "bytes": 86252,
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

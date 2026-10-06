@@ -1,0 +1,587 @@
+{
+  "champion_id": 901,
+  "base_skin_id": 901001,
+  "name": "天龙之子 斯莫德",
+  "variants": [
+    {
+      "skin_id": 901001,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0044564c190682dcdecbe2404a15c11effc2afbf05583da36929724b1e6faca4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901001.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901001/Smolder.wad.client",
+          "size": 94075,
+          "sha256": "a8f30f20f86b7b90a5bd7cb4762bba9c9110259744450568517806d6fb9ea612"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7791,
+          "bytes_after": 94075,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901002,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 龙马精神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4abc0ed4f687c9fa59e33946366508b8e2113e7cb91a7b6493d44068463526ea",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901002/901002.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901002/Smolder.wad.client",
+          "size": 89311,
+          "sha256": "1b0c0ba6c8347dacd6d0b87c77eaf6db8d4ba0b8c348a8ab84b199f789655492"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3027,
+          "bytes_after": 89311,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901003,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 龙飞凤翔",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d6d2953aebc26a0a12f0fd183fcf16f3889dceb19ed236ff8b5734e6ac310e29",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901003/901003.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901003/Smolder.wad.client",
+          "size": 89266,
+          "sha256": "9aa672fc1f96df5fa66117a236ed02ca9e18dbab36bf677d6dad95e0d96a4e33"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2982,
+          "bytes_after": 89266,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901004,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 龙驹凤雏",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8a9aa4b0bba8712a9b43693194174e3a708b4b99665e2cdc1cec9fa691e3ff7d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901004/901004.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901004/Smolder.wad.client",
+          "size": 89268,
+          "sha256": "4cae311c1720693b8fc4714ce08e404120dcbde921716dfeb50ef62f0f0ab7ac"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2984,
+          "bytes_after": 89268,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901005,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 龙腾四海",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0ed909501ff25c25e0933a09fc1e496b25fc6bef6834235641dad87b52fffb3a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901005/901005.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901005/Smolder.wad.client",
+          "size": 89266,
+          "sha256": "c9e7ca6f618bed11a510896adc9940ae588957b05bf91b51ca27bd2e5cd9b372"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2982,
+          "bytes_after": 89266,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901006,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 苍龙出海",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e07dd7d50a583bf386b455c77db935f3266882f0760c0d0bf39cdbc3be2b132",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901006/901006.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901006/Smolder.wad.client",
+          "size": 89268,
+          "sha256": "4a660163525c230b604fc9f2318f13305b6b173e68d26a80a0ecbe4bc7291e59"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2984,
+          "bytes_after": 89268,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901007,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 玉龙舞夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "91c9deeeeed0cdff06c7597456d84d73a369bccee7284d27e67740eff6fa596d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901007/901007.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901007/Smolder.wad.client",
+          "size": 89266,
+          "sha256": "265061d579b8feae8accda2196b20f2329f35073086f76c7587b0e4238052b1a"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2982,
+          "bytes_after": 89266,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901008,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 龙行虎步",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5a9a41d4ba3e26d935e4e1335fd2c468e191e9cc060a405900157a2a04560619",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901008/901008.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901008/Smolder.wad.client",
+          "size": 89268,
+          "sha256": "563247e0c325f19e123e3d5aad670b54eeccf2c4bc291cf15f7318a1b347bdc5"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2984,
+          "bytes_after": 89268,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901009,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 云起龙骧",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9dffa57f4619641b28b8e109355f44ddd42319e8be3139c17646b283c808e1a7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901009/901009.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901009/Smolder.wad.client",
+          "size": 89266,
+          "sha256": "acb831551cb2a88a44e613f051937561dd7805b31ec064cdc852527de91a7fe0"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2982,
+          "bytes_after": 89266,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 901010,
+      "base_skin_id": 901001,
+      "champion_id": 901,
+      "name": "天龙之子 斯莫德 赫赫龙威",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3185496816aee40de662658a1e9f782e0653fe889af6624837afd0aa7bb6fd1a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "901/901001/901010/901010.fantome",
+      "files": [
+        {
+          "path": "skins/901/901001/901010/Smolder.wad.client",
+          "size": 89310,
+          "sha256": "447e4fe7cf4acf6436727aa372243a840e6dfadcb431409433a583b4c2230088"
+        }
+      ],
+      "wads": {
+        "Smolder.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3026,
+          "bytes_after": 89310,
+          "replacement_hashes": [
+            "033f1bdc9baaeb99"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Smolder.wad.client",
+            "normal_hash": "033f1bdc9baaeb99",
+            "border_hash": "c4b650891c25fe5a",
+            "bytes": 86252,
+            "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

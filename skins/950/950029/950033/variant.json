@@ -1,0 +1,65 @@
+{
+  "skin_id": 950033,
+  "base_skin_id": 950029,
+  "champion_id": 950,
+  "name": "银焰骑士 纳亚菲利 青焰蛮牙",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "eda31fe598a6ecbf56f547212fdb025ea807c38ea0ff2b7f90a05a87e323c8e9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "950/950029/950033/950033.fantome",
+  "files": [
+    {
+      "path": "skins/950/950029/950033/Naafiri.wad.client",
+      "size": 89993,
+      "sha256": "6eee59c9f6c36b10de2ebacabd7c83da8c0bf045ef690d58d81e8bd22e59bb1d"
+    }
+  ],
+  "wads": {
+    "Naafiri.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3709,
+      "bytes_after": 89993,
+      "replacement_hashes": [
+        "0311a7c5efdd0e47"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Naafiri.wad.client",
+        "normal_hash": "0311a7c5efdd0e47",
+        "border_hash": "637f11671947de90",
+        "bytes": 86252,
+        "sha256": "d404d0380456ac089688bdea806a1f569f0fb5e8cd0709b35080f8cb39536dca"
+      },
+      {
+        "archive": "Naafiri.wad.client",
+        "normal_hash": "0311a7c5efdd0e47",
+        "border_hash": "637f11671947de90",
+        "bytes": 86252,
+        "sha256": "d404d0380456ac089688bdea806a1f569f0fb5e8cd0709b35080f8cb39536dca"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

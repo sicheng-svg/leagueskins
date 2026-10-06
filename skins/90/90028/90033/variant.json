@@ -1,0 +1,65 @@
+{
+  "skin_id": 90033,
+  "base_skin_id": 90028,
+  "champion_id": 90,
+  "name": "虚空执事 玛尔扎哈 蓝霜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6b041e2286a5e0cf0c3c9c48968f14e061f163bcab0e75babcb0f624e6d8d65f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "90/90028/90033/90033.fantome",
+  "files": [
+    {
+      "path": "skins/90/90028/90033/Malzahar.wad.client",
+      "size": 89379,
+      "sha256": "992d07e4637776b4411794d054b7fef1ba67dae2aa21e1ae9149e56b4cac0635"
+    }
+  ],
+  "wads": {
+    "Malzahar.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3095,
+      "bytes_after": 89379,
+      "replacement_hashes": [
+        "f5e34a2427a827cb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Malzahar.wad.client",
+        "normal_hash": "f5e34a2427a827cb",
+        "border_hash": "932e8aed40f5f29b",
+        "bytes": 86252,
+        "sha256": "2292465a4e71ad5e7f16ff50966952d7ce6dc8850548cbe81f708a60abf0f20f"
+      },
+      {
+        "archive": "Malzahar.wad.client",
+        "normal_hash": "f5e34a2427a827cb",
+        "border_hash": "932e8aed40f5f29b",
+        "bytes": 86252,
+        "sha256": "2292465a4e71ad5e7f16ff50966952d7ce6dc8850548cbe81f708a60abf0f20f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 92066,
+  "base_skin_id": 92063,
+  "champion_id": 92,
+  "name": "伏虎之力 锐雯 虎啸风生",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9730ee131f8c2a90cfd56620c03eb2b1d4958cf919b2eee951be9c5ced59ad94",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "92/92063/92066/92066.fantome",
+  "files": [
+    {
+      "path": "skins/92/92063/92066/Riven.wad.client",
+      "size": 88422,
+      "sha256": "60c9c8e394d31584ab0d9f88eb588790c9ea64ebd539e17d421a52d4d5c32f93"
+    }
+  ],
+  "wads": {
+    "Riven.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2138,
+      "bytes_after": 88422,
+      "replacement_hashes": [
+        "ca4375c619f8f7a2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Riven.wad.client",
+        "normal_hash": "ca4375c619f8f7a2",
+        "border_hash": "6b007a3c1195cc9d",
+        "bytes": 86252,
+        "sha256": "95867a8c09169e04acad746c69c400608bd69a75d283592fb14e8d94e3dbf17d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

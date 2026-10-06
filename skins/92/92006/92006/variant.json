@@ -1,0 +1,48 @@
+{
+  "skin_id": 92006,
+  "base_skin_id": 92006,
+  "champion_id": 92,
+  "name": "电玩勇者 锐雯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1e50427ee3a736d55bc2d515d42aee951a9754745a061dae510f1d93841d744d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "92/92006/92006.fantome",
+  "files": [
+    {
+      "path": "skins/92/92006/92006/Riven.wad.client",
+      "size": 6041,
+      "sha256": "44f66ac9093a444a0fe772dde4db257c41f259e849f67ce620acc085cef9a84f"
+    }
+  ],
+  "wads": {
+    "Riven.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6041,
+      "bytes_after": 6041,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

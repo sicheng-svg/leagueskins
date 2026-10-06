@@ -1,0 +1,48 @@
+{
+  "skin_id": 950026,
+  "base_skin_id": 950020,
+  "champion_id": 950,
+  "name": "热狗 纳亚菲利 火腿肠",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5838082db97fffb4add772c968e7d272b356fc120df060bc96e65050261129c3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "950/950020/950026/950026.fantome",
+  "files": [
+    {
+      "path": "skins/950/950020/950026/Naafiri.wad.client",
+      "size": 3649,
+      "sha256": "31461a6817fc3aafb7e4f1bf726e65cd36b8c88e9bf373714880485ba0ae816e"
+    }
+  ],
+  "wads": {
+    "Naafiri.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3649,
+      "bytes_after": 3649,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

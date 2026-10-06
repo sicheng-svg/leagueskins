@@ -1,0 +1,657 @@
+{
+  "champion_id": 950,
+  "base_skin_id": 950001,
+  "name": "斗魂觉醒 纳亚菲利",
+  "variants": [
+    {
+      "skin_id": 950001,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "64a5d892c26feda174e3d31389cad9f3b8baa8e858217457dc08d785d612b3c1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950001.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950001/Naafiri.wad.client",
+          "size": 95926,
+          "sha256": "cbc593865b7ada9d43781a11dfdced96f936e47817d96ddff8ece5c6db5f9149"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9642,
+          "bytes_after": 95926,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950002,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 烈之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c08514d44f9893f6cff38b3b92e046bf52c1dcbfc16dc0e1a4b417cfcc5e8f31",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950002/950002.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950002/Naafiri.wad.client",
+          "size": 90076,
+          "sha256": "bdb65ba1306cc53a8f6e92cc25b8ffb43d9193a5cff454aa52224e9905a1c35e"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3792,
+          "bytes_after": 90076,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950003,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 锐之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a9896271578f0658dfe94fef60e6f8d051e036351e4e2ecd279118d7c0504316",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950003/950003.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950003/Naafiri.wad.client",
+          "size": 90022,
+          "sha256": "64fee5841e27ecc93b214f30b26711adc850b747ae6efeef73021dadd92267fb"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3738,
+          "bytes_after": 90022,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950004,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 魅之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6efc9eeb6a14f359cbec380360e8b82fb9e3a4728b21f42a4cba833f9df77f8a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950004/950004.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950004/Naafiri.wad.client",
+          "size": 90023,
+          "sha256": "cb4d8d6b988364825c7d6164f2a32d6047768f78d3a35e91251f35ff1008d835"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3739,
+          "bytes_after": 90023,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950005,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 飒之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "74fa5d15e7e4b3c942b2439acfc62c38e990f18c450c5aaed6acbb18d6145c12",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950005/950005.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950005/Naafiri.wad.client",
+          "size": 90023,
+          "sha256": "4d0c9cd0d63c07955b9c0c34990c938e4a7f6cf0be0b2946e8655efae408f7e9"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3739,
+          "bytes_after": 90023,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950006,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 韧之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "04d4a2186551ae5d8ecbd29c5fa5e4a9c70b890a8974f6a122d1b20e30340206",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950006/950006.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950006/Naafiri.wad.client",
+          "size": 90025,
+          "sha256": "b3d3a757f6f50373e60157a0f6decc0686520fbe40fdcb727b59decb49950df0"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3741,
+          "bytes_after": 90025,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950007,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 狡之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c6c680f4b488619008793e528f893d92536350ec6b3c48c81d703f92cf6ff156",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950007/950007.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950007/Naafiri.wad.client",
+          "size": 90027,
+          "sha256": "3d53cf7bb4d367679f294e4a88f43e63b436c89d5a2a308bd4cae2751e28992a"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3743,
+          "bytes_after": 90027,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950008,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 狂之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5b9961c54e6d4a2b46fdff08287ee2644a87caef0cd52dd0dba76380040e4bf7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950008/950008.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950008/Naafiri.wad.client",
+          "size": 90024,
+          "sha256": "51f9ef23400f48dc1c75420818021391bebb686e81888ca868a6cabd9b1fcdfa"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3740,
+          "bytes_after": 90024,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950009,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 幽之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d81f414138adbb3cf97bba8b85c577131a58bbb71c4c2c6264f42eeb8ee7606d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950009/950009.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950009/Naafiri.wad.client",
+          "size": 90021,
+          "sha256": "6ea3fbc17587999f14f05c88088eab33baf9592955fae713615873495e5295a4"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3737,
+          "bytes_after": 90021,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 950010,
+      "base_skin_id": 950001,
+      "champion_id": 950,
+      "name": "斗魂觉醒 纳亚菲利 无限斗志",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1c7cdd4086ab859aa282ce3ebfe05416f7d41093a4ff97f127993d061d7ae4c2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "950/950001/950010/950010.fantome",
+      "files": [
+        {
+          "path": "skins/950/950001/950010/Naafiri.wad.client",
+          "size": 90079,
+          "sha256": "b32709d3bcbfd30b10796ae8b75a6f725e8deecfd1a3370625f5239ea3161214"
+        }
+      ],
+      "wads": {
+        "Naafiri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3795,
+          "bytes_after": 90079,
+          "replacement_hashes": [
+            "2e8d31086f4e950d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          },
+          {
+            "archive": "Naafiri.wad.client",
+            "normal_hash": "2e8d31086f4e950d",
+            "border_hash": "e2de1394187f4705",
+            "bytes": 86252,
+            "sha256": "bcc96017bb494b95cb1aecd8e4f749bea6d210d4bd9f6dcbc1d12a59c6b65482"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

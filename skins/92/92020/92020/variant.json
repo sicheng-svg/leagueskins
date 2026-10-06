@@ -1,0 +1,58 @@
+{
+  "skin_id": 92020,
+  "base_skin_id": 92020,
+  "champion_id": 92,
+  "name": "玉剑传说 武剑仙",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d5d478593aa1937120d3c7bb98cf95acec0981f5a19707475351fb191e9a2036",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "92/92020/92020.fantome",
+  "files": [
+    {
+      "path": "skins/92/92020/92020/Riven.wad.client",
+      "size": 90461,
+      "sha256": "f55ef0609c4bde5936f47e3dfe7b4525f64497b1ac33333af77467779b069ccd"
+    }
+  ],
+  "wads": {
+    "Riven.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4177,
+      "bytes_after": 90461,
+      "replacement_hashes": [
+        "5f41dcdcc9082b93"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Riven.wad.client",
+        "normal_hash": "5f41dcdcc9082b93",
+        "border_hash": "048d565d4d375df1",
+        "bytes": 86252,
+        "sha256": "8c710084e1b1e6bd4901ff2350c0b7f2d1652c185e036d2e0d219aeb8e09d0ca"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

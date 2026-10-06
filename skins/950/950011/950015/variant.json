@@ -1,0 +1,48 @@
+{
+  "skin_id": 950015,
+  "base_skin_id": 950011,
+  "champion_id": 950,
+  "name": "源计划：狂猎 纳亚菲利 幻灭",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8ee1fb114bd65a9792056185f4725eceade11d4733d46921156dd8da710caf50",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "950/950011/950015/950015.fantome",
+  "files": [
+    {
+      "path": "skins/950/950011/950015/Naafiri.wad.client",
+      "size": 4058,
+      "sha256": "578dfb4c7b7efa8e54acec7a3c5ce09546adfa3b8a651e32edd33991b7c98208"
+    }
+  ],
+  "wads": {
+    "Naafiri.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4058,
+      "bytes_after": 4058,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

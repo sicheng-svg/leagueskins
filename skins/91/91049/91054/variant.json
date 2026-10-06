@@ -1,0 +1,58 @@
+{
+  "skin_id": 91054,
+  "base_skin_id": 91049,
+  "champion_id": 91,
+  "name": "伏虎之力 泰隆 原初直觉",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e7cb73afe9cb0bab924d94b906e167b02caf9226dead1c673ec3a9ea2bc2e075",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "91/91049/91054/91054.fantome",
+  "files": [
+    {
+      "path": "skins/91/91049/91054/Talon.wad.client",
+      "size": 88539,
+      "sha256": "6d9eed73b06dcca590f35e32a46d77688ab84d62b9a22343a14398dbb3276852"
+    }
+  ],
+  "wads": {
+    "Talon.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2255,
+      "bytes_after": 88539,
+      "replacement_hashes": [
+        "db0045483c60fc1a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Talon.wad.client",
+        "normal_hash": "db0045483c60fc1a",
+        "border_hash": "c5441935506f63b0",
+        "bytes": 86252,
+        "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

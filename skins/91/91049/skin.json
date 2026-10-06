@@ -1,0 +1,529 @@
+{
+  "champion_id": 91,
+  "base_skin_id": 91049,
+  "name": "伏虎之力 泰隆",
+  "variants": [
+    {
+      "skin_id": 91049,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ba6a92b524660fdfa02ff7683e1c90703371ddb953b9e054d56f8991479b03ad",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91049.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91049/Talon.wad.client",
+          "size": 90859,
+          "sha256": "949f6af7e7d1086b71b5b8b142a818915548e3976fc55e95271e79e181ba4e64"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4575,
+          "bytes_after": 90859,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91051,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 旺盛战意",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "066e2ee971e73ea2e0954b078227060651f0b34feb6f43cefb0dc10995ddf0d5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91051/91051.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91051/Talon.wad.client",
+          "size": 88591,
+          "sha256": "6385d5288ef22e4898c6109877e97f6751acb9b197a3266f35e5b575eadc7374"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2307,
+          "bytes_after": 88591,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91052,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 兽王威仪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "45e234139151f9ffe390636a813f61dc7d6ee8263c217b972188e60d020a0665",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91052/91052.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91052/Talon.wad.client",
+          "size": 88541,
+          "sha256": "ff2b485b8b1e9c1adffa311180d579c5b91e0a4a84434db51e2ea5fc3ed6c854"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2257,
+          "bytes_after": 88541,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91053,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 虎啸风生",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06dc3aa888cbafb528b9a024c8945cff431457a78292f5d7213115e018b98095",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91053/91053.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91053/Talon.wad.client",
+          "size": 88538,
+          "sha256": "886a786d15406b2b903e74518886f84c2492e7cf8df2fd9284dd5a22663f4c42"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91054,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 原初直觉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e7cb73afe9cb0bab924d94b906e167b02caf9226dead1c673ec3a9ea2bc2e075",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91054/91054.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91054/Talon.wad.client",
+          "size": 88539,
+          "sha256": "6d9eed73b06dcca590f35e32a46d77688ab84d62b9a22343a14398dbb3276852"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2255,
+          "bytes_after": 88539,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91055,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 如虎添翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "116d2da8e9a3a2dcdb1c7ec0fe3f21d860d4e917c52183d216f5b26df13c6184",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91055/91055.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91055/Talon.wad.client",
+          "size": 88538,
+          "sha256": "00460a87014f4cb9615461b79d21795991544993c36af2a6530778bdf804337e"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91056,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 无形震慑",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8c99574c123de33c2c6cb178b512a079fb7c3f901d877389f84be477c496c004",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91056/91056.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91056/Talon.wad.client",
+          "size": 88538,
+          "sha256": "83b713cecccee939a82c647b75936a8761627105d950806501048966ddfdc46e"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91057,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 瑞兽灵光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0ee5040c85ea832355783b61968477f916c5bbf07a949766435e3abf10d1efb3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91057/91057.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91057/Talon.wad.client",
+          "size": 88560,
+          "sha256": "4b1c819c44ac5705321db378acd031675fa3de41712786b76e8a5de435783b01"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2276,
+          "bytes_after": 88560,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 91058,
+      "base_skin_id": 91049,
+      "champion_id": 91,
+      "name": "伏虎之力 泰隆 灵兽之仁",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2f017c4ec2c9fc3ee786baeafd8297152a38e4d878f72cb34a846711a24adcfd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "91/91049/91058/91058.fantome",
+      "files": [
+        {
+          "path": "skins/91/91049/91058/Talon.wad.client",
+          "size": 88537,
+          "sha256": "835bfca57951c0aef84528d940cbf49325b4315ff46438e038050e1e24a03a05"
+        }
+      ],
+      "wads": {
+        "Talon.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2253,
+          "bytes_after": 88537,
+          "replacement_hashes": [
+            "db0045483c60fc1a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Talon.wad.client",
+            "normal_hash": "db0045483c60fc1a",
+            "border_hash": "c5441935506f63b0",
+            "bytes": 86252,
+            "sha256": "f53c48a24d2d456492227c6df470fbcd1b907da2e555f02e2c0a6e994ff1b120"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

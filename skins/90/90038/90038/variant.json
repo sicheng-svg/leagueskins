@@ -1,0 +1,48 @@
+{
+  "skin_id": 90038,
+  "base_skin_id": 90038,
+  "champion_id": 90,
+  "name": "荣誉使者 玛尔扎哈",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "582302efc5f3512f1630e5a8db0e28167be1e0c1ef87404f8959407a2c10fb4c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "90/90038/90038.fantome",
+  "files": [
+    {
+      "path": "skins/90/90038/90038/Malzahar.wad.client",
+      "size": 6107,
+      "sha256": "8d316dafa1ad2b3ab6d91e9972bb41b463fd0cd7e543d1245d8f12550b69e674"
+    }
+  ],
+  "wads": {
+    "Malzahar.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6107,
+      "bytes_after": 6107,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

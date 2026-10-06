@@ -1,0 +1,65 @@
+{
+  "champion_id": 910,
+  "base_skin_id": 910021,
+  "name": "恶魔假日 彗",
+  "variants": [
+    {
+      "skin_id": 910021,
+      "base_skin_id": 910021,
+      "champion_id": 910,
+      "name": "恶魔假日 彗",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "39c2bf64b8818142b82aefd529b77a8f5dc8e2971693e03d9ef021ca4bffe999",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910021/910021.fantome",
+      "files": [
+        {
+          "path": "skins/910/910021/910021/Hwei.wad.client",
+          "size": 99406,
+          "sha256": "f0748898769af4307e0dcf94690a86496dfb8bcafcac32bddadb986acb7567a7"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 13122,
+          "bytes_after": 99406,
+          "replacement_hashes": [
+            "39fd2dfa8ae080eb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "39fd2dfa8ae080eb",
+            "border_hash": "0ea0bf09c2ae1117",
+            "bytes": 86252,
+            "sha256": "cbe60e887e1d80232624887d6faa53199d2fe89b4083104eca160ae3e935f1f8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

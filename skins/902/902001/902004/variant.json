@@ -1,0 +1,65 @@
+{
+  "skin_id": 902004,
+  "base_skin_id": 902001,
+  "champion_id": 902,
+  "name": "花仙贤者 米利欧 夜光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0513447cd6bce3fdf25a19516b867cb54ad86f2f2e1bddf91757f38685d2b7a6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "902/902001/902004/902004.fantome",
+  "files": [
+    {
+      "path": "skins/902/902001/902004/Milio.wad.client",
+      "size": 89584,
+      "sha256": "b4f70a68818dee8458cbaebf4a0bad59bafe6c70c915c5c677303894cf31d630"
+    }
+  ],
+  "wads": {
+    "Milio.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3300,
+      "bytes_after": 89584,
+      "replacement_hashes": [
+        "4816b6849a65c0ba"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Milio.wad.client",
+        "normal_hash": "4816b6849a65c0ba",
+        "border_hash": "67b0d0ae4b5cbe55",
+        "bytes": 86252,
+        "sha256": "bcacc8788628cc6ad69e4652dc70e7101af66ab85d60fa045573e33cd16b8d40"
+      },
+      {
+        "archive": "Milio.wad.client",
+        "normal_hash": "4816b6849a65c0ba",
+        "border_hash": "67b0d0ae4b5cbe55",
+        "bytes": 86252,
+        "sha256": "bcacc8788628cc6ad69e4652dc70e7101af66ab85d60fa045573e33cd16b8d40"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "champion_id": 92,
+  "base_skin_id": 92055,
+  "name": "绝息圣堂 锐雯",
+  "variants": [
+    {
+      "skin_id": 92055,
+      "base_skin_id": 92055,
+      "champion_id": 92,
+      "name": "绝息圣堂 锐雯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "973d0b896cb6d1c7fbd7d0989c2e77dbba0b497b1a30adb79d7b9c2f5a46a725",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92055/92055.fantome",
+      "files": [
+        {
+          "path": "skins/92/92055/92055/Riven.wad.client",
+          "size": 94121,
+          "sha256": "5b2f397bb3e6471b428baa292eac5082aabfc903103ac7630df3bd98d6746409"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7837,
+          "bytes_after": 94121,
+          "replacement_hashes": [
+            "4aa79e2963cb297c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "4aa79e2963cb297c",
+            "border_hash": "e785b6623d88efa2",
+            "bytes": 86252,
+            "sha256": "1d5f890c7bcc1f344d4f5b5cc6bb4eb549dfeb8393473ab97f498d295da8daaa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92057,
+      "base_skin_id": 92055,
+      "champion_id": 92,
+      "name": "绝息圣堂 锐雯 残阳圆舞曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06fd09596c79652170184d421f7e3a6a7f343fea402349d9032494d5de5b3098",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92055/92057/92057.fantome",
+      "files": [
+        {
+          "path": "skins/92/92055/92057/Riven.wad.client",
+          "size": 89839,
+          "sha256": "201cc03464eb76739d83974f4667fdea819543580b8f0f59e51d91cfdfd3c863"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3555,
+          "bytes_after": 89839,
+          "replacement_hashes": [
+            "4aa79e2963cb297c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "4aa79e2963cb297c",
+            "border_hash": "e785b6623d88efa2",
+            "bytes": 86252,
+            "sha256": "1d5f890c7bcc1f344d4f5b5cc6bb4eb549dfeb8393473ab97f498d295da8daaa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92058,
+      "base_skin_id": 92055,
+      "champion_id": 92,
+      "name": "绝息圣堂 锐雯 日冕摇篮曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "48bcbec0abb902d0ea1cdb5a64bf54376abbca60006b921f361868207a570eea",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92055/92058/92058.fantome",
+      "files": [
+        {
+          "path": "skins/92/92055/92058/Riven.wad.client",
+          "size": 89789,
+          "sha256": "f163df3af94f62277b74106b20c777643b3eb8dbd6f33c3b1e4756dbcff82fad"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3505,
+          "bytes_after": 89789,
+          "replacement_hashes": [
+            "4aa79e2963cb297c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "4aa79e2963cb297c",
+            "border_hash": "e785b6623d88efa2",
+            "bytes": 86252,
+            "sha256": "1d5f890c7bcc1f344d4f5b5cc6bb4eb549dfeb8393473ab97f498d295da8daaa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92059,
+      "base_skin_id": 92055,
+      "champion_id": 92,
+      "name": "绝息圣堂 锐雯 灵息变奏曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "284a4d4bc4e41b97c843b390c5fc0c2ca0184660f1d527234afcfc71996c014d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92055/92059/92059.fantome",
+      "files": [
+        {
+          "path": "skins/92/92055/92059/Riven.wad.client",
+          "size": 89787,
+          "sha256": "96dc5464d0c8b00abece5ba313012f1948aa97367a218d34581ec22c3fa9133c"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3503,
+          "bytes_after": 89787,
+          "replacement_hashes": [
+            "4aa79e2963cb297c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "4aa79e2963cb297c",
+            "border_hash": "e785b6623d88efa2",
+            "bytes": 86252,
+            "sha256": "1d5f890c7bcc1f344d4f5b5cc6bb4eb549dfeb8393473ab97f498d295da8daaa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92060,
+      "base_skin_id": 92055,
+      "champion_id": 92,
+      "name": "绝息圣堂 锐雯 苏生回旋曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "110cdd3451286187c536e418aa88f2e43c275b7ae7280ba71d6595675e844b03",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92055/92060/92060.fantome",
+      "files": [
+        {
+          "path": "skins/92/92055/92060/Riven.wad.client",
+          "size": 89789,
+          "sha256": "7321610582e9d9ba9e6ec0480ab53900afa3be6369a9956f3b270f50a0457844"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3505,
+          "bytes_after": 89789,
+          "replacement_hashes": [
+            "4aa79e2963cb297c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "4aa79e2963cb297c",
+            "border_hash": "e785b6623d88efa2",
+            "bytes": 86252,
+            "sha256": "1d5f890c7bcc1f344d4f5b5cc6bb4eb549dfeb8393473ab97f498d295da8daaa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92061,
+      "base_skin_id": 92055,
+      "champion_id": 92,
+      "name": "绝息圣堂 锐雯 黑昼交响曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ca567c84ecca287beebe869b46ba20950f35c9cb011ba17d1effa4d6dfb2a64b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92055/92061/92061.fantome",
+      "files": [
+        {
+          "path": "skins/92/92055/92061/Riven.wad.client",
+          "size": 89790,
+          "sha256": "62a37fa0d7d66b09773ee6422a44dcd2caf08235a80d9e3ed85f9e1bbb407c75"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3506,
+          "bytes_after": 89790,
+          "replacement_hashes": [
+            "4aa79e2963cb297c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "4aa79e2963cb297c",
+            "border_hash": "e785b6623d88efa2",
+            "bytes": 86252,
+            "sha256": "1d5f890c7bcc1f344d4f5b5cc6bb4eb549dfeb8393473ab97f498d295da8daaa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92062,
+      "base_skin_id": 92055,
+      "champion_id": 92,
+      "name": "绝息圣堂 锐雯 纯净赋格曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bf6c475084f2c32bcda044547d42ad1c49fe680ad2db6594075ca49d4298ec68",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92055/92062/92062.fantome",
+      "files": [
+        {
+          "path": "skins/92/92055/92062/Riven.wad.client",
+          "size": 89793,
+          "sha256": "b2ff29a6a76c75adfe10f38fab62612a8208788c78933cd6ccefd03d262607db"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3509,
+          "bytes_after": 89793,
+          "replacement_hashes": [
+            "4aa79e2963cb297c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "4aa79e2963cb297c",
+            "border_hash": "e785b6623d88efa2",
+            "bytes": 86252,
+            "sha256": "1d5f890c7bcc1f344d4f5b5cc6bb4eb549dfeb8393473ab97f498d295da8daaa"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

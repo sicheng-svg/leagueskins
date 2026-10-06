@@ -1,0 +1,48 @@
+{
+  "skin_id": 91020,
+  "base_skin_id": 91020,
+  "champion_id": 91,
+  "name": "泰隆 · 黑木",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3e09c2fe5a4408996cca8e74f50593fbc96c976bf022aa9f71f2d28a9a546e25",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "91/91020/91020.fantome",
+  "files": [
+    {
+      "path": "skins/91/91020/91020/Talon.wad.client",
+      "size": 4325,
+      "sha256": "4582b7ef911d359d80c83e6466f171608e2043993babe7585a2fc7eb699f01bf"
+    }
+  ],
+  "wads": {
+    "Talon.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4325,
+      "bytes_after": 4325,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

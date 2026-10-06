@@ -1,0 +1,58 @@
+{
+  "skin_id": 901004,
+  "base_skin_id": 901001,
+  "champion_id": 901,
+  "name": "天龙之子 斯莫德 龙驹凤雏",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8a9aa4b0bba8712a9b43693194174e3a708b4b99665e2cdc1cec9fa691e3ff7d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "901/901001/901004/901004.fantome",
+  "files": [
+    {
+      "path": "skins/901/901001/901004/Smolder.wad.client",
+      "size": 89268,
+      "sha256": "4cae311c1720693b8fc4714ce08e404120dcbde921716dfeb50ef62f0f0ab7ac"
+    }
+  ],
+  "wads": {
+    "Smolder.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2984,
+      "bytes_after": 89268,
+      "replacement_hashes": [
+        "033f1bdc9baaeb99"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Smolder.wad.client",
+        "normal_hash": "033f1bdc9baaeb99",
+        "border_hash": "c4b650891c25fe5a",
+        "bytes": 86252,
+        "sha256": "8069bb2926650f68c4534e626722fccf713d2a3dbbc301e6ada8e3656e7deb68"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

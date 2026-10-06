@@ -1,0 +1,48 @@
+{
+  "skin_id": 91033,
+  "base_skin_id": 91029,
+  "champion_id": 91,
+  "name": "幽梦玫瑰 泰隆 真挚花蕾",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bc9c76e397f8c52fe76cb65306983410c219668d9ab6ce577b16aa51c7cf56a6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "91/91029/91033/91033.fantome",
+  "files": [
+    {
+      "path": "skins/91/91029/91033/Talon.wad.client",
+      "size": 2287,
+      "sha256": "f861db2f398fa088236dea08ede0e26143943594642faa51a0fc3a902c1dc112"
+    }
+  ],
+  "wads": {
+    "Talon.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2287,
+      "bytes_after": 2287,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

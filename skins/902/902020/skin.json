@@ -1,0 +1,592 @@
+{
+  "champion_id": 902,
+  "base_skin_id": 902020,
+  "name": "冬境仙灵 米利欧",
+  "variants": [
+    {
+      "skin_id": 902020,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c2b0851f50ed14df7ba242a72c295b02b2abbbe383911493fc2a4987ae4ba596",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902020.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902020/Milio.wad.client",
+          "size": 94424,
+          "sha256": "8168df29eb24129f28250b53dccf05fdf03f49646d5a95d5a86a50fa9f7e89ee"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8140,
+          "bytes_after": 94424,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902021,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 焰阳",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "88e6c656a8f7c0290072b5c58d4fb362cf38fce48f6f5a61a10693349f01fb83",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902021/902021.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902021/Milio.wad.client",
+          "size": 89874,
+          "sha256": "816f922db3775679d5528b25a34fd3fcd5a3073212935b6b6422be6a60f57c1b"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3590,
+          "bytes_after": 89874,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902022,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 荧火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b80d2726c34269a180a427064c583c75f44c0124ad0623c313992ff63ebadf77",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902022/902022.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902022/Milio.wad.client",
+          "size": 89823,
+          "sha256": "5035029f25c8800609cb1ef32b2dddd264dd4aa25dbaf2cfba4f95b05b12657b"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3539,
+          "bytes_after": 89823,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902023,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 新绿",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e9dd1b7dbd8cfbcadd7e71076f9405f22b044174d84a9eae6caf01cfdfdeea9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902023/902023.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902023/Milio.wad.client",
+          "size": 89822,
+          "sha256": "25ac43e359e889cca27425510ff895eb896ca6dca6d9d60e58c66277bb593860"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3538,
+          "bytes_after": 89822,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902024,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 温泉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7398f9b1d5739394367f88ab73fad2e1c01def15e31ac7f876d524cb3983b5ef",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902024/902024.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902024/Milio.wad.client",
+          "size": 89822,
+          "sha256": "bd8bf85e3274ca80c9d58691a3a003f1312860c3f75918829dcc86ba704919cf"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3538,
+          "bytes_after": 89822,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902025,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 紫晶",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ef54102a682cbaf84ac5df0d6c020f066cdc790e547117f23aa9227015c23c32",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902025/902025.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902025/Milio.wad.client",
+          "size": 89819,
+          "sha256": "d0c41c67a9a31267a245d2955f388070132a22f72feb070174087f2885478404"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3535,
+          "bytes_after": 89819,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902026,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 白雪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e5d5e50fe6797d8f0a7487d9af4457f41cbc9f5dce57c84dc9040e5c18253da3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902026/902026.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902026/Milio.wad.client",
+          "size": 89820,
+          "sha256": "4e966c75336d05a07f7860cda2a775ed2bdbf605bde6d20553b24d9f291de516"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3536,
+          "bytes_after": 89820,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902027,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 夜幕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5dbbd132937916093be7d09b57d0a18d2ea6e6257f43ff2e6093f136e76b97c6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902027/902027.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902027/Milio.wad.client",
+          "size": 89821,
+          "sha256": "968692d3add31510ad6d93346fd104a204677ba146d45bc165b9d15a9eda6281"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3537,
+          "bytes_after": 89821,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 902028,
+      "base_skin_id": 902020,
+      "champion_id": 902,
+      "name": "冬境仙灵 米利欧 蔷薇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "76ae5565710834bbb03f13275e054204d88dcd082cd24fffd913a3c2f4481068",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "902/902020/902028/902028.fantome",
+      "files": [
+        {
+          "path": "skins/902/902020/902028/Milio.wad.client",
+          "size": 89822,
+          "sha256": "dccdf8705ac2294603bc55a61f0441bcc31353fed93d88a793bae23c1626a353"
+        }
+      ],
+      "wads": {
+        "Milio.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3538,
+          "bytes_after": 89822,
+          "replacement_hashes": [
+            "fbe390f4f369d8cd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          },
+          {
+            "archive": "Milio.wad.client",
+            "normal_hash": "fbe390f4f369d8cd",
+            "border_hash": "1138fe7376bf46ac",
+            "bytes": 86252,
+            "sha256": "a1c4ce35e9cf939bc0d84ba58e21218805b45ce8109789676069c748c283dbfb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

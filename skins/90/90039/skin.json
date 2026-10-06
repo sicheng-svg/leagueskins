@@ -1,0 +1,657 @@
+{
+  "champion_id": 90,
+  "base_skin_id": 90039,
+  "name": "至高天 玛尔扎哈",
+  "variants": [
+    {
+      "skin_id": 90039,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3f0e963723a183fa0b33209daefe7601a4f7409f2e8c0f52eb85a664af366922",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90039.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90039/Malzahar.wad.client",
+          "size": 94610,
+          "sha256": "441d7c73f81e54e21c663f4d465db5893ed96937f6f650555d4194d53c7215de"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 8326,
+          "bytes_after": 94610,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90040,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 狂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "58af2651e95490716d55210adc7fae8d444b5669ebbb4ecf12a6e79a7544c4dc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90040/90040.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90040/Malzahar.wad.client",
+          "size": 89913,
+          "sha256": "badb94e63f8d387fd3d9ac591a687b56030abb6272e0ac97408b2f32bedcc0fc"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3629,
+          "bytes_after": 89913,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90041,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 灵辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "02bc8d36ba2ed323fb2afefe0e043e272f5d33b7a749a846415f8515f248bdba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90041/90041.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90041/Malzahar.wad.client",
+          "size": 89858,
+          "sha256": "35f3289b00f444189695044385cb15ab022b36a90bcfac70f6e9c9a6d00b60fc"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3574,
+          "bytes_after": 89858,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90042,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 寒芒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "393f787266ccc3651021e842931d120d73f8d3479ada92ccc9bc11fb363818e8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90042/90042.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90042/Malzahar.wad.client",
+          "size": 89881,
+          "sha256": "62bcd3e2f6bfb2be3e0b3260e601bd2c7a869bc55b39efafd1ba3cb105984ee0"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3597,
+          "bytes_after": 89881,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90043,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 青炬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c18b6c234d9793417fad91c782e61988db708e1ebb0b37725fec01b6b5dd56ba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90043/90043.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90043/Malzahar.wad.client",
+          "size": 89862,
+          "sha256": "0930cf5e5da6b656def9eeb68bf442b548ae675045844e84abe8866b800723e0"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3578,
+          "bytes_after": 89862,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90044,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 荧煌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6b086754853970df8e852716c0f4692f3ce8e3ea29124d37bda8d351ab31f510",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90044/90044.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90044/Malzahar.wad.client",
+          "size": 89859,
+          "sha256": "652d10264b6920710a9466861a10a5637f51d0625da2a81857cb916e5fa60c6e"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3575,
+          "bytes_after": 89859,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90045,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 华耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7d5378606622d15f73840ed2e3f848d43dc41c12986ddf5e27d6c25ae77ef584",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90045/90045.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90045/Malzahar.wad.client",
+          "size": 89859,
+          "sha256": "6ce0ba5f6bde6c20c089e7125f3c56bccdb40a6c8b12cef09d46088d58d659d8"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3575,
+          "bytes_after": 89859,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90046,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 幻耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3901dad3c6fa6a72386ce1eb62ddef4bd40a91a40d80b5937efce0d2d32d646c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90046/90046.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90046/Malzahar.wad.client",
+          "size": 89882,
+          "sha256": "936cb29c89bf45ec18c24a1665ac3770cdf0274ff865939445c41a9d09879ea4"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3598,
+          "bytes_after": 89882,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90047,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 胧光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c74bb0cb20165fc1bac5b00c33be07ca830706bcdeca697f86f7eb253f3f1756",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90047/90047.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90047/Malzahar.wad.client",
+          "size": 89860,
+          "sha256": "9010b41b8907d53d62670d7cf5aa8efa89ba8bf68e6e98ddcec1a74c8cb9fe23"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3576,
+          "bytes_after": 89860,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 90048,
+      "base_skin_id": 90039,
+      "champion_id": 90,
+      "name": "至高天 玛尔扎哈 霓虹表象",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "427f54e133a254f297b9cdd24fb490b7f7f08b40ef88197f8fbfd6b913b45153",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "90/90039/90048/90048.fantome",
+      "files": [
+        {
+          "path": "skins/90/90039/90048/Malzahar.wad.client",
+          "size": 89915,
+          "sha256": "02906c9578f06417893f96c29ab610b6974ebe8fcbddc955e51d8555ce721be2"
+        }
+      ],
+      "wads": {
+        "Malzahar.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3631,
+          "bytes_after": 89915,
+          "replacement_hashes": [
+            "4f3e6ce120bb571d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          },
+          {
+            "archive": "Malzahar.wad.client",
+            "normal_hash": "4f3e6ce120bb571d",
+            "border_hash": "4adf6e14b3985853",
+            "bytes": 86252,
+            "sha256": "b0c360bafab349d21981582c951405351cc17618d26f41b9b25fc4270c6a90e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

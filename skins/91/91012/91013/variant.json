@@ -1,0 +1,58 @@
+{
+  "skin_id": 91013,
+  "base_skin_id": 91012,
+  "champion_id": 91,
+  "name": "玉剑传说 无影 舍神",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1315a155d59a2d10bf323ff10439f064e4444215dad076976f2f644dec635442",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "91/91012/91013/91013.fantome",
+  "files": [
+    {
+      "path": "skins/91/91012/91013/Talon.wad.client",
+      "size": 88423,
+      "sha256": "bd9b6005e6b54f7d515d93fa727968a6f7bdeb734e3beb43b67c31c08100ae46"
+    }
+  ],
+  "wads": {
+    "Talon.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2139,
+      "bytes_after": 88423,
+      "replacement_hashes": [
+        "22deaac40f8cc289"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Talon.wad.client",
+        "normal_hash": "22deaac40f8cc289",
+        "border_hash": "af72e90d0653265c",
+        "bytes": 86252,
+        "sha256": "7d841f8f6866c3a18a90fab0763a32d407fa9e201cf8be47e5911222d9dc5b37"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

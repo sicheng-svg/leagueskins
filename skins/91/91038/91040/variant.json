@@ -1,0 +1,58 @@
+{
+  "skin_id": 91040,
+  "base_skin_id": 91038,
+  "champion_id": 91,
+  "name": "西部魔影 猎天使恶魔 泰隆 温和",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6d26cee7b42acd533e023e87a5d30ef02d3c5adffb75b21d7830f82e910043e1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "91/91038/91040/91040.fantome",
+  "files": [
+    {
+      "path": "skins/91/91038/91040/Talon.wad.client",
+      "size": 88539,
+      "sha256": "7554aae0649ca0eaa724083212bae2a6f5e22ed6963ab743391969fcea1bd807"
+    }
+  ],
+  "wads": {
+    "Talon.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2255,
+      "bytes_after": 88539,
+      "replacement_hashes": [
+        "e6b0950a34261bee"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Talon.wad.client",
+        "normal_hash": "e6b0950a34261bee",
+        "border_hash": "3d40a61f533c2393",
+        "bytes": 86252,
+        "sha256": "d898d21098444b71993db935f9912e897643d65d6476d0c35dd9bd103b5df6c6"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

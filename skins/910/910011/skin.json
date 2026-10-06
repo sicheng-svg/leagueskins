@@ -1,0 +1,587 @@
+{
+  "champion_id": 910,
+  "base_skin_id": 910011,
+  "name": "灵魂莲华 彗",
+  "variants": [
+    {
+      "skin_id": 910011,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f2ea1d94923875f39e3624f7b02716a95bf357e0c9a31d340a0b922dcda24c19",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910011.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910011/Hwei.wad.client",
+          "size": 95604,
+          "sha256": "d575c897670532a8a744c7a49d7a8745ef03ed5cbcc78f666d8992e5437481bb"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9320,
+          "bytes_after": 95604,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910012,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 流火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4285f5eb6c4e85de5d2b6232cb5d62751ef7e1de12eb31918048614ba2031a8a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910012/910012.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910012/Hwei.wad.client",
+          "size": 89834,
+          "sha256": "f6790abf50184125025ac657290346c49306e95b16f662af21405b5e76daae79"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3550,
+          "bytes_after": 89834,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910013,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 雁来",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "99dbf6ec3c79ef876801be78d2f14483c5ddcd804d29867ea7c6ec9d15228a29",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910013/910013.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910013/Hwei.wad.client",
+          "size": 89781,
+          "sha256": "5639ff1e72ec1a064a8c868fda75b2b1025187c9ae67f3fdeab16c1b5d526798"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3497,
+          "bytes_after": 89781,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910014,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 云开",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cc52440b4b85dbbb400e070b8901de8de48a36d722678817a228d3efd669e375",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910014/910014.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910014/Hwei.wad.client",
+          "size": 89783,
+          "sha256": "a813c9ceeeaa5944dd041cf3ba25bf995b1f3e9f0b691da08b8a2dc407614ac1"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3499,
+          "bytes_after": 89783,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910015,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 风起",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dc30e90c54fb4fb91a31415379e29285a80f4f12407ef5be2138677d369fa084",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910015/910015.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910015/Hwei.wad.client",
+          "size": 89783,
+          "sha256": "831d572fe56bfc0c0d74fcd4fafbd7e259a7350fcaf3db0c86e3fbcb038d1dea"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3499,
+          "bytes_after": 89783,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910016,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 兰秋",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "48080df4db25ecb42d5f7c8005f1dd4bed7bba35f19e17d8e2ba6761107b71bf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910016/910016.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910016/Hwei.wad.client",
+          "size": 89784,
+          "sha256": "65cdd2490ec06cc5840d761a9416c920bb33acf1a7a4b7cf6336e4807b27bff1"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3500,
+          "bytes_after": 89784,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910017,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 朝花",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4fd6d4909f0552cee9bb2a851f62a498c4d35b930f04dfa8d2b96a0d75a447bb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910017/910017.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910017/Hwei.wad.client",
+          "size": 89783,
+          "sha256": "1ac1d79f2cdea199bc10f7c87af77e2e78a41ee0667f0399d245c509385b1c1d"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3499,
+          "bytes_after": 89783,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910018,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 月升",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eb0c9d5d029fe934a4f7def393092fd48507cd076a4d7ebaade9781fc5ca2f62",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910018/910018.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910018/Hwei.wad.client",
+          "size": 89781,
+          "sha256": "b02bdab17cc584df0cc21ebe0c897bd612fa5dd28985010e4e47452b8e68f7fd"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3497,
+          "bytes_after": 89781,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910019,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 春晓",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9189155cae7ab051124ef2cab14493cb2d8e52f1fa593817a5b2540f832f2abd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910019/910019.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910019/Hwei.wad.client",
+          "size": 89809,
+          "sha256": "1dcc0f601829d423bc0bda0dc12804216e7b9ad322a93b7ce094ee9abf3315b7"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3525,
+          "bytes_after": 89809,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 910020,
+      "base_skin_id": 910011,
+      "champion_id": 910,
+      "name": "灵魂莲华 彗 至强",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ebf829910b4adc4595ca5689323753fe91d382eb6d706637db48f112d3a3f785",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "910/910011/910020/910020.fantome",
+      "files": [
+        {
+          "path": "skins/910/910011/910020/Hwei.wad.client",
+          "size": 89845,
+          "sha256": "a205a5e2a09c59f48919350ba44b9bfc48ca71989a8ca6e0f4e634781c11d37a"
+        }
+      ],
+      "wads": {
+        "Hwei.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3561,
+          "bytes_after": 89845,
+          "replacement_hashes": [
+            "4803f2386651ce58"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Hwei.wad.client",
+            "normal_hash": "4803f2386651ce58",
+            "border_hash": "4a9ea55bc08ed0d4",
+            "bytes": 86252,
+            "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "champion_id": 92,
+  "base_skin_id": 92034,
+  "name": "光明哨兵 锐雯",
+  "variants": [
+    {
+      "skin_id": 92034,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "560cbc10621663958c6829bff3e7290cf376bd1974d908ac6e60c688aad53427",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92034.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92034/Riven.wad.client",
+          "size": 90756,
+          "sha256": "eca5cdf288196ccc175cba4b4f3bdb7fad49e839417c8c4d7e163b8957908012"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4472,
+          "bytes_after": 90756,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92035,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 帝国抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b58392c72ffee52ff6a76553db4a16532ffbbedc9f2e936d03b402102ec6ae9f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92035/92035.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92035/Riven.wad.client",
+          "size": 88576,
+          "sha256": "9c574787b6e4392ae84aa5c10fc2b67665b68cbe9be3d78752c402152b7d4ca9"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2292,
+          "bytes_after": 88576,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92036,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 山峰抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "11dc50688323b7ad6371595f713c775b8585fb4f87719ca77745bc5d00bce52a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92036/92036.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92036/Riven.wad.client",
+          "size": 88526,
+          "sha256": "3011d7dc023db4919a51efb8f95746fc640289eb5acc501cf8f74ee6b92c72fc"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2242,
+          "bytes_after": 88526,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92037,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 森林抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aef4bf69f1c845019fc301a5e13e706d79d68a2e94a18ca865e2465e0f78e347",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92037/92037.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92037/Riven.wad.client",
+          "size": 88527,
+          "sha256": "8e80d4fe50229fdcdb40c09c588a1a3c80bc99953b254ddff208c42303ecea66"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2243,
+          "bytes_after": 88527,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92038,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 虚无抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1d9568b5784b11f2410117f707269658686b6ae23e1a1adacf706d9213080332",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92038/92038.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92038/Riven.wad.client",
+          "size": 88527,
+          "sha256": "7fe5caec55d1fa81986ccd73bf933f10f4192e3d746f19d963f090cce1312128"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2243,
+          "bytes_after": 88527,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92039,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 海港抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1f8c1e9e279c03b564c8b7df4f9023dc0cfd5e906ecd4e438e8ec2ce2f4fd1b7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92039/92039.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92039/Riven.wad.client",
+          "size": 88524,
+          "sha256": "0a026d2e6f78dc01a73b12a3d5c1c1e12b12beaa38559b7f715ab7b4d6057826"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2240,
+          "bytes_after": 88524,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92040,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 灵岛抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6c64b2d418d77b94950c35b3744c8cbba558c1e2b41da78049c402b2e7125a9e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92040/92040.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92040/Riven.wad.client",
+          "size": 88549,
+          "sha256": "28ac28e9d020f6b6b14d1f97c5c33ab43dc8453787ae9c9117d943aa03602954"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2265,
+          "bytes_after": 88549,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92041,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 丛林抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7eb6a371777593837b7af80f28fabfdfa862acf5ebf80abac6e52fe440eecc13",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92041/92041.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92041/Riven.wad.client",
+          "size": 88529,
+          "sha256": "edf80b1fe78c30ce3b6ecb8a8d6ab252e0e0a560fe9f5a12bf335264faa1e85e"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2245,
+          "bytes_after": 88529,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92042,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 极地抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5e686ddff6a42435e2c1cc62a610782d2e9fd77d59a5bbb609675ba98cc6c30e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92042/92042.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92042/Riven.wad.client",
+          "size": 88529,
+          "sha256": "f083b5cad09b210dc98ffbff3f562df09efeace054e7d0eff7dea56778ffc1cd"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2245,
+          "bytes_after": 88529,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 92043,
+      "base_skin_id": 92034,
+      "champion_id": 92,
+      "name": "光明哨兵 锐雯 坚定抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "978a4a58b96e7976fc33ecf3d5eb89f76802b0c5bfc71faabcb20a518fb7c764",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "92/92034/92043/92043.fantome",
+      "files": [
+        {
+          "path": "skins/92/92034/92043/Riven.wad.client",
+          "size": 88580,
+          "sha256": "4c9da883142244ca15308b673402f05cbf5a397d7fbcfeb4f6b4185bff8d3ace"
+        }
+      ],
+      "wads": {
+        "Riven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2296,
+          "bytes_after": 88580,
+          "replacement_hashes": [
+            "ffeb02ebd63696cb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Riven.wad.client",
+            "normal_hash": "ffeb02ebd63696cb",
+            "border_hash": "e5d53ff6b692a4a7",
+            "bytes": 86252,
+            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

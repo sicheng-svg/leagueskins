@@ -1,0 +1,58 @@
+{
+  "skin_id": 901015,
+  "base_skin_id": 901011,
+  "champion_id": 901,
+  "name": "圣诞驯鹿 斯莫德 爱意",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2bf3f10b39cb4b74d9b2d7863711e2a07576c661c582e4ff1e925216f9266231",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "901/901011/901015/901015.fantome",
+  "files": [
+    {
+      "path": "skins/901/901011/901015/Smolder.wad.client",
+      "size": 89401,
+      "sha256": "d5eafaaa116fa61490c91d1ade1cc002bc5db47dbfd3d95a2b36f26c7067b274"
+    }
+  ],
+  "wads": {
+    "Smolder.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3117,
+      "bytes_after": 89401,
+      "replacement_hashes": [
+        "681f0d4ac3d0e0ab"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Smolder.wad.client",
+        "normal_hash": "681f0d4ac3d0e0ab",
+        "border_hash": "719da311090bdee1",
+        "bytes": 86252,
+        "sha256": "60843ab1a5219d3392154af1fb34c3a8d5efd226a86390b7ffcc1b52bfa6ec3a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

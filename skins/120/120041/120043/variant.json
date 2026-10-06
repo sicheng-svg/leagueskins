@@ -1,0 +1,48 @@
+{
+  "skin_id": 120043,
+  "base_skin_id": 120041,
+  "champion_id": 120,
+  "name": "黑夜使者 赫卡里姆 炎夜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "45b0a1c1c69482aee63679f3ea40626ad2622c73cf6010899d684f583502fb61",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "120/120041/120043/120043.fantome",
+  "files": [
+    {
+      "path": "skins/120/120041/120043/Hecarim.wad.client",
+      "size": 2370,
+      "sha256": "af6e1c5b23d22ec31620d71cd20ce3c4d373e84e524643aaf51f0505be1b705e"
+    }
+  ],
+  "wads": {
+    "Hecarim.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2370,
+      "bytes_after": 2370,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

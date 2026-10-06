@@ -1,0 +1,48 @@
+{
+  "skin_id": 12002,
+  "base_skin_id": 12002,
+  "champion_id": 12,
+  "name": "金牛座 阿利斯塔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "afbe740463962e215b175a68785ff8f521503d8cd399d6ddf8dbea9e93a84730",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "12/12002/12002.fantome",
+  "files": [
+    {
+      "path": "skins/12/12002/12002/Alistar.wad.client",
+      "size": 2793,
+      "sha256": "df0d4d55676363d21974d5b2ac24589ca4660d1ef34d3e9670ae259e57a16692"
+    }
+  ],
+  "wads": {
+    "Alistar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2793,
+      "bytes_after": 2793,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

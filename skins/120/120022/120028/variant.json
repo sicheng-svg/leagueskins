@@ -1,0 +1,48 @@
+{
+  "skin_id": 120028,
+  "base_skin_id": 120022,
+  "champion_id": 120,
+  "name": "车骑之力 赫卡里姆 学识",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "40a291acfc1fc47040c5e6d4058fec132e6acffef950a29d531326570e0fc84e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "120/120022/120028/120028.fantome",
+  "files": [
+    {
+      "path": "skins/120/120022/120028/Hecarim.wad.client",
+      "size": 2557,
+      "sha256": "32beb42a86aade92391d1a5bb46033b66886fe8b594f91f53337e5175faa6f21"
+    }
+  ],
+  "wads": {
+    "Hecarim.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2557,
+      "bytes_after": 2557,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

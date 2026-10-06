@@ -1,0 +1,58 @@
+{
+  "skin_id": 121017,
+  "base_skin_id": 121011,
+  "champion_id": 121,
+  "name": "冠军掠夺者 卡兹克 Kaos Latin Gamers",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8921712f17ee070f015881aea02702a2f02a2ce76218370f9e89322506c799c3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "121/121011/121017/121017.fantome",
+  "files": [
+    {
+      "path": "skins/121/121011/121017/Khazix.wad.client",
+      "size": 88667,
+      "sha256": "3441782581ce6b4630b27a248c76c8f39997b8ae5b8580a01123e160c4ff0da8"
+    }
+  ],
+  "wads": {
+    "Khazix.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2383,
+      "bytes_after": 88667,
+      "replacement_hashes": [
+        "3547f58e2687f2c9"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Khazix.wad.client",
+        "normal_hash": "3547f58e2687f2c9",
+        "border_hash": "7ba34461ee96c7e6",
+        "bytes": 86252,
+        "sha256": "f629093f21a8fa1a04bfe1ff6801496ab5cf2f73635f9f6f1ebc65691d925e17"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

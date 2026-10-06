@@ -1,0 +1,587 @@
+{
+  "champion_id": 119,
+  "base_skin_id": 119048,
+  "name": "魂蔷薇 德莱文",
+  "variants": [
+    {
+      "skin_id": 119048,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6e1aa96276fb634ad347734e5a68be9dd42b017dc730601a17469350faacda93",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119048.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119048/Draven.wad.client",
+          "size": 93518,
+          "sha256": "3a8e1a76b266b840c4c7a9bef3a5a6aaa239480f78abb4f258f207ccb60527bb"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7234,
+          "bytes_after": 93518,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119049,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 信念之火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f5097f45e824455d1dca95459f0fc60cfcf5461cdaf3c7d276c4b21c5a857ffa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119049/119049.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119049/Draven.wad.client",
+          "size": 88881,
+          "sha256": "13a3379df0827e1011ac60cda4e15e9ddf161a97491e0b531a73cb2f0ccc631d"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2597,
+          "bytes_after": 88881,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119050,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 迎接之烛",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5203ab529e7d4cac3360bce92f57f24cc0905171c2d251e0a70cd851e82a33e7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119050/119050.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119050/Draven.wad.client",
+          "size": 88828,
+          "sha256": "fdf6bcf0016b85cef46256486520321b9fa554cce5b59e63d8926235ccc5d28c"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2544,
+          "bytes_after": 88828,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119051,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 告慰之饮",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "490656fa4e94cb96c394dc9866dcf46de03c0859bd83143607ae1152e2f71a70",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119051/119051.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119051/Draven.wad.client",
+          "size": 88828,
+          "sha256": "e00437d9731f0dccaed727e8ff678d27dca3b47d32182bc2c12b55d7dde89b69"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2544,
+          "bytes_after": 88828,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119052,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 祈祷之香",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d425ec7c490784c260539a6fbf8c5bf1fbdffb8cd7d33d4890dcc717452df93d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119052/119052.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119052/Draven.wad.client",
+          "size": 88829,
+          "sha256": "8cb65a0f3adc2b7718ee29badfa39f120be638e8ef25c56e843ba86e29ceca2a"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2545,
+          "bytes_after": 88829,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119053,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 送别之礼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9bda7ae5d933783eca255ffdd938fa5668923d4e3968ab7603654926f16b9720",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119053/119053.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119053/Draven.wad.client",
+          "size": 88828,
+          "sha256": "e11a3c622307317a0f48251c0604668a92122a4139928c975c503fc84912aeec"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2544,
+          "bytes_after": 88828,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119054,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 家人之爱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bce691e25cc35b982c35907b99be14b3ac9c7508fd2740f57a13c37971aeb99b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119054/119054.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119054/Draven.wad.client",
+          "size": 88850,
+          "sha256": "b802ee631d639f6b34aab0cff630893adfbfe9c9b303d109999f69b5b5d95ab3"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2566,
+          "bytes_after": 88850,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119055,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 生命之源",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f4d1fab091b29adae8ef269c35eef3c1582924e5680376c14e4d898e3c2b4ea5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119055/119055.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119055/Draven.wad.client",
+          "size": 88830,
+          "sha256": "738f83d934e94af4d85610566df5c6279441b43e8f91fd482dda44b982d867ed"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2546,
+          "bytes_after": 88830,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119056,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 智慧之物",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e9bfd0ed348ab6dddb9b509677a6ba6208130f87edccbdaed8fd5d9b0a124671",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119056/119056.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119056/Draven.wad.client",
+          "size": 88830,
+          "sha256": "ca3e4c86c4002b9e1848ce15a662129ba390183404d17787ce2bdbc21a09edaf"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2546,
+          "bytes_after": 88830,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119057,
+      "base_skin_id": 119048,
+      "champion_id": 119,
+      "name": "魂蔷薇 德莱文 生如夏花",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "19e469f623f6a81a2e3f3fefaa903e09babcc88b3d2624fd09d356e7aa79bfc0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119048/119057/119057.fantome",
+      "files": [
+        {
+          "path": "skins/119/119048/119057/Draven.wad.client",
+          "size": 88885,
+          "sha256": "e2fb095f25faedb20210dc8345e70f1624cca89eb280a52699792c83d584c8da"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2601,
+          "bytes_after": 88885,
+          "replacement_hashes": [
+            "ebe74f3f68753d7b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "ebe74f3f68753d7b",
+            "border_hash": "f09d5ec7b738d2d9",
+            "bytes": 86252,
+            "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

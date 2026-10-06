@@ -1,0 +1,72 @@
+{
+  "skin_id": 117040,
+  "base_skin_id": 117037,
+  "champion_id": 117,
+  "name": "小怪兽训练师 璐璐 绿松",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d05f2fc35e1dff28e5e81cc46e03557cb88139259b3b181184a83badba3a071e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "117/117037/117040/117040.fantome",
+  "files": [
+    {
+      "path": "skins/117/117037/117040/Lulu.wad.client",
+      "size": 90748,
+      "sha256": "b43312455474c298fcc1666fc52d80a4c9b71a7d08b3c3d3958ecb5ed3f73d3f"
+    }
+  ],
+  "wads": {
+    "Lulu.wad.client": {
+      "entries_before": 3,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4464,
+      "bytes_after": 90748,
+      "replacement_hashes": [
+        "81aae5434e992235"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lulu.wad.client",
+        "normal_hash": "81aae5434e992235",
+        "border_hash": "82d52973ca116d54",
+        "bytes": 86252,
+        "sha256": "12594d43e84540949370ff31f46e4f62743034d2b7a279e8fb0398a07016e114"
+      },
+      {
+        "archive": "Lulu.wad.client",
+        "normal_hash": "81aae5434e992235",
+        "border_hash": "82d52973ca116d54",
+        "bytes": 86252,
+        "sha256": "12594d43e84540949370ff31f46e4f62743034d2b7a279e8fb0398a07016e114"
+      },
+      {
+        "archive": "Lulu.wad.client",
+        "normal_hash": "81aae5434e992235",
+        "border_hash": "82d52973ca116d54",
+        "bytes": 86252,
+        "sha256": "12594d43e84540949370ff31f46e4f62743034d2b7a279e8fb0398a07016e114"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

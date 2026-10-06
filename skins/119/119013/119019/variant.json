@@ -1,0 +1,58 @@
+{
+  "skin_id": 119019,
+  "base_skin_id": 119013,
+  "champion_id": 119,
+  "name": "机神青龙 德莱文 月蚀",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "40538e9acc7294a60d9e5fe4eafbffdbc9e0d00fe9d632e5acbb059e71f04e61",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "119/119013/119019/119019.fantome",
+  "files": [
+    {
+      "path": "skins/119/119013/119019/Draven.wad.client",
+      "size": 88668,
+      "sha256": "3e05bc37fd9a07bc5a3c97c28488eebd47fd0a43da20f8aa16361eae7f4d9339"
+    }
+  ],
+  "wads": {
+    "Draven.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2384,
+      "bytes_after": 88668,
+      "replacement_hashes": [
+        "41738553e2413973"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Draven.wad.client",
+        "normal_hash": "41738553e2413973",
+        "border_hash": "4fff6caba9625c76",
+        "bytes": 86252,
+        "sha256": "719abd1d6ac4d2d8010248d0c99e9c63d63cbe69aed1987e44f3b2c02f91d1be"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

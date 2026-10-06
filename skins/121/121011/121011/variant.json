@@ -1,0 +1,58 @@
+{
+  "skin_id": 121011,
+  "base_skin_id": 121011,
+  "champion_id": 121,
+  "name": "冠军掠夺者 卡兹克",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "70179a57ecd851ad8bd1b92726172c709d166d9b8b1b8b1c5f3bc76d16bc1688",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "121/121011/121011.fantome",
+  "files": [
+    {
+      "path": "skins/121/121011/121011/Khazix.wad.client",
+      "size": 91363,
+      "sha256": "46e72fb02d6def867165749ec64162aae49377bc8e21038a6d2b07aefc4cf6af"
+    }
+  ],
+  "wads": {
+    "Khazix.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5079,
+      "bytes_after": 91363,
+      "replacement_hashes": [
+        "3547f58e2687f2c9"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Khazix.wad.client",
+        "normal_hash": "3547f58e2687f2c9",
+        "border_hash": "3e9388201a40e0e5",
+        "bytes": 86252,
+        "sha256": "1de31197c4c3df69f54b7c14e3c8737223871a2a7f5de0a1f7511a708abde6d6"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

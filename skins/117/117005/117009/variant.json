@@ -1,0 +1,48 @@
+{
+  "skin_id": 117009,
+  "base_skin_id": 117005,
+  "champion_id": 117,
+  "name": "泳池派对 璐璐 热辣绿珊瑚",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "646cf9f2bee96ffaaab8b98c1bae549eee10040fab8bc8901e47ac07b8da8969",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "117/117005/117009/117009.fantome",
+  "files": [
+    {
+      "path": "skins/117/117005/117009/Lulu.wad.client",
+      "size": 3200,
+      "sha256": "80f7f07b88b174d7bf75bff811235bc6032f14fbb00277e3977eac75de6c027b"
+    }
+  ],
+  "wads": {
+    "Lulu.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3200,
+      "bytes_after": 3200,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 122002,
+  "base_skin_id": 122002,
+  "champion_id": 122,
+  "name": "生化骑士 德莱厄斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3e3b4fc07223781079eaa4a2cfe78e60142bf2f78b71c0c2b14c670cbb0574d0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122002/122002.fantome",
+  "files": [
+    {
+      "path": "skins/122/122002/122002/Darius.wad.client",
+      "size": 3451,
+      "sha256": "7574af8cd38a205ea5563ae1dcff638c355bee2e3061726e8060a49d7cdd4fca"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3451,
+      "bytes_after": 3451,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

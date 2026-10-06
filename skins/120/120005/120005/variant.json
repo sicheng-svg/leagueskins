@@ -1,0 +1,48 @@
+{
+  "skin_id": 120005,
+  "base_skin_id": 120005,
+  "champion_id": 120,
+  "name": "永恒之森 赫卡里姆",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a11431cf57e47a4012e4edabb4709a232f99d9cf94d658f7f12dcc7b34921c37",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "120/120005/120005.fantome",
+  "files": [
+    {
+      "path": "skins/120/120005/120005/Hecarim.wad.client",
+      "size": 3975,
+      "sha256": "139d69d41b479611ae1a946bdb0b493c9a6599f0ebf391824736ce5e70dfaae0"
+    }
+  ],
+  "wads": {
+    "Hecarim.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3975,
+      "bytes_after": 3975,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

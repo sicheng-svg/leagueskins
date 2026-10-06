@@ -1,0 +1,48 @@
+{
+  "skin_id": 117024,
+  "base_skin_id": 117003,
+  "champion_id": 117,
+  "name": "驯龙女巫 璐璐 威仪晶龙",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "393d7b28701122626fabc21b83324cccb7cdd42637af833d9280552400fedf3c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "117/117003/117024/117024.fantome",
+  "files": [
+    {
+      "path": "skins/117/117003/117024/Lulu.wad.client",
+      "size": 3263,
+      "sha256": "60592a51355a1d222f492d34fe14886f905cc1f9d4e35cd6a7e6dbec590de7d7"
+    }
+  ],
+  "wads": {
+    "Lulu.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3263,
+      "bytes_after": 3263,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

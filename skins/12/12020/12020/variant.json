@@ -1,0 +1,58 @@
+{
+  "skin_id": 12020,
+  "base_skin_id": 12020,
+  "champion_id": 12,
+  "name": "征服者 阿利斯塔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "be3c8424f5f76f6d6d6aa9c8d9f8ad9823287519c3666d1ff13626c3541b18c1",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "12/12020/12020.fantome",
+  "files": [
+    {
+      "path": "skins/12/12020/12020/Alistar.wad.client",
+      "size": 89652,
+      "sha256": "cd73159b2e045d118e4bb30bcee4aab11d24b7122534ecb36bf6fd160e53f551"
+    }
+  ],
+  "wads": {
+    "Alistar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3368,
+      "bytes_after": 89652,
+      "replacement_hashes": [
+        "8230e3363c2e717d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Alistar.wad.client",
+        "normal_hash": "8230e3363c2e717d",
+        "border_hash": "8fc03aefa2c83854",
+        "bytes": 86252,
+        "sha256": "7c1bebe48d7a383d1ac63830b9c806117d11e466db28af755afd3ac17a0416e4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 122014,
+  "base_skin_id": 122014,
+  "champion_id": 122,
+  "name": "恐惧新星 德莱厄斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "86e308a5dde3550bcd42ea9f5ac47b60e92492a9909145d3563b38d9e3d3d651",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122014/122014.fantome",
+  "files": [
+    {
+      "path": "skins/122/122014/122014/Darius.wad.client",
+      "size": 4170,
+      "sha256": "4614e42766e116566a0d424843084eaac337f98a80688b0b14f4dc0ae7655ba9"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4170,
+      "bytes_after": 4170,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

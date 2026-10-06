@@ -1,0 +1,529 @@
+{
+  "champion_id": 115,
+  "base_skin_id": 115043,
+  "name": "龙马烈焰 吉格斯",
+  "variants": [
+    {
+      "skin_id": 115043,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "90c631782828688541cdc92deb30d505ce94573d4dbb922bfde1b64da9beebe9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115043.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115043/Ziggs.wad.client",
+          "size": 91600,
+          "sha256": "aefd178ae2a61c14faa34e17a71c9d19f4cd3b7ed668542eef7ed65a00799c6a"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5316,
+          "bytes_after": 91600,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115044,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 恭喜发财",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "48d5d5b23b17a99a557863532d15840baaf9c135e308936163f44357600339b9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115044/115044.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115044/Ziggs.wad.client",
+          "size": 88768,
+          "sha256": "d44ec09518b99d1940a88f92f06428edfc0d2fbff1095a49940e0af75344f96f"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2484,
+          "bytes_after": 88768,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115045,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 财源滚滚",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "959fcb70a7d4751b5e7aae6209899baff6667dad619e3a2bae51eb430c7b1951",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115045/115045.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115045/Ziggs.wad.client",
+          "size": 88718,
+          "sha256": "df49099aa39110df4bc29d48dc89dda4a987bd9f1423e1b222bc97e8e2c63dab"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2434,
+          "bytes_after": 88718,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115046,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 龙马精神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9573a457f8c845dd24f58888a4eb4f255b4d799476c35f7ceebc124581c36c85",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115046/115046.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115046/Ziggs.wad.client",
+          "size": 88716,
+          "sha256": "5b73029cdb8c61999ce1db22edb571f7c3f8025536e7a21b6dc0cb7723f2b306"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2432,
+          "bytes_after": 88716,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115047,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 喜气洋洋",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "018035a7fac42cd358e0515a513ef3c73a21bbc53be70d39ac41a89bdcb1b02f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115047/115047.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115047/Ziggs.wad.client",
+          "size": 88719,
+          "sha256": "25790f0bb1f5eae4b6cc09288b8435fd305a14b95a77c1e9d93a68c8fb8d98eb"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2435,
+          "bytes_after": 88719,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115048,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 紫气东来",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "54695ae4d7383ec2b9690be2594a106c9012b9a09c6c7292c161191224950386",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115048/115048.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115048/Ziggs.wad.client",
+          "size": 88720,
+          "sha256": "c5ab0ab40fca26f1ae382382d44ea6661137a88d94b8ac49f77a94ccf6ca31e1"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2436,
+          "bytes_after": 88720,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115049,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 前程似锦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f9b6d398c981be14a161bf9d117f4cab9487491b4a3f6661c07f60883b7c8299",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115049/115049.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115049/Ziggs.wad.client",
+          "size": 88715,
+          "sha256": "5b1c8d5ac6024d8f9501b9004fcae8aac6d6ba9acd870c6d9e1cd0ce9a14e4ff"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2431,
+          "bytes_after": 88715,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115050,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 团团圆圆",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "448a78395d4f2a560bb5e42d1628fee3f7a087c66dd552f9f923666511d9abd0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115050/115050.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115050/Ziggs.wad.client",
+          "size": 88713,
+          "sha256": "c57ffc05031b5a457e4f28a290b28bc21fb648dafa11e6541ee22da1e620dcfc"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2429,
+          "bytes_after": 88713,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 115051,
+      "base_skin_id": 115043,
+      "champion_id": 115,
+      "name": "龙马烈焰 吉格斯 阖家安康",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "03df3cb85b9f79b799bd6ab057076f4cb9c633575d2e845fa80280f37e0f342a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "115/115043/115051/115051.fantome",
+      "files": [
+        {
+          "path": "skins/115/115043/115051/Ziggs.wad.client",
+          "size": 88724,
+          "sha256": "d701cd47bc984893aff0938ca3391b0e01883365f98a40a4907cc104244f00b2"
+        }
+      ],
+      "wads": {
+        "Ziggs.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2440,
+          "bytes_after": 88724,
+          "replacement_hashes": [
+            "32ca8d94d9b6ce5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ziggs.wad.client",
+            "normal_hash": "32ca8d94d9b6ce5c",
+            "border_hash": "4726447ea5999694",
+            "bytes": 86252,
+            "sha256": "045027ff214de78fa0757b2ae27aaedd7ad47390aeb7379070e1c03a042da59e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

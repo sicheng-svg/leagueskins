@@ -1,0 +1,58 @@
+{
+  "skin_id": 122016,
+  "base_skin_id": 122016,
+  "champion_id": 122,
+  "name": "西部魔影 德莱厄斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "14ad711c6bc71069584c9486c1cbefb46f675f5514497565ea9a0db4041dd038",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122016/122016.fantome",
+  "files": [
+    {
+      "path": "skins/122/122016/122016/Darius.wad.client",
+      "size": 90651,
+      "sha256": "08734c8e16928067d939b15b4d9a2888482ac7a6af1ab06c500d55a8d3c4a613"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4367,
+      "bytes_after": 90651,
+      "replacement_hashes": [
+        "6c75ab5c465af061"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Darius.wad.client",
+        "normal_hash": "6c75ab5c465af061",
+        "border_hash": "7ee8997fd02366d9",
+        "bytes": 86252,
+        "sha256": "6df4489159b0153e31b8dbd46842dfded390b0c433d89f8060ccc191de9d1d65"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

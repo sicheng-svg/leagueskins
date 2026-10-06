@@ -1,0 +1,48 @@
+{
+  "skin_id": 119043,
+  "base_skin_id": 119039,
+  "champion_id": 119,
+  "name": "魔域梦魇 德莱文 荆棘梦境",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3751ff35b00b5b739e4ced67e2cadb7f0c3089ab903baa1f59fd05f139352652",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "119/119039/119043/119043.fantome",
+  "files": [
+    {
+      "path": "skins/119/119039/119043/Draven.wad.client",
+      "size": 2410,
+      "sha256": "8556a6a23bf646ef63aed8a7de204ca6d2390e06be527c877db5d9b8c50e4bd3"
+    }
+  ],
+  "wads": {
+    "Draven.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2410,
+      "bytes_after": 2410,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

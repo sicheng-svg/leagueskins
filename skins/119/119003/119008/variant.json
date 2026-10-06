@@ -1,0 +1,48 @@
+{
+  "skin_id": 119008,
+  "base_skin_id": 119003,
+  "champion_id": 119,
+  "name": "金牌主播 德莱文 玩梗达人金话筒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0ebc8dd6e51a1ea858b1e16fc724ad42f49e3ec9766ecdb4fde42a2d52b664ef",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "119/119003/119008/119008.fantome",
+  "files": [
+    {
+      "path": "skins/119/119003/119008/Draven.wad.client",
+      "size": 2483,
+      "sha256": "e4ebac48cc66ea2af7e22028e6dffd629f759222e3434b7253a1d68ada9cf4b8"
+    }
+  ],
+  "wads": {
+    "Draven.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2483,
+      "bytes_after": 2483,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

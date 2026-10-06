@@ -1,0 +1,55 @@
+{
+  "champion_id": 119,
+  "base_skin_id": 119005,
+  "name": "野兽猎人 德莱文",
+  "variants": [
+    {
+      "skin_id": 119005,
+      "base_skin_id": 119005,
+      "champion_id": 119,
+      "name": "野兽猎人 德莱文",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "01c6c0e3e0e0d32efc19ca0c5f6768acba9e8f2e308cde04ee9d0d7eb5167725",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119005/119005.fantome",
+      "files": [
+        {
+          "path": "skins/119/119005/119005/Draven.wad.client",
+          "size": 6241,
+          "sha256": "0d995f0adf654bee97f151bf67a73d6dc08fa185a676a895be8a689a41652df3"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6241,
+          "bytes_after": 6241,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

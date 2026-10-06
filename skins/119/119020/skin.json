@@ -1,0 +1,529 @@
+{
+  "champion_id": 119,
+  "base_skin_id": 119020,
+  "name": "破败军团 德莱文",
+  "variants": [
+    {
+      "skin_id": 119020,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f661ec27899f83c5b6646f2b3456783405644343e06bd33c433269db42c3c764",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119020.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119020/Draven.wad.client",
+          "size": 93453,
+          "sha256": "329b3d510f508f227c4880a8b0e4ffda25cd0eebd01b9b50157de64fd47efc95"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7169,
+          "bytes_after": 93453,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119021,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 帝国征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ff2a3e339571bfd314d619ad9b319999abf28ea11536478ca8a39bd2ac0aec34",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119021/119021.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119021/Draven.wad.client",
+          "size": 88711,
+          "sha256": "6c0921d5410dd0a5eeb6b4cebab04e4351219021198846c24f8237ebf6c3277b"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2427,
+          "bytes_after": 88711,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119022,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 山峰征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ae33699fbafa73bc0ea547f1aea7260fce9e44e60b99fb356dedc277ef0a8435",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119022/119022.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119022/Draven.wad.client",
+          "size": 88655,
+          "sha256": "bcfded09bf4881a51d8a8097cf3e662d3aa904ad075239497e6f3ff19ae54661"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2371,
+          "bytes_after": 88655,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119023,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 虚空征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7e2652d0865ee7f61e7f1d6ee4850cf5e2945dc0069e124c6baf0aa9b3302ec0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119023/119023.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119023/Draven.wad.client",
+          "size": 88657,
+          "sha256": "1a9d2b28e788b287522c4e08e6e9a30dccd2cae7897598bf8d093a8d24adf3e2"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2373,
+          "bytes_after": 88657,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119024,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 海港征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d08d9467b0b3ce1d4524ef2b274bc407044bcc7112126d2b052849d10bf5c90e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119024/119024.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119024/Draven.wad.client",
+          "size": 88656,
+          "sha256": "3308bfe39592044a5c954a15dde40faef021c49734c547f57ab6533987299835"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2372,
+          "bytes_after": 88656,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119025,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 森林征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "de8417adbaac08f3500d220cdb3d9019a61df0c98b1788c339c18d1eae933b7d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119025/119025.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119025/Draven.wad.client",
+          "size": 88655,
+          "sha256": "aa5b7247fba0e6aa36973a5097e1d536e25098bb9791c847a99156b3c279910a"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2371,
+          "bytes_after": 88655,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119026,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 灵岛征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "94a8746381ae8b41984f4eb5df5779df03376ef752570734aba361dd80340ac2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119026/119026.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119026/Draven.wad.client",
+          "size": 88678,
+          "sha256": "67079957744fa6764d50e75ed8c6e19d265fe26d9b9b7b98f1d3b7f740de268c"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2394,
+          "bytes_after": 88678,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119027,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 极地征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5c1b20de2aaf2f823d6fd0df6b12fff1228b18c21bd2676a498066ab4297ed0c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119027/119027.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119027/Draven.wad.client",
+          "size": 88655,
+          "sha256": "704a535c6a11c160223904a2d9732484c258a45276d7a81b59707efd8e6a5d1f"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2371,
+          "bytes_after": 88655,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 119028,
+      "base_skin_id": 119020,
+      "champion_id": 119,
+      "name": "破败军团 德莱文 咒缚征伐使",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dab0fad4acb82ad24cee47fe221c87f19dd42beb457d39a3f104bc8cf60b9545",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "119/119020/119028/119028.fantome",
+      "files": [
+        {
+          "path": "skins/119/119020/119028/Draven.wad.client",
+          "size": 88714,
+          "sha256": "bb9604d75c44d8b2d7d0d9597163583306b9283190ba4b88560b94f97e9c8b8a"
+        }
+      ],
+      "wads": {
+        "Draven.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2430,
+          "bytes_after": 88714,
+          "replacement_hashes": [
+            "fd201555db422c5c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Draven.wad.client",
+            "normal_hash": "fd201555db422c5c",
+            "border_hash": "0825ff7250c080ce",
+            "bytes": 86252,
+            "sha256": "60f89dfd247ec3decc9fb8061b7f63add8b8e98935ec8cd7ecd43724f889347e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 121064,
+  "base_skin_id": 121060,
+  "champion_id": 121,
+  "name": "奥德赛 卡兹克 星辉收割者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "603e0caa4b913e562207a3add71ab30aaf48304e81a66397dbf039c1bf7ef504",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "121/121060/121064/121064.fantome",
+  "files": [
+    {
+      "path": "skins/121/121060/121064/Khazix.wad.client",
+      "size": 88734,
+      "sha256": "76202aa72a1d5b4577d7d799f196273c11317e942658f41b5a0da4ceae45843b"
+    }
+  ],
+  "wads": {
+    "Khazix.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2450,
+      "bytes_after": 88734,
+      "replacement_hashes": [
+        "a8a391cf595e5db5"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Khazix.wad.client",
+        "normal_hash": "a8a391cf595e5db5",
+        "border_hash": "9f6d410b300b293e",
+        "bytes": 86252,
+        "sha256": "3feac55f194ed13d004b2a539e0c248a9097d9bc60bad9f259a887de644f6447"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

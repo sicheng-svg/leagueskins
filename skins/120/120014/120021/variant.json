@@ -1,0 +1,48 @@
+{
+  "skin_id": 120021,
+  "base_skin_id": 120014,
+  "champion_id": 120,
+  "name": "人马星神 赫卡里姆 冥神星魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "989e2fccafdb9d62957c4cab2de85d2dae3c56b5c07d5325a8bb23e94a2bb467",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "120/120014/120021/120021.fantome",
+  "files": [
+    {
+      "path": "skins/120/120014/120021/Hecarim.wad.client",
+      "size": 2381,
+      "sha256": "e5c599bd1dda52f9631c60f4de10a6c5da6dc95ec1259f9f7116544cd7fe660b"
+    }
+  ],
+  "wads": {
+    "Hecarim.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2381,
+      "bytes_after": 2381,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

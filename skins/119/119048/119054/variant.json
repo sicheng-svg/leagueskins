@@ -1,0 +1,58 @@
+{
+  "skin_id": 119054,
+  "base_skin_id": 119048,
+  "champion_id": 119,
+  "name": "魂蔷薇 德莱文 家人之爱",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bce691e25cc35b982c35907b99be14b3ac9c7508fd2740f57a13c37971aeb99b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "119/119048/119054/119054.fantome",
+  "files": [
+    {
+      "path": "skins/119/119048/119054/Draven.wad.client",
+      "size": 88850,
+      "sha256": "b802ee631d639f6b34aab0cff630893adfbfe9c9b303d109999f69b5b5d95ab3"
+    }
+  ],
+  "wads": {
+    "Draven.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2566,
+      "bytes_after": 88850,
+      "replacement_hashes": [
+        "ebe74f3f68753d7b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Draven.wad.client",
+        "normal_hash": "ebe74f3f68753d7b",
+        "border_hash": "f09d5ec7b738d2d9",
+        "bytes": 86252,
+        "sha256": "6c979635d48eb96f086c4b74e0ef0d64ab39555902e647f170f518af35b9957c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

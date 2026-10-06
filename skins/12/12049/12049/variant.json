@@ -1,0 +1,48 @@
+{
+  "skin_id": 12049,
+  "base_skin_id": 12049,
+  "champion_id": 12,
+  "name": "暗黑灵魂 阿利斯塔 现代",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "38611b5ddd1c0a55c6597c2dae733f252766f869b206a3d67022a41b9b0235a2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "b819cc21678a084af9eb03c5e654f208e4b9c8bdbcabd3d3af904474fc69a6bc"
+  },
+  "source_package": "12/12049/12049.fantome",
+  "files": [
+    {
+      "path": "skins/12/12049/12049/Alistar.wad.client",
+      "size": 2997,
+      "sha256": "cc2ef6934ee48b01ea4b551655649ab651eb61acc4201a0212fb471a9dc21998"
+    }
+  ],
+  "wads": {
+    "Alistar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2997,
+      "bytes_after": 2997,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

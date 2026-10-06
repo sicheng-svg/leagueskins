@@ -1,0 +1,48 @@
+{
+  "skin_id": 122012,
+  "base_skin_id": 122004,
+  "champion_id": 122,
+  "name": "灌篮高手 德莱厄斯 罪城霸业",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "854da539590e4d11d8f12438d53b347cd4872061e52c07307c7aba0f7e4cff0a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122004/122012/122012.fantome",
+  "files": [
+    {
+      "path": "skins/122/122004/122012/Darius.wad.client",
+      "size": 2578,
+      "sha256": "e11b9a9618e4b1cebfd8c02f704a119b6de66d10248c1994985db61123153048"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2578,
+      "bytes_after": 2578,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

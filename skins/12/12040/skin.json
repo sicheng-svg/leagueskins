@@ -1,0 +1,529 @@
+{
+  "champion_id": 12,
+  "base_skin_id": 12040,
+  "name": "永恒之森 阿利斯塔",
+  "variants": [
+    {
+      "skin_id": 12040,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ad7e3e53917b5f045c3b72811d176047dcd566aa61c86054524186dcb73c5193",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12040.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12040/Alistar.wad.client",
+          "size": 90617,
+          "sha256": "fd2ad0af0cb6e387163016af66f31c48244eccf0c85d986c34e9dcbc69330d18"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4333,
+          "bytes_after": 90617,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12041,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 焰枫",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9a505178b3d2d6b926d0bd8a98532233d25e517dc832438ffb806269c9888be3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12041/12041.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12041/Alistar.wad.client",
+          "size": 88204,
+          "sha256": "b5c1ebbd12faaf1780e06397b09f2a16610d81d1071bc5cbbdb8e22bd6659137"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1920,
+          "bytes_after": 88204,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12042,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 辉瓣",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1abc7e36f397adf55ba8c6447f187e4100438976e58125b265b230d35cf73a3f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12042/12042.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12042/Alistar.wad.client",
+          "size": 88153,
+          "sha256": "59254d0d84da197c349c834760843ee3892386fca4fa06f42d22684e7856d8f4"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1869,
+          "bytes_after": 88153,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12043,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 永茂",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3b7bf9ca20c185e0b93e58cd67ce57ef50af1f359123286ddd797ad06a49a667",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12043/12043.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12043/Alistar.wad.client",
+          "size": 88152,
+          "sha256": "258f367d8a441a11496603469d85cf83ae55514eead72659ae2f5d475b7f9b84"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1868,
+          "bytes_after": 88152,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12044,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 桔梗",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3ad1b08f6f4094ab028ecdc7fe63eef06a01885f03a4d74f9ebd0de97717ebaa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12044/12044.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12044/Alistar.wad.client",
+          "size": 88152,
+          "sha256": "1d9ada85d03591864b83071213f9b043fe733a82189410d7c40249a809a12c6a"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1868,
+          "bytes_after": 88152,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12045,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 寒楹",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "39cb7762c9ce612610e683a644a423062ee9493dd84200c9cae4fe19651d1c3b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12045/12045.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12045/Alistar.wad.client",
+          "size": 88153,
+          "sha256": "16b6dbde9482cfd43887efe0f6f8ba98137fa37a5c3cfc67990d55839d50baa1"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1869,
+          "bytes_after": 88153,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12046,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 樱落",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "be5349342a66b1a24a20ae5a30a1e93b407f10c5557e4614b6d3ddfe5709546b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12046/12046.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12046/Alistar.wad.client",
+          "size": 88175,
+          "sha256": "cd4fa6ee685ef6410710defdbfdef3da0c585ef9c6b0016b7457a4f323f03e8e"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1891,
+          "bytes_after": 88175,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12047,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 冰桦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4806bcbc6de9d8c855d45af9c2924ec4952b13094cc72307c70ba3e0f0ffb541",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12047/12047.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12047/Alistar.wad.client",
+          "size": 88153,
+          "sha256": "435d4823396e90ba4cad9a1c555005b6db57199eaf84de017c4b6b9201033af3"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1869,
+          "bytes_after": 88153,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 12048,
+      "base_skin_id": 12040,
+      "champion_id": 12,
+      "name": "永恒之森 阿利斯塔 月见",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "13e9e5513ef0c9d3d46763fb129ac6dfed6272e9e23bb8730bf97543513b450d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "12/12040/12048/12048.fantome",
+      "files": [
+        {
+          "path": "skins/12/12040/12048/Alistar.wad.client",
+          "size": 88149,
+          "sha256": "7eea25ddb6bdf9a0ad75c83d2a2bbc2b5ab977f3da8896decc2b24dc271298a0"
+        }
+      ],
+      "wads": {
+        "Alistar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1865,
+          "bytes_after": 88149,
+          "replacement_hashes": [
+            "704aa82fd2f74fb3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Alistar.wad.client",
+            "normal_hash": "704aa82fd2f74fb3",
+            "border_hash": "2e646d5e3413f76e",
+            "bytes": 86252,
+            "sha256": "4d842a92745c725efeac5b63332446907bd80b6234c77c5be2d195a474d43943"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

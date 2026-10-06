@@ -1,0 +1,58 @@
+{
+  "skin_id": 120031,
+  "base_skin_id": 120031,
+  "champion_id": 120,
+  "name": "北极星守护者 赫卡里姆",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "68a0ce9cb6f08cab272509048691b73439b8528b81a3df85fa0e97e3157b008b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "120/120031/120031.fantome",
+  "files": [
+    {
+      "path": "skins/120/120031/120031/Hecarim.wad.client",
+      "size": 91234,
+      "sha256": "be845ed0f359949c57aad7514a06110de52180183a325731451770b8ac0ef348"
+    }
+  ],
+  "wads": {
+    "Hecarim.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4950,
+      "bytes_after": 91234,
+      "replacement_hashes": [
+        "3f7929bee55dcc40"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Hecarim.wad.client",
+        "normal_hash": "3f7929bee55dcc40",
+        "border_hash": "0a287622d588c48b",
+        "bytes": 86252,
+        "sha256": "586f39c8323ecedefa7e7bdd5ef0c84dc8999119462cdae26511f02c25c9b9f9"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

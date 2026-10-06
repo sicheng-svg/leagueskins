@@ -1,0 +1,68 @@
+{
+  "skin_id": 875066,
+  "base_skin_id": 875066,
+  "champion_id": 875,
+  "name": "金蛇巨星 瑟提",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f2c21d2aae5ca382b87472bf923df746b22c54e5ad683deec2d8af098566d63b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7d43bab66b71084e0d956ec9c555bda522a9c35420e49532ae9859ac60e75169"
+  },
+  "source_package": "875/875066/875066.fantome",
+  "files": [
+    {
+      "path": "skins/875/875066/875066/Sett.wad.client",
+      "size": 2043456,
+      "sha256": "36f2e495b247a53f92aa2744300932ccc7bf4a452c7b33d4c392745066f61dc0"
+    }
+  ],
+  "wads": {
+    "Sett.wad.client": {
+      "entries_before": 3,
+      "entries_after": 5,
+      "was_sorted": false,
+      "version": "3.3",
+      "bytes_before": 1222376,
+      "bytes_after": 2043456,
+      "replacement_hashes": [
+        "40cfb20fcc564587",
+        "e8f0224bc3d17ce9"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sett.wad.client",
+        "normal_hash": "e8f0224bc3d17ce9",
+        "border_hash": "40cfb20fcc564587",
+        "bytes": 689932,
+        "sha256": "d5dcdc665c05b5bb8e45a382979f44ce877638f91d0ee3295139b572abb58185",
+        "strategy": "bake_native_augment_layers",
+        "layers": [
+          {
+            "path": "assets/characters/sett/skins/skin66/images/ui/settloadscreen_augments_border_premium.tex",
+            "sha256": "9cdb2f2d4a5c9d7d248e452ca943760d98faff8b2683b07cda69c4811f34edcb"
+          }
+        ],
+        "placement": "scale_native_layers_to_loading_card",
+        "in_game": "not_verified"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

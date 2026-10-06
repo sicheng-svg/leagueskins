@@ -1,0 +1,58 @@
+{
+  "skin_id": 875048,
+  "base_skin_id": 875045,
+  "champion_id": 875,
+  "name": "斗魂觉醒 瑟提 幽之魂焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5c54c2f3abf38efe2adeca4751292f11bcda60e9ebd041ace269edb3669f1211",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "875/875045/875048/875048.fantome",
+  "files": [
+    {
+      "path": "skins/875/875045/875048/Sett.wad.client",
+      "size": 89094,
+      "sha256": "512dde15528b42a82963a2f3843a4be1db439d5e60a0e90c891c0dfa569f4e7a"
+    }
+  ],
+  "wads": {
+    "Sett.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2810,
+      "bytes_after": 89094,
+      "replacement_hashes": [
+        "edfdd053c2d007bf"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sett.wad.client",
+        "normal_hash": "edfdd053c2d007bf",
+        "border_hash": "4b4aa2b1708610f0",
+        "bytes": 86252,
+        "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

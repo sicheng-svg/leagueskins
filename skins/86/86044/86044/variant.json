@@ -1,0 +1,59 @@
+{
+  "skin_id": 86044,
+  "base_skin_id": 86044,
+  "champion_id": 86,
+  "name": "堕落神王 盖伦",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "818aed15ad5f5b5bee0fbe8eba68676bd2f69cd7d9df671297331419363916c6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+  },
+  "source_package": "86/86044/86044.fantome",
+  "files": [
+    {
+      "path": "skins/86/86044/86044/Garen.wad.client",
+      "size": 94808,
+      "sha256": "9b68f765ca2d1a7a6dea7401546448ba6863a3bf2c95966e8a8727f292f664c9"
+    }
+  ],
+  "wads": {
+    "Garen.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8524,
+      "bytes_after": 94808,
+      "replacement_hashes": [
+        "b83705944d88c6fe"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Garen.wad.client",
+        "normal_hash": "b83705944d88c6fe",
+        "border_hash": "4c358b507b007843",
+        "bytes": 86252,
+        "sha256": "befa9b40a0d4a3b60247b04915e88ae3ef77655dec1c405863d55ceb1956f6c2",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

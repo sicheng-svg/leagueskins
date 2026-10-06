@@ -1,0 +1,58 @@
+{
+  "skin_id": 875042,
+  "base_skin_id": 875038,
+  "champion_id": 875,
+  "name": "灵魂莲华 瑟提 春晓",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "cc7a5c23f162b2df4eec97122dc3e0561e5f6527b9eda739a9e7fb06552892a2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "875/875038/875042/875042.fantome",
+  "files": [
+    {
+      "path": "skins/875/875038/875042/Sett.wad.client",
+      "size": 89574,
+      "sha256": "682faedf77e59b3efeb6367489f2276a569b9e3e8dba10be328fdaa3cf9ae806"
+    }
+  ],
+  "wads": {
+    "Sett.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3290,
+      "bytes_after": 89574,
+      "replacement_hashes": [
+        "78a06678358b2afa"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sett.wad.client",
+        "normal_hash": "78a06678358b2afa",
+        "border_hash": "25f4aaaefc4c7850",
+        "bytes": 86252,
+        "sha256": "5e54790933f5b8ec5bd1f68b8353ef066561bf442f23fc290aab02f3741974eb"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

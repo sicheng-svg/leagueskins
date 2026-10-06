@@ -1,0 +1,58 @@
+{
+  "skin_id": 86053,
+  "base_skin_id": 86046,
+  "champion_id": 86,
+  "name": "暗裔英雄 盖伦 星界幻想",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b127fdc677fb70892c363c758d694ceb693e3f06c1a062d579cda390a079da1e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "86/86046/86053/86053.fantome",
+  "files": [
+    {
+      "path": "skins/86/86046/86053/Garen.wad.client",
+      "size": 88908,
+      "sha256": "6a7bb0c4d78cbf2bcfaa2c4f49fe9448f16dee57b9291a1b2f2c070baf25a3bf"
+    }
+  ],
+  "wads": {
+    "Garen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2624,
+      "bytes_after": 88908,
+      "replacement_hashes": [
+        "61231980d6d8de15"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Garen.wad.client",
+        "normal_hash": "61231980d6d8de15",
+        "border_hash": "d900c32ce0abc958",
+        "bytes": 86252,
+        "sha256": "fe023cbf217ba10a8bfaa54b29584c27af2cf4bf605210cb148447025d6136f1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

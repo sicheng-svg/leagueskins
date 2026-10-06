@@ -1,0 +1,58 @@
+{
+  "skin_id": 86032,
+  "base_skin_id": 86024,
+  "champion_id": 86,
+  "name": "战斗学院 盖伦 沙漠狼",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9c73da106216fad8fe8b475cd217ad2eee670c3ed3cf93e80080552f71c1747d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "86/86024/86032/86032.fantome",
+  "files": [
+    {
+      "path": "skins/86/86024/86032/Garen.wad.client",
+      "size": 88787,
+      "sha256": "99195156e40377bf0ca9ed5a2b74d0fc765c95dde61fedbbf2a73f24d5de7c41"
+    }
+  ],
+  "wads": {
+    "Garen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2503,
+      "bytes_after": 88787,
+      "replacement_hashes": [
+        "e6247d35778e7c4b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Garen.wad.client",
+        "normal_hash": "e6247d35778e7c4b",
+        "border_hash": "432dbdbe0b445da0",
+        "bytes": 86252,
+        "sha256": "929ec8d0b5de359afe84b0ccd896d6312ac0328103a58e196bbd529698e60a31"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 887007,
+  "base_skin_id": 887001,
+  "champion_id": 887,
+  "name": "“百万调音” 格温 我也来空大",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "cc6e82b0d6dd6b20d65a284d710841df924579d64c55cfbe39c4a96ea405cd10",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "887/887001/887007/887007.fantome",
+  "files": [
+    {
+      "path": "skins/887/887001/887007/Gwen.wad.client",
+      "size": 89386,
+      "sha256": "9914c83122e07e5e97e5bcb94b18957c27e6880279a6708dc0364a9bad26c91e"
+    }
+  ],
+  "wads": {
+    "Gwen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3102,
+      "bytes_after": 89386,
+      "replacement_hashes": [
+        "45a8bba112ff6be3"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Gwen.wad.client",
+        "normal_hash": "45a8bba112ff6be3",
+        "border_hash": "0286be7aae4cec6c",
+        "bytes": 86252,
+        "sha256": "e1f6966bd90e889b193a70d9f44cf603ca69995b95fe809304b838a0e93dee76"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

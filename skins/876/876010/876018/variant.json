@@ -1,0 +1,58 @@
+{
+  "skin_id": 876018,
+  "base_skin_id": 876010,
+  "champion_id": 876,
+  "name": "黑夜使者 莉莉娅 陨夜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d03454293b625cdba6d7c9150f28bddc02cc3f67374ed6638de80af0a1441bd5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "876/876010/876018/876018.fantome",
+  "files": [
+    {
+      "path": "skins/876/876010/876018/Lillia.wad.client",
+      "size": 89042,
+      "sha256": "381ac96af4c387dc0a633c998487dc62f7ce5c89f74f7fc6b9bdba6b16846d74"
+    }
+  ],
+  "wads": {
+    "Lillia.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2758,
+      "bytes_after": 89042,
+      "replacement_hashes": [
+        "6433c0a370d040c1"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lillia.wad.client",
+        "normal_hash": "6433c0a370d040c1",
+        "border_hash": "8132f3b47381a384",
+        "bytes": 86252,
+        "sha256": "139f9e0c63cb3d97a7fc3f2cbea47ed593dd136ed7ec90502e72fe5831670d59"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "champion_id": 875,
+  "base_skin_id": 875008,
+  "name": "神龙尊者 炎龙瑟提",
+  "variants": [
+    {
+      "skin_id": 875008,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "55cc9df028d575d9997a035515f4f2fca36c1d9a02cc70c8be46493a79b38b55",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875008.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875008/Sett.wad.client",
+          "size": 91430,
+          "sha256": "5fa4d95e10efd6ac4c7f87efb19ebd73413130ad2b238a5e4eb58671ba329788"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5146,
+          "bytes_after": 91430,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875020,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 烬爪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e828021b3e0eadaf273379066e038b591880793cc2a201d8c9b25766f1d493fb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875020/875020.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875020/Sett.wad.client",
+          "size": 88890,
+          "sha256": "f7899d04a560c035c8fa49759501277f765a889bd9ba6029ba9e4f7cc4d626c5"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2606,
+          "bytes_after": 88890,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875021,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 傲雪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f84fbb0d6089b4b0ce6ecfc76dbe99f877c136b79069b4d7b6f21395c6231afd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875021/875021.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875021/Sett.wad.client",
+          "size": 88834,
+          "sha256": "cd78dea16ab8c54a91ba4994d8a5165e95b20932231b0504b75a785c9efd0033"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2550,
+          "bytes_after": 88834,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875022,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 碧漪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1709f248577aae5f500b36e39124a31beb9312a59dc240b2b5a4e3e8a1e65233",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875022/875022.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875022/Sett.wad.client",
+          "size": 88834,
+          "sha256": "8a95dbe5266f99c269e04250a457029b1b565c83697ddb21e48041658fc254c1"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2550,
+          "bytes_after": 88834,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875023,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 望霞",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "04670f09ab40d54467054b843666681b511c9b797166bc4933104c4ea8b3d4a5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875023/875023.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875023/Sett.wad.client",
+          "size": 88856,
+          "sha256": "465bca4f375f20e3e12e2154e26e1c75b78648a60fd45f6597b7b97604473d49"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2572,
+          "bytes_after": 88856,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875024,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 摘星",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4f02b6e609a56564a83dd2ba721b2b262fd3052237bc0139a317835e85eaeaaa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875024/875024.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875024/Sett.wad.client",
+          "size": 88835,
+          "sha256": "7c76c1fe418c778b61eae319f516c3cfa5dd716d6d7c0abd3b1bb46f1213fa08"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2551,
+          "bytes_after": 88835,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875025,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 玄黄",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2f720c66511c91cc697f3514c0c7b76ea19c52c1ccdae4213932634197ce35bf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875025/875025.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875025/Sett.wad.client",
+          "size": 88835,
+          "sha256": "8004aaaa6282d4f4d1501e83766a4fcf29d11e7b4c714e973dc6273780bc9fdd"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2551,
+          "bytes_after": 88835,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875026,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 登龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8af27311476c943d618bca0a66c9df1df8c851ab85713c6598bddca1f73af9b7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875026/875026.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875026/Sett.wad.client",
+          "size": 88891,
+          "sha256": "8ec95f64a81e32f263e2e0e0b0e8efa36eb4eeff83f5fd671210b539aea6bf5e"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2607,
+          "bytes_after": 88891,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875027,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 朝云",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "78c0666f0e7a14409a400e81fd839b3db645f2d7dcacdf49ac757da0824a9fdf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875027/875027.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875027/Sett.wad.client",
+          "size": 88835,
+          "sha256": "d7e427946bb00a80a729c831adedc4df1799d7b4d373fcfc7856e268fd5c1b86"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2551,
+          "bytes_after": 88835,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875028,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "神龙尊者 炎龙瑟提 聚鹤",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9328acb8bfd58c336f61120903f9b5b86b0d6422060d8d3493ace5485d193b5e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875028/875028.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875028/Sett.wad.client",
+          "size": 88836,
+          "sha256": "fc96b36805fb10782450d4f8a022176bf6809721e78434aa14510b2ca2d84423"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2552,
+          "bytes_after": 88836,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875055,
+      "base_skin_id": 875008,
+      "champion_id": 875,
+      "name": "巅峰之拳 瑟提 明镜止水",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d1993965b32e07acf1bdb77c4779be4497a251b3b2a8a7b36272444351c45dbc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875008/875055/875055.fantome",
+      "files": [
+        {
+          "path": "skins/875/875008/875055/Sett.wad.client",
+          "size": 88852,
+          "sha256": "b9cffc43303d6839f3d02a67bb93544e21a404cd5409658dcdd967a440e0ef65"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2568,
+          "bytes_after": 88852,
+          "replacement_hashes": [
+            "243186f8ac44552c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "243186f8ac44552c",
+            "border_hash": "518e7e5a75b2087f",
+            "bytes": 86252,
+            "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

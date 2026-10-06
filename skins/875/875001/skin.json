@@ -1,0 +1,413 @@
+{
+  "champion_id": 875,
+  "base_skin_id": 875001,
+  "name": "机神苍狼 瑟提",
+  "variants": [
+    {
+      "skin_id": 875001,
+      "base_skin_id": 875001,
+      "champion_id": 875,
+      "name": "机神苍狼 瑟提",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9c8f2536ece8c29add2e3b55e5325b4b4e1dac595b40583012d69c3426c64918",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875001/875001.fantome",
+      "files": [
+        {
+          "path": "skins/875/875001/875001/Sett.wad.client",
+          "size": 91637,
+          "sha256": "22374631e003c4d6955c1446e6c8cb17176681709446a24fa49f61f5cbf9213f"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5353,
+          "bytes_after": 91637,
+          "replacement_hashes": [
+            "e69bc190841a6633"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "e69bc190841a6633",
+            "border_hash": "02af178620469065",
+            "bytes": 86252,
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875002,
+      "base_skin_id": 875001,
+      "champion_id": 875,
+      "name": "机神苍狼 瑟提 月蚀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8ead955234d772e435d194ec61fe7987b2ef46c7a9fe52fa05cdbf949dde35cc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875001/875002/875002.fantome",
+      "files": [
+        {
+          "path": "skins/875/875001/875002/Sett.wad.client",
+          "size": 88906,
+          "sha256": "8eb664549ad15c967ec06d03ea5561448d7813f89d37ebfaedd800d1e28655fa"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2622,
+          "bytes_after": 88906,
+          "replacement_hashes": [
+            "e69bc190841a6633"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "e69bc190841a6633",
+            "border_hash": "02af178620469065",
+            "bytes": 86252,
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875003,
+      "base_skin_id": 875001,
+      "champion_id": 875,
+      "name": "机神苍狼 瑟提 影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "74a5952a6994f1789b18e538bc69c071db53a83ea7098fa3e83e9395ad64f86e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875001/875003/875003.fantome",
+      "files": [
+        {
+          "path": "skins/875/875001/875003/Sett.wad.client",
+          "size": 88907,
+          "sha256": "5051546caacb6d97f55ef7e9ef23807367d5c1da5b37893cd9cd515a2ffa5ce4"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2623,
+          "bytes_after": 88907,
+          "replacement_hashes": [
+            "e69bc190841a6633"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "e69bc190841a6633",
+            "border_hash": "02af178620469065",
+            "bytes": 86252,
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875004,
+      "base_skin_id": 875001,
+      "champion_id": 875,
+      "name": "机神苍狼 瑟提 炼狱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e3a1fee03aecf5fa9e6a08d289fea338df80b474e840a1d9e815fb01c2e3492c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875001/875004/875004.fantome",
+      "files": [
+        {
+          "path": "skins/875/875001/875004/Sett.wad.client",
+          "size": 88960,
+          "sha256": "363a947da593d7419092ccdfd6a57dee612ea321c813d1b0fea8c591bbf49f7a"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2676,
+          "bytes_after": 88960,
+          "replacement_hashes": [
+            "e69bc190841a6633"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "e69bc190841a6633",
+            "border_hash": "02af178620469065",
+            "bytes": 86252,
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875005,
+      "base_skin_id": 875001,
+      "champion_id": 875,
+      "name": "机神苍狼 瑟提 雷霆",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e345d1357d58633487292fedbfa5e3ceea92bd3dc3d59e2e203f83ebe3d8eac5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875001/875005/875005.fantome",
+      "files": [
+        {
+          "path": "skins/875/875001/875005/Sett.wad.client",
+          "size": 88908,
+          "sha256": "9fe0aa29d821c4d2389dd3596a478890854b367b8a8fd2c1e27bf2294e871549"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2624,
+          "bytes_after": 88908,
+          "replacement_hashes": [
+            "e69bc190841a6633"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "e69bc190841a6633",
+            "border_hash": "02af178620469065",
+            "bytes": 86252,
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875006,
+      "base_skin_id": 875001,
+      "champion_id": 875,
+      "name": "机神苍狼 瑟提 云霄",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a7e6496ab741ed42c98152ac7538b41a41fae388f025a161ef6279db43811a20",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875001/875006/875006.fantome",
+      "files": [
+        {
+          "path": "skins/875/875001/875006/Sett.wad.client",
+          "size": 88907,
+          "sha256": "028138bc4a249c1498c13721affcfda417987a7f424e3a0e9afb1c4632f27902"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2623,
+          "bytes_after": 88907,
+          "replacement_hashes": [
+            "e69bc190841a6633"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "e69bc190841a6633",
+            "border_hash": "02af178620469065",
+            "bytes": 86252,
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 875007,
+      "base_skin_id": 875001,
+      "champion_id": 875,
+      "name": "机神苍狼 瑟提 光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ec4c2b796a8ae9f17246cccbf17e10e25421527a50a09e105ec6af45de53256e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "875/875001/875007/875007.fantome",
+      "files": [
+        {
+          "path": "skins/875/875001/875007/Sett.wad.client",
+          "size": 88959,
+          "sha256": "ba23c9514d9dde3aedf7b24eb59580605a649d3ff7c09c5a28bb4c086e30efc8"
+        }
+      ],
+      "wads": {
+        "Sett.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2675,
+          "bytes_after": 88959,
+          "replacement_hashes": [
+            "e69bc190841a6633"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sett.wad.client",
+            "normal_hash": "e69bc190841a6633",
+            "border_hash": "02af178620469065",
+            "bytes": 86252,
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

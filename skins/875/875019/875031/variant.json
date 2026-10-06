@@ -1,0 +1,58 @@
+{
+  "skin_id": 875031,
+  "base_skin_id": 875019,
+  "champion_id": 875,
+  "name": "龙腾虎跃 瑟提 阖家安康",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fd82bbb79c50d0deb340cdf43f9dfe527132c95bd4d0e96564118c80926b8b55",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "875/875019/875031/875031.fantome",
+  "files": [
+    {
+      "path": "skins/875/875019/875031/Sett.wad.client",
+      "size": 89141,
+      "sha256": "68085f8f5c94c8b6e9d5627d55ee67bf6daed073fe77571f8cf653281cebd421"
+    }
+  ],
+  "wads": {
+    "Sett.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2857,
+      "bytes_after": 89141,
+      "replacement_hashes": [
+        "8f5106d266367362"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sett.wad.client",
+        "normal_hash": "8f5106d266367362",
+        "border_hash": "f196e2323a0c184c",
+        "bytes": 86252,
+        "sha256": "2ece8da9f9b810b11e12e6b35ab9f52769a570c1488746593cd5f8c279977c8d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

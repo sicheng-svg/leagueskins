@@ -1,0 +1,58 @@
+{
+  "skin_id": 526014,
+  "base_skin_id": 526010,
+  "champion_id": 526,
+  "name": "星之守护者 芮尔 勇气之光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "98001af47e27a9ffa2ffadbfae9f782d47bbb0f04641127549deb3d1d8c5c919",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "526/526010/526014/526014.fantome",
+  "files": [
+    {
+      "path": "skins/526/526010/526014/Rell.wad.client",
+      "size": 89819,
+      "sha256": "520ee4f8a7545e59dbb58c38498cb9ac3b97acb597f075056b1b1fc3bb654558"
+    }
+  ],
+  "wads": {
+    "Rell.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3535,
+      "bytes_after": 89819,
+      "replacement_hashes": [
+        "9cfb8a6532dbcd5b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Rell.wad.client",
+        "normal_hash": "9cfb8a6532dbcd5b",
+        "border_hash": "5be5031b872765c5",
+        "bytes": 86252,
+        "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

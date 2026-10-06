@@ -1,0 +1,48 @@
+{
+  "skin_id": 516014,
+  "base_skin_id": 516011,
+  "champion_id": 516,
+  "name": "“创乐之神” 奥恩 自己敲个粉炫彩",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "55512dc7c9d0d828b302863028642a018e483a8130ae20b71e752cef4f1899ad",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "516/516011/516014/516014.fantome",
+  "files": [
+    {
+      "path": "skins/516/516011/516014/Ornn.wad.client",
+      "size": 2968,
+      "sha256": "1bdc4301460b265350a189934137e8b91b7f495868f06ffec7006c312f4cf068"
+    }
+  ],
+  "wads": {
+    "Ornn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2968,
+      "bytes_after": 2968,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

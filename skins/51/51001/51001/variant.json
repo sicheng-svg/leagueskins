@@ -1,0 +1,48 @@
+{
+  "skin_id": 51001,
+  "base_skin_id": 51001,
+  "champion_id": 51,
+  "name": "抵抗军天使 凯特琳",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7e4c5b0ddb2b9f272398cb17e2d781fc525a9f0a900768557e86c337fb36e6d5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "51/51001/51001.fantome",
+  "files": [
+    {
+      "path": "skins/51/51001/51001/Caitlyn.wad.client",
+      "size": 7240,
+      "sha256": "ae1459991a04b5010518b484a930c19dd726c8540bc2b75825a4268d57301dc8"
+    }
+  ],
+  "wads": {
+    "Caitlyn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7240,
+      "bytes_after": 7240,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

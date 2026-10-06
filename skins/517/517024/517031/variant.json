@@ -1,0 +1,58 @@
+{
+  "skin_id": 517031,
+  "base_skin_id": 517024,
+  "champion_id": 517,
+  "name": "幻灵战斗狼 塞拉斯 钢铁守备",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d158c97d987db114a2504a0d82c01ffe75574869693a144b5b47989907f619c9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "517/517024/517031/517031.fantome",
+  "files": [
+    {
+      "path": "skins/517/517024/517031/Sylas.wad.client",
+      "size": 89319,
+      "sha256": "350338f2597b34340e2f5e1a3e90a9db4a873081c4a0af16339b5c729d6b4c29"
+    }
+  ],
+  "wads": {
+    "Sylas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3035,
+      "bytes_after": 89319,
+      "replacement_hashes": [
+        "df5013aa06a0134b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sylas.wad.client",
+        "normal_hash": "df5013aa06a0134b",
+        "border_hash": "3433db18afcfa732",
+        "bytes": 86252,
+        "sha256": "5c7df4a6efd51e1baa6f349e158fa56f24fc32d588877339b455f94c9d0db567"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

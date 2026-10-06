@@ -1,0 +1,65 @@
+{
+  "skin_id": 51050,
+  "base_skin_id": 51050,
+  "champion_id": 51,
+  "name": "双城之战2 指挥官 凯特琳",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "786076e45daca4c018fde026242fa084a97f2a5d6a760fec2089ecf4dc864da2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "51/51050/51050.fantome",
+  "files": [
+    {
+      "path": "skins/51/51050/51050/Caitlyn.wad.client",
+      "size": 95121,
+      "sha256": "ac2873adc98b7ad3fbf6698c3bddbcb15e1234abb1b1d952774b68b15d6bf5e7"
+    }
+  ],
+  "wads": {
+    "Caitlyn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8837,
+      "bytes_after": 95121,
+      "replacement_hashes": [
+        "26008dd8517d3616"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Caitlyn.wad.client",
+        "normal_hash": "26008dd8517d3616",
+        "border_hash": "82f63ecd521ef0f6",
+        "bytes": 86252,
+        "sha256": "c0adf3f15be7e99d4d13e3c966d6820cb2c79bfd60846e98b1fdd48f6ecdb5b5"
+      },
+      {
+        "archive": "Caitlyn.wad.client",
+        "normal_hash": "26008dd8517d3616",
+        "border_hash": "82f63ecd521ef0f6",
+        "bytes": 86252,
+        "sha256": "c0adf3f15be7e99d4d13e3c966d6820cb2c79bfd60846e98b1fdd48f6ecdb5b5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

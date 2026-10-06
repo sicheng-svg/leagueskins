@@ -1,0 +1,72 @@
+{
+  "champion_id": 523,
+  "base_skin_id": 523040,
+  "name": "至臻 莲华温泉 厄斐琉斯",
+  "variants": [
+    {
+      "skin_id": 523040,
+      "base_skin_id": 523040,
+      "champion_id": 523,
+      "name": "至臻 莲华温泉 厄斐琉斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fc931cbcefadaf8c8a0bdca0d3b0e7a977f9b9d9dfaa9aa7ba1807ca2311ef88",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "523/523040/523040.fantome",
+      "files": [
+        {
+          "path": "skins/523/523040/523040/Aphelios.wad.client",
+          "size": 98998,
+          "sha256": "1a0cbba8a11a86b296b5f7e35bb1935513c25e010447d6d8d7f0bc75617d7322"
+        }
+      ],
+      "wads": {
+        "Aphelios.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12714,
+          "bytes_after": 98998,
+          "replacement_hashes": [
+            "65663a57bf691e33"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aphelios.wad.client",
+            "normal_hash": "65663a57bf691e33",
+            "border_hash": "de432175c2f6d2ae",
+            "bytes": 86252,
+            "sha256": "9014bd468670d33612f4a4114dc340c3475cfaf909e3c21840505c7d7db5335a"
+          },
+          {
+            "archive": "Aphelios.wad.client",
+            "normal_hash": "65663a57bf691e33",
+            "border_hash": "de432175c2f6d2ae",
+            "bytes": 86252,
+            "sha256": "9014bd468670d33612f4a4114dc340c3475cfaf909e3c21840505c7d7db5335a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

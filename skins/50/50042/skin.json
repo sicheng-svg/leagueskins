@@ -1,0 +1,601 @@
+{
+  "champion_id": 50,
+  "base_skin_id": 50042,
+  "name": "炸鸡之王 斯维因",
+  "variants": [
+    {
+      "skin_id": 50042,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "236f9ca5e48bc4035d9c674f270c9dfdf7652b0208eba8a99a99823ac119f370",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50042.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50042/Swain.wad.client",
+          "size": 183378,
+          "sha256": "d670bf45a8724f293561e95a56337ef9ee521247da910303d2e56236424eb748"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10810,
+          "bytes_after": 183378,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50043,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与番茄酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dec1d81c77fc8e3bbdc4264a72140b4be8a75a091d6546d147d77f9b869c8adb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50043/50043.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50043/Swain.wad.client",
+          "size": 177727,
+          "sha256": "b7f03cfe827ab49423f37662e49d9143be651ce6d8fdd285c129b117b14d6a83"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5159,
+          "bytes_after": 177727,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50044,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与灯笼椒酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7e0d11d20efa04f693f728d9c35a71d29ce7fa4a8c40bc6b7fa3e5a61794d502",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50044/50044.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50044/Swain.wad.client",
+          "size": 177672,
+          "sha256": "47b98119853c3556bd8afdd107953be8a467509d5467db2e57cfbcd6665602ea"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5104,
+          "bytes_after": 177672,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50045,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与紫苏梅酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "05cf3567053713fcf3c3fff4a6e898fdb437a5431d53a56965573d640b03ef81",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50045/50045.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50045/Swain.wad.client",
+          "size": 177669,
+          "sha256": "3e76cf096ad81b50cee94924c7a7d94844c84bd176d6bef23e5809cd4122f4be"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5101,
+          "bytes_after": 177669,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50046,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与薄荷酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "470ebc755ad09b06fff309c6ec79cb5e9ecf55c5a4738bd85f054208c21830d4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50046/50046.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50046/Swain.wad.client",
+          "size": 177671,
+          "sha256": "250ab840693b26573f0bc774d3f7b330c8f1af099e8218c8f04569d4775a2457"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5103,
+          "bytes_after": 177671,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50047,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与甜辣酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6f77d0718388bfc54a466518f535165012ddc518129c0927234e14bbaff25865",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50047/50047.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50047/Swain.wad.client",
+          "size": 177674,
+          "sha256": "e3ded876c76fadc0c6b1194893b5ae93f52c882bfc4bdbdde51165fe41c900bd"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5106,
+          "bytes_after": 177674,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50048,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与蓝鱼子酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7bba736d058755dc054971c7b071b0eb6c045d7586a88b4d94870ed438d49674",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50048/50048.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50048/Swain.wad.client",
+          "size": 177674,
+          "sha256": "b08489a7609a8ca5d73dfa1d8976024362e8962f89ccb5f2501594a2dd38b0d8"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5106,
+          "bytes_after": 177674,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50049,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与蛋黄酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "50594daec4054371a0877b78d8a4cde1601c93998ee8febf3261e5bb09e8b0be",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50049/50049.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50049/Swain.wad.client",
+          "size": 177671,
+          "sha256": "10591d5ba3c87f8081917fa3c2b00b336053daeb2f4fa511031b4b9f1401b599"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5103,
+          "bytes_after": 177671,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50050,
+      "base_skin_id": 50042,
+      "champion_id": 50,
+      "name": "炸鸡之王 斯维因 与青芥末酱更配噢！",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1771add3c0496be3864a172984f394d32fcb0b94feb39abb06ebc51c24a7d73b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50042/50050/50050.fantome",
+      "files": [
+        {
+          "path": "skins/50/50042/50050/Swain.wad.client",
+          "size": 177678,
+          "sha256": "b5586c1e11369fc0af0b8852c12f5aa55a7687451b1a08dc101e2408aabd1196"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5110,
+          "bytes_after": 177678,
+          "replacement_hashes": [
+            "50bf232a7a421697",
+            "6c490718d720ef9a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "6c490718d720ef9a",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "50bf232a7a421697",
+            "border_hash": "f18c664121605359",
+            "bytes": 86252,
+            "sha256": "3092ed7ad6c393488ab11bcbb732c640d2607372b41f58dd76c38cb0216ad159"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

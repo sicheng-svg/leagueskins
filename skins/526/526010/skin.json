@@ -1,0 +1,587 @@
+{
+  "champion_id": 526,
+  "base_skin_id": 526010,
+  "name": "星之守护者 芮尔",
+  "variants": [
+    {
+      "skin_id": 526010,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3311a44d6c57c788da7f1301c740656f8126e6e070d8298c229b6f879ca786b0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526010.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526010/Rell.wad.client",
+          "size": 94292,
+          "sha256": "50c38b2778d3aea6cb2820bcfb0473d8a900d4d5ec6672329f0ecad5bd2cd91c"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8008,
+          "bytes_after": 94292,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526011,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 热情之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8f4ee65d4dc8df0de4f7417157a5bfe10c256bbdad53ad27ab22cfa49c1d2b5a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526011/526011.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526011/Rell.wad.client",
+          "size": 89882,
+          "sha256": "ec82b75d1a395c2541983e29c5a96511eb8a1686635ebf3a726ea9bd2e6c96f2"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3598,
+          "bytes_after": 89882,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526012,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 爱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bf3b5ff61ce7d55a929a892ca34aa70167d8b6cfce9980ba24992dd4ddcb93a3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526012/526012.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526012/Rell.wad.client",
+          "size": 89825,
+          "sha256": "cd5280c51d7fd42b96805b24fcf4e925b480ded259fae8943c298bbac3227894"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3541,
+          "bytes_after": 89825,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526013,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 智慧之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9b6ea469d6174a98e61d8e1b8c95b2ef06d327216ac01a0b21e4fe2d8a58c2d6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526013/526013.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526013/Rell.wad.client",
+          "size": 89820,
+          "sha256": "48cc6052143dcb380d26a5549c70e92e4def0c76b8dac9f67283137d0605e352"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3536,
+          "bytes_after": 89820,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526014,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 勇气之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "98001af47e27a9ffa2ffadbfae9f782d47bbb0f04641127549deb3d1d8c5c919",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526014/526014.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526014/Rell.wad.client",
+          "size": 89819,
+          "sha256": "520ee4f8a7545e59dbb58c38498cb9ac3b97acb597f075056b1b1fc3bb654558"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3535,
+          "bytes_after": 89819,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526015,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 未来之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b8f6700f6277ac9c66d358011fcaa573412dade63d98aa3f50e5ab752c6943b9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526015/526015.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526015/Rell.wad.client",
+          "size": 89845,
+          "sha256": "93dae159ce9353ccef7b6cfaedf11d792f93a7fc1fbffe645896b9c200f8dad0"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3561,
+          "bytes_after": 89845,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526016,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 拥抱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8cc021bb8d251eb2e2a630c679fd3d0a1867f4e1f97f2cb71fa6162b40f11429",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526016/526016.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526016/Rell.wad.client",
+          "size": 89823,
+          "sha256": "240cda557ac4f9f5f70a79e1098064d45b7007808163be1c5f721150547f34af"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3539,
+          "bytes_after": 89823,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526017,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 正义之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b1df11d740bb746ae04103668ef395477117246323e8374232ce0cdf9bc2d20d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526017/526017.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526017/Rell.wad.client",
+          "size": 89823,
+          "sha256": "b7243263d972ac3d6bf4d29849c8a71ffe63bbb338d6744f065576a351340f12"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3539,
+          "bytes_after": 89823,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526018,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 守护之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dcf2890b15591071000b0a4df739840e2fbb9cd03e68c0e72bd90927804fb8a7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526018/526018.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526018/Rell.wad.client",
+          "size": 89818,
+          "sha256": "bcdc4ebab6725d6842fbe435452646a6101ee2b444e9b044950af2382ce65e7f"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3534,
+          "bytes_after": 89818,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526019,
+      "base_skin_id": 526010,
+      "champion_id": 526,
+      "name": "星之守护者 芮尔 希望之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "92a6696440ab6c454d59797230168361a36bceb91401e39e5acb358d097b3336",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526010/526019/526019.fantome",
+      "files": [
+        {
+          "path": "skins/526/526010/526019/Rell.wad.client",
+          "size": 89877,
+          "sha256": "c422d8270363b80c90b6f6e34cc98c4e2c5b01e9307d5e4d9815c5d0ea6557f0"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3593,
+          "bytes_after": 89877,
+          "replacement_hashes": [
+            "9cfb8a6532dbcd5b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "9cfb8a6532dbcd5b",
+            "border_hash": "5be5031b872765c5",
+            "bytes": 86252,
+            "sha256": "42cbbc3c0edd0938cc3dffd25522b5f31084f04c5870b51abee97a40e4f46c5f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

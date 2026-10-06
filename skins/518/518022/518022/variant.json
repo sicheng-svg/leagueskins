@@ -1,0 +1,58 @@
+{
+  "skin_id": 518022,
+  "base_skin_id": 518022,
+  "champion_id": 518,
+  "name": "魅惑女巫 妮蔻",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "05c3053409f0f21317cf4aa94a6c2eba8efcbfdd14ab2f8a127abb99f5227d5b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "518/518022/518022.fantome",
+  "files": [
+    {
+      "path": "skins/518/518022/518022/Neeko.wad.client",
+      "size": 93289,
+      "sha256": "ed34d529683e8622a06708b3f8464447ea979a82b402d3acf62d46fee9c8dcb8"
+    }
+  ],
+  "wads": {
+    "Neeko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7005,
+      "bytes_after": 93289,
+      "replacement_hashes": [
+        "43b824f2fe2a5024"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Neeko.wad.client",
+        "normal_hash": "43b824f2fe2a5024",
+        "border_hash": "ea4e77e80c5e6bf8",
+        "bytes": 86252,
+        "sha256": "314a8a0b980d629fb2ef7f18ec7b9c414ca42f9c6640870697ca723f99c3105c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

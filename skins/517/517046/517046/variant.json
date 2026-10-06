@@ -1,0 +1,58 @@
+{
+  "skin_id": 517046,
+  "base_skin_id": 517046,
+  "champion_id": 517,
+  "name": "暗星 塞拉斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "da26796ff753cbf17ec048e022ac56dc5c5c3cb20e39c79586841f1cf0e596fe",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "517/517046/517046.fantome",
+  "files": [
+    {
+      "path": "skins/517/517046/517046/Sylas.wad.client",
+      "size": 98095,
+      "sha256": "63dcb9b24a03db58817d2fb814d1f1d9565f07104b9a1bc401d011a836fbe335"
+    }
+  ],
+  "wads": {
+    "Sylas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 11811,
+      "bytes_after": 98095,
+      "replacement_hashes": [
+        "a5385f1823e90b13"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sylas.wad.client",
+        "normal_hash": "a5385f1823e90b13",
+        "border_hash": "9315cb8955393116",
+        "bytes": 86252,
+        "sha256": "92e7a97b3e52f3baa4d0852e0cf6f8ab4dea68555d0829b64a6c42c27747cf4d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

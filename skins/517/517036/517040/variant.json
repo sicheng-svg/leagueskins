@@ -1,0 +1,58 @@
+{
+  "skin_id": 517040,
+  "base_skin_id": 517036,
+  "champion_id": 517,
+  "name": "北极星发明家 塞拉斯 幸福光晕",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9357ce71607e0402a27736919ebcb9d1bb5ca229e3bd780ca7bdc292b7c65aa7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "517/517036/517040/517040.fantome",
+  "files": [
+    {
+      "path": "skins/517/517036/517040/Sylas.wad.client",
+      "size": 89501,
+      "sha256": "34fcc4bce6f7a4660d5fb60f79ae81bd316730f34358b8b010dafc324e01dca0"
+    }
+  ],
+  "wads": {
+    "Sylas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3217,
+      "bytes_after": 89501,
+      "replacement_hashes": [
+        "51b674b30c87e829"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sylas.wad.client",
+        "normal_hash": "51b674b30c87e829",
+        "border_hash": "903be2669bde3fc3",
+        "bytes": 86252,
+        "sha256": "9ffc1ada58660a289e50aa29a9dd5e2cb91a99394db524afbe2fdf2245fbfe2f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "champion_id": 518,
+  "base_skin_id": 518011,
+  "name": "至臻 星之守护者 妮蔻",
+  "variants": [
+    {
+      "skin_id": 518011,
+      "base_skin_id": 518011,
+      "champion_id": 518,
+      "name": "至臻 星之守护者 妮蔻",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "109f96cdfc95b7b86362cb18e4e0d4737945bc6ea4cd760a76394ce77e1c643f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "518/518011/518011.fantome",
+      "files": [
+        {
+          "path": "skins/518/518011/518011/Neeko.wad.client",
+          "size": 95929,
+          "sha256": "749de181eeec5c94bfe47041457f120beaed4f0e47c98d7eee9dba2c20c84987"
+        }
+      ],
+      "wads": {
+        "Neeko.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9645,
+          "bytes_after": 95929,
+          "replacement_hashes": [
+            "9ed466e0101ad740"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Neeko.wad.client",
+            "normal_hash": "9ed466e0101ad740",
+            "border_hash": "f75a817ec00941cd",
+            "bytes": 86252,
+            "sha256": "57b1c6da14cba31655af3cf0739a9f03a121b49402b5ca3d85bbdb00229077cf"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

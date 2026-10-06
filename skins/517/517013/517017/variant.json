@@ -1,0 +1,58 @@
+{
+  "skin_id": 517017,
+  "base_skin_id": 517013,
+  "champion_id": 517,
+  "name": "源计划：逆流 塞拉斯 暴走",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7d6996b91d466b7770be2315680111b33598855fe19b6f6073bf9ac23ee3f40c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "517/517013/517017/517017.fantome",
+  "files": [
+    {
+      "path": "skins/517/517013/517017/Sylas.wad.client",
+      "size": 89192,
+      "sha256": "6cbd50273ff0d140f425d94f22f9451976b3a53b6208a116488571013c69db93"
+    }
+  ],
+  "wads": {
+    "Sylas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2908,
+      "bytes_after": 89192,
+      "replacement_hashes": [
+        "e4070ca36568dd92"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sylas.wad.client",
+        "normal_hash": "e4070ca36568dd92",
+        "border_hash": "e3a8c5e3bf7c3493",
+        "bytes": 86252,
+        "sha256": "5fa14cb3209570ac9e1c5cb151e1a220b54370942de6ec65d69931ad2aea2347"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

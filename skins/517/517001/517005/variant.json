@@ -1,0 +1,58 @@
+{
+  "skin_id": 517005,
+  "base_skin_id": 517001,
+  "champion_id": 517,
+  "name": "窃魂修罗 塞拉斯 寒影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "44470d5558a921b9c81a7a3d629ed664499834c19296922bc0972108c5c9eb9e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "517/517001/517005/517005.fantome",
+  "files": [
+    {
+      "path": "skins/517/517001/517005/Sylas.wad.client",
+      "size": 89106,
+      "sha256": "e5251a362a02c6a38a472e9fd5a95dbd0ce67d402ba32c4d7bf37cacef2794ad"
+    }
+  ],
+  "wads": {
+    "Sylas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2822,
+      "bytes_after": 89106,
+      "replacement_hashes": [
+        "88aa5ad3b42bf43d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sylas.wad.client",
+        "normal_hash": "88aa5ad3b42bf43d",
+        "border_hash": "145aad0cb0a1082d",
+        "bytes": 86252,
+        "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 51030,
+  "base_skin_id": 51030,
+  "champion_id": 51,
+  "name": "净雪之月 凯特琳",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8896be35ca95f711ed27d2b5dc3dfa3ef48913732f4b66a4e142f7fb66f06cbb",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "51/51030/51030.fantome",
+  "files": [
+    {
+      "path": "skins/51/51030/51030/Caitlyn.wad.client",
+      "size": 8240,
+      "sha256": "d979394e3cbfd58bcb199dca0cd6f460b2be3929fca95bc7ada02e3c7a822a47"
+    }
+  ],
+  "wads": {
+    "Caitlyn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8240,
+      "bytes_after": 8240,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 516025,
+  "base_skin_id": 516020,
+  "champion_id": 516,
+  "name": "嘟！嘟 ！奥恩 “黄金精神”号",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "12566d90072f17512b6609ea51861bd36733724cebda5f2c8ae6a16d9767f45a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "516/516020/516025/516025.fantome",
+  "files": [
+    {
+      "path": "skins/516/516020/516025/Ornn.wad.client",
+      "size": 2683,
+      "sha256": "a93579a751196acab00a8c052790374aced347a5283d86948881b93ef9587d6e"
+    }
+  ],
+  "wads": {
+    "Ornn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2683,
+      "bytes_after": 2683,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

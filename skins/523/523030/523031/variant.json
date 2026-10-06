@@ -1,0 +1,65 @@
+{
+  "skin_id": 523031,
+  "base_skin_id": 523030,
+  "champion_id": 523,
+  "name": "心之钢 厄斐琉斯 锐意曲风",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b8ae06352e705ba89f771a60524d925ac221f9b8de26f66d28f7aa826aa54db4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "523/523030/523031/523031.fantome",
+  "files": [
+    {
+      "path": "skins/523/523030/523031/Aphelios.wad.client",
+      "size": 92687,
+      "sha256": "90127e3828a9bc168aec1f65dd27cf45e9ee1823488c3cdbf374e54388935115"
+    }
+  ],
+  "wads": {
+    "Aphelios.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6403,
+      "bytes_after": 92687,
+      "replacement_hashes": [
+        "73cd775b9fa4ef43"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Aphelios.wad.client",
+        "normal_hash": "73cd775b9fa4ef43",
+        "border_hash": "3c8ac0e85c343352",
+        "bytes": 86252,
+        "sha256": "0fb3d7aecd0b8d31d9736225a05cf1e94b39de742d6d2c96a945a2fdd6d5d494"
+      },
+      {
+        "archive": "Aphelios.wad.client",
+        "normal_hash": "73cd775b9fa4ef43",
+        "border_hash": "3c8ac0e85c343352",
+        "bytes": 86252,
+        "sha256": "0fb3d7aecd0b8d31d9736225a05cf1e94b39de742d6d2c96a945a2fdd6d5d494"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

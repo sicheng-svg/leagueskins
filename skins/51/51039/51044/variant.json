@@ -1,0 +1,48 @@
+{
+  "skin_id": 51044,
+  "base_skin_id": 51039,
+  "champion_id": 51,
+  "name": "怦然心动 凯特琳 无需署名的信封",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c558f1c4383ec2c4c9981c89a6db97f3b74baf14a2e04058756855a22d400458",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "51/51039/51044/51044.fantome",
+  "files": [
+    {
+      "path": "skins/51/51039/51044/Caitlyn.wad.client",
+      "size": 3749,
+      "sha256": "b18a12f5728a74dec614e0800b7d101caaf6c3cf08131d44fcc0e884e7901947"
+    }
+  ],
+  "wads": {
+    "Caitlyn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3749,
+      "bytes_after": 3749,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 51,
+  "base_skin_id": 51003,
+  "name": "古墓丽影 凯特琳",
+  "variants": [
+    {
+      "skin_id": 51003,
+      "base_skin_id": 51003,
+      "champion_id": 51,
+      "name": "古墓丽影 凯特琳",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bc3088bd679f39469e160b5aacebf96b9093dce68bd160e2c8fb151943807d71",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "51/51003/51003.fantome",
+      "files": [
+        {
+          "path": "skins/51/51003/51003/Caitlyn.wad.client",
+          "size": 7605,
+          "sha256": "031a54dd1e1661573cdd6eb4d135fc4b38c873c50c6d447011a6088cdf4a1ca2"
+        }
+      ],
+      "wads": {
+        "Caitlyn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7605,
+          "bytes_after": 7605,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

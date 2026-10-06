@@ -1,0 +1,58 @@
+{
+  "skin_id": 517053,
+  "base_skin_id": 517053,
+  "champion_id": 517,
+  "name": "至臻 T1 塞拉斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "46a4bb23fed71e71efbbe0ddd3d4f67ceab5deea76c12644e61d28c743330e48",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "517/517053/517053.fantome",
+  "files": [
+    {
+      "path": "skins/517/517053/517053/Sylas.wad.client",
+      "size": 95142,
+      "sha256": "db5f6c86eab8e25c8403b6809b497501fd7beeb0eebc0c9432a8be0b18cd90d1"
+    }
+  ],
+  "wads": {
+    "Sylas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8858,
+      "bytes_after": 95142,
+      "replacement_hashes": [
+        "955f1ba792c5d072"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sylas.wad.client",
+        "normal_hash": "955f1ba792c5d072",
+        "border_hash": "bacb8570055916f2",
+        "bytes": 86252,
+        "sha256": "45ddb60508e3b7456b72c3d9fbb88e6769f39f6d6232ec0bc0661ad7a0ecc7ea"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

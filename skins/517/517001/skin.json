@@ -1,0 +1,413 @@
+{
+  "champion_id": 517,
+  "base_skin_id": 517001,
+  "name": "窃魂修罗 塞拉斯",
+  "variants": [
+    {
+      "skin_id": 517001,
+      "base_skin_id": 517001,
+      "champion_id": 517,
+      "name": "窃魂修罗 塞拉斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7933fb5fcf882960b90c29edc10437556a5a7148c4f9081bd805b64513443fb2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "517/517001/517001.fantome",
+      "files": [
+        {
+          "path": "skins/517/517001/517001/Sylas.wad.client",
+          "size": 92723,
+          "sha256": "7bcd93e2fbde7c3fd8a1ddc74d430c344291fb9a6f8273969a30b917767a203a"
+        }
+      ],
+      "wads": {
+        "Sylas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6439,
+          "bytes_after": 92723,
+          "replacement_hashes": [
+            "88aa5ad3b42bf43d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sylas.wad.client",
+            "normal_hash": "88aa5ad3b42bf43d",
+            "border_hash": "145aad0cb0a1082d",
+            "bytes": 86252,
+            "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 517002,
+      "base_skin_id": 517001,
+      "champion_id": 517,
+      "name": "窃魂修罗 塞拉斯 摄灵",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "03a02195fb0f61ed18432c5d1d53df3d07c51669240cb3778fd08e8df2b8ba5e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "517/517001/517002/517002.fantome",
+      "files": [
+        {
+          "path": "skins/517/517001/517002/Sylas.wad.client",
+          "size": 89104,
+          "sha256": "8a3881f70913e52a63e93154ba69abb39709e3b37a888dc59bcaf4dd46f5db5a"
+        }
+      ],
+      "wads": {
+        "Sylas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2820,
+          "bytes_after": 89104,
+          "replacement_hashes": [
+            "88aa5ad3b42bf43d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sylas.wad.client",
+            "normal_hash": "88aa5ad3b42bf43d",
+            "border_hash": "145aad0cb0a1082d",
+            "bytes": 86252,
+            "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 517003,
+      "base_skin_id": 517001,
+      "champion_id": 517,
+      "name": "窃魂修罗 塞拉斯 灼神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bd628c2cdcb6430640f06cbc07b638442ed9337b40e2efcb747a65168d9d06b9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "517/517001/517003/517003.fantome",
+      "files": [
+        {
+          "path": "skins/517/517001/517003/Sylas.wad.client",
+          "size": 89153,
+          "sha256": "3171d720be6cdda66fc45f9bace349c01d78bf5883fe3324e99a6814c9b04c0e"
+        }
+      ],
+      "wads": {
+        "Sylas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2869,
+          "bytes_after": 89153,
+          "replacement_hashes": [
+            "88aa5ad3b42bf43d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sylas.wad.client",
+            "normal_hash": "88aa5ad3b42bf43d",
+            "border_hash": "145aad0cb0a1082d",
+            "bytes": 86252,
+            "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 517004,
+      "base_skin_id": 517001,
+      "champion_id": 517,
+      "name": "窃魂修罗 塞拉斯 掠金",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "49e219cfd517ec7491ce88cbb0cf61372855143123d0157cfd02860eac59480b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "517/517001/517004/517004.fantome",
+      "files": [
+        {
+          "path": "skins/517/517001/517004/Sylas.wad.client",
+          "size": 89108,
+          "sha256": "92be0e3e9b803821f8e1ed8f3614b1d49d67489d97df5f021d0d7c8b865e3fca"
+        }
+      ],
+      "wads": {
+        "Sylas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2824,
+          "bytes_after": 89108,
+          "replacement_hashes": [
+            "88aa5ad3b42bf43d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sylas.wad.client",
+            "normal_hash": "88aa5ad3b42bf43d",
+            "border_hash": "145aad0cb0a1082d",
+            "bytes": 86252,
+            "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 517005,
+      "base_skin_id": 517001,
+      "champion_id": 517,
+      "name": "窃魂修罗 塞拉斯 寒影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "44470d5558a921b9c81a7a3d629ed664499834c19296922bc0972108c5c9eb9e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "517/517001/517005/517005.fantome",
+      "files": [
+        {
+          "path": "skins/517/517001/517005/Sylas.wad.client",
+          "size": 89106,
+          "sha256": "e5251a362a02c6a38a472e9fd5a95dbd0ce67d402ba32c4d7bf37cacef2794ad"
+        }
+      ],
+      "wads": {
+        "Sylas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2822,
+          "bytes_after": 89106,
+          "replacement_hashes": [
+            "88aa5ad3b42bf43d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sylas.wad.client",
+            "normal_hash": "88aa5ad3b42bf43d",
+            "border_hash": "145aad0cb0a1082d",
+            "bytes": 86252,
+            "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 517006,
+      "base_skin_id": 517001,
+      "champion_id": 517,
+      "name": "窃魂修罗 塞拉斯 腐心",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ed740d7d2c6f638c7bb281d851f1d99b1925bb2d0dce8e7c5eed6b6219c6593c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "517/517001/517006/517006.fantome",
+      "files": [
+        {
+          "path": "skins/517/517001/517006/Sylas.wad.client",
+          "size": 89105,
+          "sha256": "dad252ac93caa93e1b184eae1e05b403b7650b299702b36bc55753d25a200367"
+        }
+      ],
+      "wads": {
+        "Sylas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2821,
+          "bytes_after": 89105,
+          "replacement_hashes": [
+            "88aa5ad3b42bf43d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sylas.wad.client",
+            "normal_hash": "88aa5ad3b42bf43d",
+            "border_hash": "145aad0cb0a1082d",
+            "bytes": 86252,
+            "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 517007,
+      "base_skin_id": 517001,
+      "champion_id": 517,
+      "name": "窃魂修罗 塞拉斯 攫念",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b6866b191d43505883deb58d843d2bdececdf2f7c168333d0082b2380b4c4272",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "517/517001/517007/517007.fantome",
+      "files": [
+        {
+          "path": "skins/517/517001/517007/Sylas.wad.client",
+          "size": 89108,
+          "sha256": "75cd445dc9b03bf16b8e72ac7caff0ec5f610cf2f9a33e00d8385380c1a4f429"
+        }
+      ],
+      "wads": {
+        "Sylas.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2824,
+          "bytes_after": 89108,
+          "replacement_hashes": [
+            "88aa5ad3b42bf43d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Sylas.wad.client",
+            "normal_hash": "88aa5ad3b42bf43d",
+            "border_hash": "145aad0cb0a1082d",
+            "bytes": 86252,
+            "sha256": "8cde803e74cdd617e2f3389ada715be3ea1f67cef7f269e337ec021cc60f9cc3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

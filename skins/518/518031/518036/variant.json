@@ -1,0 +1,48 @@
+{
+  "skin_id": 518036,
+  "base_skin_id": 518031,
+  "champion_id": 518,
+  "name": "妖怪艺术家 妮蔻 霞光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6afdcf8f90e7752ea55b9686a961d4c8a276a6557d0de631b189dc6cae2a1e79",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "518/518031/518036/518036.fantome",
+  "files": [
+    {
+      "path": "skins/518/518031/518036/Neeko.wad.client",
+      "size": 3133,
+      "sha256": "556329f8e7e956d68ed557da130b44d51d86f64c8b8a521199144b6149d8d007"
+    }
+  ],
+  "wads": {
+    "Neeko.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3133,
+      "bytes_after": 3133,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

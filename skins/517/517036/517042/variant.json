@@ -1,0 +1,58 @@
+{
+  "skin_id": 517042,
+  "base_skin_id": 517036,
+  "champion_id": 517,
+  "name": "北极星发明家 塞拉斯 浪漫帘幕",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c164747e48343251ace2c2545ac7e788ae233837a5b0c7207d0982979ce6bf3e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "517/517036/517042/517042.fantome",
+  "files": [
+    {
+      "path": "skins/517/517036/517042/Sylas.wad.client",
+      "size": 89519,
+      "sha256": "6a6d3be1040deb9741465fc77f029ef8d2ead93a9ccb7181da5c600e653f4655"
+    }
+  ],
+  "wads": {
+    "Sylas.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3235,
+      "bytes_after": 89519,
+      "replacement_hashes": [
+        "51b674b30c87e829"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sylas.wad.client",
+        "normal_hash": "51b674b30c87e829",
+        "border_hash": "903be2669bde3fc3",
+        "bytes": 86252,
+        "sha256": "9ffc1ada58660a289e50aa29a9dd5e2cb91a99394db524afbe2fdf2245fbfe2f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

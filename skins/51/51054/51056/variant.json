@@ -1,0 +1,65 @@
+{
+  "skin_id": 51056,
+  "base_skin_id": 51054,
+  "champion_id": 51,
+  "name": "龙马烈焰 凯特琳 日进斗金",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "748e3b40e73623e627e61360a89ebd962059a200a54c61c87f742fbeea6ae549",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "51/51054/51056/51056.fantome",
+  "files": [
+    {
+      "path": "skins/51/51054/51056/Caitlyn.wad.client",
+      "size": 90139,
+      "sha256": "8c5b27a214131fc16dcc5679f2f35598b0169d91da93ed6059dcd4f1242520a5"
+    }
+  ],
+  "wads": {
+    "Caitlyn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3855,
+      "bytes_after": 90139,
+      "replacement_hashes": [
+        "024fd1e5fddd3651"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Caitlyn.wad.client",
+        "normal_hash": "024fd1e5fddd3651",
+        "border_hash": "c797915edf7894d4",
+        "bytes": 86252,
+        "sha256": "e4092c809b53b819b4d22e60c9bfbdd80b7d4f920625e71cafe208b23c8cca93"
+      },
+      {
+        "archive": "Caitlyn.wad.client",
+        "normal_hash": "024fd1e5fddd3651",
+        "border_hash": "c797915edf7894d4",
+        "bytes": 86252,
+        "sha256": "e4092c809b53b819b4d22e60c9bfbdd80b7d4f920625e71cafe208b23c8cca93"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

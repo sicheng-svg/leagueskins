@@ -1,0 +1,529 @@
+{
+  "champion_id": 526,
+  "base_skin_id": 526001,
+  "name": "女帝 芮尔",
+  "variants": [
+    {
+      "skin_id": 526001,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "61a4f5f0830bde4f00fc55bf6770460981780458ebc116587c4758e44bc9c869",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526001.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526001/Rell.wad.client",
+          "size": 93686,
+          "sha256": "fac0953df4503173121575f2b1daa3e250f1ca644768749df3b8a5d5f383cb41"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7402,
+          "bytes_after": 93686,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526002,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章之刻印·英勇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d4222b9e53853f9743f5dd9cec1eefbd67e2c72ca4f1f1aa72045510af4b4ef2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526002/526002.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526002/Rell.wad.client",
+          "size": 89729,
+          "sha256": "cb9914fb38ff56ad4010728b594ab9d3cc3dc23d8bacca7500c57d93776fb07e"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3445,
+          "bytes_after": 89729,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526003,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章之刻印·果决",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0180651fbb0e39d4cbf620cb09d869c21c78e8ba0a14d2326dadb9b9b7702873",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526003/526003.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526003/Rell.wad.client",
+          "size": 89674,
+          "sha256": "dfb1584818bd70678de01337901c3e37aa59822fc4fca6f127ab206e2f28f0cd"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3390,
+          "bytes_after": 89674,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526004,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章之刻印·博学",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "73e4fbf371e08c0ee1f873cf1c27f8ec458bc4aa0b8f59234e172583ae784888",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526004/526004.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526004/Rell.wad.client",
+          "size": 89674,
+          "sha256": "17668218cb74a12df5722e8d193f760b9e23ad1487adc28a06b13d61495def77"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3390,
+          "bytes_after": 89674,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526005,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章之刻印·威风",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "787066f1c5323e0ff96c28b76ac38c0315b72c208a44c406159877c2257c309d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526005/526005.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526005/Rell.wad.client",
+          "size": 89676,
+          "sha256": "9207c0e0b038276b754ce11812a2ee5eab68992db7bfb3efedd9192e4fe62dfe"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3392,
+          "bytes_after": 89676,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526006,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章之刻印·坚毅",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3b82d8c27884471e83fbbf2b862eeaabfcab93ffb82192e90a838b025a059344",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526006/526006.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526006/Rell.wad.client",
+          "size": 89677,
+          "sha256": "f9d63e357154c95990255602092fc96e28ac66a0158b2f57cdc44f2542de70ff"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3393,
+          "bytes_after": 89677,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526007,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章之刻印·飒爽",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a8bda3531b60f89970a6e1c9f4df716f3c892e8c165b1e8b5fb854a0a8dde891",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526007/526007.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526007/Rell.wad.client",
+          "size": 89675,
+          "sha256": "9209d0710b42267ddcbf1f73ad2aed6dd21f7fd7902beb818aa3ce7d1654a771"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3391,
+          "bytes_after": 89675,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526008,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章·神圣加冕礼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "082949fb6e8af4aae3e6af941cee92974b2bd2f2cda7a3649cd01af12501ed4c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526008/526008.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526008/Rell.wad.client",
+          "size": 89732,
+          "sha256": "d08cc8e0b663aff308af0c92c4e7517d9516b92f93e415bd6e5dc9643b3e801a"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3448,
+          "bytes_after": 89732,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 526009,
+      "base_skin_id": 526001,
+      "champion_id": 526,
+      "name": "女帝 芮尔 纹章之刻印·深谋",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e10cf1829ff8f498eee22e0f8a3f0212dabab3ba1255c8b702fbcfb1eb5e809f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "526/526001/526009/526009.fantome",
+      "files": [
+        {
+          "path": "skins/526/526001/526009/Rell.wad.client",
+          "size": 89675,
+          "sha256": "bff411337cc9e5333184968bc25aa053eff072195c5955a606d16744ff5d4d03"
+        }
+      ],
+      "wads": {
+        "Rell.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3391,
+          "bytes_after": 89675,
+          "replacement_hashes": [
+            "dceacf8db7ab6b9b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rell.wad.client",
+            "normal_hash": "dceacf8db7ab6b9b",
+            "border_hash": "15706f618635bf92",
+            "bytes": 86252,
+            "sha256": "a0c821a0f19d71748dc317ed863d17fce7073805437f9f4904b72090f1faa462"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

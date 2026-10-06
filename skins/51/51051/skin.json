@@ -1,0 +1,137 @@
+{
+  "champion_id": 51,
+  "base_skin_id": 51051,
+  "name": "至臻 双城之战2 指挥官 凯特琳",
+  "variants": [
+    {
+      "skin_id": 51051,
+      "base_skin_id": 51051,
+      "champion_id": 51,
+      "name": "至臻 双城之战2 指挥官 凯特琳",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1dca6e0e479e6c0378b2c4e34d512619b99b1cd70e5a0934ae95095b8ffa250e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "51/51051/51051.fantome",
+      "files": [
+        {
+          "path": "skins/51/51051/51051/Caitlyn.wad.client",
+          "size": 95579,
+          "sha256": "67ab820b2f09264171780eb762c6cd6f95139f8ade9e241914eaa5d4258ffd1f"
+        }
+      ],
+      "wads": {
+        "Caitlyn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9295,
+          "bytes_after": 95579,
+          "replacement_hashes": [
+            "eef179609ed2f031"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Caitlyn.wad.client",
+            "normal_hash": "eef179609ed2f031",
+            "border_hash": "6186b941c8da50e3",
+            "bytes": 86252,
+            "sha256": "41a1035d624b7470e24ed271c75248f4266dec2e07a642927a07d94a145ac3f0"
+          },
+          {
+            "archive": "Caitlyn.wad.client",
+            "normal_hash": "eef179609ed2f031",
+            "border_hash": "6186b941c8da50e3",
+            "bytes": 86252,
+            "sha256": "41a1035d624b7470e24ed271c75248f4266dec2e07a642927a07d94a145ac3f0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 51053,
+      "base_skin_id": 51051,
+      "champion_id": 51,
+      "name": "至臻 双城之战2 指挥官 凯特琳 华星",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cfef874586506a5a6b2d443fbf8811d09de1cccfc764150b6436f24d965b62a4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "51/51051/51053/51053.fantome",
+      "files": [
+        {
+          "path": "skins/51/51051/51053/Caitlyn.wad.client",
+          "size": 90622,
+          "sha256": "ba1c3f5eae98347609b1654a6a966041725b7bec41b78259f793f23d91c153bc"
+        }
+      ],
+      "wads": {
+        "Caitlyn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4338,
+          "bytes_after": 90622,
+          "replacement_hashes": [
+            "eef179609ed2f031"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Caitlyn.wad.client",
+            "normal_hash": "eef179609ed2f031",
+            "border_hash": "6186b941c8da50e3",
+            "bytes": 86252,
+            "sha256": "41a1035d624b7470e24ed271c75248f4266dec2e07a642927a07d94a145ac3f0"
+          },
+          {
+            "archive": "Caitlyn.wad.client",
+            "normal_hash": "eef179609ed2f031",
+            "border_hash": "6186b941c8da50e3",
+            "bytes": 86252,
+            "sha256": "41a1035d624b7470e24ed271c75248f4266dec2e07a642927a07d94a145ac3f0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

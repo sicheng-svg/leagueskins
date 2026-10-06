@@ -1,0 +1,65 @@
+{
+  "skin_id": 39034,
+  "base_skin_id": 39026,
+  "champion_id": 39,
+  "name": "光明哨兵 艾瑞莉娅 丛林抗击者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f8e688e8723e51ab096790c3cfa8c75fce76807d98ad7518cb5b1b5da2c9cb63",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "39/39026/39034/39034.fantome",
+  "files": [
+    {
+      "path": "skins/39/39026/39034/Irelia.wad.client",
+      "size": 90418,
+      "sha256": "f24219b7c3e72a13855c4100dc1d7c0c5641b02022357d719de16083620c7508"
+    }
+  ],
+  "wads": {
+    "Irelia.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4134,
+      "bytes_after": 90418,
+      "replacement_hashes": [
+        "4cf09f64bf34cff2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "4cf09f64bf34cff2",
+        "border_hash": "d5bd301e8191582e",
+        "bytes": 86252,
+        "sha256": "518e2e85725b953191fa94ba78cdea54c71b7bf9815ad010e5c03dbd28c6d67b"
+      },
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "4cf09f64bf34cff2",
+        "border_hash": "d5bd301e8191582e",
+        "bytes": 86252,
+        "sha256": "518e2e85725b953191fa94ba78cdea54c71b7bf9815ad010e5c03dbd28c6d67b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

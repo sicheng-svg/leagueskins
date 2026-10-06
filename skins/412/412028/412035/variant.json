@@ -1,0 +1,65 @@
+{
+  "skin_id": 412035,
+  "base_skin_id": 412028,
+  "champion_id": 412,
+  "name": "神龙尊者 钢铁之龙 锤石 望霞",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a8f661ce5b68d9abf2e4e00ff553e81b7fca66bfdf652060e663cef088220d14",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "412/412028/412035/412035.fantome",
+  "files": [
+    {
+      "path": "skins/412/412028/412035/Thresh.wad.client",
+      "size": 90545,
+      "sha256": "e6cabb3da53a30020787a93eba99403fe11e027709d8770d1359c5a3c205ace7"
+    }
+  ],
+  "wads": {
+    "Thresh.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4261,
+      "bytes_after": 90545,
+      "replacement_hashes": [
+        "dfe09125e6c30a36"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "dfe09125e6c30a36",
+        "border_hash": "e6b2e6c1ef407c5e",
+        "bytes": 86252,
+        "sha256": "e95635d1a0af31ffa4432e88caff9cb2bbbe7d2de7c47c2fd546dd41598e848b"
+      },
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "dfe09125e6c30a36",
+        "border_hash": "e6b2e6c1ef407c5e",
+        "bytes": 86252,
+        "sha256": "e95635d1a0af31ffa4432e88caff9cb2bbbe7d2de7c47c2fd546dd41598e848b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "skin_id": 39012,
+  "base_skin_id": 39006,
+  "champion_id": 39,
+  "name": "玉剑传说 舞剑仙 轩辕",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "63de0a4f218e4aa1aca6ffe9e34b5d27d611e980c8ab2cb5e240f7dcda695b2b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "39/39006/39012/39012.fantome",
+  "files": [
+    {
+      "path": "skins/39/39006/39012/Irelia.wad.client",
+      "size": 90832,
+      "sha256": "82d36a0742f7b4493358bb9283adaab646793755d4ca505d4b612b023bee3bc3"
+    }
+  ],
+  "wads": {
+    "Irelia.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4548,
+      "bytes_after": 90832,
+      "replacement_hashes": [
+        "9220d6e2b496dae4"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "9220d6e2b496dae4",
+        "border_hash": "f543414415f5af1f",
+        "bytes": 86252,
+        "sha256": "ffca9d098f8d1811e50e127e64e29ac2747a2a8eb31f54ec788f3b24a17f55f4"
+      },
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "9220d6e2b496dae4",
+        "border_hash": "f543414415f5af1f",
+        "bytes": 86252,
+        "sha256": "ffca9d098f8d1811e50e127e64e29ac2747a2a8eb31f54ec788f3b24a17f55f4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

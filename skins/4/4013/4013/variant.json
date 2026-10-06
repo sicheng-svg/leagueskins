@@ -1,0 +1,58 @@
+{
+  "skin_id": 4013,
+  "base_skin_id": 4013,
+  "champion_id": 4,
+  "name": "奥德赛 崔斯特",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5ca9f857b3937b2949977f41bcf18a18e1f5292e9fbeb5ab7c4ac2b4c8c2a55d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "4/4013/4013.fantome",
+  "files": [
+    {
+      "path": "skins/4/4013/4013/TwistedFate.wad.client",
+      "size": 92923,
+      "sha256": "3f4a1b1447f65f4455b3a1872390e5b18bc2e2448a261ebcf9e8743014ec254e"
+    }
+  ],
+  "wads": {
+    "TwistedFate.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6639,
+      "bytes_after": 92923,
+      "replacement_hashes": [
+        "90766cc094230eed"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "TwistedFate.wad.client",
+        "normal_hash": "90766cc094230eed",
+        "border_hash": "2208d2975a4d9421",
+        "bytes": 86252,
+        "sha256": "27a203930b7dfdd44664122e186c8afea5df7e769e832995d8b6413c5fbe3cd1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

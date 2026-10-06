@@ -1,0 +1,58 @@
+{
+  "skin_id": 40049,
+  "base_skin_id": 40045,
+  "champion_id": 40,
+  "name": "海珀利安小队 X09-星环灵风 迦娜 翱翔笑语",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a9e1e4da760d5c9303cc92081a87e222ad38e77607cb7c5bc8e749a6146d2ea3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "40/40045/40049/40049.fantome",
+  "files": [
+    {
+      "path": "skins/40/40045/40049/Janna.wad.client",
+      "size": 88753,
+      "sha256": "8753708bc3f08f4ee8001f75feae5323b821fe19064d19dd3e713837efe1ef00"
+    }
+  ],
+  "wads": {
+    "Janna.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2469,
+      "bytes_after": 88753,
+      "replacement_hashes": [
+        "a7ff950b334f1099"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Janna.wad.client",
+        "normal_hash": "a7ff950b334f1099",
+        "border_hash": "3c3dcc5fe617df9d",
+        "bytes": 86252,
+        "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

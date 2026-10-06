@@ -1,0 +1,65 @@
+{
+  "skin_id": 39023,
+  "base_skin_id": 39018,
+  "champion_id": 39,
+  "name": "西部天使 艾瑞莉娅 巴耶力之生",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "21bc7826b43eeff137b46fafe4c1335fe5c96dd870f8945753feab69bc8c2870",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "39/39018/39023/39023.fantome",
+  "files": [
+    {
+      "path": "skins/39/39018/39023/Irelia.wad.client",
+      "size": 90712,
+      "sha256": "c87695b46a4a21145102be2516cbc330e827fd5d3db35f84b62eb50f109e2eb3"
+    }
+  ],
+  "wads": {
+    "Irelia.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4428,
+      "bytes_after": 90712,
+      "replacement_hashes": [
+        "a4aea742d2c40587"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "a4aea742d2c40587",
+        "border_hash": "2e61ea7969359f1d",
+        "bytes": 86252,
+        "sha256": "6ae487aa8b466122a24ba7717e69480d4a33a008bfe133ddf29c0824c0bb4a11"
+      },
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "a4aea742d2c40587",
+        "border_hash": "2e61ea7969359f1d",
+        "bytes": 86252,
+        "sha256": "6ae487aa8b466122a24ba7717e69480d4a33a008bfe133ddf29c0824c0bb4a11"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

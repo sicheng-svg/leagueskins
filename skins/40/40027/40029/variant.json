@@ -1,0 +1,58 @@
+{
+  "skin_id": 40029,
+  "base_skin_id": 40027,
+  "champion_id": 40,
+  "name": "女帝 迦娜 纹章之刻印·坚毅",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "36f86824dacb263a468b6e02ade154f0af8272ce064694f548aeee0e03c27f9f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "40/40027/40029/40029.fantome",
+  "files": [
+    {
+      "path": "skins/40/40027/40029/Janna.wad.client",
+      "size": 88416,
+      "sha256": "b05ac0733a8277d4c7eb9be86513808bdd69dafa346e856911b1578028fa3c0c"
+    }
+  ],
+  "wads": {
+    "Janna.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2132,
+      "bytes_after": 88416,
+      "replacement_hashes": [
+        "73322d44d9d183ac"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Janna.wad.client",
+        "normal_hash": "73322d44d9d183ac",
+        "border_hash": "4faaa86eca20ce0c",
+        "bytes": 86252,
+        "sha256": "37dde24eda102a76d9cd0faf8140cec57701d1dc388fb3004dec11bd6b575e4e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

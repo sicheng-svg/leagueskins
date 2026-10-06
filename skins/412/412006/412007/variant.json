@@ -1,0 +1,65 @@
+{
+  "skin_id": 412007,
+  "base_skin_id": 412006,
+  "champion_id": 412,
+  "name": "西部魔影 锤石 压制之束",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "91d0d56aaaa82d39be52f27959ebb298642831df0a6b194f2d14b76fc36e95f0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "412/412006/412007/412007.fantome",
+  "files": [
+    {
+      "path": "skins/412/412006/412007/Thresh.wad.client",
+      "size": 90377,
+      "sha256": "ee79f263c9c368254ff2930ad25324ed96da3558ffabb813ea3266417d5da66e"
+    }
+  ],
+  "wads": {
+    "Thresh.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4093,
+      "bytes_after": 90377,
+      "replacement_hashes": [
+        "95fa2354bf761d6c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "95fa2354bf761d6c",
+        "border_hash": "73b069f14b93fe81",
+        "bytes": 86252,
+        "sha256": "ca2e0aee847c6949279378f623f6f4242ba9eaba71a5869968b4fc2be8c971a8"
+      },
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "95fa2354bf761d6c",
+        "border_hash": "73b069f14b93fe81",
+        "bytes": 86252,
+        "sha256": "ca2e0aee847c6949279378f623f6f4242ba9eaba71a5869968b4fc2be8c971a8"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

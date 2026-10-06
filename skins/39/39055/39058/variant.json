@@ -1,0 +1,65 @@
+{
+  "skin_id": 39058,
+  "base_skin_id": 39055,
+  "champion_id": 39,
+  "name": "灵魂莲华 艾瑞莉娅 风起",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5a5b56ec87ba825c51762fd319f5f0a52557958d17f4c49dd9faa54f97d673d3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "39/39055/39058/39058.fantome",
+  "files": [
+    {
+      "path": "skins/39/39055/39058/Irelia.wad.client",
+      "size": 91752,
+      "sha256": "beaef7805c2d2f7512b454a19fc8a6ef3d00900372a9dfc93c3b48858d6247fe"
+    }
+  ],
+  "wads": {
+    "Irelia.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5468,
+      "bytes_after": 91752,
+      "replacement_hashes": [
+        "67b3f03bc35053b5"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "67b3f03bc35053b5",
+        "border_hash": "ce5b68c5158fed7e",
+        "bytes": 86252,
+        "sha256": "c6b8b1329f3486df1f22397ed14a79f498a4c7e14e144fabcc2e3cc2b5098ba9"
+      },
+      {
+        "archive": "Irelia.wad.client",
+        "normal_hash": "67b3f03bc35053b5",
+        "border_hash": "ce5b68c5158fed7e",
+        "bytes": 86252,
+        "sha256": "c6b8b1329f3486df1f22397ed14a79f498a4c7e14e144fabcc2e3cc2b5098ba9"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

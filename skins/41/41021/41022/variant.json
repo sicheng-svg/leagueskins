@@ -1,0 +1,65 @@
+{
+  "skin_id": 41022,
+  "base_skin_id": 41021,
+  "champion_id": 41,
+  "name": "FPX 普朗克 涅槃",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e7dbfa591cbbdffa1198d07f65ae19dda28311715eebd1a62cce826ccf044577",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "41/41021/41022/41022.fantome",
+  "files": [
+    {
+      "path": "skins/41/41021/41022/Gangplank.wad.client",
+      "size": 90130,
+      "sha256": "b9ac6f2e675b6f7bb2401a8c66dd5567109fea34fdca94f97c61fb9712dfd01b"
+    }
+  ],
+  "wads": {
+    "Gangplank.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3846,
+      "bytes_after": 90130,
+      "replacement_hashes": [
+        "bbb3063b28638b70"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Gangplank.wad.client",
+        "normal_hash": "bbb3063b28638b70",
+        "border_hash": "8449b58b71598802",
+        "bytes": 86252,
+        "sha256": "8f1a407275a1066d7d5f5f0c2117bd367326a979a94d393d720c827731834f6d"
+      },
+      {
+        "archive": "Gangplank.wad.client",
+        "normal_hash": "bbb3063b28638b70",
+        "border_hash": "8449b58b71598802",
+        "bytes": 86252,
+        "sha256": "8f1a407275a1066d7d5f5f0c2117bd367326a979a94d393d720c827731834f6d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 40019,
+  "base_skin_id": 40013,
+  "champion_id": 40,
+  "name": "魅惑女巫 迦娜 炫金",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8a301d8e60ac93c8ac77eab66d26c753d640e55d2bc9e3223eb3d9c01ccc8ff6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "40/40013/40019/40019.fantome",
+  "files": [
+    {
+      "path": "skins/40/40013/40019/Janna.wad.client",
+      "size": 88550,
+      "sha256": "c4b591c904a3949d8e8d2f18267284b70e73cc4cfab2151fd38535f4c3627f7b"
+    }
+  ],
+  "wads": {
+    "Janna.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2266,
+      "bytes_after": 88550,
+      "replacement_hashes": [
+        "9a2d27e2860713f2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Janna.wad.client",
+        "normal_hash": "9a2d27e2860713f2",
+        "border_hash": "299e72669e7eec0f",
+        "bytes": 86252,
+        "sha256": "b80d8a4346e2b53202e62aaeb79ee22e4e8eecf908c6786ee4e7e330aae4ec97"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

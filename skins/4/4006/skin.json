@@ -1,0 +1,55 @@
+{
+  "champion_id": 4,
+  "base_skin_id": 4006,
+  "name": "皇家火枪手 崔斯特",
+  "variants": [
+    {
+      "skin_id": 4006,
+      "base_skin_id": 4006,
+      "champion_id": 4,
+      "name": "皇家火枪手 崔斯特",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "778859ea08e0ce43a6ef97064b26077a10a99c5e48fb8d56396b92d9b8001f3b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "4/4006/4006.fantome",
+      "files": [
+        {
+          "path": "skins/4/4006/4006/TwistedFate.wad.client",
+          "size": 5413,
+          "sha256": "f26a2662440f46cef389d8a29144f6cba1f612897ecacdb677852b371503f83f"
+        }
+      ],
+      "wads": {
+        "TwistedFate.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5413,
+          "bytes_after": 5413,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 4032,
+  "base_skin_id": 4025,
+  "champion_id": 4,
+  "name": "地下都市 梦魇 崔斯特 白影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "414d1e842453924cb7e65febc8cfe8975f761dd251ae2ff174196b03f314e2a3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "4/4025/4032/4032.fantome",
+  "files": [
+    {
+      "path": "skins/4/4025/4032/TwistedFate.wad.client",
+      "size": 2477,
+      "sha256": "ac6c077ecb76e5416760588879fc6581fb63690f4db6cd0f9d56e3093aff3534"
+    }
+  ],
+  "wads": {
+    "TwistedFate.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2477,
+      "bytes_after": 2477,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

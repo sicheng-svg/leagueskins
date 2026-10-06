@@ -1,0 +1,65 @@
+{
+  "skin_id": 412015,
+  "base_skin_id": 412015,
+  "champion_id": 412,
+  "name": "FPX 锤石",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7010b3ac8feb2a1427c281dd9faa23453cc6d40a534e12896cacd28e44818f52",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "412/412015/412015.fantome",
+  "files": [
+    {
+      "path": "skins/412/412015/412015/Thresh.wad.client",
+      "size": 94373,
+      "sha256": "549e9b31394b0568b435642972c7c57264a74e89f81d9ae7ebf95075c4c6fd4e"
+    }
+  ],
+  "wads": {
+    "Thresh.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8089,
+      "bytes_after": 94373,
+      "replacement_hashes": [
+        "92931d961dc70fcb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "92931d961dc70fcb",
+        "border_hash": "d28da0662980e362",
+        "bytes": 86252,
+        "sha256": "03f9c01cd0f8deda5ebfbdfda633eba2c1da46343b4c387cb9d1ca1e24810671"
+      },
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "92931d961dc70fcb",
+        "border_hash": "d28da0662980e362",
+        "bytes": 86252,
+        "sha256": "03f9c01cd0f8deda5ebfbdfda633eba2c1da46343b4c387cb9d1ca1e24810671"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "champion_id": 40,
+  "base_skin_id": 40045,
+  "name": "海珀利安小队 X09-星环灵风 迦娜",
+  "variants": [
+    {
+      "skin_id": 40045,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0fc734e9c8238f79271a6269d675da7a4a54ab6a795eec98efff27a9d9030289",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40045.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40045/Janna.wad.client",
+          "size": 90943,
+          "sha256": "c0b5b71cc2cd4188f728763ea854fee3e070cf64212853fe4e47e43f3ffd2182"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4659,
+          "bytes_after": 90943,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40047,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 赤红突袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9cf452944a828926a2c3f7e1b9e589bea089f9bb26a3a1349be9feac65ad8404",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40047/40047.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40047/Janna.wad.client",
+          "size": 88803,
+          "sha256": "590e179f9352a257acf7d43e6bb55cb4d2a0d28c874c0ddc6b97489e2305b543"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2519,
+          "bytes_after": 88803,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40048,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 冰封预言",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9e266b87fbd31a25f4de0366a9ab54ee1d95457eebf79b9b98d2d53407bf7e0c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40048/40048.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40048/Janna.wad.client",
+          "size": 88755,
+          "sha256": "51d4d095e8be323549124904e292d1684bee14141c1a00115cb3e5af3dba7502"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2471,
+          "bytes_after": 88755,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40049,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 翱翔笑语",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a9e1e4da760d5c9303cc92081a87e222ad38e77607cb7c5bc8e749a6146d2ea3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40049/40049.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40049/Janna.wad.client",
+          "size": 88753,
+          "sha256": "8753708bc3f08f4ee8001f75feae5323b821fe19064d19dd3e713837efe1ef00"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2469,
+          "bytes_after": 88753,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40050,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 神佑先驱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b12de593e0f1fa9db37e04f813b79959890da6aa2f19d28dc8066f2128afb1a2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40050/40050.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40050/Janna.wad.client",
+          "size": 88756,
+          "sha256": "00760b50114ab3666bba83d012acb7ddafe0e94fb9e5ce38c040598b1d6ed33f"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2472,
+          "bytes_after": 88756,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40051,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 神圣玫瑰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "74e065f7b1d078b95ce4467b761c8cca18d3bc517319a5b932cf48d6cb1a62a7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40051/40051.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40051/Janna.wad.client",
+          "size": 88777,
+          "sha256": "acdadca17760c274f85a918cb3f30f1e55e3f2017a414eb8ecc8074814a6d0a5"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2493,
+          "bytes_after": 88777,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40052,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 紫色长剑",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e2dff1afbe997ede9a0611cd8765e4a1898f58c35cd27d22718c0a5294111850",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40052/40052.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40052/Janna.wad.client",
+          "size": 88755,
+          "sha256": "03d0d4033929b1769f0c608e90bc88416061fd7e2fdea4c086035b7b2a909028"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2471,
+          "bytes_after": 88755,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40053,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 圣洁赞歌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "874a7d9215e84546e08ec7b386b4158421ce6d57126df81ed9dd787dbf72b8f2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40053/40053.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40053/Janna.wad.client",
+          "size": 88754,
+          "sha256": "650cbb204bbc1d7d8c2b872f3df850e982c8df89aecbcfdaffeb7ed8a5b5832f"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2470,
+          "bytes_after": 88754,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40054,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 不朽巨蛇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3dc87a6e508007e74440d648aee87d3f5a39740a8fc21c26e41628c716ae9060",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40054/40054.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40054/Janna.wad.client",
+          "size": 88755,
+          "sha256": "3ca2a7cc43b0b13f2bcacf296df3848519c25b65a8d0eee2d57dc4d1ddd723de"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2471,
+          "bytes_after": 88755,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 40055,
+      "base_skin_id": 40045,
+      "champion_id": 40,
+      "name": "海珀利安小队 X09-星环灵风 迦娜 暗夜王牌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4a5c113426ac125acbd8cad40b7e2fa6eca11e3354d6bcb0f3573f447d2d9156",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40045/40055/40055.fantome",
+      "files": [
+        {
+          "path": "skins/40/40045/40055/Janna.wad.client",
+          "size": 88811,
+          "sha256": "3e9712e45baf996d34648c14021978a68840e000abe94caca7b5df7aa4011b20"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2527,
+          "bytes_after": 88811,
+          "replacement_hashes": [
+            "a7ff950b334f1099"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "a7ff950b334f1099",
+            "border_hash": "3c3dcc5fe617df9d",
+            "bytes": 86252,
+            "sha256": "e09cbbcc2938f77bcc8f8944b4b5905918de9e589a560180253405b569c581d1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

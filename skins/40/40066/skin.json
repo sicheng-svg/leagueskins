@@ -1,0 +1,65 @@
+{
+  "champion_id": 40,
+  "base_skin_id": 40066,
+  "name": "黎明使者 迦娜",
+  "variants": [
+    {
+      "skin_id": 40066,
+      "base_skin_id": 40066,
+      "champion_id": 40,
+      "name": "黎明使者 迦娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f2afcb3a18ebc59b9ec9739f99282bf1848070743a76bdfa66155c5029e752a4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40066/40066.fantome",
+      "files": [
+        {
+          "path": "skins/40/40066/40066/Janna.wad.client",
+          "size": 91480,
+          "sha256": "faa81cf6940f159dafda2a29a5117f9de1b47633d88f2e6efdafdc8b5ace93b1"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5196,
+          "bytes_after": 91480,
+          "replacement_hashes": [
+            "58353e6c13ba7365"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Janna.wad.client",
+            "normal_hash": "58353e6c13ba7365",
+            "border_hash": "780c10e89ce01103",
+            "bytes": 86252,
+            "sha256": "d592d8f23f1b91512bed132e964c6f59e03961ec1b95b72c8ec7c4ce40be9c82"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

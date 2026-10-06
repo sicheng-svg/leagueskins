@@ -1,0 +1,48 @@
+{
+  "skin_id": 40040,
+  "base_skin_id": 40036,
+  "champion_id": 40,
+  "name": "水晶玫瑰 迦娜 浪漫花蕾",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f3c5e3329510541c67391fe19c2979720cbcdfacc28a081ff975de404df5fe4e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "40/40036/40040/40040.fantome",
+  "files": [
+    {
+      "path": "skins/40/40036/40040/Janna.wad.client",
+      "size": 2110,
+      "sha256": "9c9272703e18d5244e09692810f459a5ca6580127c848e8ecbaa20e9b6f0f7ab"
+    }
+  ],
+  "wads": {
+    "Janna.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2110,
+      "bytes_after": 2110,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

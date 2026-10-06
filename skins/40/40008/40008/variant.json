@@ -1,0 +1,48 @@
+{
+  "skin_id": 40008,
+  "base_skin_id": 40008,
+  "champion_id": 40,
+  "name": "玉剑传说 风仙子",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "62b5aeab1c445a8ddfa0b9e207ea38c0b443740124fd98003e9749e77ed0b545",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "40/40008/40008.fantome",
+  "files": [
+    {
+      "path": "skins/40/40008/40008/Janna.wad.client",
+      "size": 5078,
+      "sha256": "46f4961cbb7d9600d7f6ceb916560e06b1267e9a468e3f44ab8f43cd97226f78"
+    }
+  ],
+  "wads": {
+    "Janna.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5078,
+      "bytes_after": 5078,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

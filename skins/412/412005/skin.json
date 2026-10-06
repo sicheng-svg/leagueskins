@@ -1,0 +1,103 @@
+{
+  "champion_id": 412,
+  "base_skin_id": 412005,
+  "name": "暗星 锤石",
+  "variants": [
+    {
+      "skin_id": 412005,
+      "base_skin_id": 412005,
+      "champion_id": 412,
+      "name": "暗星 锤石",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "918737aa4b8c1ac6b64ad04d34c598d8c9f2222e7745c913d92832f744b05272",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "412/412005/412005.fantome",
+      "files": [
+        {
+          "path": "skins/412/412005/412005/Thresh.wad.client",
+          "size": 10355,
+          "sha256": "a3bac4b10bd6b074ef9b410ad80b18757b15c76c5eed6d0d4124bfb68c42b5a5"
+        }
+      ],
+      "wads": {
+        "Thresh.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10355,
+          "bytes_after": 10355,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 412016,
+      "base_skin_id": 412005,
+      "champion_id": 412,
+      "name": "暗星 锤石 万神殿之陷",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b5cab1ee4a5d78957e12cbeaf2f171a22350f16432590d16ea6dbc87e8bd6b63",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "412/412005/412016/412016.fantome",
+      "files": [
+        {
+          "path": "skins/412/412005/412016/Thresh.wad.client",
+          "size": 5013,
+          "sha256": "13928ff2ababd3817569b42e16d784f343960799670c85f73f686edd559978dc"
+        }
+      ],
+      "wads": {
+        "Thresh.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5013,
+          "bytes_after": 5013,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

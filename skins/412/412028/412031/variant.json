@@ -1,0 +1,65 @@
+{
+  "skin_id": 412031,
+  "base_skin_id": 412028,
+  "champion_id": 412,
+  "name": "神龙尊者 钢铁之龙 锤石 摘星",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "defc64cf9dd8c30eff06924a9c4b5cb5c82060746a55415a7d0f504481b2525c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "412/412028/412031/412031.fantome",
+  "files": [
+    {
+      "path": "skins/412/412028/412031/Thresh.wad.client",
+      "size": 90522,
+      "sha256": "dd59b8bc12bc5e0e46e6209ed6ab4ad08531f888172cb1ff7c1694ab87f533ca"
+    }
+  ],
+  "wads": {
+    "Thresh.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4238,
+      "bytes_after": 90522,
+      "replacement_hashes": [
+        "dfe09125e6c30a36"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "dfe09125e6c30a36",
+        "border_hash": "e6b2e6c1ef407c5e",
+        "bytes": 86252,
+        "sha256": "e95635d1a0af31ffa4432e88caff9cb2bbbe7d2de7c47c2fd546dd41598e848b"
+      },
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "dfe09125e6c30a36",
+        "border_hash": "e6b2e6c1ef407c5e",
+        "bytes": 86252,
+        "sha256": "e95635d1a0af31ffa4432e88caff9cb2bbbe7d2de7c47c2fd546dd41598e848b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

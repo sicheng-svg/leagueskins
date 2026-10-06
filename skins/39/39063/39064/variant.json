@@ -1,0 +1,48 @@
+{
+  "skin_id": 39064,
+  "base_skin_id": 39063,
+  "champion_id": 39,
+  "name": "利刃充饥面包师傅 艾瑞莉娅 飞舞吧，番茄面包",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e0611ed59308b9a4dcc8972f79c44ebce2e09d2a3bbb27425d1f46392f02a43e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "39/39063/39064/39064.fantome",
+  "files": [
+    {
+      "path": "skins/39/39063/39064/Irelia.wad.client",
+      "size": 4773,
+      "sha256": "c26401742e1a6037cf63118cdcead515321a0a8b49c035edb2855fa70ab17484"
+    }
+  ],
+  "wads": {
+    "Irelia.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4773,
+      "bytes_after": 4773,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 40,
+  "base_skin_id": 40005,
+  "name": "女主播 迦娜",
+  "variants": [
+    {
+      "skin_id": 40005,
+      "base_skin_id": 40005,
+      "champion_id": 40,
+      "name": "女主播 迦娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b841d6711984c2b09a485d75d5c320522e97ecb3c51b8ee51f9cc4f15ebc99c6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "40/40005/40005.fantome",
+      "files": [
+        {
+          "path": "skins/40/40005/40005/Janna.wad.client",
+          "size": 6127,
+          "sha256": "dc59b848c097dc1f6653fe4f26a765e13f7e3a1ced7cb883011ea8ae2ccf9b7b"
+        }
+      ],
+      "wads": {
+        "Janna.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6127,
+          "bytes_after": 6127,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

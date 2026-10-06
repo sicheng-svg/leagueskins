@@ -1,0 +1,48 @@
+{
+  "skin_id": 39004,
+  "base_skin_id": 39004,
+  "champion_id": 39,
+  "name": "冰霜之刃 艾瑞莉娅",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b46debd76ae0854695dc1b016c0125fbd35c391d120dd37c4b58cb3763954a09",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "39/39004/39004.fantome",
+  "files": [
+    {
+      "path": "skins/39/39004/39004/Irelia.wad.client",
+      "size": 9080,
+      "sha256": "385f97c89d1b2a42fd11461abc8ff37fd496ad47459b0073f899b4e10f34d7a2"
+    }
+  ],
+  "wads": {
+    "Irelia.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 9080,
+      "bytes_after": 9080,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

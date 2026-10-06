@@ -1,0 +1,55 @@
+{
+  "champion_id": 41,
+  "base_skin_id": 41001,
+  "name": "幽灵船长 普朗克",
+  "variants": [
+    {
+      "skin_id": 41001,
+      "base_skin_id": 41001,
+      "champion_id": 41,
+      "name": "幽灵船长 普朗克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4cfc6853d510e9bc8d70469419f210e0df83bd52b5e72a70ac5b84c72366ede2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "41/41001/41001.fantome",
+      "files": [
+        {
+          "path": "skins/41/41001/41001/Gangplank.wad.client",
+          "size": 4477,
+          "sha256": "327bf84b2a3276570bf3772f8e4fe651891b200d72db95469ecf554ab6b8ef23"
+        }
+      ],
+      "wads": {
+        "Gangplank.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4477,
+          "bytes_after": 4477,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

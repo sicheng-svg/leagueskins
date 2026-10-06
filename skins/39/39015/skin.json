@@ -1,0 +1,137 @@
+{
+  "champion_id": 39,
+  "base_skin_id": 39015,
+  "name": "iG 艾瑞莉娅",
+  "variants": [
+    {
+      "skin_id": 39015,
+      "base_skin_id": 39015,
+      "champion_id": 39,
+      "name": "iG 艾瑞莉娅",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6044a5310aec4eb9218fba2a60f01c6f9117c8604ac7ca8cfb46dd0f31e17a35",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "39/39015/39015.fantome",
+      "files": [
+        {
+          "path": "skins/39/39015/39015/Irelia.wad.client",
+          "size": 96072,
+          "sha256": "a87074047f1c03849310bc61df5d4280cdd378b69ea903d72eda2861ba77cd1b"
+        }
+      ],
+      "wads": {
+        "Irelia.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9788,
+          "bytes_after": 96072,
+          "replacement_hashes": [
+            "22549e82bb45c96f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Irelia.wad.client",
+            "normal_hash": "22549e82bb45c96f",
+            "border_hash": "7b7411c2323262cd",
+            "bytes": 86252,
+            "sha256": "c3cd128a85c92a06ba4a150a7b7d858fd9fb456b0ae192f0ed2814b95e339b38"
+          },
+          {
+            "archive": "Irelia.wad.client",
+            "normal_hash": "22549e82bb45c96f",
+            "border_hash": "7b7411c2323262cd",
+            "bytes": 86252,
+            "sha256": "c3cd128a85c92a06ba4a150a7b7d858fd9fb456b0ae192f0ed2814b95e339b38"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 39062,
+      "base_skin_id": 39015,
+      "champion_id": 39,
+      "name": "iG 艾瑞莉娅 极境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "92a1b5cf907027f7ec125901f69aa102f6377d399641f72ca2c276527cba3b4b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "39/39015/39062/39062.fantome",
+      "files": [
+        {
+          "path": "skins/39/39015/39062/Irelia.wad.client",
+          "size": 90724,
+          "sha256": "ebf88203820a9c6db0ee489157a0d50b5ae7e33caad8638f833ac87d56850dae"
+        }
+      ],
+      "wads": {
+        "Irelia.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4440,
+          "bytes_after": 90724,
+          "replacement_hashes": [
+            "22549e82bb45c96f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Irelia.wad.client",
+            "normal_hash": "22549e82bb45c96f",
+            "border_hash": "7b7411c2323262cd",
+            "bytes": 86252,
+            "sha256": "c3cd128a85c92a06ba4a150a7b7d858fd9fb456b0ae192f0ed2814b95e339b38"
+          },
+          {
+            "archive": "Irelia.wad.client",
+            "normal_hash": "22549e82bb45c96f",
+            "border_hash": "7b7411c2323262cd",
+            "bytes": 86252,
+            "sha256": "c3cd128a85c92a06ba4a150a7b7d858fd9fb456b0ae192f0ed2814b95e339b38"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 13,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

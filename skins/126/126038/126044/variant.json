@@ -1,0 +1,58 @@
+{
+  "skin_id": 126044,
+  "base_skin_id": 126038,
+  "champion_id": 126,
+  "name": "踏雪寻梅 杰斯 狂飙卷沙",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5b08a449da18eeaf8547343009bb91dac5070ad020c66f25d336237a50e07541",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "126/126038/126044/126044.fantome",
+  "files": [
+    {
+      "path": "skins/126/126038/126044/Jayce.wad.client",
+      "size": 89443,
+      "sha256": "1186b08c7eabd2dad13d184a081ec98a7fc36b2d73d24e47b07dfabecf238c39"
+    }
+  ],
+  "wads": {
+    "Jayce.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3159,
+      "bytes_after": 89443,
+      "replacement_hashes": [
+        "582fde1991c2de5c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Jayce.wad.client",
+        "normal_hash": "582fde1991c2de5c",
+        "border_hash": "a133ad7e7a31f228",
+        "bytes": 86252,
+        "sha256": "2c5ea81db931a6f9cc0fdaf77192c4bc4a3a27f9d11acc6f7aa9be50154a038e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

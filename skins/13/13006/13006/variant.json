@@ -1,0 +1,58 @@
+{
+  "skin_id": 13006,
+  "base_skin_id": 13006,
+  "champion_id": 13,
+  "name": "至死不渝 瑞兹",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5576d1724aed9571ab244fef62c1d68315375777fa325004552276027d66d04c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "13/13006/13006.fantome",
+  "files": [
+    {
+      "path": "skins/13/13006/13006/Ryze.wad.client",
+      "size": 89816,
+      "sha256": "ecee15d7c0b8a8f85965bdbf0c58e68a217dff89b5377ce51a7fd0bb2abdf6ac"
+    }
+  ],
+  "wads": {
+    "Ryze.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3532,
+      "bytes_after": 89816,
+      "replacement_hashes": [
+        "bfb292be758a6dcd"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ryze.wad.client",
+        "normal_hash": "bfb292be758a6dcd",
+        "border_hash": "ca7b3c6e4550f795",
+        "bytes": 86252,
+        "sha256": "f03b780e0166a13dcc10897cf8989894525f5bbb9b05342aac8b5105d7f2d747"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

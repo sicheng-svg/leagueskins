@@ -1,0 +1,55 @@
+{
+  "champion_id": 133,
+  "base_skin_id": 133004,
+  "name": "觅心之翼 奎因",
+  "variants": [
+    {
+      "skin_id": 133004,
+      "base_skin_id": 133004,
+      "champion_id": 133,
+      "name": "觅心之翼 奎因",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "124eed84a014be3d8af2c08801aaf5c87bf9c1d73c37738beabfb034e13c63eb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133004/133004.fantome",
+      "files": [
+        {
+          "path": "skins/133/133004/133004/Quinn.wad.client",
+          "size": 5832,
+          "sha256": "a9c01eafa83213d71d136d295de269c59bb6bcdaae7084bf2e7023ae11e59555"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5832,
+          "bytes_after": 5832,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

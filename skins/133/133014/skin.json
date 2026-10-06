@@ -1,0 +1,657 @@
+{
+  "champion_id": 133,
+  "base_skin_id": 133014,
+  "name": "星之守护者 奎因",
+  "variants": [
+    {
+      "skin_id": 133014,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3a31b07a70fff51a7eba63a0582c09edba2ed0ef5a585db2c87029b0a89e3c64",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133014.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133014/Quinn.wad.client",
+          "size": 93125,
+          "sha256": "ee5e5cadb001308371ec4a161e99709a61e1f09bff99f48b5e2c9e465113638e"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6841,
+          "bytes_after": 93125,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133015,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 热情之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c2934a942cdb535cd0050b303714935375e0a38cd4224a0bb33cc30c059abfe3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133015/133015.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133015/Quinn.wad.client",
+          "size": 90272,
+          "sha256": "ad724d0e6b26e48a6d6c8a6ec9b8c76aed7be047d9d1407d0a1a627c62e3d1e5"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3988,
+          "bytes_after": 90272,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133016,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 爱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "10676cc296bfeb9c1c75d24b024377a7a68d5dfe1b840210587c4b4f39adb61c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133016/133016.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133016/Quinn.wad.client",
+          "size": 90220,
+          "sha256": "823b9f1f52a95dd1365638eb0216c1db5085bfb768c94c763d6f6d9ea917d7f5"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3936,
+          "bytes_after": 90220,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133017,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 勇气之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06b93a67637b1c0c64ff232dedc99f59a5becb6553573e23b7ec48fd9115d754",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133017/133017.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133017/Quinn.wad.client",
+          "size": 90221,
+          "sha256": "1df0c9c7a63c943502873bffbf67b24495b266d657d01f68275b7dcca73af8d8"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3937,
+          "bytes_after": 90221,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133018,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 拥抱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c98092a6e3ae24db183d99fda689462911d62d85a9cdc6a750c578071d6bb197",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133018/133018.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133018/Quinn.wad.client",
+          "size": 90222,
+          "sha256": "3a2cb38afb449b61876e24925b3512d64c84740a5349f90f36392f406fcd1fd1"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3938,
+          "bytes_after": 90222,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133019,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 智慧之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06ac39632d220e494d453b04e0297dea1cd9ad403dfa7cdf0e2d9afd11a47efd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133019/133019.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133019/Quinn.wad.client",
+          "size": 90220,
+          "sha256": "6bad0387dda1c3eb1c178c927e9ce110be85fcfa6806e2a7e2c2bf6828073c0c"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3936,
+          "bytes_after": 90220,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133020,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 未来之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "59681adb954d12a96e94c4590313e419cc7472d0b25bf0d9c25d6ab5d5cafe08",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133020/133020.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133020/Quinn.wad.client",
+          "size": 90251,
+          "sha256": "ed08e40c3da02201146b274193b9e605bb998d16384527e4e5800d2597aabac5"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3967,
+          "bytes_after": 90251,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133021,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 正义之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e97ff5b65cd8149fa8bc732ab1bff5f2ac2551a084759e3efaaa2e9eb9df8f5e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133021/133021.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133021/Quinn.wad.client",
+          "size": 90223,
+          "sha256": "dc0f56484d5b0646d2133db31eec9630f3241e29935df7c9d4ad401543f835fd"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3939,
+          "bytes_after": 90223,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133022,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 守护之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6fd4b817e1b25ca43944ac4b0b9113599cf3b7e1434674e75d601e3b6063ab6e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133022/133022.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133022/Quinn.wad.client",
+          "size": 90224,
+          "sha256": "80df767a7e72a76ba144ddac2044d5af8807e91515a0368dc6877eae1247cfc5"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3940,
+          "bytes_after": 90224,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 133023,
+      "base_skin_id": 133014,
+      "champion_id": 133,
+      "name": "星之守护者 奎因 希望之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a0c051e6a90c0643697b3dd69a01476a3515a1c8b90fcbdee9682d12f3d056a9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133014/133023/133023.fantome",
+      "files": [
+        {
+          "path": "skins/133/133014/133023/Quinn.wad.client",
+          "size": 90279,
+          "sha256": "69bb9b4e3cf811ed3fda7de20ead07c625c47228c3d548a595a114fd31153982"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3995,
+          "bytes_after": 90279,
+          "replacement_hashes": [
+            "920c70a307fea766"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          },
+          {
+            "archive": "Quinn.wad.client",
+            "normal_hash": "920c70a307fea766",
+            "border_hash": "a0ea16e3127d96e0",
+            "bytes": 86252,
+            "sha256": "fbcd3df7a8bd06694b3ae37962e6efdd2ffc62c682229f5012c1b2f8b5407416"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

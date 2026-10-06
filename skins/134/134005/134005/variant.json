@@ -1,0 +1,48 @@
+{
+  "skin_id": 134005,
+  "base_skin_id": 134005,
+  "champion_id": 134,
+  "name": "SKT T1 辛德拉",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b882bd0ab4c5b8a8158a3b30db767fab8878512ac787f8d0b8ddf13cdea5d463",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "134/134005/134005.fantome",
+  "files": [
+    {
+      "path": "skins/134/134005/134005/Syndra.wad.client",
+      "size": 7660,
+      "sha256": "5e8cf7575eadda1fbb0879294b9380dcef45128f3d0cb54895bd89109155388a"
+    }
+  ],
+  "wads": {
+    "Syndra.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7660,
+      "bytes_after": 7660,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

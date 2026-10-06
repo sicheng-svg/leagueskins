@@ -1,0 +1,58 @@
+{
+  "skin_id": 122051,
+  "base_skin_id": 122043,
+  "champion_id": 122,
+  "name": "灵魂莲华 德莱厄斯 朝花",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9cf4d3d1f8b2fd7c42eb56ecb61ab418c4feb9718471200eca442e0814334a03",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122043/122051/122051.fantome",
+  "files": [
+    {
+      "path": "skins/122/122043/122051/Darius.wad.client",
+      "size": 88827,
+      "sha256": "20fea24bbe75bc132184d166460e4d7282c13dfde55cdcff37205c13ae133445"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2543,
+      "bytes_after": 88827,
+      "replacement_hashes": [
+        "630f1acbcd125ace"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Darius.wad.client",
+        "normal_hash": "630f1acbcd125ace",
+        "border_hash": "d89e0e64a49cff4b",
+        "bytes": 86252,
+        "sha256": "0e7872361098420aec00e224290d3dfd7a707363a0f0bafcb303ac7df1dfe94f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 126038,
+  "base_skin_id": 126038,
+  "champion_id": 126,
+  "name": "踏雪寻梅 杰斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "aac06b4fed7eccf74e6ea7f7cdabe559613cea7823bcf9094be7b84b87eca207",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "126/126038/126038.fantome",
+  "files": [
+    {
+      "path": "skins/126/126038/126038/Jayce.wad.client",
+      "size": 93456,
+      "sha256": "8fb5a7514fa1006d867db188b0c20c9a1332dd3c8fb8bf7e1bf96fa173719ece"
+    }
+  ],
+  "wads": {
+    "Jayce.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7172,
+      "bytes_after": 93456,
+      "replacement_hashes": [
+        "582fde1991c2de5c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Jayce.wad.client",
+        "normal_hash": "582fde1991c2de5c",
+        "border_hash": "a133ad7e7a31f228",
+        "bytes": 86252,
+        "sha256": "2c5ea81db931a6f9cc0fdaf77192c4bc4a3a27f9d11acc6f7aa9be50154a038e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

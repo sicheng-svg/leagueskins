@@ -1,0 +1,58 @@
+{
+  "skin_id": 127029,
+  "base_skin_id": 127023,
+  "champion_id": 127,
+  "name": "青花瓷 丽桑卓 仕女",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9fc5cf6a8c828661e49673826c527cb0d3e30e8dbece037cf6a35d987498aa5f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "127/127023/127029/127029.fantome",
+  "files": [
+    {
+      "path": "skins/127/127023/127029/Lissandra.wad.client",
+      "size": 88766,
+      "sha256": "5ad734a37d5dab06fb5fc9682b8a9109004278e1384c831378126174ca1e9cf0"
+    }
+  ],
+  "wads": {
+    "Lissandra.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2482,
+      "bytes_after": 88766,
+      "replacement_hashes": [
+        "08c37a3d5c6fd048"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lissandra.wad.client",
+        "normal_hash": "08c37a3d5c6fd048",
+        "border_hash": "653d9455fe5ddacf",
+        "bytes": 86252,
+        "sha256": "aec0789425848784c26e3be427aaea1d64bcc12279b15702fa0d531d4b483ff6"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

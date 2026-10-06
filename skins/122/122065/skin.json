@@ -1,0 +1,123 @@
+{
+  "champion_id": 122,
+  "base_skin_id": 122065,
+  "name": "至臻 凯旋将军 德莱厄斯",
+  "variants": [
+    {
+      "skin_id": 122065,
+      "base_skin_id": 122065,
+      "champion_id": 122,
+      "name": "至臻 凯旋将军 德莱厄斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "560f3db1cdd5e9ec4c9cc2ab06411eef727b9d26298ba32df692b4b4b467667b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "122/122065/122065.fantome",
+      "files": [
+        {
+          "path": "skins/122/122065/122065/Darius.wad.client",
+          "size": 90865,
+          "sha256": "fbc10d9a6b8213be90412563768509c69b624977972dd9957cd7d9a193752fe6"
+        }
+      ],
+      "wads": {
+        "Darius.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4581,
+          "bytes_after": 90865,
+          "replacement_hashes": [
+            "1eb4249b8b874375"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Darius.wad.client",
+            "normal_hash": "1eb4249b8b874375",
+            "border_hash": "42885a9ce9ecdbdc",
+            "bytes": 86252,
+            "sha256": "65ca8ed7d38a219fece945c219a9f3f3003345059f70fbb1c8e424a2ea9251e2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 122066,
+      "base_skin_id": 122065,
+      "champion_id": 122,
+      "name": "至臻 凯旋将军 德莱厄斯 常胜战神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9c1dcb504b7a352b8891ebdec3dd9b3208dfb40bb9334936ed3a46dce13a4dd2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "122/122065/122066/122066.fantome",
+      "files": [
+        {
+          "path": "skins/122/122065/122066/Darius.wad.client",
+          "size": 88790,
+          "sha256": "18ecf65fd20553f26458f52b548ded50d18e5e5d277822cc439ef237b2eee38b"
+        }
+      ],
+      "wads": {
+        "Darius.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2506,
+          "bytes_after": 88790,
+          "replacement_hashes": [
+            "1eb4249b8b874375"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Darius.wad.client",
+            "normal_hash": "1eb4249b8b874375",
+            "border_hash": "42885a9ce9ecdbdc",
+            "bytes": 86252,
+            "sha256": "65ca8ed7d38a219fece945c219a9f3f3003345059f70fbb1c8e424a2ea9251e2"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

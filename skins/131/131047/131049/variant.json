@@ -1,0 +1,58 @@
+{
+  "skin_id": 131049,
+  "base_skin_id": 131047,
+  "champion_id": 131,
+  "name": "北极星神 黛安娜 浪漫帘幕",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "937a7ac98162fc1a4098350e69278cce3bce02ec9d1923f0a3af56eaa8198646",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "131/131047/131049/131049.fantome",
+  "files": [
+    {
+      "path": "skins/131/131047/131049/Diana.wad.client",
+      "size": 89743,
+      "sha256": "58ed33ea899caf9bb943cf9269a2a3769c417cbb1573aecf92ff4b29a0076eb1"
+    }
+  ],
+  "wads": {
+    "Diana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3459,
+      "bytes_after": 89743,
+      "replacement_hashes": [
+        "aa5ba0852dca03cf"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Diana.wad.client",
+        "normal_hash": "aa5ba0852dca03cf",
+        "border_hash": "a870e1f1301c7e76",
+        "bytes": 86252,
+        "sha256": "fb0fc46d80743f534ee0a57d65f1eed80d800f3523ef0f83a542c9db61fbe5ac"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

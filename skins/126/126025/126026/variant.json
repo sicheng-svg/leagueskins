@@ -1,0 +1,48 @@
+{
+  "skin_id": 126026,
+  "base_skin_id": 126025,
+  "champion_id": 126,
+  "name": "巅峰之星 杰斯 顽强拼搏",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5c8088f58a094c0234ee4ddc9bd03df518b12a47fb89b1cc899e5d2fc114af93",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "126/126025/126026/126026.fantome",
+  "files": [
+    {
+      "path": "skins/126/126025/126026/Jayce.wad.client",
+      "size": 2509,
+      "sha256": "8c4071ea64f3a6649202f8724ca30e0ad04420e0e30c42ab97ca1227ca6eb819"
+    }
+  ],
+  "wads": {
+    "Jayce.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2509,
+      "bytes_after": 2509,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

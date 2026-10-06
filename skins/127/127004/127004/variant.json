@@ -1,0 +1,48 @@
+{
+  "skin_id": 127004,
+  "base_skin_id": 127004,
+  "champion_id": 127,
+  "name": "魔女 丽桑卓",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "20dd251518fd71c638576f06bd79b5ff479ab9319bba873bbe050006cc6ba25a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "127/127004/127004.fantome",
+  "files": [
+    {
+      "path": "skins/127/127004/127004/Lissandra.wad.client",
+      "size": 5392,
+      "sha256": "9fe47c42678156fb7a6e95189067cf7caa81d30f9695f724ffb89b6efc46855a"
+    }
+  ],
+  "wads": {
+    "Lissandra.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5392,
+      "bytes_after": 5392,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

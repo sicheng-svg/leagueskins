@@ -1,0 +1,48 @@
+{
+  "skin_id": 122040,
+  "base_skin_id": 122033,
+  "champion_id": 122,
+  "name": "地下都市 梦魇 德莱厄斯 白影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "cbb1f59fecc8141a9a398d9ded0ccbb3d9f9ed107fcca89d4d42c4f8f7687e97",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122033/122040/122040.fantome",
+  "files": [
+    {
+      "path": "skins/122/122033/122040/Darius.wad.client",
+      "size": 2329,
+      "sha256": "cd0c0e2a4beccc8ddd2a0b529f15f0e1e8cae1317a3852e6f3af809d014e0d5f"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2329,
+      "bytes_after": 2329,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

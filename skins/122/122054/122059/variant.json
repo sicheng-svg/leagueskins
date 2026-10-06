@@ -1,0 +1,58 @@
+{
+  "skin_id": 122059,
+  "base_skin_id": 122054,
+  "champion_id": 122,
+  "name": "青花瓷 德莱厄斯 含苞",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "48cc88c83ff5e4c7dbf95815e24a0fb867f6c0b3202789b8859be6ee5fbedaae",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122054/122059/122059.fantome",
+  "files": [
+    {
+      "path": "skins/122/122054/122059/Darius.wad.client",
+      "size": 88524,
+      "sha256": "06a95a0b1637421fb333e1818d7893858023e194c04c0afd0d26d0015d804ad2"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2240,
+      "bytes_after": 88524,
+      "replacement_hashes": [
+        "30651032f1eac4e8"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Darius.wad.client",
+        "normal_hash": "30651032f1eac4e8",
+        "border_hash": "0f8c2c7c265b2e38",
+        "bytes": 86252,
+        "sha256": "5ee97bbead9ffb9ccd0cd4a285be43a245339b14c703518be2e518e7078a0c73"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

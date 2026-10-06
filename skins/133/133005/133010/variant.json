@@ -1,0 +1,48 @@
+{
+  "skin_id": 133010,
+  "base_skin_id": 133005,
+  "champion_id": 133,
+  "name": "光明骑士 奎因 理想守望者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "58067516567047de6e705b01c0eccce708168af2cdc2c65c14dd5c6c086e6195",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "133/133005/133010/133010.fantome",
+  "files": [
+    {
+      "path": "skins/133/133005/133010/Quinn.wad.client",
+      "size": 3552,
+      "sha256": "4f87791558bb51d134958ef7e2ba7ccfa08b2a74e719f5ee135e1ed5b4a23aae"
+    }
+  ],
+  "wads": {
+    "Quinn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3552,
+      "bytes_after": 3552,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

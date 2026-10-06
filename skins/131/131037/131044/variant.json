@@ -1,0 +1,58 @@
+{
+  "skin_id": 131044,
+  "base_skin_id": 131037,
+  "champion_id": 131,
+  "name": "烈焰仙子 黛安娜 吉祥如意",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9c26f55977a8d3d6bdb4b799ebb67dc5a710d882ff132b8812636412e5c81c37",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "131/131037/131044/131044.fantome",
+  "files": [
+    {
+      "path": "skins/131/131037/131044/Diana.wad.client",
+      "size": 88597,
+      "sha256": "3b21badb1edba9a90f1fee4cd496c187c2c1c0be67bdf54e61f4d5527c9693d6"
+    }
+  ],
+  "wads": {
+    "Diana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2313,
+      "bytes_after": 88597,
+      "replacement_hashes": [
+        "a3eb1e41d8a2145a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Diana.wad.client",
+        "normal_hash": "a3eb1e41d8a2145a",
+        "border_hash": "955117020cc381fa",
+        "bytes": 86252,
+        "sha256": "f8b5280fc83fa4371be8759c65b83f7d01ea8b55fb8b19ae0075796ae99a64ef"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

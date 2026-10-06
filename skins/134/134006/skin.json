@@ -1,0 +1,601 @@
+{
+  "champion_id": 134,
+  "base_skin_id": 134006,
+  "name": "星之守护者 辛德拉",
+  "variants": [
+    {
+      "skin_id": 134006,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ccd1ce9cb2c448a9491f2ea1ddad8c5d87e1e2f459d0c4a06021cad2ed085c16",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134006.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134006/Syndra.wad.client",
+          "size": 95066,
+          "sha256": "32d64362c2ec41283e3a13c90e7f79485797a32fa3b37b6b138442a158cb9a73"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 8782,
+          "bytes_after": 95066,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          },
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          },
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134035,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 热情之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "155e9d3d298262b5da355bcb542646eba91de219326a25bc5cab3b64f0ae5212",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134035/134035.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134035/Syndra.wad.client",
+          "size": 89087,
+          "sha256": "70be729fd53f77094d091ec8a2652dc0fc1adffda6bac4fc0f15e98bd2ad570f"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2803,
+          "bytes_after": 89087,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134036,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 爱之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "57630b38194dcf198f68f928a1e23abfdb7483b5a62c8394655778b213d53fa7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134036/134036.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134036/Syndra.wad.client",
+          "size": 89031,
+          "sha256": "3cf1a3fad7decff7008e494dd0f4799ec5f4d286c626fa21280b31fa700f2234"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2747,
+          "bytes_after": 89031,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134037,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 勇气之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fc2620c2fe95330c913b6b9ec2195e1d44bb97f116ad7fc28ffeac16156b5352",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134037/134037.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134037/Syndra.wad.client",
+          "size": 89030,
+          "sha256": "1c751ada2a5f20d9f1855270ac2c395fea411c88f1c9993fb97988a4da30a6e5"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2746,
+          "bytes_after": 89030,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134038,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 智慧之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d5ab49244923267089d781e3d5f0cd7888adf6a76f3149a3138f471339042458",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134038/134038.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134038/Syndra.wad.client",
+          "size": 89032,
+          "sha256": "352274b034cbe327aeed998d42b51fcd3c77c3e293089666e33c93692552b9fc"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2748,
+          "bytes_after": 89032,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134039,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 重生之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3369e045f66b904609832f138168e10f9958dab7c4c9a49c6f719a068cae3a29",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134039/134039.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134039/Syndra.wad.client",
+          "size": 89032,
+          "sha256": "bac1c0bf80a7fb5763e1f4ee5137eecb70e715778c920e3175727a705f8de859"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2748,
+          "bytes_after": 89032,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134040,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 未来之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "583b0e22242a1b2e1885946546713b0c221540b17fcdf880e57e854d2c0d2526",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134040/134040.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134040/Syndra.wad.client",
+          "size": 89054,
+          "sha256": "639a8fe38a216eec10138dcfdfd9876723d25f215885219963a4a4869a4431a0"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2770,
+          "bytes_after": 89054,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134041,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 正义之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "11f9d298c867fc25a2cd4e74a931fa7dfec586ee09510a44c9e88a6141cbbdb3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134041/134041.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134041/Syndra.wad.client",
+          "size": 89029,
+          "sha256": "4f49a211df889f13fd2ac3f0a17194109cd6d25f6036457a6047872275c0e71b"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2745,
+          "bytes_after": 89029,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134042,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 守护之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "185ee4287d8377b3ecff52938abb41e084bb1a1debc3f668e3db6a7123f5c4b1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134042/134042.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134042/Syndra.wad.client",
+          "size": 89031,
+          "sha256": "4f4d9c3c8d20c4f7cc10ec16c278a69dccf1ed35b79907415f70ae9813c5b4f3"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2747,
+          "bytes_after": 89031,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 134043,
+      "base_skin_id": 134006,
+      "champion_id": 134,
+      "name": "星之守护者 辛德拉 希望之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9048bd5269ff43f245bd7b429480e7e68ed283e79506be10a20ea0c5efabc2d8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "134/134006/134043/134043.fantome",
+      "files": [
+        {
+          "path": "skins/134/134006/134043/Syndra.wad.client",
+          "size": 89091,
+          "sha256": "4cea2f85b447d1e8573b0b67f6bb0e8ebf5f8dbfe41628515b24307635938df4"
+        }
+      ],
+      "wads": {
+        "Syndra.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2807,
+          "bytes_after": 89091,
+          "replacement_hashes": [
+            "0bab29c23a2d8904"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Syndra.wad.client",
+            "normal_hash": "0bab29c23a2d8904",
+            "border_hash": "2aa2a4a9670fafd6",
+            "bytes": 86252,
+            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

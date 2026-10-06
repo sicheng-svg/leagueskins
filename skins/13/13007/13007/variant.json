@@ -1,0 +1,48 @@
+{
+  "skin_id": 13007,
+  "base_skin_id": 13007,
+  "champion_id": 13,
+  "name": "恶魔男爵 瑞兹",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "671d2daac0c11bdab6169c3cb353e28c02ac7f800d4d61ac3b1e11a1fa71a1dd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "13/13007/13007.fantome",
+  "files": [
+    {
+      "path": "skins/13/13007/13007/Ryze.wad.client",
+      "size": 3665,
+      "sha256": "760a50d79135a2eb18623998094d3a50a4a81da04021b4312430b3b983b8e8cb"
+    }
+  ],
+  "wads": {
+    "Ryze.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3665,
+      "bytes_after": 3665,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

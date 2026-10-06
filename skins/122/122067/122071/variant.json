@@ -1,0 +1,58 @@
+{
+  "skin_id": 122071,
+  "base_skin_id": 122067,
+  "champion_id": 122,
+  "name": "机神 德莱厄斯 剧毒",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "947b5d37a1198e432640ff8c9417e20561c22d1ce104d54efbc7fe3736f5a85f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122067/122071/122071.fantome",
+  "files": [
+    {
+      "path": "skins/122/122067/122071/Darius.wad.client",
+      "size": 91494,
+      "sha256": "ffa089f1e71f47e1925909c36b7b53e93764951320e71305b9157d5c899c69ea"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5210,
+      "bytes_after": 91494,
+      "replacement_hashes": [
+        "6acbf5d102bdf86a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Darius.wad.client",
+        "normal_hash": "6acbf5d102bdf86a",
+        "border_hash": "bf113887583ad787",
+        "bytes": 86252,
+        "sha256": "53aed1577caf27d8b33164ca5e142f7634cc91000a536da2a4fe609a1b88298f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

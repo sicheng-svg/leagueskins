@@ -1,0 +1,65 @@
+{
+  "champion_id": 126,
+  "base_skin_id": 126036,
+  "name": "至臻 T1 杰斯",
+  "variants": [
+    {
+      "skin_id": 126036,
+      "base_skin_id": 126036,
+      "champion_id": 126,
+      "name": "至臻 T1 杰斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dfd742a6e6c377b2d548748383f8262f86406ec4c893771e7d73e0981ecdb68f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "126/126036/126036.fantome",
+      "files": [
+        {
+          "path": "skins/126/126036/126036/Jayce.wad.client",
+          "size": 93752,
+          "sha256": "ab838a512c0d0ad91c6765d4ec07d1c7eabd133ba4853036a15502d7a8f0678a"
+        }
+      ],
+      "wads": {
+        "Jayce.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7468,
+          "bytes_after": 93752,
+          "replacement_hashes": [
+            "ab097b60dc634c5e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jayce.wad.client",
+            "normal_hash": "ab097b60dc634c5e",
+            "border_hash": "045aaacdbfea27c6",
+            "bytes": 86252,
+            "sha256": "a30ea2fbbfe9c17fa599fa3a120c74af151b38ac3e5fc3f2598bd690e8e5a578"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

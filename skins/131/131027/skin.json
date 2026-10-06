@@ -1,0 +1,587 @@
+{
+  "champion_id": 131,
+  "base_skin_id": 131027,
+  "name": "光明哨兵 黛安娜",
+  "variants": [
+    {
+      "skin_id": 131027,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "df7e003a060ffdc2b4ae65fe3fc6c91d4522200f3701e86f78a6159b78a728a2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131027.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131027/Diana.wad.client",
+          "size": 90638,
+          "sha256": "2fcb350bc196465aea4b4c6acc0ba4c65757a1b73eeda8cc35038b025d212771"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4354,
+          "bytes_after": 90638,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131028,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 帝国抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e212352efaff71752469da631c57b57588e81520580bd7ee6a681f858021f93a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131028/131028.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131028/Diana.wad.client",
+          "size": 88588,
+          "sha256": "f18f414d08da1ba919add3f22f516fca7dfb070be254aa6fc9b8772efe9cf6f0"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2304,
+          "bytes_after": 88588,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131029,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 山峰抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "81969e6347152ccdb078ce8b1b93da52915e83f9339af437d60b76471d58017d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131029/131029.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131029/Diana.wad.client",
+          "size": 88533,
+          "sha256": "1387d114817a5996c1643fc397206dc397dc60fbbc85973b1e99588533fdc832"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2249,
+          "bytes_after": 88533,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131030,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 森林抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "36aa78c6227d8d8f90b48b663557aa53c894bf7b472685fa97c944371df4f20c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131030/131030.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131030/Diana.wad.client",
+          "size": 88539,
+          "sha256": "c7d3c2af8853a5bf048e7da35a906fd11ca359665b35da948b081570928d760d"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2255,
+          "bytes_after": 88539,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131031,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 虚无抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f2605c6d0ce624f015f0539ee98345a787d20b275fe4cc60ba4c6c0153d5dd26",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131031/131031.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131031/Diana.wad.client",
+          "size": 88537,
+          "sha256": "cdeb7627e8f89c0ed485c53dfdb8a4e5b41b3904c3377f7443db0350fb9954e5"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2253,
+          "bytes_after": 88537,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131032,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 海港抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "17c4cdc106d776ed337f2c689e8c6b9730622d5ff69d56054f7a5e81ebad497e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131032/131032.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131032/Diana.wad.client",
+          "size": 88537,
+          "sha256": "fa0581ec031f8943e6f9da109924057fa01fa325226fe2fc0a6757582ec0b787"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2253,
+          "bytes_after": 88537,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131033,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 极地抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1698b56e65077e041e9ef8e885337966f8127a55e4357ad7f9545d2127fa34c9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131033/131033.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131033/Diana.wad.client",
+          "size": 88538,
+          "sha256": "d9e62affbe53578b3b2dcab5f52036b6b988243a5f23e48b9b67ad24558ef0dd"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131034,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 丛林抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "981172f8deea8a37aa75fb33be4de89acbe4bb6708cdc6df80794f3f7f9b3072",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131034/131034.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131034/Diana.wad.client",
+          "size": 88537,
+          "sha256": "ace5f464d67192ed9073f88744ec7eb4e0eae4f1ba0928487007149932496719"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2253,
+          "bytes_after": 88537,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131035,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 灵岛抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3743195cd907faf71907786e15689ecd75be3d9f57027aea9377af549cf69d80",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131035/131035.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131035/Diana.wad.client",
+          "size": 88561,
+          "sha256": "6404577c3b68246b2797c04c567edef9422f3acdcbadc3224b4db782a2708032"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2277,
+          "bytes_after": 88561,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 131036,
+      "base_skin_id": 131027,
+      "champion_id": 131,
+      "name": "光明哨兵 黛安娜 坚定抗击者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5f1d7a5e1793c8bd0f1683269e15d6a75e3b7d87f0e7f89baa52118e7b402238",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "131/131027/131036/131036.fantome",
+      "files": [
+        {
+          "path": "skins/131/131027/131036/Diana.wad.client",
+          "size": 88589,
+          "sha256": "433672b1789e4b3f950aa827095e4c2397d0d0cd707afbd023d175b8f56a4ddb"
+        }
+      ],
+      "wads": {
+        "Diana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2305,
+          "bytes_after": 88589,
+          "replacement_hashes": [
+            "2298500033f59e82"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Diana.wad.client",
+            "normal_hash": "2298500033f59e82",
+            "border_hash": "df94b877431caac1",
+            "bytes": 86252,
+            "sha256": "4b61b6142e7b061b7f6c9d7923e31a9973d92e416414ee3292dabb1bcbb0b0de"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 13,
+  "base_skin_id": 13009,
+  "name": "瑞兹·白须",
+  "variants": [
+    {
+      "skin_id": 13009,
+      "base_skin_id": 13009,
+      "champion_id": 13,
+      "name": "瑞兹·白须",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "98d170b1714a9c455d597038a9094972620cb66d8d9cba7cc475d1b99c955b2c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "13/13009/13009.fantome",
+      "files": [
+        {
+          "path": "skins/13/13009/13009/Ryze.wad.client",
+          "size": 3441,
+          "sha256": "264899d994c4a3a8ea72e37689b343dcd70f8061c95553aab460bc78471a67cc"
+        }
+      ],
+      "wads": {
+        "Ryze.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3441,
+          "bytes_after": 3441,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "skin_id": 122064,
+  "base_skin_id": 122064,
+  "champion_id": 122,
+  "name": "圣洁神王 德莱厄斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "19dbb4507fc1b994ad0a17018d228d8d88fb32e9462110a353d65ce2aeb0f8bf",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+  },
+  "source_package": "122/122064/122064.fantome",
+  "files": [
+    {
+      "path": "skins/122/122064/122064/Darius.wad.client",
+      "size": 93853,
+      "sha256": "9e647daf244fbb1f7de0d0046b99b81502b3791e3d2a54a4cb3b6d73a4cc0381"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7569,
+      "bytes_after": 93853,
+      "replacement_hashes": [
+        "0338d210a5888938"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Darius.wad.client",
+        "normal_hash": "0338d210a5888938",
+        "border_hash": "81622130e66185e8",
+        "bytes": 86252,
+        "sha256": "ece04a393da805a03c80b5a1f3a04335750ceaa8fd429548cff5ce2eb2a58a06",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 127038,
+  "base_skin_id": 127034,
+  "champion_id": 127,
+  "name": "“噪音女王” 丽桑卓 草丛中的留声机",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a09bda3a6e49223849223b94ef66c982cfc549d1d0f4594715d6b737eb624263",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "127/127034/127038/127038.fantome",
+  "files": [
+    {
+      "path": "skins/127/127034/127038/Lissandra.wad.client",
+      "size": 2824,
+      "sha256": "ae8d7ff333529af7c932636663c42d13671da12e3fe6db8dc4a501897f4a0cf8"
+    }
+  ],
+  "wads": {
+    "Lissandra.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2824,
+      "bytes_after": 2824,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

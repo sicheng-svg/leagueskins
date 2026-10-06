@@ -1,0 +1,55 @@
+{
+  "champion_id": 133,
+  "base_skin_id": 133001,
+  "name": "血羽凤凰 奎因",
+  "variants": [
+    {
+      "skin_id": 133001,
+      "base_skin_id": 133001,
+      "champion_id": 133,
+      "name": "血羽凤凰 奎因",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "889280a12d24151cd097d6a1c35e73aeb6bfd910483d1d75be86311df679ab69",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "133/133001/133001.fantome",
+      "files": [
+        {
+          "path": "skins/133/133001/133001/Quinn.wad.client",
+          "size": 5781,
+          "sha256": "b0539668f193bab5071b0c9fae7558671706a78f530c8e4c357c186e65469194"
+        }
+      ],
+      "wads": {
+        "Quinn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5781,
+          "bytes_after": 5781,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

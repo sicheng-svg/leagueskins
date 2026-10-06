@@ -1,0 +1,65 @@
+{
+  "champion_id": 126,
+  "base_skin_id": 126035,
+  "name": "双城之战2 幸存者 杰斯",
+  "variants": [
+    {
+      "skin_id": 126035,
+      "base_skin_id": 126035,
+      "champion_id": 126,
+      "name": "双城之战2 幸存者 杰斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "079895f03f2e92ace228fd91bf4b3574116bd2e502c31aff550409fa66708215",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "126/126035/126035.fantome",
+      "files": [
+        {
+          "path": "skins/126/126035/126035/Jayce.wad.client",
+          "size": 96893,
+          "sha256": "52242e843fc31ee4f5c78d1efb0dfe1116c567f851cf6f88623c8bf101153249"
+        }
+      ],
+      "wads": {
+        "Jayce.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10609,
+          "bytes_after": 96893,
+          "replacement_hashes": [
+            "db9f5d2909d18468"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jayce.wad.client",
+            "normal_hash": "db9f5d2909d18468",
+            "border_hash": "0643ef00e2965bd3",
+            "bytes": 86252,
+            "sha256": "aad668ab2138bc8409de5636187786811e48d4e50c6a0b2044327f4d9e9554e5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 131026,
+  "base_skin_id": 131026,
+  "champion_id": 131,
+  "name": "至臻 女帝 黛安娜",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0a16e3f9f7caf728f427800651645b193959fd3012a191900f94cced9497bf27",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "131/131026/131026.fantome",
+  "files": [
+    {
+      "path": "skins/131/131026/131026/Diana.wad.client",
+      "size": 90683,
+      "sha256": "b649af4c458c19b9c122e6eb32d98568ac927b6cf784d7c4b6c968085c798e45"
+    }
+  ],
+  "wads": {
+    "Diana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4399,
+      "bytes_after": 90683,
+      "replacement_hashes": [
+        "294d58e48a93003b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Diana.wad.client",
+        "normal_hash": "294d58e48a93003b",
+        "border_hash": "46ee0f31aef03ed7",
+        "bytes": 86252,
+        "sha256": "fe79f5f7f8b5fbb3dfef4d1ab68eba5725267fe888e3a10ca5ff98586cc6cf83"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

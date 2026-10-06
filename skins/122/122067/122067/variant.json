@@ -1,0 +1,58 @@
+{
+  "skin_id": 122067,
+  "base_skin_id": 122067,
+  "champion_id": 122,
+  "name": "机神 德莱厄斯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0d8c82233296a9bf1c2214fce9130ccdf9ee7acf2e9122d84b959883d7b1ac82",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "122/122067/122067.fantome",
+  "files": [
+    {
+      "path": "skins/122/122067/122067/Darius.wad.client",
+      "size": 97480,
+      "sha256": "3f479654b8c3a38b3c4155b205b97d3bd5f57f81b7de8f2ec5a25bfadb05c0e0"
+    }
+  ],
+  "wads": {
+    "Darius.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 11196,
+      "bytes_after": 97480,
+      "replacement_hashes": [
+        "6acbf5d102bdf86a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Darius.wad.client",
+        "normal_hash": "6acbf5d102bdf86a",
+        "border_hash": "bf113887583ad787",
+        "bytes": 86252,
+        "sha256": "53aed1577caf27d8b33164ca5e142f7634cc91000a536da2a4fe609a1b88298f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

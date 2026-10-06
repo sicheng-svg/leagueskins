@@ -1,0 +1,58 @@
+{
+  "skin_id": 131063,
+  "base_skin_id": 131054,
+  "champion_id": 131,
+  "name": "天龙之子 黛安娜 赫赫龙威",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2c697e0d42ce5abca5a0e67539c565ed282a6ccab9367cbe52ba52125eee98fd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "131/131054/131063/131063.fantome",
+  "files": [
+    {
+      "path": "skins/131/131054/131063/Diana.wad.client",
+      "size": 88747,
+      "sha256": "b07abc0a9053a08fe57a8819285ec3db3cd50b6f87fb5c0e09e3383a082431c9"
+    }
+  ],
+  "wads": {
+    "Diana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2463,
+      "bytes_after": 88747,
+      "replacement_hashes": [
+        "bee34ab3e200e50e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Diana.wad.client",
+        "normal_hash": "bee34ab3e200e50e",
+        "border_hash": "63c2be1ed4cb9e0a",
+        "bytes": 86252,
+        "sha256": "afd6cf4ebe0c0c6fbe04e927f7fd54f3dafdc8c9c8173ef84247b8e4e3d09455"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

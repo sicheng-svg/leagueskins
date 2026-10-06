@@ -1,0 +1,48 @@
+{
+  "skin_id": 254038,
+  "base_skin_id": 254030,
+  "champion_id": 254,
+  "name": "意乱情迷 蔚 等爱描绘的空白",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "573cd1d28f2d830c089280b0629a9aa192ed3444425463feac2e8c0a5b35ee0a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "254/254030/254038/254038.fantome",
+  "files": [
+    {
+      "path": "skins/254/254030/254038/Vi.wad.client",
+      "size": 2517,
+      "sha256": "406203d90f43d0ca05daaf9b575db224be3d6582bfe8b8d7d6c2c5f384cb223b"
+    }
+  ],
+  "wads": {
+    "Vi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2517,
+      "bytes_after": 2517,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

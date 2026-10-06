@@ -1,0 +1,58 @@
+{
+  "skin_id": 25082,
+  "base_skin_id": 25081,
+  "champion_id": 25,
+  "name": "至臻 蒙面女郎 莫甘娜 全开",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f5ae7bcfbfafd30ed9f6b63d4cd2c3ea8eca5942b3c9829d2b3456f0f34ecfab",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "25/25081/25082/25082.fantome",
+  "files": [
+    {
+      "path": "skins/25/25081/25082/Morgana.wad.client",
+      "size": 89265,
+      "sha256": "ecda32d62fc2aa122475bb4ccf8538a9a3e3e4402ebaf1d4020516c9179c3e89"
+    }
+  ],
+  "wads": {
+    "Morgana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2981,
+      "bytes_after": 89265,
+      "replacement_hashes": [
+        "d9c7ece35d050d15"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Morgana.wad.client",
+        "normal_hash": "d9c7ece35d050d15",
+        "border_hash": "7429ba777425c2a3",
+        "bytes": 86252,
+        "sha256": "7b2678adc0e04d6bfb4c1790254b182ce0cf0a5cae35717d0541620dd3c70c02"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

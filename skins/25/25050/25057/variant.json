@@ -1,0 +1,58 @@
+{
+  "skin_id": 25057,
+  "base_skin_id": 25050,
+  "champion_id": 25,
+  "name": "星之吞噬者 莫甘娜 勇气之末",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ac78b0609e560b3a9a8a8f4b83e0a7013a304fb949474b09145bd7ab91297c20",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "25/25050/25057/25057.fantome",
+  "files": [
+    {
+      "path": "skins/25/25050/25057/Morgana.wad.client",
+      "size": 89426,
+      "sha256": "bc5b4de85d85f897a88b7330b57c81c872212af25fd729e08c29cf7058433fe7"
+    }
+  ],
+  "wads": {
+    "Morgana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3142,
+      "bytes_after": 89426,
+      "replacement_hashes": [
+        "41a629ba6ae03504"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Morgana.wad.client",
+        "normal_hash": "41a629ba6ae03504",
+        "border_hash": "03b7f90f62e5e949",
+        "bytes": 86252,
+        "sha256": "3e01ba1aa8d21fea7b8bb5239f6d06a87a4b1c95d3a412454a367daa902929ed"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

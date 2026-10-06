@@ -1,0 +1,48 @@
+{
+  "skin_id": 25064,
+  "base_skin_id": 25060,
+  "champion_id": 25,
+  "name": "净雪之月 莫甘娜 翠微",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4269cec951b3f3ad8246724d87d95003414c344f9b84bfbc88acf81ca349c6b2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "25/25060/25064/25064.fantome",
+  "files": [
+    {
+      "path": "skins/25/25060/25064/Morgana.wad.client",
+      "size": 2698,
+      "sha256": "2fd1f4bcd56e707781d5c2140f1653fe1a70e224d3ae23162fd57635670de0fd"
+    }
+  ],
+  "wads": {
+    "Morgana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2698,
+      "bytes_after": 2698,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

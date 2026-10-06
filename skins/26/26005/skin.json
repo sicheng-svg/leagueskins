@@ -1,0 +1,55 @@
+{
+  "champion_id": 26,
+  "base_skin_id": 26005,
+  "name": "腥红之月 基兰",
+  "variants": [
+    {
+      "skin_id": 26005,
+      "base_skin_id": 26005,
+      "champion_id": 26,
+      "name": "腥红之月 基兰",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f4c439cd9252f25eaa68bc89e080dc0eadae0eb1dad2acf521c08e449f333351",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26005/26005.fantome",
+      "files": [
+        {
+          "path": "skins/26/26005/26005/Zilean.wad.client",
+          "size": 4856,
+          "sha256": "9b10923901588f8ee95b5d5e9ad1e760eae19d8cb24bf07b69191858397348a9"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4856,
+          "bytes_after": 4856,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

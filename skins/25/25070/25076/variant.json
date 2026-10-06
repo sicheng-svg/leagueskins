@@ -1,0 +1,58 @@
+{
+  "skin_id": 25076,
+  "base_skin_id": 25070,
+  "champion_id": 25,
+  "name": "青花瓷 莫甘娜 墨色",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9cfff6a86693761a269873a5ebd32253e879d2e8f184f5b738c2638c56f4e427",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "25/25070/25076/25076.fantome",
+  "files": [
+    {
+      "path": "skins/25/25070/25076/Morgana.wad.client",
+      "size": 88972,
+      "sha256": "c578d9fdffc0d742ed1f96ff0d8ead6c103232d4d9d165b799d43854e90881e1"
+    }
+  ],
+  "wads": {
+    "Morgana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2688,
+      "bytes_after": 88972,
+      "replacement_hashes": [
+        "06f723212968d161"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Morgana.wad.client",
+        "normal_hash": "06f723212968d161",
+        "border_hash": "7c743248421f9c17",
+        "bytes": 86252,
+        "sha256": "2580efffd3a0f30371f1e82ca0a45237c54890e590c10c64ac983c22a4070ead"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

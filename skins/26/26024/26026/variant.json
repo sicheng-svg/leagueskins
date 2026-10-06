@@ -1,0 +1,48 @@
+{
+  "skin_id": 26026,
+  "base_skin_id": 26024,
+  "champion_id": 26,
+  "name": "节制之塔 基兰 财富",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b5cd900a92a40ce5ec981e12f0183f620d16c6df61c4abb91f54b8bb0bb46dd0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "26/26024/26026/26026.fantome",
+  "files": [
+    {
+      "path": "skins/26/26024/26026/Zilean.wad.client",
+      "size": 2516,
+      "sha256": "0eb1a3a00da92176ef9ca7b75b4c7c1de95c1e1437afe1fd2dcbb7894b5cb980"
+    }
+  ],
+  "wads": {
+    "Zilean.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2516,
+      "bytes_after": 2516,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

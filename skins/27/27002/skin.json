@@ -1,0 +1,55 @@
+{
+  "champion_id": 27,
+  "base_skin_id": 27002,
+  "name": "机械污染 辛吉德",
+  "variants": [
+    {
+      "skin_id": 27002,
+      "base_skin_id": 27002,
+      "champion_id": 27,
+      "name": "机械污染 辛吉德",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d90fbfae08373d394ceda7d12074f7667232ca8765ced14ea341a93bfde0167d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "27/27002/27002.fantome",
+      "files": [
+        {
+          "path": "skins/27/27002/27002/Singed.wad.client",
+          "size": 2196,
+          "sha256": "bd9d9b12ca28c0bc2c0d5eb36329e18eff1358d5b6aa1e4aeaabe5b648b0c4da"
+        }
+      ],
+      "wads": {
+        "Singed.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2196,
+          "bytes_after": 2196,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 25999,
+  "base_skin_id": 25080,
+  "champion_id": 25,
+  "name": "25999",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "aae66f0cb6e34ad930110033f924ac64d789a3324ee12643d2516db0a43d43e3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+  },
+  "source_package": "25/25080/25999/25999.fantome",
+  "files": [
+    {
+      "path": "skins/25/25080/25999/Morgana.wad.client",
+      "size": 166620,
+      "sha256": "983930b9f910fd4bad3883e056d9cea2c7576a8af625d38e34ebb2691529de5e"
+    }
+  ],
+  "wads": {
+    "Morgana.wad.client": {
+      "entries_before": 6,
+      "entries_after": 6,
+      "was_sorted": false,
+      "version": "3.3",
+      "bytes_before": 166620,
+      "bytes_after": 166620,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 295,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

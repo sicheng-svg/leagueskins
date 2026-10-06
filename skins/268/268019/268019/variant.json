@@ -1,0 +1,48 @@
+{
+  "skin_id": 268019,
+  "base_skin_id": 268019,
+  "champion_id": 268,
+  "name": "精英律师 阿兹尔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0eefb4ffc4e1692b267f88bdde92604e9a65575d924132ac367a803c0be8d5bc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "268/268019/268019.fantome",
+  "files": [
+    {
+      "path": "skins/268/268019/268019/Azir.wad.client",
+      "size": 11194,
+      "sha256": "83565bbbb0e8682bddda21b71a3b0cd5b5b44d414779950a7b20479194d955bb"
+    }
+  ],
+  "wads": {
+    "Azir.wad.client": {
+      "entries_before": 5,
+      "entries_after": 5,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 11194,
+      "bytes_after": 11194,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 267062,
+  "base_skin_id": 267058,
+  "champion_id": 267,
+  "name": "剪纸仙灵 娜美 喜气洋洋",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "95ee4a728c2ecf1054ca5057e10ac1a1d5362a5d0ba065d0697f735171558a0d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "267/267058/267062/267062.fantome",
+  "files": [
+    {
+      "path": "skins/267/267058/267062/Nami.wad.client",
+      "size": 3115,
+      "sha256": "7a5cde8967f1afdfea2c7f1d80516c8ff6338c895ac6e31fe5b5c33bf27d09a8"
+    }
+  ],
+  "wads": {
+    "Nami.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3115,
+      "bytes_after": 3115,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

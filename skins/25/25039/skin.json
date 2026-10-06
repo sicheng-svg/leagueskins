@@ -1,0 +1,529 @@
+{
+  "champion_id": 25,
+  "base_skin_id": 25039,
+  "name": "黎明使者 莫甘娜",
+  "variants": [
+    {
+      "skin_id": 25039,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0b68a4dda4525e1d68a865dc57b81c1aaccded99a552625882ce71db21d79fbb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25039.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25039/Morgana.wad.client",
+          "size": 92881,
+          "sha256": "9a3d3f95e54e17b498b0a4bac4012d6cb2e99e458917121729938d286fc11710"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6597,
+          "bytes_after": 92881,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25042,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 阳辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c3133b3c1fe7f42ddfdf3cb5723bdbc1d29eed6ef3058586e8b6f288462f21c3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25042/25042.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25042/Morgana.wad.client",
+          "size": 88988,
+          "sha256": "1e4cac17e8005ca46cdf6a2fcacd4e3b71f1d95cad6c2c086316ecc1d978a3ef"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2704,
+          "bytes_after": 88988,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25043,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 炎辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a8a5a834cc83e9214daeafeb93e159dd3b9bbd7554ab0184515f6259bd0a2299",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25043/25043.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25043/Morgana.wad.client",
+          "size": 88935,
+          "sha256": "2f3095d20c4c693f34edd4178c207c064887bdea6db6c88ee7d2b78212b5a6e4"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2651,
+          "bytes_after": 88935,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25044,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 宁辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cc2d83d4568b2b98b3d1b67321d84fc0af91d0946e06a2b114cd80505f2e0b96",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25044/25044.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25044/Morgana.wad.client",
+          "size": 88935,
+          "sha256": "6dc0e91a87ccc0afd02c2c4bc4b0685baa0cff013472484a96042658e19dda0d"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2651,
+          "bytes_after": 88935,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25045,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 祥辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "807af65684a0de738db9a4b84eaf91df87173c3e0017fc0dd63b4e44f44cb75b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25045/25045.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25045/Morgana.wad.client",
+          "size": 88934,
+          "sha256": "88b65aed6980009bf61140f44bd6a58c796f0c404662368e08f1e84406c0ad4c"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2650,
+          "bytes_after": 88934,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25046,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 苍辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2b0c8cd23c23639ee9222c614ea51c078dd7900b2cbf320f19bb5975f12eb54f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25046/25046.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25046/Morgana.wad.client",
+          "size": 88934,
+          "sha256": "3d5cf0ef0af8d8662464a14c3898e7355af2373465f5a53dd2cdc6ebc0c0da60"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2650,
+          "bytes_after": 88934,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25047,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 霞辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bd7b5bb8d54aa56c356588d5a1366a756b2c48f30f3b9dc6bc598cb13eab9787",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25047/25047.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25047/Morgana.wad.client",
+          "size": 88959,
+          "sha256": "61e8c0b7744c6134c337843b5b18672d2adf7d81b01daa7866eab9941cb02eb2"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2675,
+          "bytes_after": 88959,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25048,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 雪辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4b789ea8e3ede7211f9a11fb46bac84f88b5dda85c2cd29607e44f7221af189c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25048/25048.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25048/Morgana.wad.client",
+          "size": 88936,
+          "sha256": "7abed97742c32a693bf702e97c1a3158a2a88c1775ee0e885d1bc5ddebfda837"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2652,
+          "bytes_after": 88936,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 25049,
+      "base_skin_id": 25039,
+      "champion_id": 25,
+      "name": "黎明使者 莫甘娜 生辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d292301aa3475c046d3e07e86be809494d4e0ae3348395e6a8a894fc70bb339a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "25/25039/25049/25049.fantome",
+      "files": [
+        {
+          "path": "skins/25/25039/25049/Morgana.wad.client",
+          "size": 88992,
+          "sha256": "ac3cdb513d5dca87caaf85d290e3ccf3e6e1b5a6bc3cdd467e21ab4b77fde42f"
+        }
+      ],
+      "wads": {
+        "Morgana.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2708,
+          "bytes_after": 88992,
+          "replacement_hashes": [
+            "e2f46d642340e517"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Morgana.wad.client",
+            "normal_hash": "e2f46d642340e517",
+            "border_hash": "1b6c0da89fc907ff",
+            "bytes": 86252,
+            "sha256": "ee60224c4c6f38e5e0f4844a84ea248047b74d71a5a5faae5ff507efd7fea04e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

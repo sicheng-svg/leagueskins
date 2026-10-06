@@ -1,0 +1,58 @@
+{
+  "skin_id": 254046,
+  "base_skin_id": 254039,
+  "champion_id": 254,
+  "name": "伏虎之力 蔚 独行傲影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8a354a97374030cff0a60294c307625a7a11449d703ec533effb35ac1fd36b57",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "254/254039/254046/254046.fantome",
+  "files": [
+    {
+      "path": "skins/254/254039/254046/Vi.wad.client",
+      "size": 88947,
+      "sha256": "177c3c32dd5b01a6f817fbec6ebe9f46275f4e67400a901a61cb54659cea711c"
+    }
+  ],
+  "wads": {
+    "Vi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2663,
+      "bytes_after": 88947,
+      "replacement_hashes": [
+        "a72d816187f8f1b8"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Vi.wad.client",
+        "normal_hash": "a72d816187f8f1b8",
+        "border_hash": "db14e60016a215aa",
+        "bytes": 86252,
+        "sha256": "2a8a0c9e3846f60ce603190109357f722576d066f795ca09f1749195375d630a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

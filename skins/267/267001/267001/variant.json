@@ -1,0 +1,48 @@
+{
+  "skin_id": 267001,
+  "base_skin_id": 267001,
+  "champion_id": 267,
+  "name": "锦鲤 娜美",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "168913c673124b5ff445672c46f7524c6f5d96c25bed9a77cab98d383e124f60",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "267/267001/267001.fantome",
+  "files": [
+    {
+      "path": "skins/267/267001/267001/Nami.wad.client",
+      "size": 5496,
+      "sha256": "9dc6fcde314dc4d98089db11daac7a90108f76ac8410d37ec52ef7f60dacfcd3"
+    }
+  ],
+  "wads": {
+    "Nami.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5496,
+      "bytes_after": 5496,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

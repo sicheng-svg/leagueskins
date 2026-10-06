@@ -1,0 +1,58 @@
+{
+  "skin_id": 28028,
+  "base_skin_id": 28024,
+  "champion_id": 28,
+  "name": "魔女 伊芙琳 饕餮",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4fc04847f37bff5f852899588630bf6aa88e99ca7354309fbcfd3685e9eef409",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "28/28024/28028/28028.fantome",
+  "files": [
+    {
+      "path": "skins/28/28024/28028/Evelynn.wad.client",
+      "size": 89798,
+      "sha256": "8ce7a44a65de1d2468dc9e9c144cec25218b0bb5a9184410cb1838eba7483c0c"
+    }
+  ],
+  "wads": {
+    "Evelynn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3514,
+      "bytes_after": 89798,
+      "replacement_hashes": [
+        "31eb9f47c76be367"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Evelynn.wad.client",
+        "normal_hash": "31eb9f47c76be367",
+        "border_hash": "d8f82ac5b368a4ab",
+        "bytes": 86252,
+        "sha256": "259cb768f6931c5d40a5866341fd672c0ab91267bfcfd9b8a52041b63053135b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 26,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

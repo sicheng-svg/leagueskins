@@ -1,0 +1,48 @@
+{
+  "skin_id": 266029,
+  "base_skin_id": 266021,
+  "champion_id": 266,
+  "name": "月蚀骑士 亚托克斯 守信",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7dd4e4ea7b3bb5b1c5053790f943f417721fa74db323a71325bffa439f6c030b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "266/266021/266029/266029.fantome",
+  "files": [
+    {
+      "path": "skins/266/266021/266029/Aatrox.wad.client",
+      "size": 3174,
+      "sha256": "77bab94de5973de882876cb7964c3279211b170f30028f8b6859ca21e3a2bc61"
+    }
+  ],
+  "wads": {
+    "Aatrox.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3174,
+      "bytes_after": 3174,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

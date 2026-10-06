@@ -1,0 +1,55 @@
+{
+  "champion_id": 266,
+  "base_skin_id": 266008,
+  "name": "至臻 腥红之月 亚托克斯",
+  "variants": [
+    {
+      "skin_id": 266008,
+      "base_skin_id": 266008,
+      "champion_id": 266,
+      "name": "至臻 腥红之月 亚托克斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4dfd5355baac0e217d8cead0c11c21ad0182eee9f0ca19705fd890b83a127199",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "266/266008/266008.fantome",
+      "files": [
+        {
+          "path": "skins/266/266008/266008/Aatrox.wad.client",
+          "size": 10093,
+          "sha256": "314699aca4ee9ee134d8cfe0739a5ae5e1cc530641f651f24dbdd3b1bf202d82"
+        }
+      ],
+      "wads": {
+        "Aatrox.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10093,
+          "bytes_after": 10093,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

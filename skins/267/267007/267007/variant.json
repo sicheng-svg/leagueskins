@@ -1,0 +1,48 @@
+{
+  "skin_id": 267007,
+  "base_skin_id": 267007,
+  "champion_id": 267,
+  "name": "海皇姬 娜美",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fdba414f19d804a8f2313e42143599d76034314d4dd10d32f1d17acc7220a5fd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "267/267007/267007.fantome",
+  "files": [
+    {
+      "path": "skins/267/267007/267007/Nami.wad.client",
+      "size": 5511,
+      "sha256": "d021fc566a27924f15aae3cf6b61cae8c852cff4aa36f203f5ff1f454c80665d"
+    }
+  ],
+  "wads": {
+    "Nami.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5511,
+      "bytes_after": 5511,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

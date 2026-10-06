@@ -1,0 +1,48 @@
+{
+  "skin_id": 254013,
+  "base_skin_id": 254012,
+  "champion_id": 254,
+  "name": "碎心之拳 蔚 惊叹之拳",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "330d9f0fee66ee38717020b49d82a6cb891358ab14211a300bc8f1376f34e3d4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "254/254012/254013/254013.fantome",
+  "files": [
+    {
+      "path": "skins/254/254012/254013/Vi.wad.client",
+      "size": 2404,
+      "sha256": "beeca3cc064bf5310ecb15d6a7bd70ecffbbc4efe1963621c39c5de1fac68ac4"
+    }
+  ],
+  "wads": {
+    "Vi.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2404,
+      "bytes_after": 2404,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

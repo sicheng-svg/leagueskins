@@ -1,0 +1,471 @@
+{
+  "champion_id": 26,
+  "base_skin_id": 26006,
+  "name": "糖果大战 基兰",
+  "variants": [
+    {
+      "skin_id": 26006,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8b97d0ca1404b7db6377bea5c01be497330022f616c74dcd9d31b45ef3dd855b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26006.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26006/Zilean.wad.client",
+          "size": 90696,
+          "sha256": "b71502626154461f3ed2d78262da7278310c6025ca0a55328848ec486fbbc6fb"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4412,
+          "bytes_after": 90696,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 26007,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰 草莓流心曲奇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "abc1e53e22a6542acb27fe60516791d64635a1bb5c772448a4f1a23584da880e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26007/26007.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26007/Zilean.wad.client",
+          "size": 88606,
+          "sha256": "dd72f4e88fba648281f23e7ed4b6997edb425b95686793034ae4be2fa7d52a7f"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2322,
+          "bytes_after": 88606,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 26008,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰 樱桃流心曲奇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f6b9a533e755f7ab1185adb18d22362491a2a305d5234b4ede503144ab95a499",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26008/26008.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26008/Zilean.wad.client",
+          "size": 88576,
+          "sha256": "6ebb0aed2847a9028dc1eed64d78cb24031de42b806b65d5793f132a777b7378"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2292,
+          "bytes_after": 88576,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 26009,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰 奇异果流心曲奇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5b85b9f482a55d69d0229535142b70d3cc3e0681c122033206951d3dacb7607d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26009/26009.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26009/Zilean.wad.client",
+          "size": 88552,
+          "sha256": "82aec19409ea3ed9af592bd5374be019a7f634e1febc53c597406d017b7319a2"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2268,
+          "bytes_after": 88552,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 26010,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰 蓝莓流心曲奇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "769c4ced37c124864b6ed4be0c8b648ea6fce506c2a2c6f02d440b5c52fc9ea8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26010/26010.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26010/Zilean.wad.client",
+          "size": 88550,
+          "sha256": "71992b961489a3f53d48de1d84be5de2c2b8338c9c9c25b06205586faa071108"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2266,
+          "bytes_after": 88550,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 26011,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰 奶酪流心曲奇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d04221eced929cef7fc6dca5d2d79c8f0085de9bfd315cfbc30ab0be4d408ffe",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26011/26011.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26011/Zilean.wad.client",
+          "size": 88552,
+          "sha256": "556ea2219265cbf0035387cc719957a5ed19d5ad9c51025709d125973466aea6"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2268,
+          "bytes_after": 88552,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 26012,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰 榛子流心曲奇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1594be498260d88a726461d9cbbaa6ba8c7ae4b9037b8b35846d653aebf0d139",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26012/26012.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26012/Zilean.wad.client",
+          "size": 88551,
+          "sha256": "9e252ad07e336191ed9fd2b3063ad9f4a23e24a21e081bc4112707a88b7e078b"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2267,
+          "bytes_after": 88551,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 26013,
+      "base_skin_id": 26006,
+      "champion_id": 26,
+      "name": "糖果大战 基兰 嗜甜之齿",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "15e99a17a4b2015ddcff49a7c77b50ee2d402f586d39cf6e384e67ab910ac3c6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "26/26006/26013/26013.fantome",
+      "files": [
+        {
+          "path": "skins/26/26006/26013/Zilean.wad.client",
+          "size": 88606,
+          "sha256": "5cb7bf3d221ba45a48311d9ba357cc6a9f6278c41dc3abb54afc9a8902bd5e56"
+        }
+      ],
+      "wads": {
+        "Zilean.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2322,
+          "bytes_after": 88606,
+          "replacement_hashes": [
+            "438178497cbe6061"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Zilean.wad.client",
+            "normal_hash": "438178497cbe6061",
+            "border_hash": "30d294b6ab1b9e96",
+            "bytes": 86252,
+            "sha256": "60496f8e351ef4ff634a053b2f3111ba5cb38ed59111025d5c947ce16d859cf0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

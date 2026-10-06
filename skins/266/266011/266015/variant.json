@@ -1,0 +1,58 @@
+{
+  "skin_id": 266015,
+  "base_skin_id": 266011,
+  "champion_id": 266,
+  "name": "奥德赛 亚托克斯 星辉收割者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ae5c00d36fbf1793740ce5c8ed71090a24239abe36919db0c6f5363493be3971",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "266/266011/266015/266015.fantome",
+  "files": [
+    {
+      "path": "skins/266/266011/266015/Aatrox.wad.client",
+      "size": 89446,
+      "sha256": "b14a194d02e86828fcee91c6c16e5c369d2ccb6c15756ced2a304d2a4a576c2f"
+    }
+  ],
+  "wads": {
+    "Aatrox.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3162,
+      "bytes_after": 89446,
+      "replacement_hashes": [
+        "a96e647fb02bd18f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Aatrox.wad.client",
+        "normal_hash": "a96e647fb02bd18f",
+        "border_hash": "c2cf549f870c2363",
+        "bytes": 86252,
+        "sha256": "fdfbbe4ab1b9af79deca9b01aa39d0e084644f55be048f0451879e7ffdd1fada"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

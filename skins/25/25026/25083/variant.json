@@ -1,0 +1,58 @@
+{
+  "skin_id": 25083,
+  "base_skin_id": 25026,
+  "champion_id": 25,
+  "name": "魔女 莫甘娜 璞真",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8c5646914a14305775e4911b93b520e8ff4dfae6f192af818a76ea6d8ef1eb36",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "25/25026/25083/25083.fantome",
+  "files": [
+    {
+      "path": "skins/25/25026/25083/Morgana.wad.client",
+      "size": 89269,
+      "sha256": "7c1bb88006bb637bbbc8ff46a1ba339ed6c95bcfa7076f5f4f04cf0b34598cc7"
+    }
+  ],
+  "wads": {
+    "Morgana.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2985,
+      "bytes_after": 89269,
+      "replacement_hashes": [
+        "cc68f2a55924bd3b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Morgana.wad.client",
+        "normal_hash": "cc68f2a55924bd3b",
+        "border_hash": "b3d4a88802601d35",
+        "bytes": 86252,
+        "sha256": "54bdc6997c761aa671a8fd3f1e9641152a997c7c5d44ded6a8c10261c4393af4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

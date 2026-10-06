@@ -1,0 +1,58 @@
+{
+  "skin_id": 267055,
+  "base_skin_id": 267051,
+  "champion_id": 267,
+  "name": "魔女 娜美 虚荣",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "29955fa766c5de1a6aaabb389ad1bcd36812e227ac3c8a18fa432dfa7c999420",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "267/267051/267055/267055.fantome",
+  "files": [
+    {
+      "path": "skins/267/267051/267055/Nami.wad.client",
+      "size": 89910,
+      "sha256": "8adc0aab3a2c743abc99f633c7909b8f61141f62c67d8fdc13c7db589812ea47"
+    }
+  ],
+  "wads": {
+    "Nami.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3626,
+      "bytes_after": 89910,
+      "replacement_hashes": [
+        "9fa67e7da8deae51"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nami.wad.client",
+        "normal_hash": "9fa67e7da8deae51",
+        "border_hash": "5d0dd2c830bd4160",
+        "bytes": 86252,
+        "sha256": "31000155287536f29c4ce0e1ec6b474514ad3a41998ea93861331eeaa2c05b5e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

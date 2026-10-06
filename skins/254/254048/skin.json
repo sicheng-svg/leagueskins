@@ -1,0 +1,65 @@
+{
+  "champion_id": 254,
+  "base_skin_id": 254048,
+  "name": "双城之战2 斗士 蔚",
+  "variants": [
+    {
+      "skin_id": 254048,
+      "base_skin_id": 254048,
+      "champion_id": 254,
+      "name": "双城之战2 斗士 蔚",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "226e622c9e8790e01db2d5dcdf01157f445726bd663887ca215eb1841b2a6bbc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254048/254048.fantome",
+      "files": [
+        {
+          "path": "skins/254/254048/254048/Vi.wad.client",
+          "size": 93996,
+          "sha256": "9ec594741db6655015b4ae49f96e21b25fd32280f358c14a047b61fee8d6fa00"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7712,
+          "bytes_after": 93996,
+          "replacement_hashes": [
+            "9f2de956dfa61456"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "9f2de956dfa61456",
+            "border_hash": "46bcd3335a6dd300",
+            "bytes": 86252,
+            "sha256": "d482e0b1cdca40c0c7637727ee08912b2e4f2ffb4df9cc4bc8a7cdd00e94f5e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

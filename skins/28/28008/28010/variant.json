@@ -1,0 +1,58 @@
+{
+  "skin_id": 28010,
+  "base_skin_id": 28008,
+  "champion_id": 28,
+  "name": "糖果大战 伊芙琳 樱桃奶昔",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "21aa3a363e05a00fc804e10a94339cb699c85e4848763915e5646daa4fbb0019",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "28/28008/28010/28010.fantome",
+  "files": [
+    {
+      "path": "skins/28/28008/28010/Evelynn.wad.client",
+      "size": 89423,
+      "sha256": "193a87762e64d20ecdea76d00b9a7285a2fd9cd21ce6712479648549eb4a2db6"
+    }
+  ],
+  "wads": {
+    "Evelynn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3139,
+      "bytes_after": 89423,
+      "replacement_hashes": [
+        "12c9cabbd8794d7f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Evelynn.wad.client",
+        "normal_hash": "12c9cabbd8794d7f",
+        "border_hash": "befac9d8d11cd42b",
+        "bytes": 86252,
+        "sha256": "076d6afe008c350c916e2e75f60f53a7d65cf0a21a1f0ba80b2513a560a4b5c3"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

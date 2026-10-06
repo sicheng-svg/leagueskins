@@ -1,0 +1,48 @@
+{
+  "skin_id": 26032,
+  "base_skin_id": 26024,
+  "champion_id": 26,
+  "name": "节制之塔 基兰 哀伤",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "89a687970a01e80698719b8e90066155e7c25a7b248ff5c1fd7f1a666edb0b32",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "26/26024/26032/26032.fantome",
+  "files": [
+    {
+      "path": "skins/26/26024/26032/Zilean.wad.client",
+      "size": 2519,
+      "sha256": "ef951750a677f452a7637ef8556d78effd8ed77f97321b72adfb11cecdfddc5e"
+    }
+  ],
+  "wads": {
+    "Zilean.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2519,
+      "bytes_after": 2519,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

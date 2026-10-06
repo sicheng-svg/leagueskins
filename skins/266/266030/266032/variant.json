@@ -1,0 +1,58 @@
+{
+  "skin_id": 266032,
+  "base_skin_id": 266030,
+  "champion_id": 266,
+  "name": "DRX 亚托克斯 无双",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "af165cb180b40852f0219d1b7c996bc7965e08410e6fc77c0ea5a8a64aee1efc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "266/266030/266032/266032.fantome",
+  "files": [
+    {
+      "path": "skins/266/266030/266032/Aatrox.wad.client",
+      "size": 90028,
+      "sha256": "9a5c111f371b4a762573b5d8666e6a287eb4b1b23a04c98626cb985e86211873"
+    }
+  ],
+  "wads": {
+    "Aatrox.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3744,
+      "bytes_after": 90028,
+      "replacement_hashes": [
+        "d5b226d438703e83"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Aatrox.wad.client",
+        "normal_hash": "d5b226d438703e83",
+        "border_hash": "a832abc38cdb8744",
+        "bytes": 86252,
+        "sha256": "c812b3e5f26232bcb6ed8071d2454b592f4fb4748757e389a91d1977a753173a"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

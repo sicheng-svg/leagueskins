@@ -1,0 +1,48 @@
+{
+  "skin_id": 27021,
+  "base_skin_id": 27019,
+  "champion_id": 27,
+  "name": "宇航员 辛吉德 重力弹弓",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2f2e15639c403dd985361b12dc4a60d9401a6fb855d4035369ae3f33f422a5e3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "27/27019/27021/27021.fantome",
+  "files": [
+    {
+      "path": "skins/27/27019/27021/Singed.wad.client",
+      "size": 2103,
+      "sha256": "0d23291a1a320356311a72e673a21adfb5b321a24edbd6bdd39603e4a27b8ac0"
+    }
+  ],
+  "wads": {
+    "Singed.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2103,
+      "bytes_after": 2103,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

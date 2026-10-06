@@ -1,0 +1,48 @@
+{
+  "skin_id": 267014,
+  "base_skin_id": 267009,
+  "champion_id": 267,
+  "name": "源代码 娜美 造景娇娃",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "867b10b4449ccbd2b00f21c89182b3b7c30745b9e27481f934947943aebaccdd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "267/267009/267014/267014.fantome",
+  "files": [
+    {
+      "path": "skins/267/267009/267014/Nami.wad.client",
+      "size": 2624,
+      "sha256": "998c45da786a134933fc8ef153c0eb8001cf73d2cf63f45b3166842ced2fd8a5"
+    }
+  ],
+  "wads": {
+    "Nami.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2624,
+      "bytes_after": 2624,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

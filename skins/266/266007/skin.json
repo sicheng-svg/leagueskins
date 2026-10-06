@@ -1,0 +1,103 @@
+{
+  "champion_id": 266,
+  "base_skin_id": 266007,
+  "name": "腥红之月 亚托克斯",
+  "variants": [
+    {
+      "skin_id": 266007,
+      "base_skin_id": 266007,
+      "champion_id": 266,
+      "name": "腥红之月 亚托克斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "595464289f2a2bf9b5d88b033a534776057dfb9035e90ea3a6ecb10d522e3128",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "266/266007/266007.fantome",
+      "files": [
+        {
+          "path": "skins/266/266007/266007/Aatrox.wad.client",
+          "size": 8952,
+          "sha256": "389ca3d55276ff0f2495ac0d1330edab6dd2c0581ce8fdd6ee9a6fb45b58f685"
+        }
+      ],
+      "wads": {
+        "Aatrox.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8952,
+          "bytes_after": 8952,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 266040,
+      "base_skin_id": 266007,
+      "champion_id": 266,
+      "name": "腥红之月 亚托克斯 至强",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "15fb1bcc25b05c52c1d3cec6e39326712b82dcc1d3bb1a8f419f9ebd6b752682",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "266/266007/266040/266040.fantome",
+      "files": [
+        {
+          "path": "skins/266/266007/266040/Aatrox.wad.client",
+          "size": 3254,
+          "sha256": "4cf6d3b1fbeeacc58693ebc96ce99455fb548e45ef57966953abe3bff0dfeaf7"
+        }
+      ],
+      "wads": {
+        "Aatrox.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3254,
+          "bytes_after": 3254,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

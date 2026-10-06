@@ -1,0 +1,529 @@
+{
+  "champion_id": 254,
+  "base_skin_id": 254020,
+  "name": "灵能特工 蔚",
+  "variants": [
+    {
+      "skin_id": 254020,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "865106e12fdcf352778e7368b847f8c489ab0bcefb3275c924b85c0c6503c3f4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254020.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254020/Vi.wad.client",
+          "size": 90955,
+          "sha256": "077c9c14ae704b9fcaaeb299dd25224152ead34e4ed0fc87649e628178f91dac"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4671,
+          "bytes_after": 90955,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254021,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：龙焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "52af0c4b2fcc1b15ccaaafe1a207499483f3c408ad716b34f5eb06127f0b81d5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254021/254021.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254021/Vi.wad.client",
+          "size": 88830,
+          "sha256": "b5d709277c8bc8cf741b3d0a873be9eff1fdba8331945da4f5f78f3dcdeec276"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2546,
+          "bytes_after": 88830,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254022,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：灰熊",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0f5b4064163fad509f613f5d8b9dc75130a20f3efff6ab443e24be18508d6db2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254022/254022.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254022/Vi.wad.client",
+          "size": 88776,
+          "sha256": "a5c6b0b604ecfb39f9685e89b0f5224599f13dcd7bbb4e8d66cb0d5f576dee34"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2492,
+          "bytes_after": 88776,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254023,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：蜘蛛",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a773be98a230b45a1565519b962084e4d034ec212c8b6936cea128dec64467da",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254023/254023.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254023/Vi.wad.client",
+          "size": 88778,
+          "sha256": "d9b72c8b40c933e1f57fba0eb91327063e10aab6044302b63322809b0d06f8fd"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2494,
+          "bytes_after": 88778,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254024,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：天狼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "06926411f7f5136e54021da7320b0cab1ad3ee931b1f7a5dfd7919606c621ce9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254024/254024.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254024/Vi.wad.client",
+          "size": 88800,
+          "sha256": "603f954f2e65fe47ce7f21c818f0780f5829347ed23d58de6c86e8bed8fcea74"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2516,
+          "bytes_after": 88800,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254025,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：真理",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8eb1dd1d7fd8808aaa2f8a7a76bb80ac72baf1eb794e0f5010ae2b2a45e4c7eb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254025/254025.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254025/Vi.wad.client",
+          "size": 88779,
+          "sha256": "55112b5179c8bf112d16957ac0b94d57c32c40566dbda1e088b6db37c7b8ce2d"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2495,
+          "bytes_after": 88779,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254026,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：猎人",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8ff4fa817d397933aa072400f99a2cb743ffa20b270b78badd8130615478c86b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254026/254026.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254026/Vi.wad.client",
+          "size": 88832,
+          "sha256": "223ce66d7b19d97e6fa637a80dbb4f2d652433c27f08c3ea74f98108313dea75"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2548,
+          "bytes_after": 88832,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254027,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：乌鸦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "427b2e1bfe29367ffda3f5e5d2c951c3cab734cc71bdddfa1aecb73c8f0f422e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254027/254027.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254027/Vi.wad.client",
+          "size": 88779,
+          "sha256": "053e82b7b8ebbaa822cc39659a32f3bfd499d1c4000866c82b43c7491985aa04"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2495,
+          "bytes_after": 88779,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 254028,
+      "base_skin_id": 254020,
+      "champion_id": 254,
+      "name": "灵能特工 蔚 代号：蝮蛇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "43e0de50abd2e0a5e79e7bb27e4f885af177486babec76c983f520bce7b56e56",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "254/254020/254028/254028.fantome",
+      "files": [
+        {
+          "path": "skins/254/254020/254028/Vi.wad.client",
+          "size": 88777,
+          "sha256": "85df6f52e423994d3f97119567ebc6120a2e9555b6e0c6e8b677955f723f1235"
+        }
+      ],
+      "wads": {
+        "Vi.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2493,
+          "bytes_after": 88777,
+          "replacement_hashes": [
+            "08358f86253c8d86"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vi.wad.client",
+            "normal_hash": "08358f86253c8d86",
+            "border_hash": "9ce4758c5cb68fae",
+            "bytes": 86252,
+            "sha256": "4531736bf5f492fa2f129122da2f81ab595e45e7f4daf61396108de9363d2e4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 234041,
+  "base_skin_id": 234037,
+  "champion_id": 234,
+  "name": "2024 全球总决赛 佛耶戈 铁血丹心",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ee1a1e5c498d07fe819ca6ad8be96ef8d34c27854e20dcdc2e1a2717fd18d499",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "234/234037/234041/234041.fantome",
+  "files": [
+    {
+      "path": "skins/234/234037/234041/Viego.wad.client",
+      "size": 89420,
+      "sha256": "04506f751b57b340f745c82ae15f740790cd494e73832af0844c347c46949312"
+    }
+  ],
+  "wads": {
+    "Viego.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3136,
+      "bytes_after": 89420,
+      "replacement_hashes": [
+        "471d815ac74c6d62"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Viego.wad.client",
+        "normal_hash": "471d815ac74c6d62",
+        "border_hash": "787939eba64f918c",
+        "bytes": 86252,
+        "sha256": "28c0d552349c4ef879b774514c6dce9b08312765ee92af3057cf27457e06278f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

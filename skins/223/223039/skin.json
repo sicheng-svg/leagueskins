@@ -1,0 +1,529 @@
+{
+  "champion_id": 223,
+  "base_skin_id": 223039,
+  "name": "胖胖龙 塔姆",
+  "variants": [
+    {
+      "skin_id": 223039,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3a89e0fb20c5c672528c22b26350bb813a323aa3665bb6f01ab82a0fbaebfb49",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223039.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223039/TahmKench.wad.client",
+          "size": 94367,
+          "sha256": "feccae3c92047c01e1e424bf088d59896f7137db9f0ccba1bfd93b63c7917ed4"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8083,
+          "bytes_after": 94367,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223040,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖红龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a72b272ec2cbfbed07c9a8a5ca234ac762393088f9cf245e5e3530c6106fe37c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223040/223040.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223040/TahmKench.wad.client",
+          "size": 89395,
+          "sha256": "6539b6c64899a3fcf0adc87e576fd8c8c3e215eec6d15d05433b8e2c1d2e36dd"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3111,
+          "bytes_after": 89395,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223041,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖金龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a010a211e57eacc89caf05f5c2a95401da25cd72f8cd3eba561295f7ef430e3e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223041/223041.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223041/TahmKench.wad.client",
+          "size": 89345,
+          "sha256": "e4bdf2947dd33188beb3c12e47d7e43ebe28ad62d89cebdfe5260de829bbdbca"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3061,
+          "bytes_after": 89345,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223042,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖绿龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7a84f757725747ab406a54c1aa6674ae01874dd2df85857d7a8f8b35aa882ec5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223042/223042.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223042/TahmKench.wad.client",
+          "size": 89343,
+          "sha256": "94419f512b4f7457027f1957b52857e30633e31bc0000e1557e20ad0505cd8fe"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3059,
+          "bytes_after": 89343,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223043,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖蓝龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3900d97f5ea53d59bab7f84f2f37f779b67b62283dcc9f295351fb5cb742d6be",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223043/223043.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223043/TahmKench.wad.client",
+          "size": 89344,
+          "sha256": "d2d9f4ca504adcd93a6408ccaa362611d057370d249aa2e7d13ef03de8436ff3"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3060,
+          "bytes_after": 89344,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223044,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖紫龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "08f15eccbb7153948e26975ea577ce645d72f75ab64d908350a0358bab82376c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223044/223044.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223044/TahmKench.wad.client",
+          "size": 89344,
+          "sha256": "f83d50eaff6f70d29248c3f578786142299381e91f88d1c4f6fab055ac246249"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3060,
+          "bytes_after": 89344,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223045,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖青龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "16df56d2aec0124e232e2b65f879fbc52721e6256f4e7610a8a6523050409d61",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223045/223045.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223045/TahmKench.wad.client",
+          "size": 89344,
+          "sha256": "9bc0c20e42b8af660377b96b64bef7150db4300f6e670ca3b2fa7c2264630d67"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3060,
+          "bytes_after": 89344,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223046,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖岩龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b72d08eb407636c6d8ac8fc24b8788fe1b0be56367158e5f883ea74c76b49e97",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223046/223046.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223046/TahmKench.wad.client",
+          "size": 89343,
+          "sha256": "5a29eba7a450a88b2b965aef21180beb90e4412144322611f8a1ae27404996d3"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3059,
+          "bytes_after": 89343,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 223047,
+      "base_skin_id": 223039,
+      "champion_id": 223,
+      "name": "胖胖龙 塔姆 并非胖黑龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6b467c57bba21615d48a86dbfc27eb535681e4b68ec532ed076f453e138840bd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "223/223039/223047/223047.fantome",
+      "files": [
+        {
+          "path": "skins/223/223039/223047/TahmKench.wad.client",
+          "size": 89346,
+          "sha256": "e7cda485a35eeaf19d6fc6601b0c8be2b893b32ed893fafad9040c555f188c8d"
+        }
+      ],
+      "wads": {
+        "TahmKench.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3062,
+          "bytes_after": 89346,
+          "replacement_hashes": [
+            "0da2ae39db72e8b6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "TahmKench.wad.client",
+            "normal_hash": "0da2ae39db72e8b6",
+            "border_hash": "ee4f0091af8855a0",
+            "bytes": 86252,
+            "sha256": "2b2961af9d9000befd9727f654c17ddca17b74f9e4e41662c2230cfb178bb736"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

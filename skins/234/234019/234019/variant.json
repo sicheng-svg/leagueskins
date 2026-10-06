@@ -1,0 +1,58 @@
+{
+  "skin_id": 234019,
+  "base_skin_id": 234019,
+  "champion_id": 234,
+  "name": "EDG 佛耶戈",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "cec6e4d13b808d20280964786d0d14a644b640e3836e115c821205040385f521",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "234/234019/234019.fantome",
+  "files": [
+    {
+      "path": "skins/234/234019/234019/Viego.wad.client",
+      "size": 93133,
+      "sha256": "22166c2e54597d149277b9ac6b7fd53e25010b14ada518987af57c1c93774a22"
+    }
+  ],
+  "wads": {
+    "Viego.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6849,
+      "bytes_after": 93133,
+      "replacement_hashes": [
+        "7472fd88dddaf818"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Viego.wad.client",
+        "normal_hash": "7472fd88dddaf818",
+        "border_hash": "0b047abbd4384562",
+        "bytes": 86252,
+        "sha256": "8a075f419d697bcd8176a2bf14cd0013662e048dc35d361b522b8dc8805ccd95"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

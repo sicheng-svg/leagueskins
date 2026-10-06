@@ -1,0 +1,58 @@
+{
+  "skin_id": 234002,
+  "base_skin_id": 234001,
+  "champion_id": 234,
+  "name": "福牛守护者 佛耶戈 贺喜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f2dc922896842676e7d94d0a7957bb95773fb0f375a21a7483bcbd51eb531e8b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "234/234001/234002/234002.fantome",
+  "files": [
+    {
+      "path": "skins/234/234001/234002/Viego.wad.client",
+      "size": 89332,
+      "sha256": "eedd69cc2815f8cacc458b381da725e52489694798737c003d10bb36288fc5ff"
+    }
+  ],
+  "wads": {
+    "Viego.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3048,
+      "bytes_after": 89332,
+      "replacement_hashes": [
+        "83659918bc30a62e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Viego.wad.client",
+        "normal_hash": "83659918bc30a62e",
+        "border_hash": "cd3dc428dc5e1693",
+        "bytes": 86252,
+        "sha256": "1f4aad4bd232643b697bcd317d90ac20942d0474a9c55c4f93eb4294fde7c081"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

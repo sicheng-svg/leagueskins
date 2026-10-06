@@ -1,0 +1,587 @@
+{
+  "champion_id": 23,
+  "base_skin_id": 23018,
+  "name": "黑夜使者 泰达米尔",
+  "variants": [
+    {
+      "skin_id": 23018,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3c80604b8a1dda14058a144d2905776a17a4224abbef86583da942b86934bd63",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23018.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23018/Tryndamere.wad.client",
+          "size": 89915,
+          "sha256": "73e46a91a736ea8a16f945402c329874612420d96307e60a154fe72e723f485a"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3631,
+          "bytes_after": 89915,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23019,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 血夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fcc0f71277f3a895f713f4ea7a30684850b542d84f5078ceb69bb61ad16ef3cd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23019/23019.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23019/Tryndamere.wad.client",
+          "size": 88148,
+          "sha256": "223317ab2316e5e7eb43d399576d5fe14298f8ec2f831b6b0d197c8f778077c5"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1864,
+          "bytes_after": 88148,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23020,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 炎夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f486523e23719dbce7f68b419c90d98f03d91c3c52ab4e45b0a41719fb5c453d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23020/23020.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23020/Tryndamere.wad.client",
+          "size": 88091,
+          "sha256": "655f76a863cb78543f12262ad021c87bb703dd9d10ac8a5654d179fcc16c4259"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1807,
+          "bytes_after": 88091,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23021,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 寒夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "395e703af34c6a65900206076a56146d7e9c33181039e4c41ea4c09669589e78",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23021/23021.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23021/Tryndamere.wad.client",
+          "size": 88089,
+          "sha256": "a6ec9e7425f24745963ca936073efd62ce58d073aae146ba0695bda85b5142a0"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1805,
+          "bytes_after": 88089,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23022,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 宁夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "77a0157f37a799346622d1f42cc43ebfd6b52ea04134556b793713f21e861161",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23022/23022.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23022/Tryndamere.wad.client",
+          "size": 88148,
+          "sha256": "1dd392130d32b7720c1c895b5644146199a129a802df52e0f7d90d5b98f8090a"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1864,
+          "bytes_after": 88148,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23023,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 梦夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "405c47d877deed7b475eb08b6c720c6fefb1e33a6a93774a9200f8d0c62cd214",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23023/23023.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23023/Tryndamere.wad.client",
+          "size": 88090,
+          "sha256": "2f5f272ea0af4c9c75b60055da964c07fdf293460fee28dc6c159e24946e67ae"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1806,
+          "bytes_after": 88090,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23024,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 邪夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aaac2d89dac688e6606360625480148775da01af3372a4725815309460d83358",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23024/23024.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23024/Tryndamere.wad.client",
+          "size": 88090,
+          "sha256": "ef46c6fdd73ad1adaf927d5ef9c56cca1889c92277d478a28de897157dc5a6b2"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1806,
+          "bytes_after": 88090,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23025,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 寂夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eb247fd718b7e564461479d95269270e452d89c70d7b26970c51e9e36b593a9a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23025/23025.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23025/Tryndamere.wad.client",
+          "size": 88090,
+          "sha256": "be3ddf02450abb2f9c03eb1a71776078dc530f8dea404378aff5b4dd0ea259df"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1806,
+          "bytes_after": 88090,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23026,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 陨夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cbc289d793f75aec7091bae617f3c37412fd49b8cde3cae4025a376d9e6de8ec",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23026/23026.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23026/Tryndamere.wad.client",
+          "size": 88150,
+          "sha256": "220f06f84025f61aa2ccf9a6c0d4d61324f3244932984a653b355ed1e4783b4b"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1866,
+          "bytes_after": 88150,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 23046,
+      "base_skin_id": 23018,
+      "champion_id": 23,
+      "name": "黑夜使者 泰达米尔 至强",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "25349447f194da9a009a5b6b453605455dd3bd5b538d30499f60bb86ad7deb50",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23018/23046/23046.fantome",
+      "files": [
+        {
+          "path": "skins/23/23018/23046/Tryndamere.wad.client",
+          "size": 88150,
+          "sha256": "323bb6db62fa5314ba0a5f9f1dff281b376e9e4956730eae6ad4d04258e0e39a"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1866,
+          "bytes_after": 88150,
+          "replacement_hashes": [
+            "2e9b98473710f7fa"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tryndamere.wad.client",
+            "normal_hash": "2e9b98473710f7fa",
+            "border_hash": "ce44b8d2b846ad4d",
+            "bytes": 86252,
+            "sha256": "96b2dca86302d2185a4e9798fce1afbc64463b4c58f5bcbb7b1c2e118797708d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 223019,
+  "base_skin_id": 223011,
+  "champion_id": 223,
+  "name": "秩序之舌 塔姆 哀伤",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0af50fe145d9880f7dd2a3e0ff2051702f2c4f4c123f54bd0a2c44a67c0d97f6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "223/223011/223019/223019.fantome",
+  "files": [
+    {
+      "path": "skins/223/223011/223019/TahmKench.wad.client",
+      "size": 2982,
+      "sha256": "aab81ac5f04a8a3c13edff15aa1222d4c0a527f057ab46484d514e78965c097b"
+    }
+  ],
+  "wads": {
+    "TahmKench.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2982,
+      "bytes_after": 2982,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

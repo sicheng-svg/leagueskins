@@ -1,0 +1,55 @@
+{
+  "champion_id": 23,
+  "base_skin_id": 23003,
+  "name": "诸神的黄昏 泰达米尔",
+  "variants": [
+    {
+      "skin_id": 23003,
+      "base_skin_id": 23003,
+      "champion_id": 23,
+      "name": "诸神的黄昏 泰达米尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "93fdc3430ae5e78f1bda951355a41412544acbb8214333436afad8a79cb15b33",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "23/23003/23003.fantome",
+      "files": [
+        {
+          "path": "skins/23/23003/23003/Tryndamere.wad.client",
+          "size": 3081,
+          "sha256": "ea9cbba6eb0d60d09d0ef3e9d07a5bb4a452762b7379de13889d876081c834ab"
+        }
+      ],
+      "wads": {
+        "Tryndamere.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3081,
+          "bytes_after": 3081,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

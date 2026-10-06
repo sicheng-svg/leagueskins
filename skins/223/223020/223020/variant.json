@@ -1,0 +1,58 @@
+{
+  "skin_id": 223020,
+  "base_skin_id": 223020,
+  "champion_id": 223,
+  "name": "西部魔影 恶魔大亨 塔姆",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "789e50d41c7c8eb87732d4bf12d4bb1d156896d41fe392a88a616e1f0ecfdd5d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "223/223020/223020.fantome",
+  "files": [
+    {
+      "path": "skins/223/223020/223020/TahmKench.wad.client",
+      "size": 94337,
+      "sha256": "feaebfc0744d01bc9536fb9d5865a1142ce805df7c2dec4828fd0a883c975818"
+    }
+  ],
+  "wads": {
+    "TahmKench.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8053,
+      "bytes_after": 94337,
+      "replacement_hashes": [
+        "48ed384bf3b558af"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "TahmKench.wad.client",
+        "normal_hash": "48ed384bf3b558af",
+        "border_hash": "fad067554f023338",
+        "bytes": 86252,
+        "sha256": "f9ebf3d190835e99c45f9604a0a8851961bb5f4ca773708c7718bcbc5de240a4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 234014,
+  "base_skin_id": 234010,
+  "champion_id": 234,
+  "name": "五杀摇滚之噪音 佛耶戈 迷幻",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3a60cabc4ac30a490e1840f8425d626e8998d0d45e45906f1f89485f3271884d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "234/234010/234014/234014.fantome",
+  "files": [
+    {
+      "path": "skins/234/234010/234014/Viego.wad.client",
+      "size": 3081,
+      "sha256": "dd3302ae264f50e3fbe472b4627d1a187e6a8d28b27fc559573d3453fe176d5e"
+    }
+  ],
+  "wads": {
+    "Viego.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3081,
+      "bytes_after": 3081,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 233016,
+  "base_skin_id": 233010,
+  "champion_id": 233,
+  "name": "幻灵海魔人 贝蕾亚 梦幻强袭",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "405030a3d5b04d8d03bf0554222f6a23b7be658fd2bb7fa59eb9832b75786e97",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "233/233010/233016/233016.fantome",
+  "files": [
+    {
+      "path": "skins/233/233010/233016/Briar.wad.client",
+      "size": 89552,
+      "sha256": "abb077b57828625ab989f568f6198a83c28b30a064efce65aaac7ca74f6e9a82"
+    }
+  ],
+  "wads": {
+    "Briar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3268,
+      "bytes_after": 89552,
+      "replacement_hashes": [
+        "a1476d7bd8461c8f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Briar.wad.client",
+        "normal_hash": "a1476d7bd8461c8f",
+        "border_hash": "0bc768289c216bd6",
+        "bytes": 86252,
+        "sha256": "256846ce7b0d3b50a2e819bf256d1c211f38cb4afc134ee87c55b8bd0579dda4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

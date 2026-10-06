@@ -1,0 +1,58 @@
+{
+  "skin_id": 233012,
+  "base_skin_id": 233010,
+  "champion_id": 233,
+  "name": "幻灵海魔人 贝蕾亚 灿烂轰击",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "06ca508b963069b82b5bdfe07987ca05ad6311f316462406ca54aa6eb755bb95",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "233/233010/233012/233012.fantome",
+  "files": [
+    {
+      "path": "skins/233/233010/233012/Briar.wad.client",
+      "size": 89528,
+      "sha256": "af26a4fae6c9de0c33af637544b1ffa33572cacf652e2c452634e1e686f718e1"
+    }
+  ],
+  "wads": {
+    "Briar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3244,
+      "bytes_after": 89528,
+      "replacement_hashes": [
+        "a1476d7bd8461c8f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Briar.wad.client",
+        "normal_hash": "a1476d7bd8461c8f",
+        "border_hash": "0bc768289c216bd6",
+        "bytes": 86252,
+        "sha256": "256846ce7b0d3b50a2e819bf256d1c211f38cb4afc134ee87c55b8bd0579dda4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

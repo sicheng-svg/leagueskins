@@ -1,0 +1,48 @@
+{
+  "skin_id": 22011,
+  "base_skin_id": 22011,
+  "champion_id": 22,
+  "name": "御星魔矢 艾希",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "435a1f25394ec3275508a70ff3242a029eb4d7a3f2836aa161bbe379fc6547bc",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22011/22011.fantome",
+  "files": [
+    {
+      "path": "skins/22/22011/22011/Ashe.wad.client",
+      "size": 5367,
+      "sha256": "33877d6d495ce78966b3076f8a29d65daa6684f833301d1302908d57e86f5ff1"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5367,
+      "bytes_after": 5367,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

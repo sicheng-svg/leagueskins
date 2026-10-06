@@ -1,0 +1,58 @@
+{
+  "skin_id": 22022,
+  "base_skin_id": 22017,
+  "champion_id": 22,
+  "name": "西部天使 艾希 路西法之傲",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5b3bc1bfadc8b51d12b38eddbba279d5734fd98994cac4f5fe0994b3da654837",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22017/22022/22022.fantome",
+  "files": [
+    {
+      "path": "skins/22/22017/22022/Ashe.wad.client",
+      "size": 89373,
+      "sha256": "a835b191fe353bdaed1e4c1b7f3d30e1bc3728c4b5080ac26a18ba4c8674f888"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3089,
+      "bytes_after": 89373,
+      "replacement_hashes": [
+        "c1ce732ed4a1150b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ashe.wad.client",
+        "normal_hash": "c1ce732ed4a1150b",
+        "border_hash": "8c743ed40c299063",
+        "bytes": 86252,
+        "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 15,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

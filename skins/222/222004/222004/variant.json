@@ -1,0 +1,65 @@
+{
+  "skin_id": 222004,
+  "base_skin_id": 222004,
+  "champion_id": 222,
+  "name": "星之守护者 金克丝",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a2c3feb91ab13a9a949c483538cde571daf385409ed65de697646b21e598ba81",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "222/222004/222004.fantome",
+  "files": [
+    {
+      "path": "skins/222/222004/222004/Jinx.wad.client",
+      "size": 98801,
+      "sha256": "de5c8f16047da23af64f3921be392a89001d1d18f9715f4aad8ba8c84520a056"
+    }
+  ],
+  "wads": {
+    "Jinx.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 12517,
+      "bytes_after": 98801,
+      "replacement_hashes": [
+        "cae3bf0c386b6d17"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Jinx.wad.client",
+        "normal_hash": "cae3bf0c386b6d17",
+        "border_hash": "19c5a6b0e3595bfe",
+        "bytes": 86252,
+        "sha256": "8f675ee8e5bf1ca458e42fc2815538d6f0d4438117daaec050b89f93dc4a7520"
+      },
+      {
+        "archive": "Jinx.wad.client",
+        "normal_hash": "cae3bf0c386b6d17",
+        "border_hash": "19c5a6b0e3595bfe",
+        "bytes": 86252,
+        "sha256": "8f675ee8e5bf1ca458e42fc2815538d6f0d4438117daaec050b89f93dc4a7520"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 22086,
+  "base_skin_id": 22084,
+  "champion_id": 22,
+  "name": "龙马烈焰 艾希 龙马精神",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "08f05dddbf39cd2a161e24e02b6dec1d8af08b45ec0cd9434b49746f8de999f0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22084/22086/22086.fantome",
+  "files": [
+    {
+      "path": "skins/22/22084/22086/Ashe.wad.client",
+      "size": 88851,
+      "sha256": "7ccb10855d566b34ae90b3890af7c1fb2e6e92cde895daef8d14929b76b19012"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2567,
+      "bytes_after": 88851,
+      "replacement_hashes": [
+        "98187e1cfa90af72"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ashe.wad.client",
+        "normal_hash": "98187e1cfa90af72",
+        "border_hash": "b1b79feb70605f2b",
+        "bytes": 86252,
+        "sha256": "92c8a0ce26377f0f12387089e75101d071f8bf879697124535d5b3c9cf1945ae"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

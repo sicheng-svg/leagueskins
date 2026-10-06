@@ -1,0 +1,58 @@
+{
+  "skin_id": 22064,
+  "base_skin_id": 22063,
+  "champion_id": 22,
+  "name": "DRX 艾希 无双",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "77d8fc0a7cdbef10a02be992d3bf16284ca5f41bf2b6685a198be14c930350fa",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22063/22064/22064.fantome",
+  "files": [
+    {
+      "path": "skins/22/22063/22064/Ashe.wad.client",
+      "size": 88614,
+      "sha256": "e5b22336b5a7335a7ee4f25285b0d05e67adcc58401a53b2a3fdfba1a5cb65ac"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2330,
+      "bytes_after": 88614,
+      "replacement_hashes": [
+        "db490aeeb68e24cd"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ashe.wad.client",
+        "normal_hash": "db490aeeb68e24cd",
+        "border_hash": "8f97b0352dc9cbe5",
+        "bytes": 86252,
+        "sha256": "c22ceb4a5dc1b49214057eda94c8bebec57aa1c3719dbeda4d3d3a2638b38ed7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

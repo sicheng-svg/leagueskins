@@ -1,0 +1,123 @@
+{
+  "champion_id": 22,
+  "base_skin_id": 22065,
+  "name": "水晶圣骑 艾希",
+  "variants": [
+    {
+      "skin_id": 22065,
+      "base_skin_id": 22065,
+      "champion_id": 22,
+      "name": "水晶圣骑 艾希",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1afa8a0d3be4beea689d8539ea65470b9d9f0f3317acdc8cb96b5d7c2a3d2465",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "22/22065/22065.fantome",
+      "files": [
+        {
+          "path": "skins/22/22065/22065/Ashe.wad.client",
+          "size": 93766,
+          "sha256": "95cfa135d265b772b17c941f22b02f816f6e3833ddcc87a93e4a611f2bb7e9f0"
+        }
+      ],
+      "wads": {
+        "Ashe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7482,
+          "bytes_after": 93766,
+          "replacement_hashes": [
+            "51f0b4892db8bf43"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ashe.wad.client",
+            "normal_hash": "51f0b4892db8bf43",
+            "border_hash": "8720fe54f71ae06f",
+            "bytes": 86252,
+            "sha256": "faca29518d0c15c8ec99c8463e6e647605f1c63ccf091a5b1b3da9c32e53606e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 22066,
+      "base_skin_id": 22065,
+      "champion_id": 22,
+      "name": "水晶圣骑 艾希 感化之光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0de55927680bc78b5a93a78922f19064529778c4c4858c24d7f1013450a63351",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "22/22065/22066/22066.fantome",
+      "files": [
+        {
+          "path": "skins/22/22065/22066/Ashe.wad.client",
+          "size": 88973,
+          "sha256": "e14f2e0bc013b5014e5567c5376b9c04c0d19dd30bf3733f2c59c80104326aed"
+        }
+      ],
+      "wads": {
+        "Ashe.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2689,
+          "bytes_after": 88973,
+          "replacement_hashes": [
+            "51f0b4892db8bf43"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ashe.wad.client",
+            "normal_hash": "51f0b4892db8bf43",
+            "border_hash": "8720fe54f71ae06f",
+            "bytes": 86252,
+            "sha256": "faca29518d0c15c8ec99c8463e6e647605f1c63ccf091a5b1b3da9c32e53606e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

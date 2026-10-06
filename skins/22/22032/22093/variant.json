@@ -1,0 +1,58 @@
+{
+  "skin_id": 22093,
+  "base_skin_id": 22032,
+  "champion_id": 22,
+  "name": "魔女 艾希 璞真",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2008d070403f1ace2d1cd9537ebc060aceadef1244a89ed5d4463beb9e1b4c14",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22032/22093/22093.fantome",
+  "files": [
+    {
+      "path": "skins/22/22032/22093/Ashe.wad.client",
+      "size": 88399,
+      "sha256": "48115689e4b76b050d8851bd0435c94a2c9dd8e3231ab725bc5f08c7dae9754d"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2115,
+      "bytes_after": 88399,
+      "replacement_hashes": [
+        "9110b27418ba4f5e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ashe.wad.client",
+        "normal_hash": "9110b27418ba4f5e",
+        "border_hash": "40e90c09d59688c4",
+        "bytes": 86252,
+        "sha256": "6b030d5a8fe45c6f98df3f090d2dff8d02ac88c54f869e4dfe568f94fd9f63ab"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

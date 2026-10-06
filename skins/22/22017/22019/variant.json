@@ -1,0 +1,58 @@
+{
+  "skin_id": 22019,
+  "base_skin_id": 22017,
+  "champion_id": 22,
+  "name": "西部天使 艾希 加百列之智",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e5744e518be50b02afb80972d01622688f9c1f5a5672720b4b8c2e807b226522",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22017/22019/22019.fantome",
+  "files": [
+    {
+      "path": "skins/22/22017/22019/Ashe.wad.client",
+      "size": 89375,
+      "sha256": "3a901c758687c8c75047ffc284e1bc7fd2cebdba20089ce19b12ec788973bc02"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3091,
+      "bytes_after": 89375,
+      "replacement_hashes": [
+        "c1ce732ed4a1150b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ashe.wad.client",
+        "normal_hash": "c1ce732ed4a1150b",
+        "border_hash": "8c743ed40c299063",
+        "bytes": 86252,
+        "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 15,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

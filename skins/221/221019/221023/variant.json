@@ -1,0 +1,58 @@
+{
+  "skin_id": 221023,
+  "base_skin_id": 221019,
+  "champion_id": 221,
+  "name": "玉剑传说 神机花火 珐琅",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f0e9c262238c3ff3ef8956e8016f07fb5bfee8efe0202dcc10775bbdda879438",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "221/221019/221023/221023.fantome",
+  "files": [
+    {
+      "path": "skins/221/221019/221023/Zeri.wad.client",
+      "size": 89630,
+      "sha256": "ff34494ac6a781a7b1ec6757f9bd6f349d67a6f4d5e3211e59188f12a7335d5b"
+    }
+  ],
+  "wads": {
+    "Zeri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3346,
+      "bytes_after": 89630,
+      "replacement_hashes": [
+        "dd0d8535c88be2fa"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zeri.wad.client",
+        "normal_hash": "dd0d8535c88be2fa",
+        "border_hash": "f81cfd5b1234856f",
+        "bytes": 86252,
+        "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

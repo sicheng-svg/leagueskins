@@ -1,0 +1,58 @@
+{
+  "skin_id": 221039,
+  "base_skin_id": 221028,
+  "champion_id": 221,
+  "name": "魔域梦魇 泽丽 古堡梦境",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f67fe83fd44c2e3b0ea6345c104d8eb698e55374e7660e534feeb7a4b4d51fd7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "221/221028/221039/221039.fantome",
+  "files": [
+    {
+      "path": "skins/221/221028/221039/Zeri.wad.client",
+      "size": 89525,
+      "sha256": "a9f19465c984a896455a10a723044de6acd80142b5cdfbc46bdabc6e57e8dd2d"
+    }
+  ],
+  "wads": {
+    "Zeri.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3241,
+      "bytes_after": 89525,
+      "replacement_hashes": [
+        "a9506ffb04eb0fe5"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Zeri.wad.client",
+        "normal_hash": "a9506ffb04eb0fe5",
+        "border_hash": "714ad5b5d9c37555",
+        "bytes": 86252,
+        "sha256": "8aac16fada9f4d005088e9eca99c385a2fd28e8eb38f2a50491208bff7817b14"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

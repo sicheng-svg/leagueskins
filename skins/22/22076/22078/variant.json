@@ -1,0 +1,58 @@
+{
+  "skin_id": 22078,
+  "base_skin_id": 22076,
+  "champion_id": 22,
+  "name": "灵魂莲华 艾希 风起",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6d5a23c2a46653c1e4e55eace4300d10e4b990c88e12f5755914603a2ce88f54",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22076/22078/22078.fantome",
+  "files": [
+    {
+      "path": "skins/22/22076/22078/Ashe.wad.client",
+      "size": 89891,
+      "sha256": "dbf36a20a7179f72cb8b33c3f5ec7fd64a78a9b7cbd013ffa8b84ff578413f00"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3607,
+      "bytes_after": 89891,
+      "replacement_hashes": [
+        "49242b73337d4b33"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ashe.wad.client",
+        "normal_hash": "49242b73337d4b33",
+        "border_hash": "5799713b03bff5f2",
+        "bytes": 86252,
+        "sha256": "eec06266b995fe7a7835262db2502b972364b48307061ac26aec882a4144a5c0"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

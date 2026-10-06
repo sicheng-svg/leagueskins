@@ -1,0 +1,58 @@
+{
+  "skin_id": 22062,
+  "base_skin_id": 22008,
+  "champion_id": 22,
+  "name": "源计划：联合 艾希 红莲之弓",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b3e5148693c79cb93d41c8f65bedba55cce56570d957d5452c90f4a4b1ceab60",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "22/22008/22062/22062.fantome",
+  "files": [
+    {
+      "path": "skins/22/22008/22062/Ashe.wad.client",
+      "size": 89268,
+      "sha256": "1e778a59062886c2603b47b80b6f4490b0630a3e6fbc0d8e95e7d1546e8484e1"
+    }
+  ],
+  "wads": {
+    "Ashe.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2984,
+      "bytes_after": 89268,
+      "replacement_hashes": [
+        "8f49a6c0abc39d2e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ashe.wad.client",
+        "normal_hash": "8f49a6c0abc39d2e",
+        "border_hash": "8b36126d55c83fd8",
+        "bytes": 86252,
+        "sha256": "7c71a8c6dd46875b5281a8c31d0be63d57f8431dfb7e86050e64bc952ade67a4"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

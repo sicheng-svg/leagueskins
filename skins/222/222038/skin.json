@@ -1,0 +1,657 @@
+{
+  "champion_id": 222,
+  "base_skin_id": 222038,
+  "name": "幻灵战斗猫 金克丝",
+  "variants": [
+    {
+      "skin_id": 222038,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "322a5d0da8ee35831eaca2df146643f01d63d9778999a21250f28cfdf1c60bfd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222038.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222038/Jinx.wad.client",
+          "size": 92505,
+          "sha256": "484dbc214d54bd4c9bb6dc3cfee27cdada1ae85450effdde1ded01f899cee8e5"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 6221,
+          "bytes_after": 92505,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222041,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 勇气赞歌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "15b1dd4b0c5b409603f25f347bce10c0e80528133d2578f241649b583c940ca7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222041/222041.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222041/Jinx.wad.client",
+          "size": 89496,
+          "sha256": "202a43b217b0de8018f774177306815e1d4073343aa1a987ffac6344e505d58b"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3212,
+          "bytes_after": 89496,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222042,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 灿烂轰击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "571f32e60313c7bcf7e769c3f5f2c6a7ae6e364d4a8bd74723895126c9c126cd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222042/222042.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222042/Jinx.wad.client",
+          "size": 89426,
+          "sha256": "c4beed63be76464919eebd3b8cc83c9050f16b28e4224731e735532c74f93c2f"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3142,
+          "bytes_after": 89426,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222043,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 华丽冲阵",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "335adbfdee409c3ba718e49c0a0fa382c82a3b32bc61014dd5726c73655f00b2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222043/222043.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222043/Jinx.wad.client",
+          "size": 89430,
+          "sha256": "23c1c4d1a4b6c807e7260074cd30e221e97933b652919e005c5d45088e0870d4"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3146,
+          "bytes_after": 89430,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222044,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 梦幻强袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "13926c1510456f2844c5318d677b2cade4e9294fe5b61e582796818708ebc75f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222044/222044.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222044/Jinx.wad.client",
+          "size": 89452,
+          "sha256": "e5b2c9c5de597a11d94387c94a6e50e7bd21d01258d6ba4e71ce762417e45e31"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3168,
+          "bytes_after": 89452,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222045,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 冷酷侧袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1a3baf18c655d8948a45dfcdbd0500c17a3f1ae9a68b9eed2b4dfd901f6666b7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222045/222045.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222045/Jinx.wad.client",
+          "size": 89432,
+          "sha256": "9bd7ef5e9d3b0a9a707ad4c6b9d4f08c8828221586319ef382e660d54e524ccf"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3148,
+          "bytes_after": 89432,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222046,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 坚韧阻击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "19bf7688e35d31de5ffdc43a36e1d0557f67c4dd40f4602ef5147bee48840e98",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222046/222046.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222046/Jinx.wad.client",
+          "size": 89432,
+          "sha256": "d8144db28603e7d06d76e7534b095bd32e45dea694e460ba0ce352d081dc45b3"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3148,
+          "bytes_after": 89432,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222047,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 钢铁守备",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4a77719f84f82d1d8657beecefdc290311aeac5198f82bbf6eaf17c31f1f90ce",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222047/222047.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222047/Jinx.wad.client",
+          "size": 89430,
+          "sha256": "ca53074c1ada1bef96412f948fc2308197f12ff58c914f87fe3140663667be5d"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3146,
+          "bytes_after": 89430,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222048,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 魅影闪击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b26e62a4f23f2707cd4b5ed6a2d201e2676ca7122188ec325439b9571c8b79a7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222048/222048.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222048/Jinx.wad.client",
+          "size": 89435,
+          "sha256": "c9f94c5624185072d1e8611dc4ce86162090427e10c68c30f666d609d0fc4510"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3151,
+          "bytes_after": 89435,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 222049,
+      "base_skin_id": 222038,
+      "champion_id": 222,
+      "name": "幻灵战斗猫 金克丝 隐秘夜影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7deffb8260df544379fc805495779a5311e75b1242ca6938deb2e546eba2b260",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "222/222038/222049/222049.fantome",
+      "files": [
+        {
+          "path": "skins/222/222038/222049/Jinx.wad.client",
+          "size": 89502,
+          "sha256": "6c4e89a2a58f82f750100ff2386f3cc91fab38a84362f12501491e1d0797dcf4"
+        }
+      ],
+      "wads": {
+        "Jinx.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 3218,
+          "bytes_after": 89502,
+          "replacement_hashes": [
+            "a63943f198b8f508"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          },
+          {
+            "archive": "Jinx.wad.client",
+            "normal_hash": "a63943f198b8f508",
+            "border_hash": "f2b95ae81fb9d8cf",
+            "bytes": 86252,
+            "sha256": "3ac138c5ab8c8fc196f9625554fb78d4ebd6d93b8ba17baef8705b15240cd402"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "skin_id": 222998,
+  "base_skin_id": 222060,
+  "champion_id": 222,
+  "name": "222998",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1ca2e79538fc447167dc16a32391fe0c8db7029bfe5d78cac6760039a9895347",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+  },
+  "source_package": "222/222060/222998/222998.fantome",
+  "files": [
+    {
+      "path": "skins/222/222060/222998/Jinx.wad.client",
+      "size": 845832,
+      "sha256": "e38ddc49696962bccbc8fba011560c4f4542ab54143636f5503b540eb55049cd"
+    }
+  ],
+  "wads": {
+    "Jinx.wad.client": {
+      "entries_before": 4,
+      "entries_after": 6,
+      "was_sorted": false,
+      "version": "3.3",
+      "bytes_before": 24752,
+      "bytes_after": 845832,
+      "replacement_hashes": [
+        "03d441b097e26085",
+        "a39d007b21b24ddb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Jinx.wad.client",
+        "normal_hash": "a39d007b21b24ddb",
+        "border_hash": "03d441b097e26085",
+        "bytes": 689932,
+        "sha256": "5af6ae1da95d0a2bc2bd963591668bd63c049eb5eb5ced05a5cbde988d2cc361",
+        "strategy": "bake_native_augment_layers",
+        "layers": [
+          {
+            "path": "ASSETS/Characters/Jinx/Skins/Skin60/UI/JinxLoadScreen_Augments_Border_Premium.tex",
+            "sha256": "adc66d9243d45c17168dd8f0e1e46bd00b34d877c96fb640b80961ead43eff50"
+          }
+        ],
+        "placement": "scale_native_layers_to_loading_card",
+        "in_game": "not_verified"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

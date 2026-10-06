@@ -1,0 +1,587 @@
+{
+  "champion_id": 63,
+  "base_skin_id": 63008,
+  "name": "神龙尊者 魔龙布兰德",
+  "variants": [
+    {
+      "skin_id": 63008,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "01ab7d921ae27928de715c506691b3050c179ce04f169a31a291d2860ae1bd97",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63008.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63008/Brand.wad.client",
+          "size": 92934,
+          "sha256": "e792a6ef4396d9b40014e44273b0f79453300604773828b8b3658c6d8772c7f3"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6650,
+          "bytes_after": 92934,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63013,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 登龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4dca9d35258c647c83f2b05fc12989e05244bf47c8bb3943cfbfaff6a09ddc21",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63013/63013.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63013/Brand.wad.client",
+          "size": 88911,
+          "sha256": "bc89d5bc516e5de240fc4316c61e5f8e4ba1f5c1a3145036ae9fbe14784a96e8"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2627,
+          "bytes_after": 88911,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63014,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 聚鹤",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a1f145207d78bb64bd7dd59db3059f82571bcfeac1ade71bf704552806da8291",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63014/63014.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63014/Brand.wad.client",
+          "size": 88860,
+          "sha256": "4883754621866be4bee3518904a4ad1c59e2368cb1b30b2d54cf6a1ae101672f"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2576,
+          "bytes_after": 88860,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63015,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 集仙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c57f71c7a8229dd96f720c2c4bdf06f3a000892c92140f947e110c6191479be0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63015/63015.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63015/Brand.wad.client",
+          "size": 88858,
+          "sha256": "114c42542169887e7871d9d280a49991b85c708106e3ba6b8254281c90b0f46f"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2574,
+          "bytes_after": 88858,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63016,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 望霞",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "486ff89a218b3c41ca1d35806c1128fa5b8f2dbfe6a44d5ec5aa770739ff0ffb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63016/63016.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63016/Brand.wad.client",
+          "size": 88880,
+          "sha256": "de2991da34854ccb153a74d2b733c86a9ac2630ae83643f086a954c823bd815a"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2596,
+          "bytes_after": 88880,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63017,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 翠屏",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1ec596a8c868f4a53a5a1e4eea1b2deb07f882d6453d4188b624661df732c237",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63017/63017.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63017/Brand.wad.client",
+          "size": 88912,
+          "sha256": "dcc08886ff7ae60b00c59686328020d7ba6f8c0cb45e897b5e2407ef4e674fa5"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2628,
+          "bytes_after": 88912,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63018,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 摘星",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "00e4d04f89e35cea92a491e1f028fb3220171af777cf254ac0cdd59d5bcfffc7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63018/63018.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63018/Brand.wad.client",
+          "size": 88858,
+          "sha256": "ecbd6c4dbe17cef6501de5cdab9e2cc1feb2508ee3e18505933e79ef20aeaa3f"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2574,
+          "bytes_after": 88858,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63019,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 松峦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "58732e6442c2ac3329b6c2f6955e3f045c8211e1c4550a1908723b1f8c9c1ac4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63019/63019.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63019/Brand.wad.client",
+          "size": 88857,
+          "sha256": "857a7530a70d701fc72de43263b25e83d0fd42d80ef6a650c2b4d05dab76c034"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2573,
+          "bytes_after": 88857,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63020,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 朝云",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e908ed8da1faea92c134ca1fc3c9ad879fe12e1633d46dbb6f9b27cf293f081",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63020/63020.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63020/Brand.wad.client",
+          "size": 88860,
+          "sha256": "181a2339f7f27d8abdd8601460710be04917afbebca2cbcb042befe76c76f9f2"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2576,
+          "bytes_after": 88860,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63023,
+      "base_skin_id": 63008,
+      "champion_id": 63,
+      "name": "神龙尊者 魔龙布兰德 烬爪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e5bc88a6d8b040f122c4039571aae0499236bd1c0d2ab002188151961e0a8637",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63008/63023/63023.fantome",
+      "files": [
+        {
+          "path": "skins/63/63008/63023/Brand.wad.client",
+          "size": 88913,
+          "sha256": "45ece454e7d3d59b86f3572770a1d161436d47ef817c5020901e3d561b630fa6"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2629,
+          "bytes_after": 88913,
+          "replacement_hashes": [
+            "237a11a6accb69c9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "237a11a6accb69c9",
+            "border_hash": "f5f6ea3a8fe19fa7",
+            "bytes": 86252,
+            "sha256": "be6a8f53acefd80f3e399f887bb8c3b9b6d2848a5b1c7e10c85085ee33e5bc93"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

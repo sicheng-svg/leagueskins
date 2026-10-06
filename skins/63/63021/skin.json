@@ -1,0 +1,587 @@
+{
+  "champion_id": 63,
+  "base_skin_id": 63021,
+  "name": "焰执事 布兰德",
+  "variants": [
+    {
+      "skin_id": 63021,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "07a736d6e8f7a166e041a962e12266e638c5b41ae05ee10d33cc429503ab0918",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63021.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63021/Brand.wad.client",
+          "size": 92464,
+          "sha256": "537d9036991b8875d92018f06933884ac5d80dcad4d1bd52d3e0650453f4648e"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6180,
+          "bytes_after": 92464,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63024,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 红莲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b6cecb978bbe8bbaebeccdaf04ef31096c07085afc6b06b8a8b7848d1043f043",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63024/63024.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63024/Brand.wad.client",
+          "size": 88890,
+          "sha256": "fbf639601af61cb5e2783a7f9b680b1b48cc31afbf523358fa08955bd0fd76d7"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2606,
+          "bytes_after": 88890,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63025,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 琥珀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d04fa6ad670a4800f1e28cd1f81c769caa93bf24c373ccd3a370b4cc89553267",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63025/63025.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63025/Brand.wad.client",
+          "size": 88840,
+          "sha256": "5929b5f50053150d360b3155fd35dcfa26f8f0d62ae275aa73d7eb4ab6a7887e"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2556,
+          "bytes_after": 88840,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63026,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 幻魅",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2de32b2fbe7cc1531621b82eb52b7f348125a6e129319224ef453e5d28da9e7b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63026/63026.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63026/Brand.wad.client",
+          "size": 88862,
+          "sha256": "6c72277a7e64018b2c0cb378fb6621098b65289d317d4039bd11aac736e82261"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2578,
+          "bytes_after": 88862,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63027,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 青木",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e7bfa7eca4ed81d5a7920307eae28cc91152816b0c61fe1e344ed6fa963b998e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63027/63027.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63027/Brand.wad.client",
+          "size": 88842,
+          "sha256": "5de8487b1e5454f10ec56b8453ca264b966a002d30cb61f0d11105d090272e3f"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2558,
+          "bytes_after": 88842,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63028,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 黛夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7ef2184c76191607a186b307644c353b5a5e2f8d3cca1ec8796dc0f15cb62b6e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63028/63028.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63028/Brand.wad.client",
+          "size": 88841,
+          "sha256": "fd81c4788efafcb406c9cf93453dfc242295345cee2291cca6833e68c6e38685"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2557,
+          "bytes_after": 88841,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63029,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 蓝霜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "28996cd515c12c2d7ccfe5598eb4ac7203fc5312b21e29643cdf0be90c9ac7a1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63029/63029.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63029/Brand.wad.client",
+          "size": 88841,
+          "sha256": "2961af32b5810baaf45ce360c98feb1b9e9c12e92a0d172b4e1346436b601bb5"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2557,
+          "bytes_after": 88841,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63030,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 黑曜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f633c53dd31c998df77f17ea4c3453bb5b810b091b10eb5ceec855bde98c598d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63030/63030.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63030/Brand.wad.client",
+          "size": 88839,
+          "sha256": "9a80bf90bdf851e6b849e3c433252aea8d2b5b3c020ee66d102dc5018938145e"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2555,
+          "bytes_after": 88839,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63031,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 墨玉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "97d45d541748a7bad476176eca56f1aa2aa51d8d5ab104f45ae67519cc3399df",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63031/63031.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63031/Brand.wad.client",
+          "size": 88841,
+          "sha256": "70eb04432b14b65e1f29741ed2fd97fb039efbc271e1cd07fbca5a59e2f47b79"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2557,
+          "bytes_after": 88841,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63032,
+      "base_skin_id": 63021,
+      "champion_id": 63,
+      "name": "焰执事 布兰德 碧空",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5a842d0382128c65f9d7d9e47ed940870a615da66386738002466cbfc42de720",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63021/63032/63032.fantome",
+      "files": [
+        {
+          "path": "skins/63/63021/63032/Brand.wad.client",
+          "size": 88896,
+          "sha256": "3eba6b8ea2ba5ad5cc2d45e1dc8cb087681ef4919b514b4d0a390ba1e01c490b"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2612,
+          "bytes_after": 88896,
+          "replacement_hashes": [
+            "34b0ad7dab94ac1d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "34b0ad7dab94ac1d",
+            "border_hash": "20d6073ba4eb2e09",
+            "bytes": 86252,
+            "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

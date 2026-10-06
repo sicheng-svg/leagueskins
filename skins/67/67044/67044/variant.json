@@ -1,0 +1,48 @@
+{
+  "skin_id": 67044,
+  "base_skin_id": 67044,
+  "champion_id": 67,
+  "name": "黎明使者 薇恩",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "431df563bd43bf6570cfe2c1a660e93085a02f8bfcf59b02619291ebe77e7b37",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "67/67044/67044.fantome",
+  "files": [
+    {
+      "path": "skins/67/67044/67044/Vayne.wad.client",
+      "size": 4916,
+      "sha256": "2ab33fc713a7ab71729bb8370b3f52ef2124483484f43e51b3e2b7bb34c5dd5c"
+    }
+  ],
+  "wads": {
+    "Vayne.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4916,
+      "bytes_after": 4916,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

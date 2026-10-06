@@ -1,0 +1,55 @@
+{
+  "champion_id": 64,
+  "base_skin_id": 64005,
+  "name": "泳池派对 李青",
+  "variants": [
+    {
+      "skin_id": 64005,
+      "base_skin_id": 64005,
+      "champion_id": 64,
+      "name": "泳池派对 李青",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "38e9fdac78273d88c34625befc9dfaaa882ad0dbbd35e84ce38df4d7be8b1ac9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64005/64005.fantome",
+      "files": [
+        {
+          "path": "skins/64/64005/64005/LeeSin.wad.client",
+          "size": 5909,
+          "sha256": "de77226d28379d64c713ec0e3c64afe330467cde9ae5efaddab8c3805acc1eac"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5909,
+          "bytes_after": 5909,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

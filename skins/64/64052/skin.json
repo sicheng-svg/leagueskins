@@ -1,0 +1,66 @@
+{
+  "champion_id": 64,
+  "base_skin_id": 64052,
+  "name": "圣天龙 李青",
+  "variants": [
+    {
+      "skin_id": 64052,
+      "base_skin_id": 64052,
+      "champion_id": 64,
+      "name": "圣天龙 李青",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "771eedd571c5cf99baf9fa631a6952e682e81afc36c09cf7b53031e0bafdf768",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "64/64052/64052.fantome",
+      "files": [
+        {
+          "path": "skins/64/64052/64052/LeeSin.wad.client",
+          "size": 94742,
+          "sha256": "a6e2afbfc9846d106572301adfcb8ef34ec268adae7d8b843d866da796aa058f"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 8458,
+          "bytes_after": 94742,
+          "replacement_hashes": [
+            "0e749930b2761d15"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0e749930b2761d15",
+            "border_hash": "fd7634c299fac0d0",
+            "bytes": 86252,
+            "sha256": "ebd546e816d7c0c194d0bb31812f377cd3f6268c7a2b3936f428359602734266",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 9,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 64023,
+  "base_skin_id": 64003,
+  "champion_id": 64,
+  "name": "龙的传人 李青 潜龙勿用",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f00517659dd3e5a3ee62000971dc78817a8766c15291a22db6039443f1bd3a50",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "64/64003/64023/64023.fantome",
+  "files": [
+    {
+      "path": "skins/64/64003/64023/LeeSin.wad.client",
+      "size": 2219,
+      "sha256": "7cbf3806adc37c9fb37a13abbd8d2b845b724a310c4977e6892b90c31814269f"
+    }
+  ],
+  "wads": {
+    "LeeSin.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2219,
+      "bytes_after": 2219,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

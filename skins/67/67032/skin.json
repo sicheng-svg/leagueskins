@@ -1,0 +1,587 @@
+{
+  "champion_id": 67,
+  "base_skin_id": 67032,
+  "name": "幻灵战斗蝠 薇恩",
+  "variants": [
+    {
+      "skin_id": 67032,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f76a0f15814d5ebd408b5c3676125d3de1e13850be42b28a46683c6e37fe5294",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67032.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67032/Vayne.wad.client",
+          "size": 91241,
+          "sha256": "54242953d9b70353ac544ccd3e9bb847eb9ab0077213b3d7add32ebcd96a936f"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4957,
+          "bytes_after": 91241,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67035,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 勇气赞歌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dcdd6c6249cfdb154860a08d118352e4a7d785c766d0877e3127403e2892de76",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67035/67035.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67035/Vayne.wad.client",
+          "size": 88676,
+          "sha256": "636adb5f388967bd8e1efa2d876964c37064edf5de16a2a43531e5f577e1a1b7"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2392,
+          "bytes_after": 88676,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67036,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 炫目突击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "078e47ed35e27172bf34698a9332e0f33ca32b1c3a3b65f08202ce34fc01720f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67036/67036.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67036/Vayne.wad.client",
+          "size": 88622,
+          "sha256": "484b16d238d9ec6f626775cad2ff4cd81feb78bcf433cadafda2fa40d5ac44f1"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2338,
+          "bytes_after": 88622,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67037,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 坚韧阻击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c8b3c65bcd9bb5c478a2c431f86710f4a6707b52641e2789a41dff5e654ff9e6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67037/67037.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67037/Vayne.wad.client",
+          "size": 88621,
+          "sha256": "e0cb6a50ebdd766c6fe103c6998bd6b8dab44657d8e59472d88e33e2b2d14bde"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2337,
+          "bytes_after": 88621,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67038,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 连绵奔袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c3f45482fb1bdf5e58db0c42bf024289556bbf51775650af2808aacbb94e5ba7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67038/67038.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67038/Vayne.wad.client",
+          "size": 88620,
+          "sha256": "43b1ffed878f3892b7a93e918f8b99ff592d9aa2d0ffa95d0577fabea0d8f391"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2336,
+          "bytes_after": 88620,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67039,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 冷酷侧袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "29fc4c2ad2321b72e6b71f0d2e798fe2e30c569d6e580bf832037b1ab34929aa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67039/67039.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67039/Vayne.wad.client",
+          "size": 88621,
+          "sha256": "9279bb62691736e548c15ff6e65542e42f89f0f76c2a7507cf6e300afbff6551"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2337,
+          "bytes_after": 88621,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67040,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 梦幻强袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7fc050b4196d856cf08a948ec7aaf1df2d3b3c255af7081b078c05c08676dbb7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67040/67040.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67040/Vayne.wad.client",
+          "size": 88646,
+          "sha256": "6f7022e2c9fc629cd83c13951c6c8fc61004f05a8b2a2c0d650da98cac00d0a3"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2362,
+          "bytes_after": 88646,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67041,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 沙蝎伏击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "93e8bbe143df4792d93d64892b1f7ac1735b000967a7f4a05a479af283eb1275",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67041/67041.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67041/Vayne.wad.client",
+          "size": 88624,
+          "sha256": "e09b92faeed0831b24490e89c7c261b52d30e2fc3d4818b10b057702cdc3414c"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2340,
+          "bytes_after": 88624,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67042,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 钢铁守备",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5f31b3a620964ea3003a53d12da4eb5531e6669c12f1cef4d6cf12bb69cf26b8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67042/67042.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67042/Vayne.wad.client",
+          "size": 88624,
+          "sha256": "aa645f0658c4dc6eca22fed976f7da80432e52254a0223d9342f2c9f0e15cdda"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2340,
+          "bytes_after": 88624,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 67043,
+      "base_skin_id": 67032,
+      "champion_id": 67,
+      "name": "幻灵战斗蝠 薇恩 隐秘夜影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4cb2a3b278dc1d1f80b2f33d8d4f0b597fba5eae397cc8e3d3ef0d44b02c32b9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67032/67043/67043.fantome",
+      "files": [
+        {
+          "path": "skins/67/67032/67043/Vayne.wad.client",
+          "size": 88678,
+          "sha256": "b505911b361b54ccbe1bf6f292b52e8b3116ed8b90b9bf9068c51e90d11be2a7"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2394,
+          "bytes_after": 88678,
+          "replacement_hashes": [
+            "f042be289e588614"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "f042be289e588614",
+            "border_hash": "2fb0d4f7fa003652",
+            "bytes": 86252,
+            "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

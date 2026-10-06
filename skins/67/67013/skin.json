@@ -1,0 +1,65 @@
+{
+  "champion_id": 67,
+  "base_skin_id": 67013,
+  "name": "至臻 烈焰美人 薇恩",
+  "variants": [
+    {
+      "skin_id": 67013,
+      "base_skin_id": 67013,
+      "champion_id": 67,
+      "name": "至臻 烈焰美人 薇恩",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ffe6b40789556754bce778d95660e811330a76662e11c947533a23a4563d6ec0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "67/67013/67013.fantome",
+      "files": [
+        {
+          "path": "skins/67/67013/67013/Vayne.wad.client",
+          "size": 90881,
+          "sha256": "e317429ed0e8c9bf063a5fbfbc82b86e7e08f546af5dca48c40539516279adb9"
+        }
+      ],
+      "wads": {
+        "Vayne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4597,
+          "bytes_after": 90881,
+          "replacement_hashes": [
+            "02f6aa01db632beb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Vayne.wad.client",
+            "normal_hash": "02f6aa01db632beb",
+            "border_hash": "b1826029c7bf0cbe",
+            "bytes": 86252,
+            "sha256": "b6255290f8f20eea88e570be69f0112fe67be9db61a49672be24f208a862ed4b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

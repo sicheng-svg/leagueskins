@@ -1,0 +1,55 @@
+{
+  "champion_id": 63,
+  "base_skin_id": 63003,
+  "name": "冰晶之核 布兰德",
+  "variants": [
+    {
+      "skin_id": 63003,
+      "base_skin_id": 63003,
+      "champion_id": 63,
+      "name": "冰晶之核 布兰德",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "79faf0fd1041dddb1a3f6fd825815f7440717dd85b7baa78a3d3fd83be76abd0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63003/63003.fantome",
+      "files": [
+        {
+          "path": "skins/63/63003/63003/Brand.wad.client",
+          "size": 4848,
+          "sha256": "e4740d72e231f012865066fedaa8e11dec4036d819200adc9f449558e75dd65c"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4848,
+          "bytes_after": 4848,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

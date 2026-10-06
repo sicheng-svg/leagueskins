@@ -1,0 +1,48 @@
+{
+  "skin_id": 68009,
+  "base_skin_id": 68004,
+  "champion_id": 68,
+  "name": "废土男爵 兰博 音波爆裂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c3ea86c40a7f8267f016f9728277f85cba0acd17fc985fd68ac35bd204e4f893",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "68/68004/68009/68009.fantome",
+  "files": [
+    {
+      "path": "skins/68/68004/68009/Rumble.wad.client",
+      "size": 2201,
+      "sha256": "95d833ddafcac01564223fbe627a49bf9113d604f559cea76b5ceac76c73b703"
+    }
+  ],
+  "wads": {
+    "Rumble.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2201,
+      "bytes_after": 2201,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

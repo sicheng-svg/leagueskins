@@ -1,0 +1,55 @@
+{
+  "champion_id": 69,
+  "base_skin_id": 69001,
+  "name": "荒漠之咬 卡西奥佩娅",
+  "variants": [
+    {
+      "skin_id": 69001,
+      "base_skin_id": 69001,
+      "champion_id": 69,
+      "name": "荒漠之咬 卡西奥佩娅",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6af6d9bb0aece78b4dff10530dfcc13a819e13180a56e2a2c71a195f3947e2c0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "69/69001/69001.fantome",
+      "files": [
+        {
+          "path": "skins/69/69001/69001/Cassiopeia.wad.client",
+          "size": 3287,
+          "sha256": "96cd615b8920a0824dcba7fad1d027b7a6613ee0e75c74f618837a1c4a3a20c0"
+        }
+      ],
+      "wads": {
+        "Cassiopeia.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3287,
+          "bytes_after": 3287,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

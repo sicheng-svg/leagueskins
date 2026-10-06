@@ -1,0 +1,73 @@
+{
+  "skin_id": 67064,
+  "base_skin_id": 67064,
+  "champion_id": 67,
+  "name": "殿堂传奇 薇恩",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bac42a1651554b21e6c909aa6ceb247a5256dce4491500db57d79f78a41f0db5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+  },
+  "source_package": "67/67064/67064.fantome",
+  "files": [
+    {
+      "path": "skins/67/67064/67064/Vayne.wad.client",
+      "size": 956732,
+      "sha256": "c38eda116468503befb999ecad0b4a25044775036727bfa2fa03ac858c29dda0"
+    }
+  ],
+  "wads": {
+    "Vayne.wad.client": {
+      "entries_before": 2,
+      "entries_after": 5,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4536,
+      "bytes_after": 956732,
+      "replacement_hashes": [
+        "5a1f0e2a8d49999d",
+        "5d429dc1a9b17a91",
+        "b73f3de97f06543a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Vayne.wad.client",
+        "normal_hash": "5a1f0e2a8d49999d",
+        "border_hash": "5d429dc1a9b17a91",
+        "bytes": 689932,
+        "sha256": "1bdd580d616d96b778dfb5e13342d1ac883e13813abab1bf449b6ab1ea2984f5",
+        "strategy": "bake_native_augment_layers",
+        "layers": [
+          {
+            "path": "ASSETS/Characters/Vayne/Skins/Skin64/UI/VayneLoadScreen_Augments_Border_Premium.tex",
+            "sha256": "42567ed9f2b3e733be23981a9ec8dd4664b6bc693816b56b220ae1b6ed089c45"
+          },
+          {
+            "path": "ASSETS/Characters/Vayne/Skins/Skin64/UI/VayneLoadScreen_Augments_Border_Signature.tex",
+            "sha256": "ab096d1011be170406ab026a18ab16faa1ae91b572e9257ad1777b769b6b0a41"
+          }
+        ],
+        "placement": "scale_native_layers_to_loading_card",
+        "in_game": "not_verified"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

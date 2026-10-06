@@ -1,0 +1,48 @@
+{
+  "skin_id": 64076,
+  "base_skin_id": 64072,
+  "champion_id": 64,
+  "name": "墨之影 李青 金墨耀影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d10bc877cddebbbdd6866553c2a64565783d63bca6bbfacf00ffbe54352d8b4d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "64/64072/64076/64076.fantome",
+  "files": [
+    {
+      "path": "skins/64/64072/64076/LeeSin.wad.client",
+      "size": 2623,
+      "sha256": "b5dd389a0ee7e1e639132ff4d62a0022363ca9b80444c9ce7230b796f3d5b637"
+    }
+  ],
+  "wads": {
+    "LeeSin.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2623,
+      "bytes_after": 2623,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

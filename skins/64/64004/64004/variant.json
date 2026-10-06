@@ -1,0 +1,48 @@
+{
+  "skin_id": 64004,
+  "base_skin_id": 64004,
+  "champion_id": 64,
+  "name": "至高之拳 李青",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "592d9d875d2c9ebb9b8bf50202db0f150d1bc2e70bbf24fc7aef77abbbfb66aa",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "64/64004/64004.fantome",
+  "files": [
+    {
+      "path": "skins/64/64004/64004/LeeSin.wad.client",
+      "size": 5528,
+      "sha256": "024857939e028629d1fd6e95d0dbbc09f3e0eb339049c86d8bba5f97af8094fa"
+    }
+  ],
+  "wads": {
+    "LeeSin.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5528,
+      "bytes_after": 5528,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

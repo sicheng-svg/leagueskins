@@ -1,0 +1,48 @@
+{
+  "skin_id": 63006,
+  "base_skin_id": 63006,
+  "champion_id": 63,
+  "name": "战场BOSS 布兰德",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0d0f1c0be50add56a5e7f58fbb4ab388aa2d04a699b83217468618dcef6f2ce6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "63/63006/63006.fantome",
+  "files": [
+    {
+      "path": "skins/63/63006/63006/Brand.wad.client",
+      "size": 5034,
+      "sha256": "3d94dd85bf4e3a43e8f697814ac0b32a94d08c874c250acf1f111c4276c3a39b"
+    }
+  ],
+  "wads": {
+    "Brand.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5034,
+      "bytes_after": 5034,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

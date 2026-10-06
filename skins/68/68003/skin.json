@@ -1,0 +1,65 @@
+{
+  "champion_id": 68,
+  "base_skin_id": 68003,
+  "name": "银河魔装机神 兰博",
+  "variants": [
+    {
+      "skin_id": 68003,
+      "base_skin_id": 68003,
+      "champion_id": 68,
+      "name": "银河魔装机神 兰博",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "003110e9a5ada2b9d1a77ed90be0d5d2083c344a7c522acb90e814b38ad3637e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "68/68003/68003.fantome",
+      "files": [
+        {
+          "path": "skins/68/68003/68003/Rumble.wad.client",
+          "size": 97049,
+          "sha256": "0c4d01c9e8d48906396c251f431c458fcd303dc57d0130ee7ac8f9550f562b28"
+        }
+      ],
+      "wads": {
+        "Rumble.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10765,
+          "bytes_after": 97049,
+          "replacement_hashes": [
+            "c692ce7323d984f7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rumble.wad.client",
+            "normal_hash": "c692ce7323d984f7",
+            "border_hash": "70fcc1f2678a6ac1",
+            "bytes": 86252,
+            "sha256": "c245856d5f08a8793672c4669141f18f5335ca82bc62b5dfc65ed55e8a77c18f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 64,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

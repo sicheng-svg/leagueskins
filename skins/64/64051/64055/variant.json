@@ -1,0 +1,58 @@
+{
+  "skin_id": 64055,
+  "base_skin_id": 64051,
+  "champion_id": 64,
+  "name": "天龙之子 李青 祥龙献瑞",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1c3fa104fedc516c3cd526505184f54df929f57235cc5ab7238fe045b0f8b05e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "64/64051/64055/64055.fantome",
+  "files": [
+    {
+      "path": "skins/64/64051/64055/LeeSin.wad.client",
+      "size": 89201,
+      "sha256": "ba6481752211c8eec9d7901e9b36ada4359b548e685607b35ea9e2235562be8a"
+    }
+  ],
+  "wads": {
+    "LeeSin.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2917,
+      "bytes_after": 89201,
+      "replacement_hashes": [
+        "6c1691bcc4516d0a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "LeeSin.wad.client",
+        "normal_hash": "6c1691bcc4516d0a",
+        "border_hash": "67230463d43e9711",
+        "bytes": 86252,
+        "sha256": "3de776ffc16299ef62ea89d29ab143703ed897b4b1addf5c4710eb3e0602532b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

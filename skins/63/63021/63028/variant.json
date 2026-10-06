@@ -1,0 +1,58 @@
+{
+  "skin_id": 63028,
+  "base_skin_id": 63021,
+  "champion_id": 63,
+  "name": "焰执事 布兰德 黛夜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7ef2184c76191607a186b307644c353b5a5e2f8d3cca1ec8796dc0f15cb62b6e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "63/63021/63028/63028.fantome",
+  "files": [
+    {
+      "path": "skins/63/63021/63028/Brand.wad.client",
+      "size": 88841,
+      "sha256": "fd81c4788efafcb406c9cf93453dfc242295345cee2291cca6833e68c6e38685"
+    }
+  ],
+  "wads": {
+    "Brand.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2557,
+      "bytes_after": 88841,
+      "replacement_hashes": [
+        "34b0ad7dab94ac1d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Brand.wad.client",
+        "normal_hash": "34b0ad7dab94ac1d",
+        "border_hash": "20d6073ba4eb2e09",
+        "bytes": 86252,
+        "sha256": "1d6aa0d6f24d038ea9164ccd6d42a5a5dad89e33f2f76b9811b7deb8fe8a0248"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "champion_id": 63,
+  "base_skin_id": 63042,
+  "name": "至高天 布兰德",
+  "variants": [
+    {
+      "skin_id": 63042,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e50884976170c2673421e3b69e54a76ee1c9012c388b05e0dd89977614880e44",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63042.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63042/Brand.wad.client",
+          "size": 93138,
+          "sha256": "20f3a8298cc4bc7f40b830126103a686c792e2ea6d9f5385d06f8337ae3ef30d"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6854,
+          "bytes_after": 93138,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63043,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 狂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "480a21fe79895598cfd3938a53392beb9327d734b665ad42462fdb817bd7d48f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63043/63043.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63043/Brand.wad.client",
+          "size": 88996,
+          "sha256": "7f44625b30b626c44aa0e3de7a46b8dab7502bce93b0d39c7a19407f8595ea0a"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2712,
+          "bytes_after": 88996,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63044,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 华耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "68a507319d136435b82e4b56bf3dbd298e9ee545b364bbd83dca04d24455ad32",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63044/63044.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63044/Brand.wad.client",
+          "size": 88943,
+          "sha256": "6d506790d56dac132fd7fc578fb93cf4df1702a84be0c925d9eb07fdd172919b"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2659,
+          "bytes_after": 88943,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63045,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 寒芒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fc12c68801dfac9e43465cae31f6f9daa0bb006163245b64697e695845035ea9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63045/63045.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63045/Brand.wad.client",
+          "size": 88966,
+          "sha256": "7cee0d20e6342705018411ceeb55361e8cb850291bf531f929088310a7e0efae"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2682,
+          "bytes_after": 88966,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63046,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 青炬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ebc82386ca04b80aa222df00c6eedd9fe4553702df71a94c76adcba695cbddc5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63046/63046.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63046/Brand.wad.client",
+          "size": 88943,
+          "sha256": "1a8dfaf8a0cdaa4017f9051abf59200b9a4e0294330ee425b4e0ebda3cd76380"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2659,
+          "bytes_after": 88943,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63047,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 灵辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e0215f3ba654bc65627eafe49191bc0a68a9e578ea2505cff0e51d9f97585a78",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63047/63047.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63047/Brand.wad.client",
+          "size": 88942,
+          "sha256": "a3141575cd7851e0e84e030851988ac114006b385a8552163572a3e999461a43"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2658,
+          "bytes_after": 88942,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63048,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 幻耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ceb0b187ab97f7ff2530848803e604606f5ddaadb59b4d6e3ecd217664b50299",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63048/63048.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63048/Brand.wad.client",
+          "size": 88965,
+          "sha256": "b0a05c402edd786a0b4f2f82953f1751fd6987154ca8900d55b1a30bd04c4def"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2681,
+          "bytes_after": 88965,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63049,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 荧煌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2efc79b2571d30a3344bb271f910da7401180df4ae842efe2006c26509f7d706",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63049/63049.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63049/Brand.wad.client",
+          "size": 88941,
+          "sha256": "068a00b409457e8ff33f15a7c7ba94beca8cce37fc90d81a39d9e1cb1d7a5886"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2657,
+          "bytes_after": 88941,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63050,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 胧光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "54116339789c758a8bf51298de03c1c69723cbdf10e50ed7520b5dbc07e0ef74",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63050/63050.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63050/Brand.wad.client",
+          "size": 88947,
+          "sha256": "1592563c34105768ea41eec81c279d83e193382eff05d06684000af52344d095"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2663,
+          "bytes_after": 88947,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 63051,
+      "base_skin_id": 63042,
+      "champion_id": 63,
+      "name": "至高天 布兰德 霓虹表象",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6fb09eca1255ab3875acca69f0283938553d8dd148b96e45a14de626dc3bcf7a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "63/63042/63051/63051.fantome",
+      "files": [
+        {
+          "path": "skins/63/63042/63051/Brand.wad.client",
+          "size": 89001,
+          "sha256": "9facc7ee41311f4d4d2c700e51421af8e08b29d4320b06a8b6c4531a4300a6a5"
+        }
+      ],
+      "wads": {
+        "Brand.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2717,
+          "bytes_after": 89001,
+          "replacement_hashes": [
+            "0e6e53207f98b946"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Brand.wad.client",
+            "normal_hash": "0e6e53207f98b946",
+            "border_hash": "8e715b1ebae7dc80",
+            "bytes": 86252,
+            "sha256": "6bf202fc5cb9cb1019e1d96ed7cd51a1a623409f1bbfaeaf18bef6eff13ad816"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

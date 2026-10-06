@@ -1,0 +1,65 @@
+{
+  "champion_id": 64,
+  "base_skin_id": 64027,
+  "name": "黑夜使者 李青",
+  "variants": [
+    {
+      "skin_id": 64027,
+      "base_skin_id": 64027,
+      "champion_id": 64,
+      "name": "黑夜使者 李青",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "00a470cba1fdc813fc031b5837b4f35efc1fa6b9acf3096fdf86062a12527375",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64027/64027.fantome",
+      "files": [
+        {
+          "path": "skins/64/64027/64027/LeeSin.wad.client",
+          "size": 92155,
+          "sha256": "20c21d91a7d95ef92480bbcd05f27a2402446324058d44d7d95abada3e8619b2"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5871,
+          "bytes_after": 92155,
+          "replacement_hashes": [
+            "0f4d5785d2481051"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0f4d5785d2481051",
+            "border_hash": "8af3b3ec315f9636",
+            "bytes": 86252,
+            "sha256": "3809d16d10fc0fa8dc826ec14c87903bf18bf41ce15bc2de76be6599575ccdc4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

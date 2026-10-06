@@ -1,0 +1,587 @@
+{
+  "champion_id": 64,
+  "base_skin_id": 64031,
+  "name": "神龙尊者 圣龙李青",
+  "variants": [
+    {
+      "skin_id": 64031,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "be3a74f8e3bd3aa1967e3ef94dc56da51cced365ba6d489c11d83c6259e76398",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64031.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64031/LeeSin.wad.client",
+          "size": 93967,
+          "sha256": "20c1a2a4074f2d6c0dfb18b2d77ef03dff4ba92eed041c77e65b67dc68dad76a"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7683,
+          "bytes_after": 93967,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64032,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 登龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "baf0496a8a573ed363ce85a4838e1e3b074b1952c01635c78d0e570f64dfecc7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64032/64032.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64032/LeeSin.wad.client",
+          "size": 89448,
+          "sha256": "53384c5028414d17baa2f08da2ec487fe41814e62979083b61eea5fb650eb292"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3164,
+          "bytes_after": 89448,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64033,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 翠屏",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e126d59c239945c936bbedd6c876457aa3b62851c37f83cb2700332c5ed30d01",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64033/64033.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64033/LeeSin.wad.client",
+          "size": 89447,
+          "sha256": "9995d3cc5c352ac731002737c6f9b813b42668f10a58432b5a1377b527651af5"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3163,
+          "bytes_after": 89447,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64034,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 集仙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "505b469c9f9f7dc0ed522c20bba9eb7cf726be4218156696089a48c60c5482a0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64034/64034.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64034/LeeSin.wad.client",
+          "size": 89396,
+          "sha256": "65c8b0007ff72d9cb5391ef2243552e8f650bdee57ba233e81373f0d7d5458c9"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3112,
+          "bytes_after": 89396,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64035,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 揽月",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fdf80ef7d6ef1a8b7bf36987430365c08f7c0e47cd3d19796b1a5912f2949b81",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64035/64035.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64035/LeeSin.wad.client",
+          "size": 89398,
+          "sha256": "2a717cdffff46f5c8f4da1ad25868a11d0460c95d6a09aec40b9957b69b434bb"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3114,
+          "bytes_after": 89398,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64036,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 松峦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e1d50040562c70a2f313f950bab4d7e281d98b8bc85800c0d2b1c68c4e709cb3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64036/64036.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64036/LeeSin.wad.client",
+          "size": 89400,
+          "sha256": "2181760cb9e012a09bc0c7020010243fdbdeff5fa86d89cada1708cf00f245ce"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3116,
+          "bytes_after": 89400,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64037,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 朝云",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "65ed0b8e22c3d5f14a57e7a58fe0ae0cc3bcefbc8945e9cd1e731e653126dbeb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64037/64037.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64037/LeeSin.wad.client",
+          "size": 89397,
+          "sha256": "f61d26dc6ea2e20e7df1c1d44c1db050e9bdde1a377cd7b364ef9a84ebe5230f"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3113,
+          "bytes_after": 89397,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64038,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 烬爪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9c49c9783c7e0713fcb94e757bbd5543d3e401b92d1e12ed04847f59b45e1f3e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64038/64038.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64038/LeeSin.wad.client",
+          "size": 89452,
+          "sha256": "9eeb5c33a1e8c6f3ad0f44c3c184c3d433460693757598c56544718dbd2e72fe"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3168,
+          "bytes_after": 89452,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64050,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 龙腾云起",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4bc31e73ef2ee23adc0a3f71cf60e98cd29e71bb369749828477281e8cb5216c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64050/64050.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64050/LeeSin.wad.client",
+          "size": 89422,
+          "sha256": "64178c10d15c0de22f88d64399cc40f14a75b11f6e6519ae6e107572e33dc1e5"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3138,
+          "bytes_after": 89422,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 64081,
+      "base_skin_id": 64031,
+      "champion_id": 64,
+      "name": "神龙尊者 圣龙李青 无相",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1921a07cad10628f1abdb94180bb81635ea4df06586c2c2f05be386994ea9e4f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "64/64031/64081/64081.fantome",
+      "files": [
+        {
+          "path": "skins/64/64031/64081/LeeSin.wad.client",
+          "size": 89405,
+          "sha256": "eeeada439dcd818766ffe74006cf4cba0cb435347aabb436afda47866df18218"
+        }
+      ],
+      "wads": {
+        "LeeSin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3121,
+          "bytes_after": 89405,
+          "replacement_hashes": [
+            "0861af6c820d19f9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "LeeSin.wad.client",
+            "normal_hash": "0861af6c820d19f9",
+            "border_hash": "da9a4f4ac7571779",
+            "bytes": 86252,
+            "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

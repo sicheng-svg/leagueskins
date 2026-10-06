@@ -1,0 +1,48 @@
+{
+  "skin_id": 68010,
+  "base_skin_id": 68004,
+  "champion_id": 68,
+  "name": "废土男爵 兰博 死亡使者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "267a0c169f1f41bd01792e3fc1cabddcbb0ca27c6ed2d250a543b80cdf736a11",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "68/68004/68010/68010.fantome",
+  "files": [
+    {
+      "path": "skins/68/68004/68010/Rumble.wad.client",
+      "size": 2199,
+      "sha256": "c1f1817f3b2914e41db7d8f870df9a13c654a84e6be8d48ae390a24a08d1fb0a"
+    }
+  ],
+  "wads": {
+    "Rumble.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2199,
+      "bytes_after": 2199,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

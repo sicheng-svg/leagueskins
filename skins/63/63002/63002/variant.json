@@ -1,0 +1,48 @@
+{
+  "skin_id": 63002,
+  "base_skin_id": 63002,
+  "champion_id": 63,
+  "name": "V字仇杀者 布兰德",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "05ad6896395b49098c8ba807f3b05770c78e3f69356500056554e240fe983986",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "63/63002/63002.fantome",
+  "files": [
+    {
+      "path": "skins/63/63002/63002/Brand.wad.client",
+      "size": 2990,
+      "sha256": "75a591729ccf79883249bdde2895edda563db76a88346ae318cab886fdd81e2e"
+    }
+  ],
+  "wads": {
+    "Brand.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2990,
+      "bytes_after": 2990,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

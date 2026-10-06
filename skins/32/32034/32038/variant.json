@@ -1,0 +1,58 @@
+{
+  "skin_id": 32038,
+  "base_skin_id": 32034,
+  "champion_id": 32,
+  "name": "青花瓷 阿木木 芭蕉",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "69350e7a31f377693e6337ff03aa444bb7646ba6f663f4fd6432e719aec8703a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "32/32034/32038/32038.fantome",
+  "files": [
+    {
+      "path": "skins/32/32034/32038/Amumu.wad.client",
+      "size": 88213,
+      "sha256": "abf461d0a4fdaf6a4b9eca41e75a79d246c547ac9755783ff1c5384e9b7469fb"
+    }
+  ],
+  "wads": {
+    "Amumu.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1929,
+      "bytes_after": 88213,
+      "replacement_hashes": [
+        "9ef2ed43cbd6933e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Amumu.wad.client",
+        "normal_hash": "9ef2ed43cbd6933e",
+        "border_hash": "eb183e0af28367a3",
+        "bytes": 86252,
+        "sha256": "15a7b8d36d7c5b14d59b1b4c90f3211160a375c4f8287ccda30cd3f0ede1dc77"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

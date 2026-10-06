@@ -1,0 +1,58 @@
+{
+  "skin_id": 28063,
+  "base_skin_id": 28052,
+  "champion_id": 28,
+  "name": "西部魔影 伊芙琳 午夜影月",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "14f7bf0c97a203cbbb421257b54973f1c356698f9778b16290ee37ce669e9ab0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "28/28052/28063/28063.fantome",
+  "files": [
+    {
+      "path": "skins/28/28052/28063/Evelynn.wad.client",
+      "size": 89518,
+      "sha256": "3ee2d6b35bd21e404608b0bccde65b3111b7a4359bdb2dd30a24076a8b5ad036"
+    }
+  ],
+  "wads": {
+    "Evelynn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3234,
+      "bytes_after": 89518,
+      "replacement_hashes": [
+        "119195c66bfb4597"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Evelynn.wad.client",
+        "normal_hash": "119195c66bfb4597",
+        "border_hash": "1a0a25ec969e3e96",
+        "bytes": 86252,
+        "sha256": "840ad47ebe1adb62c4241984684ea65aefd47ce1f438f296d27795f4bbd4406c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

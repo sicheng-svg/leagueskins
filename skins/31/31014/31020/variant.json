@@ -1,0 +1,48 @@
+{
+  "skin_id": 31020,
+  "base_skin_id": 31014,
+  "champion_id": 31,
+  "name": "山海绘卷 科加斯 墨色",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "869afaba4dc9ffeb98fee69d86f23ff52a5ae8d614f9dd6ef122ef934d458864",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "31/31014/31020/31020.fantome",
+  "files": [
+    {
+      "path": "skins/31/31014/31020/Chogath.wad.client",
+      "size": 2001,
+      "sha256": "bd787c21f80fceb6adf6e23fca1cf36ad8a8ffd1ce19fcea8719186041ff4092"
+    }
+  ],
+  "wads": {
+    "Chogath.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2001,
+      "bytes_after": 2001,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 30042,
+  "base_skin_id": 30035,
+  "champion_id": 30,
+  "name": "永颂之歌 卡尔萨斯 哀伤",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d25a7549b1e57ef54119250d2eaa613bdba8a4710e801602502c384341d8bb19",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "30/30035/30042/30042.fantome",
+  "files": [
+    {
+      "path": "skins/30/30035/30042/Karthus.wad.client",
+      "size": 2662,
+      "sha256": "0f61d392c6094fd28804bd7a66e3ba4283787a6feff28570e76968177ded69a6"
+    }
+  ],
+  "wads": {
+    "Karthus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2662,
+      "bytes_after": 2662,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

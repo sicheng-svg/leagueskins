@@ -1,0 +1,413 @@
+{
+  "champion_id": 3,
+  "base_skin_id": 3040,
+  "name": "神盾机甲 加里奥",
+  "variants": [
+    {
+      "skin_id": 3040,
+      "base_skin_id": 3040,
+      "champion_id": 3,
+      "name": "神盾机甲 加里奥",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4d071c220a976a1d597db83d2c4f8b458f471d63f7bfad56b325c78af1816af7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "3/3040/3040.fantome",
+      "files": [
+        {
+          "path": "skins/3/3040/3040/Galio.wad.client",
+          "size": 94152,
+          "sha256": "755c69ba34e2f79b4db177fb093e4df95b89330e3b5f0659a3195ad467ee22f6"
+        }
+      ],
+      "wads": {
+        "Galio.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7868,
+          "bytes_after": 94152,
+          "replacement_hashes": [
+            "c56b5007e9a4febd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Galio.wad.client",
+            "normal_hash": "c56b5007e9a4febd",
+            "border_hash": "51eac2a1d9708a86",
+            "bytes": 86252,
+            "sha256": "369e64d1f5f6e4353bf8f580983518260cfea37c426d85fc9b081420ef0584e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 3041,
+      "base_skin_id": 3040,
+      "champion_id": 3,
+      "name": "神盾机甲 加里奥 战神赤翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "102ca6e176804f6953e0e5867f540ba77b23c70969614db3554e772e11c762d4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "3/3040/3041/3041.fantome",
+      "files": [
+        {
+          "path": "skins/3/3040/3041/Galio.wad.client",
+          "size": 89880,
+          "sha256": "c2aada649ed0c4b37cb9e59825ca9b9b6de69e9d4be1f3aa61008e95c26117eb"
+        }
+      ],
+      "wads": {
+        "Galio.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3596,
+          "bytes_after": 89880,
+          "replacement_hashes": [
+            "c56b5007e9a4febd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Galio.wad.client",
+            "normal_hash": "c56b5007e9a4febd",
+            "border_hash": "51eac2a1d9708a86",
+            "bytes": 86252,
+            "sha256": "369e64d1f5f6e4353bf8f580983518260cfea37c426d85fc9b081420ef0584e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 3042,
+      "base_skin_id": 3040,
+      "champion_id": 3,
+      "name": "神盾机甲 加里奥 爱神圣翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4f1a9c0c247b5d3b4748eb4954176fa701f6f12002df6cd0ce200f20f1cbd721",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "3/3040/3042/3042.fantome",
+      "files": [
+        {
+          "path": "skins/3/3040/3042/Galio.wad.client",
+          "size": 89826,
+          "sha256": "e2dd6f9fa5e0ba27eb55a8716864d223a2fa8b1930b6cf3e329092a28c000498"
+        }
+      ],
+      "wads": {
+        "Galio.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3542,
+          "bytes_after": 89826,
+          "replacement_hashes": [
+            "c56b5007e9a4febd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Galio.wad.client",
+            "normal_hash": "c56b5007e9a4febd",
+            "border_hash": "51eac2a1d9708a86",
+            "bytes": 86252,
+            "sha256": "369e64d1f5f6e4353bf8f580983518260cfea37c426d85fc9b081420ef0584e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 3043,
+      "base_skin_id": 3040,
+      "champion_id": 3,
+      "name": "神盾机甲 加里奥 主神轰翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0d94bade88e6dbc0b55798c32f13c13c06513bd12fd0ea3c091bb59adde1bade",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "3/3040/3043/3043.fantome",
+      "files": [
+        {
+          "path": "skins/3/3040/3043/Galio.wad.client",
+          "size": 89828,
+          "sha256": "709251c1b83eca0ecf9580c1a33887d1ac4cc83aafebc3cd5d69b5441cad4c86"
+        }
+      ],
+      "wads": {
+        "Galio.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3544,
+          "bytes_after": 89828,
+          "replacement_hashes": [
+            "c56b5007e9a4febd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Galio.wad.client",
+            "normal_hash": "c56b5007e9a4febd",
+            "border_hash": "51eac2a1d9708a86",
+            "bytes": 86252,
+            "sha256": "369e64d1f5f6e4353bf8f580983518260cfea37c426d85fc9b081420ef0584e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 3044,
+      "base_skin_id": 3040,
+      "champion_id": 3,
+      "name": "神盾机甲 加里奥 梦神幻翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "373caca8bc11684f05870233ea21f78d66efdd8bc3032c6b387ba5e6f30af9bb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "3/3040/3044/3044.fantome",
+      "files": [
+        {
+          "path": "skins/3/3040/3044/Galio.wad.client",
+          "size": 89830,
+          "sha256": "c6aa4fa4dbca5e068f98bc2f25377c9566e25715e25bfcdc8c950627fd06418b"
+        }
+      ],
+      "wads": {
+        "Galio.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3546,
+          "bytes_after": 89830,
+          "replacement_hashes": [
+            "c56b5007e9a4febd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Galio.wad.client",
+            "normal_hash": "c56b5007e9a4febd",
+            "border_hash": "51eac2a1d9708a86",
+            "bytes": 86252,
+            "sha256": "369e64d1f5f6e4353bf8f580983518260cfea37c426d85fc9b081420ef0584e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 3045,
+      "base_skin_id": 3040,
+      "champion_id": 3,
+      "name": "神盾机甲 加里奥 冥神铁翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e7a12eb1233584df9ab4a6970c52d58dd4f1ffb47d048e4bd73dd351ccefb174",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "3/3040/3045/3045.fantome",
+      "files": [
+        {
+          "path": "skins/3/3040/3045/Galio.wad.client",
+          "size": 89826,
+          "sha256": "5cfc5f48aad1f8f6fc978f05fbf8289c48c980031e3756b24adff07478f3d5cd"
+        }
+      ],
+      "wads": {
+        "Galio.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3542,
+          "bytes_after": 89826,
+          "replacement_hashes": [
+            "c56b5007e9a4febd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Galio.wad.client",
+            "normal_hash": "c56b5007e9a4febd",
+            "border_hash": "51eac2a1d9708a86",
+            "bytes": 86252,
+            "sha256": "369e64d1f5f6e4353bf8f580983518260cfea37c426d85fc9b081420ef0584e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 3046,
+      "base_skin_id": 3040,
+      "champion_id": 3,
+      "name": "神盾机甲 加里奥 美神创翼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "588bfd1bee991cd41d72fae2bfc0429a7f5c9496f8976e2cac25179926d1642a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "3/3040/3046/3046.fantome",
+      "files": [
+        {
+          "path": "skins/3/3040/3046/Galio.wad.client",
+          "size": 89827,
+          "sha256": "1c298f7b89dca259ccde77d9901a8d37bef92615d9c4ae62f3e844304830c4c2"
+        }
+      ],
+      "wads": {
+        "Galio.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3543,
+          "bytes_after": 89827,
+          "replacement_hashes": [
+            "c56b5007e9a4febd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Galio.wad.client",
+            "normal_hash": "c56b5007e9a4febd",
+            "border_hash": "51eac2a1d9708a86",
+            "bytes": 86252,
+            "sha256": "369e64d1f5f6e4353bf8f580983518260cfea37c426d85fc9b081420ef0584e7"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

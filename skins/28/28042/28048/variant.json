@@ -1,0 +1,58 @@
+{
+  "skin_id": 28048,
+  "base_skin_id": 28042,
+  "champion_id": 28,
+  "name": "斗魂觉醒 伊芙琳 毅之魂焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "00c073291ea32c9c623985fcdcf0353250070db26858136b3099cdd7594dc804",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "28/28042/28048/28048.fantome",
+  "files": [
+    {
+      "path": "skins/28/28042/28048/Evelynn.wad.client",
+      "size": 89343,
+      "sha256": "c7c01ba01356d5a9a0e9c68dda6a69e63916cd34b4b4f6b3a8d14e2654efd67a"
+    }
+  ],
+  "wads": {
+    "Evelynn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3059,
+      "bytes_after": 89343,
+      "replacement_hashes": [
+        "d7ef7c6753f53df9"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Evelynn.wad.client",
+        "normal_hash": "d7ef7c6753f53df9",
+        "border_hash": "e4460a26027e23b8",
+        "bytes": 86252,
+        "sha256": "5a0752874debe0e2c4f0bc7d2779db28582c87e01a517fac4d44cbca0974471b"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

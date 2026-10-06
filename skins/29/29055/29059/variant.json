@@ -1,0 +1,48 @@
+{
+  "skin_id": 29059,
+  "base_skin_id": 29055,
+  "champion_id": 29,
+  "name": "奶酪首领 图奇 莓果蛋糕",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "dbd9ea0f5bc6c35b8b7ee7704e6044cc982f3a5815bfc7f1b895c1d3c0755375",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "29/29055/29059/29059.fantome",
+  "files": [
+    {
+      "path": "skins/29/29055/29059/Twitch.wad.client",
+      "size": 2425,
+      "sha256": "94d9844122935cc756ffefe2114979ef3419596de1719ab53978ded06de6d463"
+    }
+  ],
+  "wads": {
+    "Twitch.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2425,
+      "bytes_after": 2425,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

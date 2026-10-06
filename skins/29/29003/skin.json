@@ -1,0 +1,239 @@
+{
+  "champion_id": 29,
+  "base_skin_id": 29003,
+  "name": "都铎王朝 图奇",
+  "variants": [
+    {
+      "skin_id": 29003,
+      "base_skin_id": 29003,
+      "champion_id": 29,
+      "name": "都铎王朝 图奇",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9572dea6f75294cacb2f314ea35fa21381d9b9b15e283eab605081366a26b1dc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "29/29003/29003.fantome",
+      "files": [
+        {
+          "path": "skins/29/29003/29003/Twitch.wad.client",
+          "size": 89261,
+          "sha256": "91ebb52d8b4e02af85ed9ac31ff27b282339ae5aa3dba64da6041306c4a49496"
+        }
+      ],
+      "wads": {
+        "Twitch.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2977,
+          "bytes_after": 89261,
+          "replacement_hashes": [
+            "f0d56e5554ce071f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Twitch.wad.client",
+            "normal_hash": "f0d56e5554ce071f",
+            "border_hash": "6bf0181e575bbfba",
+            "bytes": 86252,
+            "sha256": "b947f22e9ac38348a948292624fcac3992555b6ad21f348133e278c32422d821"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 29021,
+      "base_skin_id": 29003,
+      "champion_id": 29,
+      "name": "都铎王朝 图奇 上善若水",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1303b3690e7febe65f50c6bb0238f9934bec334c23fd4429a69a1edb15ab11cd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "29/29003/29021/29021.fantome",
+      "files": [
+        {
+          "path": "skins/29/29003/29021/Twitch.wad.client",
+          "size": 88238,
+          "sha256": "3062ba36c638131b7880418bab10c4c60993412faff286e6fe7f70c90e639421"
+        }
+      ],
+      "wads": {
+        "Twitch.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1954,
+          "bytes_after": 88238,
+          "replacement_hashes": [
+            "f0d56e5554ce071f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Twitch.wad.client",
+            "normal_hash": "f0d56e5554ce071f",
+            "border_hash": "6bf0181e575bbfba",
+            "bytes": 86252,
+            "sha256": "b947f22e9ac38348a948292624fcac3992555b6ad21f348133e278c32422d821"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 29023,
+      "base_skin_id": 29003,
+      "champion_id": 29,
+      "name": "都铎王朝 图奇 至真至诚",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d756300e5b3b9fe64522ed8e7da1c76e6ab5b59ddae435299e26640ef5337cf7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "29/29003/29023/29023.fantome",
+      "files": [
+        {
+          "path": "skins/29/29003/29023/Twitch.wad.client",
+          "size": 88239,
+          "sha256": "0abd946e25fa3d7eb5b5cde7629d16cc0c0e8e5a2647b398ea2567efa5f2b635"
+        }
+      ],
+      "wads": {
+        "Twitch.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1955,
+          "bytes_after": 88239,
+          "replacement_hashes": [
+            "f0d56e5554ce071f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Twitch.wad.client",
+            "normal_hash": "f0d56e5554ce071f",
+            "border_hash": "6bf0181e575bbfba",
+            "bytes": 86252,
+            "sha256": "b947f22e9ac38348a948292624fcac3992555b6ad21f348133e278c32422d821"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 29024,
+      "base_skin_id": 29003,
+      "champion_id": 29,
+      "name": "都铎王朝 图奇 厚德载物",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "973adc147aafd51b28af6e648acec1784ea372c385cc21d6eca6cf41cca3e60e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "29/29003/29024/29024.fantome",
+      "files": [
+        {
+          "path": "skins/29/29003/29024/Twitch.wad.client",
+          "size": 88237,
+          "sha256": "ae724a2c58d449661d1d5ad1b578512b4e3141ef9653e09e0b5dd2806f35e140"
+        }
+      ],
+      "wads": {
+        "Twitch.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 1953,
+          "bytes_after": 88237,
+          "replacement_hashes": [
+            "f0d56e5554ce071f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Twitch.wad.client",
+            "normal_hash": "f0d56e5554ce071f",
+            "border_hash": "6bf0181e575bbfba",
+            "bytes": 86252,
+            "sha256": "b947f22e9ac38348a948292624fcac3992555b6ad21f348133e278c32422d821"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

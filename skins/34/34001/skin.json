@@ -1,0 +1,79 @@
+{
+  "champion_id": 34,
+  "base_skin_id": 34001,
+  "name": "双重冰晶 艾尼维亚",
+  "variants": [
+    {
+      "skin_id": 34001,
+      "base_skin_id": 34001,
+      "champion_id": 34,
+      "name": "双重冰晶 艾尼维亚",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c287c783c038bd548f4d0bbf187619488683d1ac1996be7fa28c20162a0963a5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "34/34001/34001.fantome",
+      "files": [
+        {
+          "path": "skins/34/34001/34001/Anivia.wad.client",
+          "size": 89450,
+          "sha256": "7ffe1a9ca4869970db8f104f887e94c782ee11c6e169fb208c9669c6f02ca258"
+        }
+      ],
+      "wads": {
+        "Anivia.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3166,
+          "bytes_after": 89450,
+          "replacement_hashes": [
+            "411531b1e345f14c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Anivia.wad.client",
+            "normal_hash": "411531b1e345f14c",
+            "border_hash": "1310bff5242e2645",
+            "bytes": 86252,
+            "sha256": "4fad9ac5613d303f9597e0fe628f0265ca92c6ba9dcc884e2dfb4ee5224f88a5"
+          },
+          {
+            "archive": "Anivia.wad.client",
+            "normal_hash": "411531b1e345f14c",
+            "border_hash": "1310bff5242e2645",
+            "bytes": 86252,
+            "sha256": "4fad9ac5613d303f9597e0fe628f0265ca92c6ba9dcc884e2dfb4ee5224f88a5"
+          },
+          {
+            "archive": "Anivia.wad.client",
+            "normal_hash": "411531b1e345f14c",
+            "border_hash": "1310bff5242e2645",
+            "bytes": 86252,
+            "sha256": "4fad9ac5613d303f9597e0fe628f0265ca92c6ba9dcc884e2dfb4ee5224f88a5"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

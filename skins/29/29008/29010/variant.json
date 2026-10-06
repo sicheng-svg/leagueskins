@@ -1,0 +1,48 @@
+{
+  "skin_id": 29010,
+  "base_skin_id": 29008,
+  "champion_id": 29,
+  "name": "欧米伽小队 毒针狙击手 沙漠毒针",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ef9a6321ba6d2a40d90b9ba658bb256992bc8265d2a6493841cc5b900fabf04b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "29/29008/29010/29010.fantome",
+  "files": [
+    {
+      "path": "skins/29/29008/29010/Twitch.wad.client",
+      "size": 2437,
+      "sha256": "b1a5ebd28da8828b6e0c39e1b51a2af6efdcf6e5b131610b1a2c0a76ef5929dc"
+    }
+  ],
+  "wads": {
+    "Twitch.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2437,
+      "bytes_after": 2437,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

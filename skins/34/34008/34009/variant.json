@@ -1,0 +1,54 @@
+{
+  "skin_id": 34009,
+  "base_skin_id": 34008,
+  "champion_id": 34,
+  "name": "千纸凤凰 艾尼维亚 朱槿",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1ddf1d33a254c94c64dab06ccd47fe571a7c8481e5ba285e69362b1f88bd8cf3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "34/34008/34009/34009.fantome",
+  "files": [
+    {
+      "path": "skins/34/34008/34009/Anivia.wad.client",
+      "size": 152052,
+      "sha256": "900eb6d58b22ee5da48fc33c130a0ab7baac9923b562f3a50354abb7375b03dc"
+    }
+  ],
+  "wads": {
+    "Anivia.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8131,
+      "bytes_after": 152052,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {
+    "Anivia.wad.client": [
+      "18089937a60de736",
+      "71e7852baf3dcdb0",
+      "f9b20316bce6c76e"
+    ]
+  },
+  "references": {
+    "paths": 87,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

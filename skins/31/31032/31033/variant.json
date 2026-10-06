@@ -1,0 +1,48 @@
+{
+  "skin_id": 31033,
+  "base_skin_id": 31032,
+  "champion_id": 31,
+  "name": "铁甲鳄加斯",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "56733e393d99f1ec3c0b3ab83457c7ae570efdfe8864c26af39e07246cfedeaf",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "31/31032/31033/31033.fantome",
+  "files": [
+    {
+      "path": "skins/31/31032/31033/Chogath.wad.client",
+      "size": 1970,
+      "sha256": "9983d916d71836e215baa8cd734df374e17577e715ae7681aceb8114087fdfaa"
+    }
+  ],
+  "wads": {
+    "Chogath.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1970,
+      "bytes_after": 1970,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

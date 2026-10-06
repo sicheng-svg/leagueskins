@@ -1,0 +1,58 @@
+{
+  "skin_id": 29016,
+  "base_skin_id": 29012,
+  "champion_id": 29,
+  "name": "灾厄冰王 图奇",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4658dfb0de2cc81ffe2743c7c05d4d2aa669f523b1e41aeb82712e13e928236c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "29/29012/29016/29016.fantome",
+  "files": [
+    {
+      "path": "skins/29/29012/29016/Twitch.wad.client",
+      "size": 89029,
+      "sha256": "2212d65ab3b314ce3020f2d280a9bdaf88d7469487770681fc5480ba05251e80"
+    }
+  ],
+  "wads": {
+    "Twitch.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2745,
+      "bytes_after": 89029,
+      "replacement_hashes": [
+        "bd3727008dcf59b4"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Twitch.wad.client",
+        "normal_hash": "bd3727008dcf59b4",
+        "border_hash": "d551712a233befdb",
+        "bytes": 86252,
+        "sha256": "273a854d69045284469f1307c203bdd3d354d5673876f621b9d2c365daf9d378"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

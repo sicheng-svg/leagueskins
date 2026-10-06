@@ -1,0 +1,55 @@
+{
+  "champion_id": 33,
+  "base_skin_id": 33006,
+  "name": "全金属狂潮 拉莫斯",
+  "variants": [
+    {
+      "skin_id": 33006,
+      "base_skin_id": 33006,
+      "champion_id": 33,
+      "name": "全金属狂潮 拉莫斯",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cc7e6a5a7654bd1060ceb263de0caac048d671d292102de2440211fa6b96b1ab",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "33/33006/33006.fantome",
+      "files": [
+        {
+          "path": "skins/33/33006/33006/Rammus.wad.client",
+          "size": 4017,
+          "sha256": "cd11058ebb7193acc0fa560fdc12aa13c25d18600364d5c4c4456ebb1f8ad336"
+        }
+      ],
+      "wads": {
+        "Rammus.wad.client": {
+          "entries_before": 3,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4017,
+          "bytes_after": 4017,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

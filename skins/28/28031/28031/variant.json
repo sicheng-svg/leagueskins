@@ -1,0 +1,48 @@
+{
+  "skin_id": 28031,
+  "base_skin_id": 28031,
+  "champion_id": 28,
+  "name": "至臻 K/DA 伊芙琳 (2022)",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8d6bca0605929a826c3a06bd37ffe2f64aa9cd09f0a81370fdabfd188f79ee9e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "28/28031/28031.fantome",
+  "files": [
+    {
+      "path": "skins/28/28031/28031/Evelynn.wad.client",
+      "size": 3221,
+      "sha256": "b07c9a8c384b07a089679ede5792469302cd5266e3a964bc92ca8b405263ba0a"
+    }
+  ],
+  "wads": {
+    "Evelynn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3221,
+      "bytes_after": 3221,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 19,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

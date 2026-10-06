@@ -1,0 +1,48 @@
+{
+  "skin_id": 32050,
+  "base_skin_id": 32044,
+  "champion_id": 32,
+  "name": "黯然心伤 阿木木 闻其声而心动",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2adb18b05a08283b4a462b4e3db1ca1e11041d86950556fc075390b1b703cf20",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "32/32044/32050/32050.fantome",
+  "files": [
+    {
+      "path": "skins/32/32044/32050/Amumu.wad.client",
+      "size": 1873,
+      "sha256": "b8deccbb4204d0d86f6c2e7eed88626769f7a52db268ecb009c59749a249931d"
+    }
+  ],
+  "wads": {
+    "Amumu.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1873,
+      "bytes_after": 1873,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 30013,
+  "base_skin_id": 30010,
+  "champion_id": 30,
+  "name": "地狱火 卡尔萨斯 慈悲之焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a050c3f94a18efce339ec1261d701992c07fd7f952abbdfe2e1b5caafe22ab3e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "30/30010/30013/30013.fantome",
+  "files": [
+    {
+      "path": "skins/30/30010/30013/Karthus.wad.client",
+      "size": 2546,
+      "sha256": "bcf63a4a7eed288df40340456580a615df65d6d62d11034349fe997857df1a54"
+    }
+  ],
+  "wads": {
+    "Karthus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2546,
+      "bytes_after": 2546,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

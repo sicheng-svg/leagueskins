@@ -1,0 +1,58 @@
+{
+  "skin_id": 28038,
+  "base_skin_id": 28032,
+  "champion_id": 28,
+  "name": "灵魂莲华 伊芙琳 云开",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1cbd4b2d93b00ee1789c9c0b0e6a1ece0b76c405fb42b680c608bfadc6e10125",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "28/28032/28038/28038.fantome",
+  "files": [
+    {
+      "path": "skins/28/28032/28038/Evelynn.wad.client",
+      "size": 89263,
+      "sha256": "0e39256a750cc70c27690d15bc1e38e2cf545d6dd7b3c658d5269a00293bdc02"
+    }
+  ],
+  "wads": {
+    "Evelynn.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2979,
+      "bytes_after": 89263,
+      "replacement_hashes": [
+        "36e89bda3fc043dd"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Evelynn.wad.client",
+        "normal_hash": "36e89bda3fc043dd",
+        "border_hash": "2ef3b73445b23d3d",
+        "bytes": 86252,
+        "sha256": "1975523043cc6ceafe5f22e6f0d2b93c31bea0f304f856b62673266a59b3ac30"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 35014,
+  "base_skin_id": 35008,
+  "champion_id": 35,
+  "name": "暗星 萨科 冥神星之击",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "79654c74f846f407a9c1f0c303f0195806238611e4022ff674c93fc8c83b17e8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "35/35008/35014/35014.fantome",
+  "files": [
+    {
+      "path": "skins/35/35008/35014/Shaco.wad.client",
+      "size": 2925,
+      "sha256": "ecebecebfecfa3e79128c86d075470c3449b5316b9ad7f3e4edea19bab571b4b"
+    }
+  ],
+  "wads": {
+    "Shaco.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 2925,
+      "bytes_after": 2925,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 34064,
+  "base_skin_id": 34056,
+  "champion_id": 34,
+  "name": "古神 艾尼维亚 欲望",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "21a2be3da996faeec9e65fa8419d908b9471d9d61f947829d60b0ae518e24e53",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "34/34056/34064/34064.fantome",
+  "files": [
+    {
+      "path": "skins/34/34056/34064/Anivia.wad.client",
+      "size": 4042,
+      "sha256": "997b6da2eba2c198c6248d2f1668072aca30f8d7864001319ce158e1c0c8504d"
+    }
+  ],
+  "wads": {
+    "Anivia.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4042,
+      "bytes_after": 4042,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 15,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

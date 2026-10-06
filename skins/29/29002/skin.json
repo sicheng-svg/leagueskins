@@ -1,0 +1,65 @@
+{
+  "champion_id": 29,
+  "base_skin_id": 29002,
+  "name": "北风冻原 图奇",
+  "variants": [
+    {
+      "skin_id": 29002,
+      "base_skin_id": 29002,
+      "champion_id": 29,
+      "name": "北风冻原 图奇",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e4c37d251f4f1ca5876467069529d07b3eb92c041ede18314e46b4bd658365a9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "29/29002/29002.fantome",
+      "files": [
+        {
+          "path": "skins/29/29002/29002/Twitch.wad.client",
+          "size": 89242,
+          "sha256": "4e32257f06c2a89726b76216ea52edb034e80a8b8d0934c6053a8fefa8bf4040"
+        }
+      ],
+      "wads": {
+        "Twitch.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2958,
+          "bytes_after": 89242,
+          "replacement_hashes": [
+            "5b45aaf52e461df6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Twitch.wad.client",
+            "normal_hash": "5b45aaf52e461df6",
+            "border_hash": "12865b2f59cd1f58",
+            "bytes": 86252,
+            "sha256": "8041bf3486248b23ac2775b3793c7818deb97d800efd4e06920cd9e166006a56"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

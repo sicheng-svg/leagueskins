@@ -1,0 +1,48 @@
+{
+  "skin_id": 32012,
+  "base_skin_id": 32008,
+  "champion_id": 32,
+  "name": "惊悚派对 阿木木 “菲兹还没来…”",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7a01102fbdb55c2236758a6c039b9aee01e98eb5ce0a71919010de85b0fa5013",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "32/32008/32012/32012.fantome",
+  "files": [
+    {
+      "path": "skins/32/32008/32012/Amumu.wad.client",
+      "size": 1852,
+      "sha256": "d45117510a84911198ba1e3b7d9084359ca594f11c266d37f54bce56cb39713a"
+    }
+  ],
+  "wads": {
+    "Amumu.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1852,
+      "bytes_after": 1852,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

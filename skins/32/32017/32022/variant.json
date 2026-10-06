@@ -1,0 +1,48 @@
+{
+  "skin_id": 32022,
+  "base_skin_id": 32017,
+  "champion_id": 32,
+  "name": "地狱火 阿木木 艾尼的宠儿",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "99310fec5f518fc5d4da50e2acca626a436a3cfbc12b7c5d37f9afd4aa6af4e3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "32/32017/32022/32022.fantome",
+  "files": [
+    {
+      "path": "skins/32/32017/32022/Amumu.wad.client",
+      "size": 1714,
+      "sha256": "2e264aae760bad148196422afddbd3d9202ca17fca738cf4bdc0c4f5804b4d0f"
+    }
+  ],
+  "wads": {
+    "Amumu.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1714,
+      "bytes_after": 1714,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

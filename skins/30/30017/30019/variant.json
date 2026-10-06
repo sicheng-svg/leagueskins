@@ -1,0 +1,48 @@
+{
+  "skin_id": 30019,
+  "base_skin_id": 30017,
+  "champion_id": 30,
+  "name": "五杀摇滚 III：遗失的章节 卡尔萨斯 不羁",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9466c04a57f57911b6ac6ab4712bee95fe4d9eebb40068262c35df918829b840",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "30/30017/30019/30019.fantome",
+  "files": [
+    {
+      "path": "skins/30/30017/30019/Karthus.wad.client",
+      "size": 2741,
+      "sha256": "c7d846d8c36d03766277ed736cc674d0aa5ac07f50f289e5b2512c9ef3a0c004"
+    }
+  ],
+  "wads": {
+    "Karthus.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2741,
+      "bytes_after": 2741,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

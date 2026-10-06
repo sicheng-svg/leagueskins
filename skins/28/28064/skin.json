@@ -1,0 +1,65 @@
+{
+  "champion_id": 28,
+  "base_skin_id": 28064,
+  "name": "黑夜使者 伊芙琳",
+  "variants": [
+    {
+      "skin_id": 28064,
+      "base_skin_id": 28064,
+      "champion_id": 28,
+      "name": "黑夜使者 伊芙琳",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f3479a981ac9e74fd7e5ba0fd8a51c9ddc071c13a581cf306f1f52e614e48a46",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "28/28064/28064.fantome",
+      "files": [
+        {
+          "path": "skins/28/28064/28064/Evelynn.wad.client",
+          "size": 95767,
+          "sha256": "ad2aad33f13c88f5b6033da63061bf8792abd80c4337aa45bd8b153d19f46827"
+        }
+      ],
+      "wads": {
+        "Evelynn.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9483,
+          "bytes_after": 95767,
+          "replacement_hashes": [
+            "478ae6e0e43a333f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Evelynn.wad.client",
+            "normal_hash": "478ae6e0e43a333f",
+            "border_hash": "9327d127c1714606",
+            "bytes": 86252,
+            "sha256": "82f170394089bfd66fa9dc579bccf4af1561b913ffab9aca5d64abeb79128520"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

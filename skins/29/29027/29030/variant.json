@@ -1,0 +1,48 @@
+{
+  "skin_id": 29030,
+  "base_skin_id": 29027,
+  "champion_id": 29,
+  "name": "图奇 · 影足 赏金勇者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "252b7a5dc93956cf02548c519074b12c7c5cd6e729138a39e4d5582b967cc3ca",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "29/29027/29030/29030.fantome",
+  "files": [
+    {
+      "path": "skins/29/29027/29030/Twitch.wad.client",
+      "size": 2464,
+      "sha256": "36a979120f19e4fcfb9957e2a7098c2796e7f630e82c5b57cfc9ee0957e94e1d"
+    }
+  ],
+  "wads": {
+    "Twitch.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2464,
+      "bytes_after": 2464,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 3048,
+  "base_skin_id": 3047,
+  "champion_id": 3,
+  "name": "T1 加里奥 精锐",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7d11ba22462051b0b2de7c12f52092b202ef604eeb1fcc9d09c1fa39785567e0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "3/3047/3048/3048.fantome",
+  "files": [
+    {
+      "path": "skins/3/3047/3048/Galio.wad.client",
+      "size": 89401,
+      "sha256": "c76f666c1ac13f9869daccbba2fabe61f43967efc790e661342f5221ca19d43b"
+    }
+  ],
+  "wads": {
+    "Galio.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3117,
+      "bytes_after": 89401,
+      "replacement_hashes": [
+        "ba2d7caee12b6eab"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Galio.wad.client",
+        "normal_hash": "ba2d7caee12b6eab",
+        "border_hash": "cd387d784aaa1b69",
+        "bytes": 86252,
+        "sha256": "f0e9a0471c891665e040ce156bb870a5abba742a62c00879ac3bf75161e1a1bc"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

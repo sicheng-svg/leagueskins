@@ -1,0 +1,48 @@
+{
+  "skin_id": 34061,
+  "base_skin_id": 34056,
+  "champion_id": 34,
+  "name": "古神 艾尼维亚 虚荣",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "860ed6c06e6ecb0a9271883a9430eab0cb9a9541b93aac59dc609e251293596b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "34/34056/34061/34061.fantome",
+  "files": [
+    {
+      "path": "skins/34/34056/34061/Anivia.wad.client",
+      "size": 4041,
+      "sha256": "63e4a56914c9e2b7022ce09962e973f2514704a77ecffac5ce64647a4d290db4"
+    }
+  ],
+  "wads": {
+    "Anivia.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4041,
+      "bytes_after": 4041,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 15,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

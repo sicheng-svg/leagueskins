@@ -1,0 +1,58 @@
+{
+  "skin_id": 5050,
+  "base_skin_id": 5047,
+  "champion_id": 5,
+  "name": "2025 全球总决赛 赵信 此刻共传奇",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "33413f69568988cc30518a9d9e0d8f2cace838a10514631ab305a77a2c80dc88",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "5/5047/5050/5050.fantome",
+  "files": [
+    {
+      "path": "skins/5/5047/5050/XinZhao.wad.client",
+      "size": 90107,
+      "sha256": "12d1a9e0b3ef6cf435bbaa838ae723ba8379a2aa90273fe238d1203b4d99531c"
+    }
+  ],
+  "wads": {
+    "XinZhao.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3823,
+      "bytes_after": 90107,
+      "replacement_hashes": [
+        "14eb82ddafdcb818"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "XinZhao.wad.client",
+        "normal_hash": "14eb82ddafdcb818",
+        "border_hash": "7806ff3c4fd21eb8",
+        "bytes": 86252,
+        "sha256": "77428a2440783f1426daa92f1b34f1caa0e1086f6e536e0f8ed58d2e0c330628"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

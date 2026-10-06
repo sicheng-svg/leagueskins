@@ -1,0 +1,58 @@
+{
+  "skin_id": 45028,
+  "base_skin_id": 45023,
+  "champion_id": 45,
+  "name": "我，狮心怒角 维迦",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e085d2c7048e05fdb835434c23099de6fa48da32bb7234649f9be61706f3e4db",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "45/45023/45028/45028.fantome",
+  "files": [
+    {
+      "path": "skins/45/45023/45028/Veigar.wad.client",
+      "size": 88538,
+      "sha256": "fa75b17f894a03c4b612cafcca755a2c5193ee1ebcf2d241f8f488fa767a1e66"
+    }
+  ],
+  "wads": {
+    "Veigar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2254,
+      "bytes_after": 88538,
+      "replacement_hashes": [
+        "9f46400c5b821610"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Veigar.wad.client",
+        "normal_hash": "9f46400c5b821610",
+        "border_hash": "c43fec1ee04839a9",
+        "bytes": 86252,
+        "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

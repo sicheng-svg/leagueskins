@@ -1,0 +1,48 @@
+{
+  "skin_id": 497022,
+  "base_skin_id": 497018,
+  "champion_id": 497,
+  "name": "比翼之心 洛 忠诚",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "adfef5759e90f4bd034ac26a2a96240b034efb6e7cf41f52f662e7d35f0d8c05",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "497/497018/497022/497022.fantome",
+  "files": [
+    {
+      "path": "skins/497/497018/497022/Rakan.wad.client",
+      "size": 3150,
+      "sha256": "eae6b2fa2df7b78e896c66b0f15b7d139563caf4f62b8755f27a63f202cd10eb"
+    }
+  ],
+  "wads": {
+    "Rakan.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3150,
+      "bytes_after": 3150,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 5051,
+  "base_skin_id": 5047,
+  "champion_id": 5,
+  "name": "2025 全球总决赛 赵信 出奇制胜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "98f5ff6c4f6f79a54b4bf384f4b276b951738ee45b762f868835ec75cf12387f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "5/5047/5051/5051.fantome",
+  "files": [
+    {
+      "path": "skins/5/5047/5051/XinZhao.wad.client",
+      "size": 90105,
+      "sha256": "4f348ffd24fd22862190cf6b20c33d0c5823291f20c24adce54ca561933e8826"
+    }
+  ],
+  "wads": {
+    "XinZhao.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3821,
+      "bytes_after": 90105,
+      "replacement_hashes": [
+        "14eb82ddafdcb818"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "XinZhao.wad.client",
+        "normal_hash": "14eb82ddafdcb818",
+        "border_hash": "7806ff3c4fd21eb8",
+        "bytes": 86252,
+        "sha256": "77428a2440783f1426daa92f1b34f1caa0e1086f6e536e0f8ed58d2e0c330628"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

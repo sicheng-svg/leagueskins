@@ -1,0 +1,48 @@
+{
+  "skin_id": 45036,
+  "base_skin_id": 45032,
+  "champion_id": 45,
+  "name": "宇航员 维迦 万有引力",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "efe75722ae3e9c0d905293f910261a9b4816671829e88e824de2b5a7c565515b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "45/45032/45036/45036.fantome",
+  "files": [
+    {
+      "path": "skins/45/45032/45036/Veigar.wad.client",
+      "size": 2106,
+      "sha256": "72ab4455b79ecb2f05e491a225e7179fa0c93b7d59e3a25e538d8a17dd0d3dfd"
+    }
+  ],
+  "wads": {
+    "Veigar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2106,
+      "bytes_after": 2106,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

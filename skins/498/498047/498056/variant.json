@@ -1,0 +1,58 @@
+{
+  "skin_id": 498056,
+  "base_skin_id": 498047,
+  "champion_id": 498,
+  "name": "幻灵蝙蝠 霞 隐秘夜影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "aec9661daa7a3ea5df86ca42963c87ce3b4bddedaa366ce75694d058767e8dae",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "498/498047/498056/498056.fantome",
+  "files": [
+    {
+      "path": "skins/498/498047/498056/Xayah.wad.client",
+      "size": 89894,
+      "sha256": "b74cfc5b7a6866096e9f31532481e41059e2a679be87c8184033df3afdb1ade2"
+    }
+  ],
+  "wads": {
+    "Xayah.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3610,
+      "bytes_after": 89894,
+      "replacement_hashes": [
+        "6e4709e53554a244"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Xayah.wad.client",
+        "normal_hash": "6e4709e53554a244",
+        "border_hash": "5a6b1f73e33399b4",
+        "bytes": 86252,
+        "sha256": "81f7e6ddce636b64ed9f5731949da6e316a5b0cd2c11e043b98b014a07df832c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 9,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

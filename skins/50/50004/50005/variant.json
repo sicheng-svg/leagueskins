@@ -1,0 +1,48 @@
+{
+  "skin_id": 50005,
+  "base_skin_id": 50004,
+  "champion_id": 50,
+  "name": "驯龙大师 斯维因 至高言灵",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "49440f1f962958a5e2bbe62afc5d1490979479c04c8c353ed1b93d8dc6517ba9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "50/50004/50005/50005.fantome",
+  "files": [
+    {
+      "path": "skins/50/50004/50005/Swain.wad.client",
+      "size": 4928,
+      "sha256": "9756c4e599f1d02803312df4512bc427717bf969acfb2b166be18fc15d9a0516"
+    }
+  ],
+  "wads": {
+    "Swain.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4928,
+      "bytes_after": 4928,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

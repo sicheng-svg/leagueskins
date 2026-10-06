@@ -1,0 +1,48 @@
+{
+  "skin_id": 5020,
+  "base_skin_id": 5020,
+  "champion_id": 5,
+  "name": "穿星魔锋 赵信",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d670c7dbed83fef115dc16a2dc1524531b7ed9ee03d538b053257209a0c0d637",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "5/5020/5020.fantome",
+  "files": [
+    {
+      "path": "skins/5/5020/5020/XinZhao.wad.client",
+      "size": 8704,
+      "sha256": "272f2d7b525d1ff688a8c7456c17f629aab59ba776952e57907daa572032a616"
+    }
+  ],
+  "wads": {
+    "XinZhao.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 8704,
+      "bytes_after": 8704,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 48,
+  "base_skin_id": 48004,
+  "name": "巡逻警官 特朗德尔",
+  "variants": [
+    {
+      "skin_id": 48004,
+      "base_skin_id": 48004,
+      "champion_id": 48,
+      "name": "巡逻警官 特朗德尔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "945db8f664750f5161e5a284b2f6d25b127448d667489d2dcad59cc25a8e2501",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "48/48004/48004.fantome",
+      "files": [
+        {
+          "path": "skins/48/48004/48004/Trundle.wad.client",
+          "size": 3788,
+          "sha256": "832052e29fe77bee4f0fe2e2b8c7aaa178481fe8d1fbc6c3669f00e7c6b7ece7"
+        }
+      ],
+      "wads": {
+        "Trundle.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3788,
+          "bytes_after": 3788,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

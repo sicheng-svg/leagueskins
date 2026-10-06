@@ -1,0 +1,48 @@
+{
+  "skin_id": 498027,
+  "base_skin_id": 498017,
+  "champion_id": 498,
+  "name": "神凰行者 烈羽焰凰 霞 玉虎呈祥",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "20287a343b336e24b3c3d07820a708e32723a4a66c03250315254a907706bd6d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "498/498017/498027/498027.fantome",
+  "files": [
+    {
+      "path": "skins/498/498017/498027/Xayah.wad.client",
+      "size": 3307,
+      "sha256": "4879660bedb360ab62365ceb155b8a6c0804277645d29ef4b407d3976ff71671"
+    }
+  ],
+  "wads": {
+    "Xayah.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3307,
+      "bytes_after": 3307,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

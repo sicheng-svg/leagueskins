@@ -1,0 +1,48 @@
+{
+  "skin_id": 5019,
+  "base_skin_id": 5013,
+  "champion_id": 5,
+  "name": "屠龙勇士 赵信 红龙之狂傲",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5373837e6879437f464e43d563716d8595181b9a2e9f71a2131d50ce85200554",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "5/5013/5019/5019.fantome",
+  "files": [
+    {
+      "path": "skins/5/5013/5019/XinZhao.wad.client",
+      "size": 3400,
+      "sha256": "d087a25ebc1c592c18b1a072509a2f6b61198eb7aebad510a70d0456ebc59291"
+    }
+  ],
+  "wads": {
+    "XinZhao.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3400,
+      "bytes_after": 3400,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

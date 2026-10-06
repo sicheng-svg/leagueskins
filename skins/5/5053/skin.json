@@ -1,0 +1,413 @@
+{
+  "champion_id": 5,
+  "base_skin_id": 5053,
+  "name": "T1 赵信",
+  "variants": [
+    {
+      "skin_id": 5053,
+      "base_skin_id": 5053,
+      "champion_id": 5,
+      "name": "T1 赵信",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2d9bc480ea94de550a04f2a26a557023aaa85ac7c7f6c27d98266ec38541ef1a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "5/5053/5053.fantome",
+      "files": [
+        {
+          "path": "skins/5/5053/5053/XinZhao.wad.client",
+          "size": 96582,
+          "sha256": "da7d2d420ac4e208742c15fff17c871283321bcfaba0530bfbb5c880910bf3fa"
+        }
+      ],
+      "wads": {
+        "XinZhao.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10298,
+          "bytes_after": 96582,
+          "replacement_hashes": [
+            "d7423b9bd0ac161b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "XinZhao.wad.client",
+            "normal_hash": "d7423b9bd0ac161b",
+            "border_hash": "68d5a92a97f2c1a6",
+            "bytes": 86252,
+            "sha256": "f2cbea11ff5995139f6a4b3437ef81775c26af3f9a537ad84e8bf61a49205e7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 5054,
+      "base_skin_id": 5053,
+      "champion_id": 5,
+      "name": "T1 赵信 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bcf420bb68c71d5ac8dbae910940071519c4a519215b4521db473bc8c4c4ef1b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "5/5053/5054/5054.fantome",
+      "files": [
+        {
+          "path": "skins/5/5053/5054/XinZhao.wad.client",
+          "size": 90767,
+          "sha256": "26810248e66aabc64ae213f7bc9e26c94505a2bd375774ca10216a9ac36017ab"
+        }
+      ],
+      "wads": {
+        "XinZhao.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4483,
+          "bytes_after": 90767,
+          "replacement_hashes": [
+            "d7423b9bd0ac161b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "XinZhao.wad.client",
+            "normal_hash": "d7423b9bd0ac161b",
+            "border_hash": "68d5a92a97f2c1a6",
+            "bytes": 86252,
+            "sha256": "f2cbea11ff5995139f6a4b3437ef81775c26af3f9a537ad84e8bf61a49205e7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 5055,
+      "base_skin_id": 5053,
+      "champion_id": 5,
+      "name": "T1 赵信 混合的世界",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3dd2dc3e739706dc51eea60eb153e4d3c37eb1bf4e482a20adfc52096cee6afd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "5/5053/5055/5055.fantome",
+      "files": [
+        {
+          "path": "skins/5/5053/5055/XinZhao.wad.client",
+          "size": 90711,
+          "sha256": "e0ad22e83bf4e4668bb2a939fc15bdb9c1e2cd7eea3e51b10ffddd3b680c15d7"
+        }
+      ],
+      "wads": {
+        "XinZhao.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4427,
+          "bytes_after": 90711,
+          "replacement_hashes": [
+            "d7423b9bd0ac161b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "XinZhao.wad.client",
+            "normal_hash": "d7423b9bd0ac161b",
+            "border_hash": "68d5a92a97f2c1a6",
+            "bytes": 86252,
+            "sha256": "f2cbea11ff5995139f6a4b3437ef81775c26af3f9a537ad84e8bf61a49205e7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 5056,
+      "base_skin_id": 5053,
+      "champion_id": 5,
+      "name": "T1 赵信 决战在即",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2ca3ea88d74012ab82c3a44b1e2fb2765b73ddfebfd6aa765c266905e39f7ea4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "5/5053/5056/5056.fantome",
+      "files": [
+        {
+          "path": "skins/5/5053/5056/XinZhao.wad.client",
+          "size": 90765,
+          "sha256": "bed6b495afa182c8023b9e0383052ab4c543ade2a9a20566308207979c92e709"
+        }
+      ],
+      "wads": {
+        "XinZhao.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4481,
+          "bytes_after": 90765,
+          "replacement_hashes": [
+            "d7423b9bd0ac161b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "XinZhao.wad.client",
+            "normal_hash": "d7423b9bd0ac161b",
+            "border_hash": "68d5a92a97f2c1a6",
+            "bytes": 86252,
+            "sha256": "f2cbea11ff5995139f6a4b3437ef81775c26af3f9a537ad84e8bf61a49205e7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 5057,
+      "base_skin_id": 5053,
+      "champion_id": 5,
+      "name": "T1 赵信 燃",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0f50c348352275599633a7fbbddd33beb7c86f5061d5551c323ad874a89dc03e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "5/5053/5057/5057.fantome",
+      "files": [
+        {
+          "path": "skins/5/5053/5057/XinZhao.wad.client",
+          "size": 90713,
+          "sha256": "e9e1ad4d80cff5ca00cdd8abe77d611f2c377718840fa89f9a34bc62c461894e"
+        }
+      ],
+      "wads": {
+        "XinZhao.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4429,
+          "bytes_after": 90713,
+          "replacement_hashes": [
+            "d7423b9bd0ac161b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "XinZhao.wad.client",
+            "normal_hash": "d7423b9bd0ac161b",
+            "border_hash": "68d5a92a97f2c1a6",
+            "bytes": 86252,
+            "sha256": "f2cbea11ff5995139f6a4b3437ef81775c26af3f9a537ad84e8bf61a49205e7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 5058,
+      "base_skin_id": 5053,
+      "champion_id": 5,
+      "name": "T1 赵信 登神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "90d70c70d403cac97b75f6b2f8ec7523912bc2f4234c4ae91b57a31cbe587c94",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "5/5053/5058/5058.fantome",
+      "files": [
+        {
+          "path": "skins/5/5053/5058/XinZhao.wad.client",
+          "size": 90713,
+          "sha256": "e9b5a4c1fc2e6c62c1eef0aefe18b23c46bb5d1abe32bd385fd01bccfc8f1345"
+        }
+      ],
+      "wads": {
+        "XinZhao.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4429,
+          "bytes_after": 90713,
+          "replacement_hashes": [
+            "d7423b9bd0ac161b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "XinZhao.wad.client",
+            "normal_hash": "d7423b9bd0ac161b",
+            "border_hash": "68d5a92a97f2c1a6",
+            "bytes": 86252,
+            "sha256": "f2cbea11ff5995139f6a4b3437ef81775c26af3f9a537ad84e8bf61a49205e7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 5059,
+      "base_skin_id": 5053,
+      "champion_id": 5,
+      "name": "T1 赵信 王冠之重",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4f898d6ba988baa88feaa49e7ecbac4abfb02b4a1972096a21eea2391f9a9b9a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "5/5053/5059/5059.fantome",
+      "files": [
+        {
+          "path": "skins/5/5053/5059/XinZhao.wad.client",
+          "size": 90714,
+          "sha256": "b063f0b84a8ba6515b35a9ce7bcb305990e16ab0afad14b393d90a4d5a3ed85a"
+        }
+      ],
+      "wads": {
+        "XinZhao.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4430,
+          "bytes_after": 90714,
+          "replacement_hashes": [
+            "d7423b9bd0ac161b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "XinZhao.wad.client",
+            "normal_hash": "d7423b9bd0ac161b",
+            "border_hash": "68d5a92a97f2c1a6",
+            "bytes": 86252,
+            "sha256": "f2cbea11ff5995139f6a4b3437ef81775c26af3f9a537ad84e8bf61a49205e7a"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

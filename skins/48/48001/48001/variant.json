@@ -1,0 +1,48 @@
+{
+  "skin_id": 48001,
+  "base_skin_id": 48001,
+  "champion_id": 48,
+  "name": "里尔击球手  特朗德尔",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d7bebd1ed36aed870d00b5e7c5fb3a09febf67919ffb859b45870efd79c8f09d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "48/48001/48001.fantome",
+  "files": [
+    {
+      "path": "skins/48/48001/48001/Trundle.wad.client",
+      "size": 3772,
+      "sha256": "0bfca1331f3db141090688f21726b7d2f610ec722e1752a1c9879a323ddb65e8"
+    }
+  ],
+  "wads": {
+    "Trundle.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3772,
+      "bytes_after": 3772,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

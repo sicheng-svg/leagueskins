@@ -1,0 +1,58 @@
+{
+  "skin_id": 45063,
+  "base_skin_id": 45060,
+  "champion_id": 45,
+  "name": "魔域梦魇 维迦 魔咒梦境",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3c6ea7df121ebe719d7d1d3b58eb3e7188d9732d64d30aa907462f6289cb181b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "45/45060/45063/45063.fantome",
+  "files": [
+    {
+      "path": "skins/45/45060/45063/Veigar.wad.client",
+      "size": 89388,
+      "sha256": "5299d85f5b03d19cc996463a28e1d90b7e5003a2e27d8f345ba1c4fd6f7f7f8e"
+    }
+  ],
+  "wads": {
+    "Veigar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3104,
+      "bytes_after": 89388,
+      "replacement_hashes": [
+        "426d6408e1170dfc"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Veigar.wad.client",
+        "normal_hash": "426d6408e1170dfc",
+        "border_hash": "d358d901ea4dc011",
+        "bytes": 86252,
+        "sha256": "5ae7f2a59f77cba4621d77be0c1e3e47c26c1f49a85c3193083ba9c9b7487c49"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

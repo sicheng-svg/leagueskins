@@ -1,0 +1,123 @@
+{
+  "champion_id": 497,
+  "base_skin_id": 497004,
+  "name": "iG 洛",
+  "variants": [
+    {
+      "skin_id": 497004,
+      "base_skin_id": 497004,
+      "champion_id": 497,
+      "name": "iG 洛",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a25946c68c6857efec55c84f542a66c52bd88f795bbb9f615c1217a61c46bfbc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497004/497004.fantome",
+      "files": [
+        {
+          "path": "skins/497/497004/497004/Rakan.wad.client",
+          "size": 97638,
+          "sha256": "14d64050a8a3223f8d1cc937735410d4e3d9c65d59f96cf0360db38d656d6d6e"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11354,
+          "bytes_after": 97638,
+          "replacement_hashes": [
+            "c863f38228c74ee5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "c863f38228c74ee5",
+            "border_hash": "8aa1f2469301c161",
+            "bytes": 86252,
+            "sha256": "4facc7a875a1b7ae84d1ae2cd6f9ded257b0f29fb2e86cb113496c28d4499440"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497057,
+      "base_skin_id": 497004,
+      "champion_id": 497,
+      "name": "iG 洛 极境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e279d8dfc3efffb4370b12ddd3c6b32dbfb0b979dee70bccc4ab0c50825227da",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497004/497057/497057.fantome",
+      "files": [
+        {
+          "path": "skins/497/497004/497057/Rakan.wad.client",
+          "size": 89362,
+          "sha256": "c699f68ea2ad7b1643382daab1920e25d9d24e111ece520d5fed604aac28c6fd"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3078,
+          "bytes_after": 89362,
+          "replacement_hashes": [
+            "c863f38228c74ee5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "c863f38228c74ee5",
+            "border_hash": "8aa1f2469301c161",
+            "bytes": 86252,
+            "sha256": "4facc7a875a1b7ae84d1ae2cd6f9ded257b0f29fb2e86cb113496c28d4499440"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

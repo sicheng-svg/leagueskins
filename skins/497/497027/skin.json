@@ -1,0 +1,529 @@
+{
+  "champion_id": 497,
+  "base_skin_id": 497027,
+  "name": "绝息圣堂 洛",
+  "variants": [
+    {
+      "skin_id": 497027,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "acce92deec50c7967915b61662ec5cfa90c83747623360607bb3cf3d069634cf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497027.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497027/Rakan.wad.client",
+          "size": 97735,
+          "sha256": "acdb8b503a2443f731023099fb6906a15a8374a275183e9c25c1f4495b92c789"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11451,
+          "bytes_after": 97735,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497028,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 残阳圆舞曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "eb1daf00430d3cd9c8ca185acc76774df6c1382947a143e8fdbae145a4766bf8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497028/497028.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497028/Rakan.wad.client",
+          "size": 89408,
+          "sha256": "2edf2c3717272d8baf52d2d7e08a82ab767ff84e8c1ea57e2ca6440d53b83ef0"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3124,
+          "bytes_after": 89408,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497029,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 昼梦狂想曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8d15410ad91e0768f52472b684556fae5fc8a1657c62a5892d740aa3cfaf67e7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497029/497029.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497029/Rakan.wad.client",
+          "size": 89346,
+          "sha256": "5baea28f0bff621e058e6a40ff73710891fb88c13666af310a30bf72a3a20a0b"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3062,
+          "bytes_after": 89346,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497030,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 永生前奏曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fbc2129af6f7dc6117139dd4c73d52394ada951772816bbcbf055c4c1ad6e03a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497030/497030.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497030/Rakan.wad.client",
+          "size": 89346,
+          "sha256": "b012f0b70535e06f254d4b1faa705e4c06db7698db8ff087d860d7ce86387f8d"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3062,
+          "bytes_after": 89346,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497031,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 灵息变奏曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b0fcbd802f6232fbf7072e4bed7b43612bd7deceb684c11cc627456765efa033",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497031/497031.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497031/Rakan.wad.client",
+          "size": 89345,
+          "sha256": "41605bd6cb4349448df10fc80e8ecd94b47c3934a9c09ec799b82df536b58703"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3061,
+          "bytes_after": 89345,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497032,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 日冕摇篮曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f7fb46be69e2d26e8be5ea4ae124b78f12ac699985fd6d7ebf0dba89feb81f1c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497032/497032.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497032/Rakan.wad.client",
+          "size": 89346,
+          "sha256": "9f566be7ef37cc24d8ec6520dd2df9ec8902f48c84c185487c4aa7ef9cc8b4f7"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3062,
+          "bytes_after": 89346,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497033,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 苏生回旋曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2705149302124c93634aadd83aa5d13b87791a0786d472d14dcf2dfd98990406",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497033/497033.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497033/Rakan.wad.client",
+          "size": 89343,
+          "sha256": "23fcc27dee70ef459debfd20c252160d4290dffe4e055361793b9d00fadbf31c"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3059,
+          "bytes_after": 89343,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497034,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 白夜奏鸣曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "30981829ec01f64b84fc8fec27da21bdb92dda75fe135bafdd51f1520c75d1c7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497034/497034.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497034/Rakan.wad.client",
+          "size": 89344,
+          "sha256": "ca7fec2b23876384249e431f7cc8c22c64291c5d2d2f3fccc625114e641a88ac"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3060,
+          "bytes_after": 89344,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497035,
+      "base_skin_id": 497027,
+      "champion_id": 497,
+      "name": "绝息圣堂 洛 黑昼交响曲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fc8ea277ea79b6ddc4a2f2beafda0a692f5706fe9ec42cdb3b4b637d8fc82eaa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497027/497035/497035.fantome",
+      "files": [
+        {
+          "path": "skins/497/497027/497035/Rakan.wad.client",
+          "size": 89345,
+          "sha256": "cfdb69f33e8f5f10bc0d6a3644a216296969a0e682b9c6a1a15602f869737e73"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3061,
+          "bytes_after": 89345,
+          "replacement_hashes": [
+            "eb09ee7bea277dec"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "eb09ee7bea277dec",
+            "border_hash": "b9aaa683838000a3",
+            "bytes": 86252,
+            "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

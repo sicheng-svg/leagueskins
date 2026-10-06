@@ -1,0 +1,48 @@
+{
+  "skin_id": 5029,
+  "base_skin_id": 5027,
+  "champion_id": 5,
+  "name": "黑暗骑士 赵信 冷血劫掠者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c0eab54a0385250388435a650da4d54d84310cb77ff982bb3e894870646dacd6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "5/5027/5029/5029.fantome",
+  "files": [
+    {
+      "path": "skins/5/5027/5029/XinZhao.wad.client",
+      "size": 3500,
+      "sha256": "ab85cfc3876043808ae30acb573ca45437d2be4d24eaadf2aa5507ff25af7043"
+    }
+  ],
+  "wads": {
+    "XinZhao.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3500,
+      "bytes_after": 3500,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

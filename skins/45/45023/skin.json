@@ -1,0 +1,529 @@
+{
+  "champion_id": 45,
+  "base_skin_id": 45023,
+  "name": "我，怒角 维迦",
+  "variants": [
+    {
+      "skin_id": 45023,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，怒角 维迦",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1191d934957967061ba0befe13e2ec4198293b69ddb94d8ba6c8507d31142b27",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45023.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45023/Veigar.wad.client",
+          "size": 90825,
+          "sha256": "348660c986068b18264836cff77d7efcfe50f1a10ffb1e9cb50fce4227ba4514"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4541,
+          "bytes_after": 90825,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45024,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，烈焰怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "be0b84c90a25152362fd1e851293b1bd99c2fc45fa0cf643e753cccfff9c20c6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45024/45024.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45024/Veigar.wad.client",
+          "size": 88590,
+          "sha256": "f4f010882324ef1e7134876b3f2573e0585f39293f496e9a991a5315ffcb9cca"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2306,
+          "bytes_after": 88590,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45025,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，苔原怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8f62c1ff0df8f00da59e1d6f74a528d80ac843a483ca3433cd6dd0a738a68bd7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45025/45025.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45025/Veigar.wad.client",
+          "size": 88538,
+          "sha256": "0b92fe4611abed13e69c63ed30bab2963932c81dcb0adc57d0b26a0afd5cf765"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45026,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，甜筒怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "643b253ee4d7e8ddbbd513eabead1e91e8682b22d47ee8464a95103be8c50d17",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45026/45026.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45026/Veigar.wad.client",
+          "size": 88533,
+          "sha256": "102deaac4128d0e100b806ecf8e2292fa8366049ca33ff0e7646e9c5e9bea5e8"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2249,
+          "bytes_after": 88533,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45027,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，柳皮怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f19e271688569b7a2f31c4becb437da810ede51f93a3c1a2c236364469f0848b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45027/45027.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45027/Veigar.wad.client",
+          "size": 88538,
+          "sha256": "cac7945ae78898aa3d57a63e481473493897686be4fc7aadb738ed6937539436"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45028,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，狮心怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e085d2c7048e05fdb835434c23099de6fa48da32bb7234649f9be61706f3e4db",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45028/45028.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45028/Veigar.wad.client",
+          "size": 88538,
+          "sha256": "fa75b17f894a03c4b612cafcca755a2c5193ee1ebcf2d241f8f488fa767a1e66"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45029,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，雪绒怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ca6baa0a339fe0fc4c953aba129a546afdef3b63a3e20030ef72ada63dedc7a4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45029/45029.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45029/Veigar.wad.client",
+          "size": 88538,
+          "sha256": "9cf5ffc4fba0aae951ab863e50e046cb4a3519f26cc742ceda8b961099f9dd7b"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2254,
+          "bytes_after": 88538,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45030,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，虚空标记怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b0661f759d5f0d01443757e2038977b379926cded2a20fb628d76186c122b78b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45030/45030.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45030/Veigar.wad.client",
+          "size": 88544,
+          "sha256": "0a209f5264ed3922efa24e92ccfb1899e4e9230dd6b27f825dca4feeb3aedaf0"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2260,
+          "bytes_after": 88544,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45031,
+      "base_skin_id": 45023,
+      "champion_id": 45,
+      "name": "我，二哈怒角 维迦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4e7c24910b2a04de7a90e66a8fde330cce1d0f9f8aa153595855175540c37ccc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45023/45031/45031.fantome",
+      "files": [
+        {
+          "path": "skins/45/45023/45031/Veigar.wad.client",
+          "size": 88543,
+          "sha256": "ad15b2d9687090c2fcb6fd7bb36991303bd7afe534989cc524e861c0495ed2b5"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2259,
+          "bytes_after": 88543,
+          "replacement_hashes": [
+            "9f46400c5b821610"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "9f46400c5b821610",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

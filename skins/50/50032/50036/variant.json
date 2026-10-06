@@ -1,0 +1,48 @@
+{
+  "skin_id": 50036,
+  "base_skin_id": 50032,
+  "champion_id": 50,
+  "name": "狼神英灵 斯维因 冷静追猎",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f8e2833b61e1c70b829f6fc82b98da2cc4aa51015af8b6bd50675069f0d579b6",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "50/50032/50036/50036.fantome",
+  "files": [
+    {
+      "path": "skins/50/50032/50036/Swain.wad.client",
+      "size": 5093,
+      "sha256": "ea8203b2e8ec4a7a232cd3569363ad5d9c2786ac1424368c97db4fc3c3aa86bd"
+    }
+  ],
+  "wads": {
+    "Swain.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5093,
+      "bytes_after": 5093,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

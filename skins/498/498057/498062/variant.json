@@ -1,0 +1,58 @@
+{
+  "skin_id": 498062,
+  "base_skin_id": 498057,
+  "champion_id": 498,
+  "name": "战斗学院 霞 逆卫",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "56f88858710c62ac4ad6d62723a1b0780e43c8d89d358f3d1d933ac424f5b6ae",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "498/498057/498062/498062.fantome",
+  "files": [
+    {
+      "path": "skins/498/498057/498062/Xayah.wad.client",
+      "size": 90033,
+      "sha256": "e22c5afa474ceb57b4aab91f7beb61d208ad152213c37e94bac3725d272a207f"
+    }
+  ],
+  "wads": {
+    "Xayah.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3749,
+      "bytes_after": 90033,
+      "replacement_hashes": [
+        "c4ec134b4e169c27"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Xayah.wad.client",
+        "normal_hash": "c4ec134b4e169c27",
+        "border_hash": "4d7646a5dc3a1dd7",
+        "bytes": 86252,
+        "sha256": "4392da77af880d96abc0981325ff30f2c3d59e300514832d4b84b0c360a59910"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

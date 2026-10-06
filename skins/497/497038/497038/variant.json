@@ -1,0 +1,58 @@
+{
+  "skin_id": 497038,
+  "base_skin_id": 497038,
+  "champion_id": 497,
+  "name": "至臻 神龙尊者 比翼之龙 洛",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ea59ffb4dd74a85884c6122ab1c776ae88e2ed57f5c273fe7ebac2d6a16d725f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "497/497038/497038.fantome",
+  "files": [
+    {
+      "path": "skins/497/497038/497038/Rakan.wad.client",
+      "size": 97917,
+      "sha256": "229f06945b6207cc3a086538b9111b4a2f9fe15a576c19889a421fe50a932b11"
+    }
+  ],
+  "wads": {
+    "Rakan.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 11633,
+      "bytes_after": 97917,
+      "replacement_hashes": [
+        "2126eade4f75e36b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Rakan.wad.client",
+        "normal_hash": "2126eade4f75e36b",
+        "border_hash": "7e957516ca667120",
+        "bytes": 86252,
+        "sha256": "d53eec5193a91d6c3f5f4e8549cc468679991dde0229a9ca4f2bd6d41519a93e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "champion_id": 45,
+  "base_skin_id": 45013,
+  "name": "永恒之森 维迦",
+  "variants": [
+    {
+      "skin_id": 45013,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cf9d31461f0ba82e7c5f08cdf8d14c6ad745e4e316f900cd15ebda9ade72b3c7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45013.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45013/Veigar.wad.client",
+          "size": 90675,
+          "sha256": "8bf937a0462e624058a18798507cc17a311757494f9b898b2a8bb4beb199cc07"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4391,
+          "bytes_after": 90675,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45014,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 魔焰菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2d54035e05867bbd0e2d7b027b1a4a26c92ad327c2937931d8feed699b77c1a0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45014/45014.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45014/Veigar.wad.client",
+          "size": 88436,
+          "sha256": "c6f452abc4feb1a28c6900bbb1f3cdc9144d17f39010e1991ecb9387bafd9b98"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2152,
+          "bytes_after": 88436,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45015,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 毒伞菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "245dd38ae92ae3c761a46fadca38fbba854e5512881705bd679edaa5877c97ca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45015/45015.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45015/Veigar.wad.client",
+          "size": 88436,
+          "sha256": "8ba4ea5b4d88a297ccec7c1adf80d9b620c4ea337f9f2103f30518a65cdabbab"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2152,
+          "bytes_after": 88436,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45016,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 灼心菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "80d0bc30513c426bc21766e4904a1fe1ba7b9d40bd0452e7cf78e3fdc48c21ab",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45016/45016.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45016/Veigar.wad.client",
+          "size": 88439,
+          "sha256": "ca390711f0f149a1502bcd6b2463dbf959af5d70693e9da70d9dcb89809287ec"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2155,
+          "bytes_after": 88439,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45017,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 致幻菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4caf11fbd2008bd6a3c1ae83c89cecc5abba8e64b3008a9d97b0fcdca8dab212",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45017/45017.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45017/Veigar.wad.client",
+          "size": 88460,
+          "sha256": "abb662a9cf38cc8fe796f480b93744d728aa2530b61d85fc64a48dea9df63e97"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2176,
+          "bytes_after": 88460,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45018,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 迷魂菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e8df0ce5ef6440ff416ae813fbee5e15672d0ce814e5083712e4e57c4559dd81",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45018/45018.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45018/Veigar.wad.client",
+          "size": 88438,
+          "sha256": "ad0583f4a8b43294bac68a34cf9a89967138dfe7d71be6bc2c35d011d749a2bd"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2154,
+          "bytes_after": 88438,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45019,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 溶血菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "665cefcea7fb5dd26214d1bc812a3e48a16b084a7170d76d56c0b1d101d17a7a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45019/45019.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45019/Veigar.wad.client",
+          "size": 88489,
+          "sha256": "eef241603fa9ff06c079629bd83736eb1201b28c90a08f220485a8a18d1a3e76"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2205,
+          "bytes_after": 88489,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45020,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 绝息菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "139489f7eafec71f596f84dd530a684326cfa593765beb7f4882f89101792e52",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45020/45020.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45020/Veigar.wad.client",
+          "size": 88440,
+          "sha256": "5acc5d173acfaeb5529f310ef4d8265652d02a28caefb506eafa6a546ab9912a"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2156,
+          "bytes_after": 88440,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45021,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 绞腹菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e7af81f97be2b3d26d4d303c2cd0605e3f4e0be243fd79c3ae532b88b6bf86e4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45021/45021.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45021/Veigar.wad.client",
+          "size": 88439,
+          "sha256": "e46a1039f2b84095e3308c4fe3fef5ab929bca88f0fc906e5e2bc14f5b28cd10"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2155,
+          "bytes_after": 88439,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 45022,
+      "base_skin_id": 45013,
+      "champion_id": 45,
+      "name": "永恒之森 维迦 彩虹菇",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e0563094c77fdec9e5d1cc50389e4241ec198dd574258775d4cf490ffff138d3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "45/45013/45022/45022.fantome",
+      "files": [
+        {
+          "path": "skins/45/45013/45022/Veigar.wad.client",
+          "size": 88441,
+          "sha256": "29e6361dd62ab2fe81780b5469c799672dfb584523036756ffed025ab4030aad"
+        }
+      ],
+      "wads": {
+        "Veigar.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2157,
+          "bytes_after": 88441,
+          "replacement_hashes": [
+            "7ba0420cbb1a9a52"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Veigar.wad.client",
+            "normal_hash": "7ba0420cbb1a9a52",
+            "border_hash": "c43fec1ee04839a9",
+            "bytes": 86252,
+            "sha256": "77065334350c78fcd2dfaad04059a25c1e5c05f055bbfb51253512e784e0e1c3"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

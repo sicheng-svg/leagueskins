@@ -1,0 +1,123 @@
+{
+  "champion_id": 497,
+  "base_skin_id": 497003,
+  "name": "SSG 洛",
+  "variants": [
+    {
+      "skin_id": 497003,
+      "base_skin_id": 497003,
+      "champion_id": 497,
+      "name": "SSG 洛",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "13581ee64c94bf4e85960b6eefe710d349b2bc593451f11640310c4832aa5ce6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497003/497003.fantome",
+      "files": [
+        {
+          "path": "skins/497/497003/497003/Rakan.wad.client",
+          "size": 96918,
+          "sha256": "46324ac802cd7811c0e1d172ca19eec13c8818354b38bff892e7bd2a13c9a4ec"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10634,
+          "bytes_after": 96918,
+          "replacement_hashes": [
+            "22672e46444e02ba"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "22672e46444e02ba",
+            "border_hash": "a96bc4d0515943d7",
+            "bytes": 86252,
+            "sha256": "2b627a19dd8f395466d309a059b772f0ee4715667fe4d9719cf261299bc1e216"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 497056,
+      "base_skin_id": 497003,
+      "champion_id": 497,
+      "name": "SSG 洛 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ba73f31ec431a04410fd58e3aa7168306a4ffc03dd1f92b3077966c100198b1e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "497/497003/497056/497056.fantome",
+      "files": [
+        {
+          "path": "skins/497/497003/497056/Rakan.wad.client",
+          "size": 89212,
+          "sha256": "0878f65c5fbd76ffccd2166ef3cbd97d90661a7f2c583b8e9d8c57b052605eb5"
+        }
+      ],
+      "wads": {
+        "Rakan.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2928,
+          "bytes_after": 89212,
+          "replacement_hashes": [
+            "22672e46444e02ba"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Rakan.wad.client",
+            "normal_hash": "22672e46444e02ba",
+            "border_hash": "a96bc4d0515943d7",
+            "bytes": 86252,
+            "sha256": "2b627a19dd8f395466d309a059b772f0ee4715667fe4d9719cf261299bc1e216"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

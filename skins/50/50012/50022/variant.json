@@ -1,0 +1,48 @@
+{
+  "skin_id": 50022,
+  "base_skin_id": 50012,
+  "champion_id": 50,
+  "name": "水晶玫瑰 斯维因 蒂芙尼",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7f75d77d958d9e87f378bdd78bff3906a27d874a08ae192436a61baf42017daf",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "50/50012/50022/50022.fantome",
+  "files": [
+    {
+      "path": "skins/50/50012/50022/Swain.wad.client",
+      "size": 4994,
+      "sha256": "60a4382b654b5b949d383c605af1dfb23eadbb1c52c4d58ca612d05cb1b0218e"
+    }
+  ],
+  "wads": {
+    "Swain.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4994,
+      "bytes_after": 4994,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

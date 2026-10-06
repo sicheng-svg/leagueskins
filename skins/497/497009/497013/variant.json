@@ -1,0 +1,58 @@
+{
+  "skin_id": 497013,
+  "base_skin_id": 497009,
+  "champion_id": 497,
+  "name": "永恒之森 洛 冰桦",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2784abf395cc64434e383607ca00c4c9baf8ccc3db12afa8024fc85a84fadd2f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "497/497009/497013/497013.fantome",
+  "files": [
+    {
+      "path": "skins/497/497009/497013/Rakan.wad.client",
+      "size": 89436,
+      "sha256": "a451a1d4799f9bce0dfabdbdda260511cca30eef9bd6e5378534761d9bc8d85a"
+    }
+  ],
+  "wads": {
+    "Rakan.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3152,
+      "bytes_after": 89436,
+      "replacement_hashes": [
+        "32ba4edfb9caf83f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Rakan.wad.client",
+        "normal_hash": "32ba4edfb9caf83f",
+        "border_hash": "069ccca4cbf317ca",
+        "bytes": 86252,
+        "sha256": "2c87389e5bc4d04971d10005e65cf697928462021b178b8ad141e17629700953"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

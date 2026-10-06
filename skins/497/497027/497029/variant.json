@@ -1,0 +1,58 @@
+{
+  "skin_id": 497029,
+  "base_skin_id": 497027,
+  "champion_id": 497,
+  "name": "绝息圣堂 洛 昼梦狂想曲",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8d15410ad91e0768f52472b684556fae5fc8a1657c62a5892d740aa3cfaf67e7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "497/497027/497029/497029.fantome",
+  "files": [
+    {
+      "path": "skins/497/497027/497029/Rakan.wad.client",
+      "size": 89346,
+      "sha256": "5baea28f0bff621e058e6a40ff73710891fb88c13666af310a30bf72a3a20a0b"
+    }
+  ],
+  "wads": {
+    "Rakan.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3062,
+      "bytes_after": 89346,
+      "replacement_hashes": [
+        "eb09ee7bea277dec"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Rakan.wad.client",
+        "normal_hash": "eb09ee7bea277dec",
+        "border_hash": "b9aaa683838000a3",
+        "bytes": 86252,
+        "sha256": "030bd5d7c4165d8b466cb91afc8b79088531a540d58e476ede3996da1daa3fdb"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

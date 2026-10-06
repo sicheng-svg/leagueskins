@@ -1,0 +1,667 @@
+{
+  "champion_id": 50,
+  "base_skin_id": 50021,
+  "name": "北极星猎人 斯维因",
+  "variants": [
+    {
+      "skin_id": 50021,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c46501f55e3cdc3379ebca7e597a2df9df480a32dae3ad3c7c709b77e5af0c19",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50021.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50021/Swain.wad.client",
+          "size": 183003,
+          "sha256": "5baff462fea43b6b680c4a20335480077938a345de7503a4b55316ff107fc4a5"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10435,
+          "bytes_after": 183003,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50023,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 激昂脉冲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6be5f1ed346237e15ef88c6fc8795f682ce8d7d3d93eff4937168a7c2f0412a8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50023/50023.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50023/Swain.wad.client",
+          "size": 177557,
+          "sha256": "22e3b20b890e34d1faa71770e445e516aad86c965e9e372c684b3af81f237632"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4989,
+          "bytes_after": 177557,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50024,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 幸运漩涡",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dc6ae5475fd349feb4365f512a32de154f270d1de8851a57f5d3da03b077775a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50024/50024.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50024/Swain.wad.client",
+          "size": 177500,
+          "sha256": "9ad008d3e0407894c4361e98312b705154529c3a6ec218b19ae5feac2b162297"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4932,
+          "bytes_after": 177500,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50025,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 智慧纽带",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "00fa97465e877e1c29c6cd0fb4abb8569d7359aa1aa4bdf44e2767ce6169b672",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50025/50025.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50025/Swain.wad.client",
+          "size": 177499,
+          "sha256": "1f9bae2468a4ee81b751abd4a4e4e182e1cc5aa7992de16e09f071f6e8124665"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4931,
+          "bytes_after": 177499,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50026,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 祥和面纱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d1a2d3da977ee5ec0ca5b9dc7475fa2a7210dc077f062f5ff6f5ad3dcac8cd77",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50026/50026.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50026/Swain.wad.client",
+          "size": 177500,
+          "sha256": "5a9d579103450ba22cdfe056d43ae62300b42b8a3ce2f23acd5525d1acb01f84"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4932,
+          "bytes_after": 177500,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50027,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 圣洁光带",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "64df7df2657630112663442ebd7bb1125c318429a94dc878ce5d0b86cd9b9086",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50027/50027.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50027/Swain.wad.client",
+          "size": 177504,
+          "sha256": "7ce855515aaad4f47afb2c46cafc1d5825b13bbda3393adf7586c5851bccb410"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4936,
+          "bytes_after": 177504,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50028,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 庄严光冕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b5910624ee132dbeb55152bc4df4cb14db0cccbc38f8706edbc022ce9407d59f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50028/50028.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50028/Swain.wad.client",
+          "size": 177499,
+          "sha256": "71878bbf036bdaf88cbb61862e24012fc7b24a75b8a18861a5bee874cc799de2"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4931,
+          "bytes_after": 177499,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50029,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 希望辉光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0892a04322e36733f5a7fdec3c39a13e2090d733643f28f9bb0f63466041da39",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50029/50029.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50029/Swain.wad.client",
+          "size": 177500,
+          "sha256": "dd607ed483797dd179fecc8997def0d702a104323b1f8d9d3af26551caefa163"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4932,
+          "bytes_after": 177500,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50030,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 浪漫帘幕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "27d73b830fb9b7582e51e0d6f5a0e2bc185dda7e2b4da7a221242c3a7d0507f0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50030/50030.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50030/Swain.wad.client",
+          "size": 177529,
+          "sha256": "ad163a8b28db07faac77957c9c633f4756226df93b729472f3bf5641ee9147d2"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4961,
+          "bytes_after": 177529,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 50031,
+      "base_skin_id": 50021,
+      "champion_id": 50,
+      "name": "北极星猎人 斯维因 花冠极光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b58cfb46068e9d2251e095dd696cdd453fb387dc78c071e79a4f52696f427797",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "50/50021/50031/50031.fantome",
+      "files": [
+        {
+          "path": "skins/50/50021/50031/Swain.wad.client",
+          "size": 177559,
+          "sha256": "ca5a5037abb90021cdca73cec0270bce2b68834005a4a3ad3b01141692eb4dfd"
+        }
+      ],
+      "wads": {
+        "Swain.wad.client": {
+          "entries_before": 2,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4991,
+          "bytes_after": 177559,
+          "replacement_hashes": [
+            "2e6cacd64eb437dd",
+            "c57e59665849234c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "c57e59665849234c",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          },
+          {
+            "archive": "Swain.wad.client",
+            "normal_hash": "2e6cacd64eb437dd",
+            "border_hash": "240c62ce7ef6b0e7",
+            "bytes": 86252,
+            "sha256": "a851605bb92ae91f8a432c67fab01073f3de46de077499e349b219404065a5db"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

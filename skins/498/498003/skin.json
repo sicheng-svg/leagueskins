@@ -1,0 +1,123 @@
+{
+  "champion_id": 498,
+  "base_skin_id": 498003,
+  "name": "SSG 霞",
+  "variants": [
+    {
+      "skin_id": 498003,
+      "base_skin_id": 498003,
+      "champion_id": 498,
+      "name": "SSG 霞",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "992fa67a42ab1e68c515df8d5cc6c78c4c3f4278dee08759dc885b440109ba34",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "498/498003/498003.fantome",
+      "files": [
+        {
+          "path": "skins/498/498003/498003/Xayah.wad.client",
+          "size": 98302,
+          "sha256": "da89ca35e16ce55956ec2e4647681ae19776e978c631e9566795a519cce854c8"
+        }
+      ],
+      "wads": {
+        "Xayah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 12018,
+          "bytes_after": 98302,
+          "replacement_hashes": [
+            "6ad5eb8cb454b3a9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Xayah.wad.client",
+            "normal_hash": "6ad5eb8cb454b3a9",
+            "border_hash": "699835e5e8408c3f",
+            "bytes": 86252,
+            "sha256": "9e14cf17e128fd8ea1985791bc65db1644f910a7e3b8629299d5f5c68086da1b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 498065,
+      "base_skin_id": 498003,
+      "champion_id": 498,
+      "name": "SSG 霞 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "387a7853f73fd9ccf7c00eea86bf5e59c4a255d9647bd86497781a9cdede94cd",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "498/498003/498065/498065.fantome",
+      "files": [
+        {
+          "path": "skins/498/498003/498065/Xayah.wad.client",
+          "size": 89501,
+          "sha256": "9e859fae75cb2c3b61a9805b76303333dc0a19f2559247441d9365e3e7df364b"
+        }
+      ],
+      "wads": {
+        "Xayah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3217,
+          "bytes_after": 89501,
+          "replacement_hashes": [
+            "6ad5eb8cb454b3a9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Xayah.wad.client",
+            "normal_hash": "6ad5eb8cb454b3a9",
+            "border_hash": "699835e5e8408c3f",
+            "bytes": 86252,
+            "sha256": "9e14cf17e128fd8ea1985791bc65db1644f910a7e3b8629299d5f5c68086da1b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

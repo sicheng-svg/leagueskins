@@ -1,0 +1,48 @@
+{
+  "skin_id": 50006,
+  "base_skin_id": 50004,
+  "champion_id": 50,
+  "name": "驯龙大师 斯维因 不世君王",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e265eeaf56ece0f151e8caa20883db1b5a4f6cc6ae676f1e8b9b1e3cda883a35",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "50/50004/50006/50006.fantome",
+  "files": [
+    {
+      "path": "skins/50/50004/50006/Swain.wad.client",
+      "size": 4930,
+      "sha256": "0d702d6c1b2c30b89fdbf9f03307850b542bbc92583da4a15062a627191cc1bf"
+    }
+  ],
+  "wads": {
+    "Swain.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4930,
+      "bytes_after": 4930,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

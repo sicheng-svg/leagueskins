@@ -1,0 +1,58 @@
+{
+  "skin_id": 45044,
+  "base_skin_id": 45041,
+  "champion_id": 45,
+  "name": "小怪兽训练师 维迦 天蓝宝",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "985b9deabb57994a2d8103a023fd9c0fdc157a8b9aa55623c1bd373d1b4b249e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "45/45041/45044/45044.fantome",
+  "files": [
+    {
+      "path": "skins/45/45041/45044/Veigar.wad.client",
+      "size": 88521,
+      "sha256": "fc8370ce76e8518787f03ab2d4a93e6b5f72fb9ec40fa0aca7a9bd0904fb0cb6"
+    }
+  ],
+  "wads": {
+    "Veigar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2237,
+      "bytes_after": 88521,
+      "replacement_hashes": [
+        "e20b993ff8550320"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Veigar.wad.client",
+        "normal_hash": "e20b993ff8550320",
+        "border_hash": "451dedb7e1a4529e",
+        "bytes": 86252,
+        "sha256": "3606a2dddc3e6cd93ae2db27d605511dcf2cea8cb33c767f8ddc7f0468d8ce84"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

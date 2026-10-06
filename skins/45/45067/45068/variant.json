@@ -1,0 +1,58 @@
+{
+  "skin_id": 45068,
+  "base_skin_id": 45067,
+  "champion_id": 45,
+  "name": "至臻 熔岩大厅 维迦 至强",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "70d1978dfdd837a94e107e6f43a942800a0a8f8ae3456d5d0560c6ac01262c61",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "45/45067/45068/45068.fantome",
+  "files": [
+    {
+      "path": "skins/45/45067/45068/Veigar.wad.client",
+      "size": 89170,
+      "sha256": "8fd907ae908bd8ae661c3b0dcf0a4ac4ce399f4f9f70a89891c2c267fe1af97e"
+    }
+  ],
+  "wads": {
+    "Veigar.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2886,
+      "bytes_after": 89170,
+      "replacement_hashes": [
+        "1fb57e0f6c40f748"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Veigar.wad.client",
+        "normal_hash": "1fb57e0f6c40f748",
+        "border_hash": "bba6baa073b38ab3",
+        "bytes": 86252,
+        "sha256": "fd8a4e58d76dcbc9355a4ca57f90fb1b862a005f92a5191b10802c84445f6dfc"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

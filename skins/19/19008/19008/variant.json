@@ -1,0 +1,48 @@
+{
+  "skin_id": 19008,
+  "base_skin_id": 19008,
+  "champion_id": 19,
+  "name": "黑暗骑士 沃里克",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "35c67b39fe11c40d04fe731a33565b2bea7f48aeefde8532147a27765a49b238",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "19/19008/19008.fantome",
+  "files": [
+    {
+      "path": "skins/19/19008/19008/Warwick.wad.client",
+      "size": 3638,
+      "sha256": "9544c5c53c2f52434cfdb1958568c5f288ab73188379ec2bc6221a61790c55fa"
+    }
+  ],
+  "wads": {
+    "Warwick.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3638,
+      "bytes_after": 3638,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "skin_id": 200024,
+  "base_skin_id": 200019,
+  "champion_id": 200,
+  "name": "海魔女 卑尔维斯 闪耀突袭",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "16594e05897b8803755071faaf6d158dceaf49fe5e512dfe6b21436e8dab5983",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "200/200019/200024/200024.fantome",
+  "files": [
+    {
+      "path": "skins/200/200019/200024/Belveth.wad.client",
+      "size": 93021,
+      "sha256": "d9087bb2765d8928bb716cb97d2ccbec37afd2eaa2d04f629c893b8412cd52a3"
+    }
+  ],
+  "wads": {
+    "Belveth.wad.client": {
+      "entries_before": 3,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6737,
+      "bytes_after": 93021,
+      "replacement_hashes": [
+        "c8b7f9a8813fde0c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Belveth.wad.client",
+        "normal_hash": "c8b7f9a8813fde0c",
+        "border_hash": "e707cade29d6620a",
+        "bytes": 86252,
+        "sha256": "827bf5896f53cf964e07b4d893e4f2ca0f6ed25fca2968d1fa97487c38a0de79"
+      },
+      {
+        "archive": "Belveth.wad.client",
+        "normal_hash": "c8b7f9a8813fde0c",
+        "border_hash": "e707cade29d6620a",
+        "bytes": 86252,
+        "sha256": "827bf5896f53cf964e07b4d893e4f2ca0f6ed25fca2968d1fa97487c38a0de79"
+      },
+      {
+        "archive": "Belveth.wad.client",
+        "normal_hash": "c8b7f9a8813fde0c",
+        "border_hash": "e707cade29d6620a",
+        "bytes": 86252,
+        "sha256": "827bf5896f53cf964e07b4d893e4f2ca0f6ed25fca2968d1fa97487c38a0de79"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

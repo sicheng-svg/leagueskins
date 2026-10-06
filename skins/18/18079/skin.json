@@ -1,0 +1,254 @@
+{
+  "champion_id": 18,
+  "base_skin_id": 18079,
+  "name": "殿堂传奇 崔丝塔娜",
+  "variants": [
+    {
+      "skin_id": 18079,
+      "base_skin_id": 18079,
+      "champion_id": 18,
+      "name": "殿堂传奇 崔丝塔娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dc1c8da33ad7a1b883cbd0083f1f9070b3316a0a28f51529ca273c81b2ed9f08",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "18/18079/18079.fantome",
+      "files": [
+        {
+          "path": "skins/18/18079/18079/Tristana.wad.client",
+          "size": 979424,
+          "sha256": "1d7710d100019bf85604908ac1b3f1ef117a119c1e69110a8031c99a06936550"
+        },
+        {
+          "path": "skins/18/18079/18079/UI.wad.client",
+          "size": 21922,
+          "sha256": "2fa7b742574ebedabe59480f2b68c2fe8b9bc7aa390e27482d581ba8ad35eec1"
+        }
+      ],
+      "wads": {
+        "Tristana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 5,
+          "was_sorted": false,
+          "version": "3.3",
+          "bytes_before": 27228,
+          "bytes_after": 979424,
+          "replacement_hashes": [
+            "1d4acf363057b15f",
+            "7be9a69be8ecd175",
+            "f85534af9ca8dec6"
+          ]
+        },
+        "UI.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.3",
+          "bytes_before": 21922,
+          "bytes_after": 21922,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tristana.wad.client",
+            "normal_hash": "f85534af9ca8dec6",
+            "border_hash": "7be9a69be8ecd175",
+            "bytes": 689932,
+            "sha256": "fd500cd0401d2fb47424da32a90293d393368f195cda560f36641998934a9ce3",
+            "strategy": "bake_native_augment_layers",
+            "layers": [
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Premium.tex",
+                "sha256": "7f9980054b4625566f8039f8eaf61e5f9ce587d1deed1bd7dc72fea256932e58"
+              },
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Signature.tex",
+                "sha256": "2174cc9d2d2db96b40c29c5575de7b9e61606874a0ef5606e3ede856af35007f"
+              }
+            ],
+            "placement": "scale_native_layers_to_loading_card",
+            "in_game": "not_verified"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 18998,
+      "base_skin_id": 18079,
+      "champion_id": 18,
+      "name": "18998",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "dc1c8da33ad7a1b883cbd0083f1f9070b3316a0a28f51529ca273c81b2ed9f08",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "18/18079/18998/18998.fantome",
+      "files": [
+        {
+          "path": "skins/18/18079/18998/Tristana.wad.client",
+          "size": 979424,
+          "sha256": "1d7710d100019bf85604908ac1b3f1ef117a119c1e69110a8031c99a06936550"
+        },
+        {
+          "path": "skins/18/18079/18998/UI.wad.client",
+          "size": 21922,
+          "sha256": "2fa7b742574ebedabe59480f2b68c2fe8b9bc7aa390e27482d581ba8ad35eec1"
+        }
+      ],
+      "wads": {
+        "Tristana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 5,
+          "was_sorted": false,
+          "version": "3.3",
+          "bytes_before": 27228,
+          "bytes_after": 979424,
+          "replacement_hashes": [
+            "1d4acf363057b15f",
+            "7be9a69be8ecd175",
+            "f85534af9ca8dec6"
+          ]
+        },
+        "UI.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.3",
+          "bytes_before": 21922,
+          "bytes_after": 21922,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tristana.wad.client",
+            "normal_hash": "f85534af9ca8dec6",
+            "border_hash": "7be9a69be8ecd175",
+            "bytes": 689932,
+            "sha256": "fd500cd0401d2fb47424da32a90293d393368f195cda560f36641998934a9ce3",
+            "strategy": "bake_native_augment_layers",
+            "layers": [
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Premium.tex",
+                "sha256": "7f9980054b4625566f8039f8eaf61e5f9ce587d1deed1bd7dc72fea256932e58"
+              },
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Signature.tex",
+                "sha256": "2174cc9d2d2db96b40c29c5575de7b9e61606874a0ef5606e3ede856af35007f"
+              }
+            ],
+            "placement": "scale_native_layers_to_loading_card",
+            "in_game": "not_verified"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 18999,
+      "base_skin_id": 18079,
+      "champion_id": 18,
+      "name": "18999",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4a5f8a0bada1521c8ab97802cce9649bdf9d50c99f5daa7dea1c3ec963cab1ad",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "18/18079/18999/18999.fantome",
+      "files": [
+        {
+          "path": "skins/18/18079/18999/Tristana.wad.client",
+          "size": 979354,
+          "sha256": "5bb161ab8640240b4482bc1466959069db9ef3be4bf88e002ea7102ce10ce131"
+        }
+      ],
+      "wads": {
+        "Tristana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 5,
+          "was_sorted": false,
+          "version": "3.3",
+          "bytes_before": 27158,
+          "bytes_after": 979354,
+          "replacement_hashes": [
+            "1d4acf363057b15f",
+            "7be9a69be8ecd175",
+            "f85534af9ca8dec6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tristana.wad.client",
+            "normal_hash": "f85534af9ca8dec6",
+            "border_hash": "7be9a69be8ecd175",
+            "bytes": 689932,
+            "sha256": "fd500cd0401d2fb47424da32a90293d393368f195cda560f36641998934a9ce3",
+            "strategy": "bake_native_augment_layers",
+            "layers": [
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Premium.tex",
+                "sha256": "7f9980054b4625566f8039f8eaf61e5f9ce587d1deed1bd7dc72fea256932e58"
+              },
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Signature.tex",
+                "sha256": "2174cc9d2d2db96b40c29c5575de7b9e61606874a0ef5606e3ede856af35007f"
+              }
+            ],
+            "placement": "scale_native_layers_to_loading_card",
+            "in_game": "not_verified"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

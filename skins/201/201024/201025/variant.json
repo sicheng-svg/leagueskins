@@ -1,0 +1,58 @@
+{
+  "skin_id": 201025,
+  "base_skin_id": 201024,
+  "champion_id": 201,
+  "name": "糖果大战 布隆 草莓夹心饼",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8660faed9206b371aa4afb1ae47c1e21a2180fb274c4363212b64b6f858d6d7d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "201/201024/201025/201025.fantome",
+  "files": [
+    {
+      "path": "skins/201/201024/201025/Braum.wad.client",
+      "size": 89224,
+      "sha256": "62e917b6852d27244d12fcbe2266d2caf0970e723ec533f5f2b79dcfe01566b5"
+    }
+  ],
+  "wads": {
+    "Braum.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2940,
+      "bytes_after": 89224,
+      "replacement_hashes": [
+        "fd46b2a053d50d9e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Braum.wad.client",
+        "normal_hash": "fd46b2a053d50d9e",
+        "border_hash": "78d074c4bd2e95bb",
+        "bytes": 86252,
+        "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

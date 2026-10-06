@@ -1,0 +1,529 @@
+{
+  "champion_id": 201,
+  "base_skin_id": 201024,
+  "name": "糖果大战 布隆",
+  "variants": [
+    {
+      "skin_id": 201024,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ecc277a95765b8b0c3c47f70e1acdea9ac6ecf012bcd26d9e1c1290a9f629de0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201024.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201024/Braum.wad.client",
+          "size": 93241,
+          "sha256": "c43393be8517e5b79a43fccc3b0bd35e5b6b9a9c68ddffb3d7661f302efb9007"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6957,
+          "bytes_after": 93241,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201025,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 草莓夹心饼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8660faed9206b371aa4afb1ae47c1e21a2180fb274c4363212b64b6f858d6d7d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201025/201025.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201025/Braum.wad.client",
+          "size": 89224,
+          "sha256": "62e917b6852d27244d12fcbe2266d2caf0970e723ec533f5f2b79dcfe01566b5"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2940,
+          "bytes_after": 89224,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201026,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 樱桃夹心饼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fcdf177206955c3aa26a55f80015d35dab192f445ae3b9c88bfcf464d8a621d3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201026/201026.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201026/Braum.wad.client",
+          "size": 89177,
+          "sha256": "0683ac03261e931e208cdcd73eeb4624d8763297b74d2126a4bc83b387e1dcc2"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2893,
+          "bytes_after": 89177,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201027,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 奶酪夹心饼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cae79658b61a0310bcdb1845114c989a8e7bb382c7d42629d2fa4ec873bb835e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201027/201027.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201027/Braum.wad.client",
+          "size": 89155,
+          "sha256": "6517219f14849c38223bd835d5e9e9fdf4e08298c38d1bf6a7936409398a0585"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2871,
+          "bytes_after": 89155,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201028,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 柠檬夹心饼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3a5f19684e02315fe164051d65a0351d9723c3f85aa7650ce0db6c33074288cb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201028/201028.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201028/Braum.wad.client",
+          "size": 89156,
+          "sha256": "5bf3b04b1b83a716ac0443898d80fa027f813d2257e49694d51ee3868b63426e"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2872,
+          "bytes_after": 89156,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201029,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 酸奶夹心饼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5e8efda9c5153b143a8be1cc2fcec0934eb2c4e4a10e394dcc128092c220b59d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201029/201029.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201029/Braum.wad.client",
+          "size": 89155,
+          "sha256": "f07e14bede3310dabe63567a4fa84967bbc6be17b2d6b44b273504b8f25f6507"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2871,
+          "bytes_after": 89155,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201030,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 巧克力夹心饼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bcb4a6b544b231bede7206339f53629c6aec4ae7cd821b1d836408da550508fe",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201030/201030.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201030/Braum.wad.client",
+          "size": 89154,
+          "sha256": "ca8ce12f54de90d67300043e8cc726b9c59d1318e7ffb34d6302638b652d85df"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2870,
+          "bytes_after": 89154,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201031,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 奇异果夹心饼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f6f2a8a545d894153c7dd470dc8c8cfa4bfb66ff90edd534bdef9b93d3650e92",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201031/201031.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201031/Braum.wad.client",
+          "size": 89159,
+          "sha256": "36eead2061812beef2758fb927dae93051ea61dbe8979803df2072a044273922"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2875,
+          "bytes_after": 89159,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 201032,
+      "base_skin_id": 201024,
+      "champion_id": 201,
+      "name": "糖果大战 布隆 嗜甜之齿",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e5cfb1d7d23119df242a50b61124d9c1c86181b1187426d64a9353896e94472",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "201/201024/201032/201032.fantome",
+      "files": [
+        {
+          "path": "skins/201/201024/201032/Braum.wad.client",
+          "size": 89227,
+          "sha256": "1763aada497cb8d3623db68d9dde8949bf3d76a1b579627d7ca26b10cd64663d"
+        }
+      ],
+      "wads": {
+        "Braum.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2943,
+          "bytes_after": 89227,
+          "replacement_hashes": [
+            "fd46b2a053d50d9e"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Braum.wad.client",
+            "normal_hash": "fd46b2a053d50d9e",
+            "border_hash": "78d074c4bd2e95bb",
+            "bytes": 86252,
+            "sha256": "f1f62b11c8bdc709cc94e98d77df161b9a5cf45813c9ec51dfdec220970950a1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

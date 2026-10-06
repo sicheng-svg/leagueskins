@@ -1,0 +1,587 @@
+{
+  "champion_id": 19,
+  "base_skin_id": 19045,
+  "name": "北极星使者 沃里克",
+  "variants": [
+    {
+      "skin_id": 19045,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "22bf2d0db0ccd150e4d49884a5b8a5b85c1e6d8c1baf7dd71d20d50608ba1254",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19045.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19045/Warwick.wad.client",
+          "size": 93621,
+          "sha256": "bc1ee4365db07d01186f798a1be0dfb0bebec845e078b8f082b4e4491ed07517"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7337,
+          "bytes_after": 93621,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19047,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 激昂脉冲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f5a9903f3e21588a05e86c1ad3cc9477b3418855943c94db1ca090fa86b53b36",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19047/19047.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19047/Warwick.wad.client",
+          "size": 89213,
+          "sha256": "cefdb29c0010786de6cb792181796c2c2bb383a93fd7b1dfb6a9efa5570347df"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2929,
+          "bytes_after": 89213,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19048,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 辉煌光焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "aea4128a622ed6e2df4443950132f818b6cbd920429a048e157ac6c2269012d0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19048/19048.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19048/Warwick.wad.client",
+          "size": 89164,
+          "sha256": "91da553bdf97fd24497c9ca2d4a27e2146585912dc4c992e96effd4961cdaaa8"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2880,
+          "bytes_after": 89164,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19049,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 祥和面纱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f9c22e0ea776528ab175a71419fc63e58904f9f0d744dff712b78115bc730a14",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19049/19049.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19049/Warwick.wad.client",
+          "size": 89163,
+          "sha256": "eef54dcbe507c70a1a91c181b6582fe90c69ce88c867149c5517705cca1a8720"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2879,
+          "bytes_after": 89163,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19050,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 智慧纽带",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0c45d5a5a90207b82bd01f9bd90f5f6818415a89f467c4122f0fb98814cbcc84",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19050/19050.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19050/Warwick.wad.client",
+          "size": 89165,
+          "sha256": "af7dd34ad1678349bd0d8403dac77e1c573093541fb2199e101d05ce3425735b"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2881,
+          "bytes_after": 89165,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19051,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 浪漫帘幕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0c8617250267eb5b8d59e1f4feb73c087f27a79454beea41d8072aa4065641f1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19051/19051.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19051/Warwick.wad.client",
+          "size": 89183,
+          "sha256": "77d516343939b7484e809058cb219a60972c9c17dc9ed4d78d984bd42611b9c7"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2899,
+          "bytes_after": 89183,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19052,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 希望辉光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6e3b000fa17fd8985af7d737c2e37e18d2ab77bdb78115e498f75c5d7cb384b1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19052/19052.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19052/Warwick.wad.client",
+          "size": 89166,
+          "sha256": "f52f3a6b9f453e5a7c34de2d1cd08ef1a608e18de328c2e275c5ad834a83c552"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2882,
+          "bytes_after": 89166,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19053,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 幽静极夜",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "857944703d1350d913c91bb6b7316134585103a2e955ca9c1781dd4f56fd5eb5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19053/19053.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19053/Warwick.wad.client",
+          "size": 89166,
+          "sha256": "2fce8d6fbb494f2605a25bf7b4ed347bbe6cbdccdbb620d66715f20fe384dadc"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2882,
+          "bytes_after": 89166,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19054,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 庄严光冕",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e4c12ff8e02c4f51a3d2733281247c3c562a87ddc6282d2e4754fab3ce2f7823",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19054/19054.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19054/Warwick.wad.client",
+          "size": 89164,
+          "sha256": "5b6d53c13c518feb57224022be94c58e4d63be9d7aeb2832b88923ef3281b986"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2880,
+          "bytes_after": 89164,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19055,
+      "base_skin_id": 19045,
+      "champion_id": 19,
+      "name": "北极星使者 沃里克 花冠极光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b0dc9fd00c6d633a9fc53ccc5f67267baa74d646852cac36ef894dc37713d0cb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19045/19055/19055.fantome",
+      "files": [
+        {
+          "path": "skins/19/19045/19055/Warwick.wad.client",
+          "size": 89218,
+          "sha256": "726148fbb63e74dbb660e46161c027f65a22ee7dfeba67ae48bfd52c06010f2e"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2934,
+          "bytes_after": 89218,
+          "replacement_hashes": [
+            "ac9a60ebac4b041f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "ac9a60ebac4b041f",
+            "border_hash": "888b276537bf7d78",
+            "bytes": 86252,
+            "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

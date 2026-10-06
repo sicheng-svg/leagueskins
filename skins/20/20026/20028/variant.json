@@ -1,0 +1,48 @@
+{
+  "skin_id": 20028,
+  "base_skin_id": 20026,
+  "champion_id": 20,
+  "name": "浪漫浪漫小淡紫 努努和威朗普",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1f78a8a1efcd9944acc14a60212f607d30e1e9a4b224fc50a0afc2ea9ab19b9e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "20/20026/20028/20028.fantome",
+  "files": [
+    {
+      "path": "skins/20/20026/20028/Nunu.wad.client",
+      "size": 4125,
+      "sha256": "b9a40a3ca344bc5c3968871903e09287cc6fad8fe24b72a73967649c0c69882c"
+    }
+  ],
+  "wads": {
+    "Nunu.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4125,
+      "bytes_after": 4125,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

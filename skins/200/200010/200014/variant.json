@@ -1,0 +1,48 @@
+{
+  "skin_id": 200014,
+  "base_skin_id": 200010,
+  "champion_id": 200,
+  "name": "星界女神 卑尔维斯 海神星魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "367a0a0d9657387ea31674368a97cde5ffbd83e2f138eff8127e4c7775e86c17",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "200/200010/200014/200014.fantome",
+  "files": [
+    {
+      "path": "skins/200/200010/200014/Belveth.wad.client",
+      "size": 6468,
+      "sha256": "e8ad1428c30f4130c5efe9a0f473f5064190d58345740e81758f701b7928d6dc"
+    }
+  ],
+  "wads": {
+    "Belveth.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6468,
+      "bytes_after": 6468,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

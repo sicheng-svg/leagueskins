@@ -1,0 +1,94 @@
+{
+  "champion_id": 18,
+  "base_skin_id": 18080,
+  "name": "18080",
+  "variants": [
+    {
+      "skin_id": 18080,
+      "base_skin_id": 18080,
+      "champion_id": 18,
+      "name": "18080",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a297a2021b185af59dc6611c4d44b21b20424e4ded25cb721365590168339ed0",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "18/18080/18080.fantome",
+      "files": [
+        {
+          "path": "skins/18/18080/18080/Tristana.wad.client",
+          "size": 979367,
+          "sha256": "1b6b93de1017970c96241822b47d1a8754e51a2a92eed69991eb0d97bdf4d589"
+        },
+        {
+          "path": "skins/18/18080/18080/UI.wad.client",
+          "size": 21922,
+          "sha256": "f19ed236c290cdebf224ff837581885f13d95d201d15bc8bf55a851d3227c4d0"
+        }
+      ],
+      "wads": {
+        "Tristana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 5,
+          "was_sorted": false,
+          "version": "3.3",
+          "bytes_before": 27171,
+          "bytes_after": 979367,
+          "replacement_hashes": [
+            "1d4acf363057b15f",
+            "7be9a69be8ecd175",
+            "f85534af9ca8dec6"
+          ]
+        },
+        "UI.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.3",
+          "bytes_before": 21922,
+          "bytes_after": 21922,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Tristana.wad.client",
+            "normal_hash": "f85534af9ca8dec6",
+            "border_hash": "7be9a69be8ecd175",
+            "bytes": 689932,
+            "sha256": "fd500cd0401d2fb47424da32a90293d393368f195cda560f36641998934a9ce3",
+            "strategy": "bake_native_augment_layers",
+            "layers": [
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Premium.tex",
+                "sha256": "7f9980054b4625566f8039f8eaf61e5f9ce587d1deed1bd7dc72fea256932e58"
+              },
+              {
+                "path": "ASSETS/Characters/Tristana/Skins/Skin80/UI/Tristana_Skin80_LoadScreen_Augments_Border_Signature.tex",
+                "sha256": "2174cc9d2d2db96b40c29c5575de7b9e61606874a0ef5606e3ede856af35007f"
+              }
+            ],
+            "placement": "scale_native_layers_to_loading_card",
+            "in_game": "not_verified"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "champion_id": 202,
+  "base_skin_id": 202037,
+  "name": "暗星绝杀 烬",
+  "variants": [
+    {
+      "skin_id": 202037,
+      "base_skin_id": 202037,
+      "champion_id": 202,
+      "name": "暗星绝杀 烬",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f0fbdecdcdafac55411b53b5d89eb41e0b833e07f0aff763bf84fd61a6932876",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "202/202037/202037.fantome",
+      "files": [
+        {
+          "path": "skins/202/202037/202037/Jhin.wad.client",
+          "size": 90220,
+          "sha256": "5cbdfa3c1c1154e2b5d4c01fd17dd60f5e6e5ae2dcf78ac2b128f20e31dcded8"
+        }
+      ],
+      "wads": {
+        "Jhin.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3936,
+          "bytes_after": 90220,
+          "replacement_hashes": [
+            "3792c1a0c9d4bdf9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Jhin.wad.client",
+            "normal_hash": "3792c1a0c9d4bdf9",
+            "border_hash": "f701511672e2f334",
+            "bytes": 86252,
+            "sha256": "e83530e7b0424053e60f0fd7c235a8dab0621f01f9fe3f66d4b4f7bf7f864e2e",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 21,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "champion_id": 19,
+  "base_skin_id": 19056,
+  "name": "双城之战2 范德尔 沃里克",
+  "variants": [
+    {
+      "skin_id": 19056,
+      "base_skin_id": 19056,
+      "champion_id": 19,
+      "name": "双城之战2 范德尔 沃里克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b7920a80045b7fee4821d4cbc9ef5fd38f3f761ca2b10d67a130a01be72a4677",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19056/19056.fantome",
+      "files": [
+        {
+          "path": "skins/19/19056/19056/Warwick.wad.client",
+          "size": 93488,
+          "sha256": "604927702bcb972f724ddd8968412e0eca1e15e79dd876fdf034b1e93765e90c"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7204,
+          "bytes_after": 93488,
+          "replacement_hashes": [
+            "9c7a63c3490b11fb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "9c7a63c3490b11fb",
+            "border_hash": "52541479708b99f0",
+            "bytes": 86252,
+            "sha256": "beef30e9a44440ca478a5c74ee9340a1152a572615b784f6680db5852e10be59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19057,
+      "base_skin_id": 19056,
+      "champion_id": 19,
+      "name": "双城之战2 范德尔 沃里克 典范",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d6a3581cd610cf14658e60d7c6c899d8032c133325846e360401cb04ab280033",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19056/19057/19057.fantome",
+      "files": [
+        {
+          "path": "skins/19/19056/19057/Warwick.wad.client",
+          "size": 89127,
+          "sha256": "80ace4faef9c27418a17332ed511c473b409fc1f5b8a75ef88dd8b1d963dcd9e"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2843,
+          "bytes_after": 89127,
+          "replacement_hashes": [
+            "9c7a63c3490b11fb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "9c7a63c3490b11fb",
+            "border_hash": "52541479708b99f0",
+            "bytes": 86252,
+            "sha256": "beef30e9a44440ca478a5c74ee9340a1152a572615b784f6680db5852e10be59"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

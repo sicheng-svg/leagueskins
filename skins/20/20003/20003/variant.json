@@ -1,0 +1,48 @@
+{
+  "skin_id": 20003,
+  "base_skin_id": 20003,
+  "champion_id": 20,
+  "name": "脏兮兮 努努和威朗普",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "042fd5f92a6cb5b56d32cba774957248aa44c6d34a95d1dfd4309482839a30af",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "20/20003/20003.fantome",
+  "files": [
+    {
+      "path": "skins/20/20003/20003/Nunu.wad.client",
+      "size": 4537,
+      "sha256": "c195ff92e4c6bc3965e0f803e8d1ccf9639cd0af849fd1fcdc5091b981784a85"
+    }
+  ],
+  "wads": {
+    "Nunu.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4537,
+      "bytes_after": 4537,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

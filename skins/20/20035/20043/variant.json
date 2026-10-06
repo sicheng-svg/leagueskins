@@ -1,0 +1,48 @@
+{
+  "skin_id": 20043,
+  "base_skin_id": 20035,
+  "champion_id": 20,
+  "name": "星界圣骑双子 努努和威朗普 美神星魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "dfca4dcdfac70051fb2ac29681f6d40580bcce338481a94d6c9107fc8ef53fd0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "20/20035/20043/20043.fantome",
+  "files": [
+    {
+      "path": "skins/20/20035/20043/Nunu.wad.client",
+      "size": 4421,
+      "sha256": "7db2d9c6445815d66b62a0f96b259e90e584dcb96de3797ae5659ee2bd5fd2ea"
+    }
+  ],
+  "wads": {
+    "Nunu.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4421,
+      "bytes_after": 4421,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

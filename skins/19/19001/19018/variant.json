@@ -1,0 +1,58 @@
+{
+  "skin_id": 19018,
+  "base_skin_id": 19001,
+  "champion_id": 19,
+  "name": "暗影 沃里克 上善若水",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7af22d4b5e90e6dd63cedb1d1823cd377615479624f29a5a958a800360973cda",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "19/19001/19018/19018.fantome",
+  "files": [
+    {
+      "path": "skins/19/19001/19018/Warwick.wad.client",
+      "size": 88268,
+      "sha256": "d35ea52c5e78f19df1d7d579fb51836be4051d742116eacac43ff0218d15ede2"
+    }
+  ],
+  "wads": {
+    "Warwick.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 1984,
+      "bytes_after": 88268,
+      "replacement_hashes": [
+        "3ef4f8f589a9ccda"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Warwick.wad.client",
+        "normal_hash": "3ef4f8f589a9ccda",
+        "border_hash": "a17cbb0f07af5d80",
+        "bytes": 86252,
+        "sha256": "211e2e11e35be7514e7750070ae92a0e5274f6e861dc7f969efbf167123f98ae"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "champion_id": 19,
+  "base_skin_id": 19058,
+  "name": "银焰骑士 沃里克",
+  "variants": [
+    {
+      "skin_id": 19058,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "737f3e173b8cad3777d5c48b82368e976e3833618ea562e0534f644d745e9dd8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19058.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19058/Warwick.wad.client",
+          "size": 93547,
+          "sha256": "b77b15f1f685a1dd2a265c0fda06721c8f06e9c78361b55b819f45fbb9d78b40"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7263,
+          "bytes_after": 93547,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19059,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 红焰迅牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a3250bff79d1f29e5ebcfa5c6853015a10858a46106a49f118539f1fea983a45",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19059/19059.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19059/Warwick.wad.client",
+          "size": 89220,
+          "sha256": "ace5aabf17305673060cca404f2c69b671cf8f3582ef1b0b3dd4bfdf56355113"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2936,
+          "bytes_after": 89220,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19060,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 黄焰猛牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "223d905b5de7207417dbe9375cf9f27b4502e6e7e25e768ac16d676b7c28e38c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19060/19060.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19060/Warwick.wad.client",
+          "size": 89170,
+          "sha256": "126bac6f6b458bd11f17a42c83336e595fc0a4cb7253de905a20657fe4073d71"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2886,
+          "bytes_after": 89170,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19061,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 绿焰霸牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0f130a4a01ea1876a09a02000cedf666b98c2900ceaa1fec50e7842b2477989e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19061/19061.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19061/Warwick.wad.client",
+          "size": 89168,
+          "sha256": "292c9ff2d33a05e28f3d7e3db23dbddb3b67e2139fb23620f113010cca6e5396"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2884,
+          "bytes_after": 89168,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19062,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 靛焰威牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fb88667acba4f4c3598243251ae918c41d7ee9707976d50d5599113e3a756673",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19062/19062.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19062/Warwick.wad.client",
+          "size": 89171,
+          "sha256": "b5a5612e22eae1e7c34996eb7d3dfbc2ccb4a2cacd898ca707f604a5051e5c7f"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2887,
+          "bytes_after": 89171,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19063,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 青焰蛮牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c79097b91852ebc3b2af411d47d9390ff03ae509acfc8a2d10c8c4b34deefdb6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19063/19063.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19063/Warwick.wad.client",
+          "size": 89172,
+          "sha256": "3f40b3ef3527e031f8cbb3f21f5cb5e7e1020eda83a78dd0262f53917d17e279"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2888,
+          "bytes_after": 89172,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19064,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 粉焰傲牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "140960a03f248310a92a28143fdeac9d3de50af75d39b902ef7f4a614505ccdb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19064/19064.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19064/Warwick.wad.client",
+          "size": 89171,
+          "sha256": "870f3c4f070219d48b93de52066c79a909b360c89192aa1b408c998fc6b115a1"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2887,
+          "bytes_after": 89171,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19065,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 黑焰劲牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "abda7f43ef96abba9e0a9d4ba27260c62272f7e1d11c209ab3c3d45252c2c3b2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19065/19065.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19065/Warwick.wad.client",
+          "size": 89170,
+          "sha256": "d6c65311aeade73b45b5794168975f529452aa2391647bc30e5f85a4b8a822a7"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2886,
+          "bytes_after": 89170,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19066,
+      "base_skin_id": 19058,
+      "champion_id": 19,
+      "name": "银焰骑士 沃里克 白焰凶牙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "490a3e44ea02055f32425f9f7cc05a0a15628681559d64df1b222787ee4c4fc3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19058/19066/19066.fantome",
+      "files": [
+        {
+          "path": "skins/19/19058/19066/Warwick.wad.client",
+          "size": 89171,
+          "sha256": "bba9dd0de674c879ce6b869652d4643131964ee14828ccb867e9af9daba3ede2"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2887,
+          "bytes_after": 89171,
+          "replacement_hashes": [
+            "c3b71dc6938a839c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "c3b71dc6938a839c",
+            "border_hash": "e0a8b0deb60abbec",
+            "bytes": 86252,
+            "sha256": "387e4379b6990663828a70ee716c8313144db053e01ad5e73d4871a74ec2494e"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

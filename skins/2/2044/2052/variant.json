@@ -1,0 +1,48 @@
+{
+  "skin_id": 2052,
+  "base_skin_id": 2044,
+  "champion_id": 2,
+  "name": "地狱火 奥拉夫 博爱之焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b2d4944177733099c273f7f59bbd6270b744c942c13e5e44de8f324ee135c679",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "2/2044/2052/2052.fantome",
+  "files": [
+    {
+      "path": "skins/2/2044/2052/Olaf.wad.client",
+      "size": 3112,
+      "sha256": "cb5d8a8d468a4ef01e715fef2945702cf9a7155ab358211b8e10bb46c6af376d"
+    }
+  ],
+  "wads": {
+    "Olaf.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3112,
+      "bytes_after": 3112,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

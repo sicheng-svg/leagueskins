@@ -1,0 +1,48 @@
+{
+  "skin_id": 2021,
+  "base_skin_id": 2016,
+  "champion_id": 2,
+  "name": "屠龙勇士 奥拉夫 红龙之狂傲",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d2b67a2b5f0598640242f6b6eb983b738a850ee8a988f972c2bbeae3a5900a88",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "2/2016/2021/2021.fantome",
+  "files": [
+    {
+      "path": "skins/2/2016/2021/Olaf.wad.client",
+      "size": 2925,
+      "sha256": "3db738f28548b83755e4b3b371c9331d5a3e0384b8bb2aa620f2ac871ea37e66"
+    }
+  ],
+  "wads": {
+    "Olaf.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2925,
+      "bytes_after": 2925,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

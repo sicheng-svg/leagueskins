@@ -1,0 +1,58 @@
+{
+  "skin_id": 19050,
+  "base_skin_id": 19045,
+  "champion_id": 19,
+  "name": "北极星使者 沃里克 智慧纽带",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0c45d5a5a90207b82bd01f9bd90f5f6818415a89f467c4122f0fb98814cbcc84",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "19/19045/19050/19050.fantome",
+  "files": [
+    {
+      "path": "skins/19/19045/19050/Warwick.wad.client",
+      "size": 89165,
+      "sha256": "af7dd34ad1678349bd0d8403dac77e1c573093541fb2199e101d05ce3425735b"
+    }
+  ],
+  "wads": {
+    "Warwick.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2881,
+      "bytes_after": 89165,
+      "replacement_hashes": [
+        "ac9a60ebac4b041f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Warwick.wad.client",
+        "normal_hash": "ac9a60ebac4b041f",
+        "border_hash": "888b276537bf7d78",
+        "bytes": 86252,
+        "sha256": "1da543c920f850a153d5c707c2afea2a9b8ebd1323159efc08a11a1f0aefd850"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

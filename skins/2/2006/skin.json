@@ -1,0 +1,55 @@
+{
+  "champion_id": 2,
+  "base_skin_id": 2006,
+  "name": "牛扒狂战 奥拉夫",
+  "variants": [
+    {
+      "skin_id": 2006,
+      "base_skin_id": 2006,
+      "champion_id": 2,
+      "name": "牛扒狂战 奥拉夫",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9088003132f002ec04aa70df6323b9d88bfb6f39adbb5d700f032f2c0fb13187",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "2/2006/2006.fantome",
+      "files": [
+        {
+          "path": "skins/2/2006/2006/Olaf.wad.client",
+          "size": 4001,
+          "sha256": "cb9378929a735f7a57f257419a68444469956277e1e63ae135ca85f006185d3f"
+        }
+      ],
+      "wads": {
+        "Olaf.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4001,
+          "bytes_after": 4001,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

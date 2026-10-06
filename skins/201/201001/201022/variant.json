@@ -1,0 +1,48 @@
+{
+  "skin_id": 201022,
+  "base_skin_id": 201001,
+  "champion_id": 201,
+  "name": "屠龙勇士 布隆 冰牙龙首之盾",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4fb2eb3aaa9c5c56403b4590438381cde28e46c9a850f39e92cc3fcb24dc1a58",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "201/201001/201022/201022.fantome",
+  "files": [
+    {
+      "path": "skins/201/201001/201022/Braum.wad.client",
+      "size": 2649,
+      "sha256": "ee17b0714959eb16da97700e75f30053ee930e85b77770b00d3c727aa0ee844b"
+    }
+  ],
+  "wads": {
+    "Braum.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2649,
+      "bytes_after": 2649,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

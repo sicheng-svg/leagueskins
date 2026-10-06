@@ -1,0 +1,587 @@
+{
+  "champion_id": 19,
+  "base_skin_id": 19035,
+  "name": "古神 沃里克",
+  "variants": [
+    {
+      "skin_id": 19035,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5ce4bf649862fe482076b341b82c5f924c4f78eca609ed7b6953d236e94253bc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19035.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19035/Warwick.wad.client",
+          "size": 93413,
+          "sha256": "00800353fa3d0d271aa573f7f9bafb8f393df5d17ba53b87734c688afb3b5b63"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7129,
+          "bytes_after": 93413,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19036,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 愤怒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9b5481bfb67721804c4a11ffbb5c93e18fa95154ca3830f20a2b05a267116826",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19036/19036.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19036/Warwick.wad.client",
+          "size": 89057,
+          "sha256": "982c84a1edebc9829900b977abd90cb04ca9d03c2cb0ec19bb22bd2f5b76191f"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2773,
+          "bytes_after": 89057,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19037,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 暴食",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a17ccad7bdc09d3879638987ced71e0b83f2038497df261e6ee608c99b379907",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19037/19037.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19037/Warwick.wad.client",
+          "size": 88997,
+          "sha256": "2bc50d2ba4866b46e1ff2cc2a1aa01a4fe61601f379b1cb1ae4f037155df1cd5"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2713,
+          "bytes_after": 88997,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19038,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 嫉妒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9dfb6060d9569bab96f3298363c06e580c055cab35357df4e5072bbaf2f8a03",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19038/19038.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19038/Warwick.wad.client",
+          "size": 88997,
+          "sha256": "75aeabd6afa0c43bc935ba913422fbfbddce997279da4e6fb110e0babf1aa3f5"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2713,
+          "bytes_after": 88997,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19039,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 虚荣",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "18991b88305ce93b10e7b90b7f3d44e62686de808a2ae91369506404f1639fcf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19039/19039.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19039/Warwick.wad.client",
+          "size": 88996,
+          "sha256": "d2cc78cfdfa684507259c70a5c4c9b29908bf3cf991da934714d59480f4b73c7"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2712,
+          "bytes_after": 88996,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19040,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 贪婪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "05eea563db76195167e5d83346cabcf6ebb878176762a2e33834e9eb40372090",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19040/19040.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19040/Warwick.wad.client",
+          "size": 89025,
+          "sha256": "0dce145a8a9a6472f6e3f358f00b62ea1e793d5d308e083a2a64b349aa17ccb8"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2741,
+          "bytes_after": 89025,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19041,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 倦怠",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "44a93a04eaa7d988aa5e9a5015cb393c62e4e9fda26a8d95ac9567a855af62ed",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19041/19041.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19041/Warwick.wad.client",
+          "size": 88997,
+          "sha256": "d5dc87e530152585980dcf8a177525c1c119bf78f5b0d58b53a426894442c99a"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2713,
+          "bytes_after": 88997,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19042,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 傲慢",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "17049519527df30b94ad7b2e70a4255c405b3b92a56cd7a7d8550eb623e3ae46",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19042/19042.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19042/Warwick.wad.client",
+          "size": 89002,
+          "sha256": "eda419918343b1e346fdd0992c9540b158475165dc6120676ba55085ad4d11c5"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2718,
+          "bytes_after": 89002,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19043,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 饕餮",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "691ed851045456f507829eaae909552ea333311c2970b34637608cec6aec7dc4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19043/19043.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19043/Warwick.wad.client",
+          "size": 89000,
+          "sha256": "0cc50b99cd01b7fbfb24a1984b548f18ba77e232dbb083ce9ec63b51f5e6dfae"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2716,
+          "bytes_after": 89000,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 19044,
+      "base_skin_id": 19035,
+      "champion_id": 19,
+      "name": "古神 沃里克 狂信",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "69409f327474beb0b374110d5f6d747738c93dd6c66a1b926fda4dccf2eeec18",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "19/19035/19044/19044.fantome",
+      "files": [
+        {
+          "path": "skins/19/19035/19044/Warwick.wad.client",
+          "size": 89060,
+          "sha256": "a0bc24a403748fa6d569f4354ab543d0467690e32970cc13d19922ba68ace605"
+        }
+      ],
+      "wads": {
+        "Warwick.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2776,
+          "bytes_after": 89060,
+          "replacement_hashes": [
+            "402c059a4d5bce91"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Warwick.wad.client",
+            "normal_hash": "402c059a4d5bce91",
+            "border_hash": "cae04164351b1b6b",
+            "bytes": 86252,
+            "sha256": "b94476980e179e92dcb7a914f8e1be1536ba67f4e44c845033ad585c92a506ff"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

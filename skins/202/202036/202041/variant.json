@@ -1,0 +1,65 @@
+{
+  "skin_id": 202041,
+  "base_skin_id": 202036,
+  "champion_id": 202,
+  "name": "斗魂觉醒 烬 韧之魂焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "55412da7377a49b0e07f8194975cc70aae0fea4f50e713de4753d8541c80dc29",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "202/202036/202041/202041.fantome",
+  "files": [
+    {
+      "path": "skins/202/202036/202041/Jhin.wad.client",
+      "size": 89962,
+      "sha256": "ec5a781720d0a588165fea4c70864ed94b3c83cc8f2584a1efbd5fbc4a1fa83f"
+    }
+  ],
+  "wads": {
+    "Jhin.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3678,
+      "bytes_after": 89962,
+      "replacement_hashes": [
+        "08d2e1a9d8ea8d93"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Jhin.wad.client",
+        "normal_hash": "08d2e1a9d8ea8d93",
+        "border_hash": "05187b66b1d97cf9",
+        "bytes": 86252,
+        "sha256": "34d33f5468125af186a12e695419fed6d3b2e9ba0b97a4d9af89a6e09ee9c23d"
+      },
+      {
+        "archive": "Jhin.wad.client",
+        "normal_hash": "08d2e1a9d8ea8d93",
+        "border_hash": "05187b66b1d97cf9",
+        "bytes": 86252,
+        "sha256": "34d33f5468125af186a12e695419fed6d3b2e9ba0b97a4d9af89a6e09ee9c23d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

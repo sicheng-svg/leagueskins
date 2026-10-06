@@ -1,0 +1,48 @@
+{
+  "skin_id": 201003,
+  "base_skin_id": 201003,
+  "champion_id": 201,
+  "name": "布隆·狮心",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "22f072f399f5289bdebf35d1f3b93a256f685bbb1602cbc48f7f3e56ed97f166",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "201/201003/201003.fantome",
+  "files": [
+    {
+      "path": "skins/201/201003/201003/Braum.wad.client",
+      "size": 3768,
+      "sha256": "a0b52ecdb2a74f765adf0be5c2b11af52b7bd977873c1c87ceabf4efe9f043b1"
+    }
+  ],
+  "wads": {
+    "Braum.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3768,
+      "bytes_after": 3768,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

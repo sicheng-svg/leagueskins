@@ -1,0 +1,587 @@
+{
+  "champion_id": 9,
+  "base_skin_id": 9027,
+  "name": "星之吞噬者 费德提克",
+  "variants": [
+    {
+      "skin_id": 9027,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "13d5d8e69d68f15e8a5af5f17e29ee85d629558b9c028812b618807571f2c6c7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9027.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9027/FiddleSticks.wad.client",
+          "size": 95440,
+          "sha256": "7a3fb1e5dca4ecc6bc0d6de839e7175fe4cb115bb6a15eded14417f29f80e7d5"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9156,
+          "bytes_after": 95440,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9028,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 热情之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "23c74cb5405289180c278e9ec02a1bd6f001e0f2320c10b356f72e9f12f33764",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9028/9028.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9028/FiddleSticks.wad.client",
+          "size": 89495,
+          "sha256": "7692eff1785d0862a5286b1a7f749c6e8ed12ae52f98317008300510dc4c22b8"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3211,
+          "bytes_after": 89495,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9029,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 美之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2c6b2704a6b43765a9f9428a14babf1a32a51a973c7bbc5646012423ba2d90f8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9029/9029.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9029/FiddleSticks.wad.client",
+          "size": 89439,
+          "sha256": "d9819bc7cc99bfded6b642ce09913c059f330eb7844e083b9de39c77df2856f0"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3155,
+          "bytes_after": 89439,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9030,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 变更之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "328ea64acee9694319d237e3877b7833efe479a8c1774554e9c9c06b5b998ad9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9030/9030.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9030/FiddleSticks.wad.client",
+          "size": 89448,
+          "sha256": "2003eb3f19a28f63416a9a1b6e1ceb7f09b2ad91c44953a2cca8cace726a6e57"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3164,
+          "bytes_after": 89448,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9031,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 智慧之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7657c487665c8f510b439540336ff25dec9691f55e309b0fbf737a05108912fc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9031/9031.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9031/FiddleSticks.wad.client",
+          "size": 89446,
+          "sha256": "2e0ff4e0f5529d06c76ce9240ceb0ac5d57f33a60dc216171aadf8831339bd7e"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3162,
+          "bytes_after": 89446,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9032,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 未来之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d52a7e11b6d4aa691e65df9534c6bf908d2a7760cae92f0830d3b4f7fecb0556",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9032/9032.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9032/FiddleSticks.wad.client",
+          "size": 89468,
+          "sha256": "0bfd90c44bb75655357e2fa0a790aace6c3f47a6356b542e8be0085aa98a55d6"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3184,
+          "bytes_after": 89468,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9033,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 拥抱之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cc1dda4772b920415892a3151e34bf45a5b3a0d780de72b9b68c18a56069e445",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9033/9033.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9033/FiddleSticks.wad.client",
+          "size": 89445,
+          "sha256": "c6fe96d528b8caa157b8b3651085f05cdab816f8e968796f4f3e642dea915493"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3161,
+          "bytes_after": 89445,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9034,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 守护之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2f681c8ae1f0924bb0837c09cb57ab47682a198e7c08783aa1d6ad9c5f6728c9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9034/9034.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9034/FiddleSticks.wad.client",
+          "size": 89446,
+          "sha256": "61223288531d91624f50ae541321b274784dfd3c64bfe6e3f07ae633970bf24d"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3162,
+          "bytes_after": 89446,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9035,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 包容之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ff927b9d8f596d2a4f266f2076aee49c2a5a9891978b9def8a3cd66e9a463ff4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9035/9035.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9035/FiddleSticks.wad.client",
+          "size": 89445,
+          "sha256": "ad70eeb396882061e50b401d4faf26a96a480df5094c6767afebb35b19779d6b"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3161,
+          "bytes_after": 89445,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 9036,
+      "base_skin_id": 9027,
+      "champion_id": 9,
+      "name": "星之吞噬者 费德提克 希望之末",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5f459afb5be18f050cc6e03952c679d674294cd8d038c8d0dc756f0097ef4f92",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "9/9027/9036/9036.fantome",
+      "files": [
+        {
+          "path": "skins/9/9027/9036/FiddleSticks.wad.client",
+          "size": 89497,
+          "sha256": "44e5e5d205a34608ed501cc7eb6f91cf771e3bd45c9d8a2752ea6d4fd5d72921"
+        }
+      ],
+      "wads": {
+        "FiddleSticks.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3213,
+          "bytes_after": 89497,
+          "replacement_hashes": [
+            "f70eedb6c3ec331d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "FiddleSticks.wad.client",
+            "normal_hash": "f70eedb6c3ec331d",
+            "border_hash": "37425c1ed52c27cf",
+            "bytes": 86252,
+            "sha256": "a9d5d3ba990bb015076b720e2b5d3a5d7a5940071087da37c3ba14579dc051a8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

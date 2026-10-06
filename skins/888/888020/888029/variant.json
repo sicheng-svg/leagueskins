@@ -1,0 +1,58 @@
+{
+  "skin_id": 888029,
+  "base_skin_id": 888020,
+  "champion_id": 888,
+  "name": "魂蔷薇 烈娜塔 智慧之物",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8edc15076e07a22d70f4e7dc268faadfdbb064456de31ba7c5cd5d55e5b7574a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "888/888020/888029/888029.fantome",
+  "files": [
+    {
+      "path": "skins/888/888020/888029/Renata.wad.client",
+      "size": 89063,
+      "sha256": "8cb883f4fa1d7cf425b1191ee30ee347d1a69db20b8917db1ab53560e228ac29"
+    }
+  ],
+  "wads": {
+    "Renata.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2779,
+      "bytes_after": 89063,
+      "replacement_hashes": [
+        "45c7276562fd643d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Renata.wad.client",
+        "normal_hash": "45c7276562fd643d",
+        "border_hash": "c2232fecbda5755b",
+        "bytes": 86252,
+        "sha256": "b5e8d92dd5294171942002434768d014ba3aa9a2f52bfcf9058e0e8fb8f5a7e7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

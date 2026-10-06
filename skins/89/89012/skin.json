@@ -1,0 +1,529 @@
+{
+  "champion_id": 89,
+  "base_skin_id": 89012,
+  "name": "机神朱雀 蕾欧娜",
+  "variants": [
+    {
+      "skin_id": 89012,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7b473504c493b616fb1ddc0d1255e63170a52dac2a80ec898b92e11ec25b0e0a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89012.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89012/Leona.wad.client",
+          "size": 91427,
+          "sha256": "534c58e3fab3804023e1e80f8a87257a75a907f8f262f2ed9d2ff5a2a540c96d"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5143,
+          "bytes_after": 91427,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89013,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f013dbe78c562d9b5dde1fcad2554a6584fb2f752b29b2cb42e241d445e8111a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89013/89013.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89013/Leona.wad.client",
+          "size": 88706,
+          "sha256": "d499489630856ea06839ae1800110e1ea5d01eee9461e5b0858c17703ec51be1"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2422,
+          "bytes_after": 88706,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89014,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 钢铁",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d060d3ef22bf244f19034f6cf3793734df38a0e0261c85661762c14fce3f9559",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89014/89014.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89014/Leona.wad.client",
+          "size": 88647,
+          "sha256": "8d92cf74766feb27a7fe554f3e4d5c907c57328550517ca9a9afe8f0a2f7abc1"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2363,
+          "bytes_after": 88647,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89015,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 云霄",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5f2868ed8a4a4c3a6430fc7d5f7f0723f403882a3bb6a55b16964284785979ba",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89015/89015.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89015/Leona.wad.client",
+          "size": 88650,
+          "sha256": "a0f0c752762d8734ee41646a55300999509a14a2716c4d4c3952be3d6ba5481a"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2366,
+          "bytes_after": 88650,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89016,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 炼狱",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5431e4ae1f0afe2bed672c1a495c8f1eceb5835a006a206ed25e708edf502160",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89016/89016.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89016/Leona.wad.client",
+          "size": 88705,
+          "sha256": "06aa6d3982ff9d71b3fe3c6f12c8079c5e534b75479dc68d9be600ad0e5f8d29"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2421,
+          "bytes_after": 88705,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89017,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 雷霆",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "19aabcac60b49dd329388843569f6eeabea416936a136b807de444a57ee6a5db",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89017/89017.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89017/Leona.wad.client",
+          "size": 88650,
+          "sha256": "725872eefaf203e046a4aaa73c2db63a2dd2bd59704ad7add3ff72400872201e"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2366,
+          "bytes_after": 88650,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89018,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 海洋",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "635d70f36304a2d43c998e209f0123706585970bd2db80e64e9b4a25d0bf4cf8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89018/89018.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89018/Leona.wad.client",
+          "size": 88650,
+          "sha256": "4bfaf36e90df4652d187e33dc8710b7a0d633426bb72e95f1bc4ed812b2aabc5"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2366,
+          "bytes_after": 88650,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89019,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 水晶",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6b84970bd3c2b87281d6fdae36fde544a9b76441793f615aa5c030a24ed7cff1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89019/89019.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89019/Leona.wad.client",
+          "size": 88672,
+          "sha256": "70386188c4b298592c7373877bf3dfa80e7e7699155e535a4e0ec5f8e496b9e3"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2388,
+          "bytes_after": 88672,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 89020,
+      "base_skin_id": 89012,
+      "champion_id": 89,
+      "name": "机神朱雀 蕾欧娜 影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c508d32e30eb783719e7fae1ea0dfdbd34c5be4444a97bb7c86493efd9492962",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89012/89020/89020.fantome",
+      "files": [
+        {
+          "path": "skins/89/89012/89020/Leona.wad.client",
+          "size": 88652,
+          "sha256": "6e5f7e3c9821037d6b239c0cec20ae00addfe9c415ce60d3c054fad6f7698a09"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2368,
+          "bytes_after": 88652,
+          "replacement_hashes": [
+            "7f6514bb1874528a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "7f6514bb1874528a",
+            "border_hash": "3db2c872a2eb2b2b",
+            "bytes": 86252,
+            "sha256": "53fae3d181c0773450d66d303bf82c860b0884f4634dae6ff30ce8ee3ce3f34d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

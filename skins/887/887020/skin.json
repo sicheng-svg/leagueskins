@@ -1,0 +1,587 @@
+{
+  "champion_id": 887,
+  "base_skin_id": 887020,
+  "name": "斗魂觉醒 格温",
+  "variants": [
+    {
+      "skin_id": 887020,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2abbd90702446abab0469c861d8a7e2eff333184e1d8d8ab2f226d807a8bcd06",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887020.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887020/Gwen.wad.client",
+          "size": 96609,
+          "sha256": "a6cdb4ab13d09f71097902a80403c7fd0716cd7f668a8ae0234f8821e70d1733"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10325,
+          "bytes_after": 96609,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887021,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 烈之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "117e459fd2fba75b444531015cd61c5346d98d95ccf4bab768c0f963d2d4d735",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887021/887021.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887021/Gwen.wad.client",
+          "size": 89489,
+          "sha256": "f4b42e59e416ab289c75d874293fb9e12285f59a753fd2336c4bc984b87d2a0b"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3205,
+          "bytes_after": 89489,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887022,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 毅之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "99df0d91700897e672b2e1745f447466f0c516fc602869dde41cf7142b1d21d5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887022/887022.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887022/Gwen.wad.client",
+          "size": 89432,
+          "sha256": "a845a1e77b35922a64dd5467a6015cdf5261ea59bfdf461295d5e82af51a577e"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3148,
+          "bytes_after": 89432,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887023,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 狡之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5cdf48c335aaf8c264044808b0c870b47a61e912d66b7243d72f9008055f46cb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887023/887023.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887023/Gwen.wad.client",
+          "size": 89430,
+          "sha256": "4720369b4083169820c9c573f8aa7959c62557ea8563d50036dc4c28f00653ce"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3146,
+          "bytes_after": 89430,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887024,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 韧之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b4bc883cde2338d060a5409e57d9ee9a4169e2e6a0533578f2b80491807aea1f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887024/887024.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887024/Gwen.wad.client",
+          "size": 89431,
+          "sha256": "fe792e9832cb4ff3563509c6d5b56ef9047d5a3c81983ce0250a113ec9247776"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3147,
+          "bytes_after": 89431,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887025,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 飒之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "90cea08f9786b2fbcdf1763f30b752076172c90be40d80cf30093883cc5cb75d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887025/887025.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887025/Gwen.wad.client",
+          "size": 89430,
+          "sha256": "78c2c92813e17e3b8a9d220b91614432c6e3253e69e15aa7f56157926fb46745"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3146,
+          "bytes_after": 89430,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887026,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 魅之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "11d62676f201d340e92eea389eca9305acc3dd11a7352844b0423b7452adb5ee",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887026/887026.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887026/Gwen.wad.client",
+          "size": 89431,
+          "sha256": "c60f7de0427e6a559a287716a38315262a9052853ebfe7ba83c1f063f74865c6"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3147,
+          "bytes_after": 89431,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887027,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 幻之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "32ba40ab9f6711888d66530b11fabc25aba9b0737460bd92fade28a70fba3551",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887027/887027.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887027/Gwen.wad.client",
+          "size": 89454,
+          "sha256": "3e3d6f377a5fb4dd3e095d9a047d2e39150207dd97a07585802ca7c2e985a841"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3170,
+          "bytes_after": 89454,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887028,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 灵之魂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "037626be0c30c5eab57caabf73915dda82d23a84b3f9c61b46abef42e64022d8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887028/887028.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887028/Gwen.wad.client",
+          "size": 89433,
+          "sha256": "ca29fce480ac2c5f26bc013d43450884ad43d016d9eca7af6a844c76146cb0a9"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3149,
+          "bytes_after": 89433,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 887029,
+      "base_skin_id": 887020,
+      "champion_id": 887,
+      "name": "斗魂觉醒 格温 无限斗志",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5db5c85105573e2bb75672fdc4d76328b237474cb855dea81e1d5104b1cd117c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "887/887020/887029/887029.fantome",
+      "files": [
+        {
+          "path": "skins/887/887020/887029/Gwen.wad.client",
+          "size": 89488,
+          "sha256": "5c7c366961c38c4dc538e583043f488ff086da885fbcd7f85534f146fcddc141"
+        }
+      ],
+      "wads": {
+        "Gwen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3204,
+          "bytes_after": 89488,
+          "replacement_hashes": [
+            "c610ac099dba84dd"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Gwen.wad.client",
+            "normal_hash": "c610ac099dba84dd",
+            "border_hash": "01f11e2f14c9b347",
+            "bytes": 86252,
+            "sha256": "e3943f4d95348388de2169a82f7de017fa968af22fa9147522fb72e166c75ec0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

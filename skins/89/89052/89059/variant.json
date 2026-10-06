@@ -1,0 +1,58 @@
+{
+  "skin_id": 89059,
+  "base_skin_id": 89052,
+  "champion_id": 89,
+  "name": "幻灵狮心 蕾欧娜 连绵奔袭",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e2861f7f8bc5aefc53b736455a6bb89462f500830eaa79c38ca1df985786be5f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "89/89052/89059/89059.fantome",
+  "files": [
+    {
+      "path": "skins/89/89052/89059/Leona.wad.client",
+      "size": 88986,
+      "sha256": "3ae177c6391b0daa80d7b1dc1bc9b5373572f91f431ccb6489f85562950e8f55"
+    }
+  ],
+  "wads": {
+    "Leona.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2702,
+      "bytes_after": 88986,
+      "replacement_hashes": [
+        "4445c7382097ed31"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leona.wad.client",
+        "normal_hash": "4445c7382097ed31",
+        "border_hash": "4a9c56c23b81eb8f",
+        "bytes": 86252,
+        "sha256": "717212f7473be2f3b6bda5f21f8951177a3498d6b377cb59c8856aafdb27a49c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

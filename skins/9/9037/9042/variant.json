@@ -1,0 +1,48 @@
+{
+  "skin_id": 9042,
+  "base_skin_id": 9037,
+  "champion_id": 9,
+  "name": "腥红之月 费德提克 苍澜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "83cbe4362c2f750ce4a50ed6b68c7884d55d9248f422e4e8872d14c902a79c77",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "9/9037/9042/9042.fantome",
+  "files": [
+    {
+      "path": "skins/9/9037/9042/FiddleSticks.wad.client",
+      "size": 3069,
+      "sha256": "59b8345735ebd8427f0484b8ce57b90ffff50fe032e6f682095a178ff8234c46"
+    }
+  ],
+  "wads": {
+    "FiddleSticks.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3069,
+      "bytes_after": 3069,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

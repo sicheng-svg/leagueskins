@@ -1,0 +1,48 @@
+{
+  "skin_id": 887039,
+  "base_skin_id": 887039,
+  "champion_id": 887,
+  "name": "青蛙雨衣 格温",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f364e92a3645b81a089f4238e3ef6cce2f7ea51f8397cc3e85a52b0a2f01facb",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "887/887039/887039.fantome",
+  "files": [
+    {
+      "path": "skins/887/887039/887039/Gwen.wad.client",
+      "size": 10901,
+      "sha256": "6a6c003e819d7537e560e302e880ee6fd36f49bcb7acfe119d2deabf7ae2e72c"
+    }
+  ],
+  "wads": {
+    "Gwen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 10901,
+      "bytes_after": 10901,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

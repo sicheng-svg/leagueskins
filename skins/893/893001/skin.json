@@ -1,0 +1,657 @@
+{
+  "champion_id": 893,
+  "base_skin_id": 893001,
+  "name": "幻灵战斗兔 阿萝拉",
+  "variants": [
+    {
+      "skin_id": 893001,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "30ffe0640400a9b7cce3e94784133fabbe9e184586a735c441ec3a07b9efe340",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893001.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893001/Aurora.wad.client",
+          "size": 95732,
+          "sha256": "39cc0726593da44d21d284c7782d8b3781825f87f6950193ae5b7d1f4f584378"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 9448,
+          "bytes_after": 95732,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893002,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 勇气赞歌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "83b007f7ff6be18de791937521f1dcb3e583c3968e733768a54b5adf0a5f3fa8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893002/893002.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893002/Aurora.wad.client",
+          "size": 90870,
+          "sha256": "09d6cc2ab4266c07ee8435ffa1dffb53a9d94612cc9c16a0538843f333451ccb"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4586,
+          "bytes_after": 90870,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893003,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 灿烂轰击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "79d8d8c75c168e6d367726944aa9700b9875aec0210fad8cce2d3670bf8acb6e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893003/893003.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893003/Aurora.wad.client",
+          "size": 90818,
+          "sha256": "7e07983e33eea69fbec763487a8a2e80085b992ea0007c7cd0a639abffb2448b"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4534,
+          "bytes_after": 90818,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893004,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 坚韧阻击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "91498a2ae94a5a9201a6008a654e6d6a540d9eb4bd7ea66b4edbfa76262cff10",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893004/893004.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893004/Aurora.wad.client",
+          "size": 90816,
+          "sha256": "64a8b901559db08086ac4ac2e425d22df01c5c748eb6a082a2e487a98669e56a"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4532,
+          "bytes_after": 90816,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893005,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 连绵奔袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "100befe20cb17f2c834ddcaa5f83ea00558513991f093616e74b2e84b130c901",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893005/893005.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893005/Aurora.wad.client",
+          "size": 90819,
+          "sha256": "c1d9fa72da764bbeb65c9ffa3590fc1de0d79ef94e0b7a9faf312b65fde5337b"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4535,
+          "bytes_after": 90819,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893006,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 钢铁守备",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "96d64167b6b2990be7b3d8d91ce5ba4fd4f0fcd78e46cca94fb0c652165fd1f1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893006/893006.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893006/Aurora.wad.client",
+          "size": 90818,
+          "sha256": "6f994f97ceb7faceeef65aa8f9da0ca12921b6c00235d6013d2ae91f244422b6"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4534,
+          "bytes_after": 90818,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893007,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 优雅气度",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "11d2b95611bb340e89e6fdd406f814acdd4a6db856642624c9c6ca00f2f575b7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893007/893007.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893007/Aurora.wad.client",
+          "size": 90820,
+          "sha256": "d914f86c98132f75d6bab38003d7a49460be19bf05f819685f42f65f64833660"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4536,
+          "bytes_after": 90820,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893008,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 星流电击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0269e891227f318674879b3f4f317f23238fe73ce957764bc2f006a563812f7d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893008/893008.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893008/Aurora.wad.client",
+          "size": 90819,
+          "sha256": "8b244380bcc9952a9b9810bbda7b478f4c02aa8710db6301cf5e3880bbec15ac"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4535,
+          "bytes_after": 90819,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893009,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 梦幻强袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2ae1baec1dc763697b10fce97e4b2f2b904959784b9af3e77f722d9e96b73045",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893009/893009.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893009/Aurora.wad.client",
+          "size": 90841,
+          "sha256": "10ec2cb5cac26a2dc9b55c4292e8997a310253140f05cdd5deb0df65192e82f5"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4557,
+          "bytes_after": 90841,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 893010,
+      "base_skin_id": 893001,
+      "champion_id": 893,
+      "name": "幻灵战斗兔 阿萝拉 隐秘夜影",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d28085b1e2df0af48a15fa895c69fb97a9f7ab8abdc44b7785c6c0200870ea4e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "893/893001/893010/893010.fantome",
+      "files": [
+        {
+          "path": "skins/893/893001/893010/Aurora.wad.client",
+          "size": 90876,
+          "sha256": "ff2aa70ba307d2aace8fbea2790500c474f4e8d7f994bf22a480c957aa3a44fd"
+        }
+      ],
+      "wads": {
+        "Aurora.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4592,
+          "bytes_after": 90876,
+          "replacement_hashes": [
+            "f9d509191430f30d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          },
+          {
+            "archive": "Aurora.wad.client",
+            "normal_hash": "f9d509191430f30d",
+            "border_hash": "ee3cf936322d5e23",
+            "bytes": 86252,
+            "sha256": "49a9c54fff379d2532fca59e2785ec1abd010f996629b0b825531c8ba2f2f69b"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

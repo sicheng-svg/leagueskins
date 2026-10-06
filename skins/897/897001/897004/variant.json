@@ -1,0 +1,58 @@
+{
+  "skin_id": 897004,
+  "base_skin_id": 897001,
+  "champion_id": 897,
+  "name": "至高天 奎桑提 青炬",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6681e3c7642bdc3cc597585ad850f7f315c7ac45ced329c47a561ff076874da8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "897/897001/897004/897004.fantome",
+  "files": [
+    {
+      "path": "skins/897/897001/897004/KSante.wad.client",
+      "size": 89668,
+      "sha256": "0b25c938a86d57a2e68e77020e959e5ec031b738e515aada133af05b6af125e5"
+    }
+  ],
+  "wads": {
+    "KSante.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3384,
+      "bytes_after": 89668,
+      "replacement_hashes": [
+        "268c301965338f94"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "KSante.wad.client",
+        "normal_hash": "268c301965338f94",
+        "border_hash": "260974e9ff71a8d1",
+        "bytes": 86252,
+        "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

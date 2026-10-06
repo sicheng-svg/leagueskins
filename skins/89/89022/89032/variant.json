@@ -1,0 +1,58 @@
+{
+  "skin_id": 89032,
+  "base_skin_id": 89022,
+  "champion_id": 89,
+  "name": "DWG 蕾欧娜 精锐",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c8ca1bd46873b13fc79002585eec61afa259f2f9d7536d67ca49c4f12e1d89a0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "89/89022/89032/89032.fantome",
+  "files": [
+    {
+      "path": "skins/89/89022/89032/Leona.wad.client",
+      "size": 88533,
+      "sha256": "65b71ce5ee2228bcc38dbc657776a0347c308e5a94d7aa021dbef7658fe5276d"
+    }
+  ],
+  "wads": {
+    "Leona.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2249,
+      "bytes_after": 88533,
+      "replacement_hashes": [
+        "2c6df0aaf9880fd3"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leona.wad.client",
+        "normal_hash": "2c6df0aaf9880fd3",
+        "border_hash": "a62d71f86304cdc3",
+        "bytes": 86252,
+        "sha256": "764d2e78d28a0a5b954e3df7daa16ee5d0cf38c7d2bab9099b13dfe7885faba2"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

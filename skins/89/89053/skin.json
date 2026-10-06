@@ -1,0 +1,65 @@
+{
+  "champion_id": 89,
+  "base_skin_id": 89053,
+  "name": "至臻 幻灵狮心 蕾欧娜",
+  "variants": [
+    {
+      "skin_id": 89053,
+      "base_skin_id": 89053,
+      "champion_id": 89,
+      "name": "至臻 幻灵狮心 蕾欧娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d4b3b44eb4265193d0c7378f55875a893db7a140fd4f774d6d8df7742629f724",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "89/89053/89053.fantome",
+      "files": [
+        {
+          "path": "skins/89/89053/89053/Leona.wad.client",
+          "size": 91925,
+          "sha256": "09b040cad5ab2855fb4c63b7340972bb9198bd9bf5b25c5bc2d48b22c4ba318c"
+        }
+      ],
+      "wads": {
+        "Leona.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5641,
+          "bytes_after": 91925,
+          "replacement_hashes": [
+            "d7c5cc9571b57809"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Leona.wad.client",
+            "normal_hash": "d7c5cc9571b57809",
+            "border_hash": "b58e55ea34db0967",
+            "bytes": 86252,
+            "sha256": "8f46c997b55983977e20f78eb55eb4ec49de902ce48dbc3e484760fcb3a31124"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

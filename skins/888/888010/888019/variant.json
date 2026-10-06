@@ -1,0 +1,48 @@
+{
+  "skin_id": 888019,
+  "base_skin_id": 888010,
+  "champion_id": 888,
+  "name": "魔域梦魇 烈娜塔 飞帚梦境",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "73b2fb280b1020293ef5b6107b865e47d2ee4edc25460f32a936ad0fda88b221",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "888/888010/888019/888019.fantome",
+  "files": [
+    {
+      "path": "skins/888/888010/888019/Renata.wad.client",
+      "size": 2907,
+      "sha256": "e8277f2b16d37322e2adab4908928ade2bae49b9b21c83f320058f3b099385e3"
+    }
+  ],
+  "wads": {
+    "Renata.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2907,
+      "bytes_after": 2907,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 9025,
+  "base_skin_id": 9003,
+  "champion_id": 9,
+  "name": "荒野幽灵 费德提克 亚蒙之隐",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8eb8dae1ac7030ecf23ce6380d0704a74ca6cad48ed777b4c7b94331fd9470da",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "9/9003/9025/9025.fantome",
+  "files": [
+    {
+      "path": "skins/9/9003/9025/FiddleSticks.wad.client",
+      "size": 2720,
+      "sha256": "1eb4f43c85ddf2c8351130bd40347bb6b6a57dfb5eaa584c277d72dfcbf9797a"
+    }
+  ],
+  "wads": {
+    "FiddleSticks.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2720,
+      "bytes_after": 2720,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

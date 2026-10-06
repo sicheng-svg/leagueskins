@@ -1,0 +1,48 @@
+{
+  "skin_id": 90001,
+  "base_skin_id": 90001,
+  "champion_id": 90,
+  "name": "元老议会 玛尔扎哈",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "acd8b6a292481d568d654af80109524ddf6414d8b6c0ff38b02288837b3032f3",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "90/90001/90001.fantome",
+  "files": [
+    {
+      "path": "skins/90/90001/90001/Malzahar.wad.client",
+      "size": 5207,
+      "sha256": "27cd354d80773f5d1455ecc37b6a8491f2a898b97015f9fc4e30a8e56fbd3f45"
+    }
+  ],
+  "wads": {
+    "Malzahar.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 5207,
+      "bytes_after": 5207,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 895007,
+  "base_skin_id": 895001,
+  "champion_id": 895,
+  "name": "星之守护者 尼菈 爱之光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "71e7ab6618e557797c11f33b04ceb116e6517dcc84249a4ed7dbfe49c15c80d9",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "895/895001/895007/895007.fantome",
+  "files": [
+    {
+      "path": "skins/895/895001/895007/Nilah.wad.client",
+      "size": 89810,
+      "sha256": "c1a6ddfc1de5bb156d609d535b2db9eea6fc8ff897b5e32fede2e0d60f19fe1b"
+    }
+  ],
+  "wads": {
+    "Nilah.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3526,
+      "bytes_after": 89810,
+      "replacement_hashes": [
+        "9cf791bbbedcb220"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nilah.wad.client",
+        "normal_hash": "9cf791bbbedcb220",
+        "border_hash": "2ca51976c876573c",
+        "bytes": 86252,
+        "sha256": "c6e580ecdedd89f56b349cf7bb140f7d8b4616c73838f04471b99f7aed9baaff"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

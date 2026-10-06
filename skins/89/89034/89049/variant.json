@@ -1,0 +1,58 @@
+{
+  "skin_id": 89049,
+  "base_skin_id": 89034,
+  "champion_id": 89,
+  "name": "西部魔影 大小姐 蕾欧娜 节制",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6c5a8d7387532b782369f828b4cea36f2e72eda780817c5ffb2c705588b463ee",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "89/89034/89049/89049.fantome",
+  "files": [
+    {
+      "path": "skins/89/89034/89049/Leona.wad.client",
+      "size": 89909,
+      "sha256": "0be0124a59b9d84e2c1bd9027f8eb392b133a18af43bf1fbdc0a6dfbf179d5d3"
+    }
+  ],
+  "wads": {
+    "Leona.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3625,
+      "bytes_after": 89909,
+      "replacement_hashes": [
+        "93ca29f687bb589c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Leona.wad.client",
+        "normal_hash": "93ca29f687bb589c",
+        "border_hash": "7fdb92979d4a8d22",
+        "bytes": 86252,
+        "sha256": "8161bd39f02b1ba34ff76982bf5b2b3ac3d8344b7373040a7818c93e72846e26"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

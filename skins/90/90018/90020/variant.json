@@ -1,0 +1,48 @@
+{
+  "skin_id": 90020,
+  "base_skin_id": 90018,
+  "champion_id": 90,
+  "name": "春意盎然小青青 玛尔扎哈",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0d89f20543214c6dff237ec0f1a2beaafd4f6730f3923491e6f874a435f94414",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "90/90018/90020/90020.fantome",
+  "files": [
+    {
+      "path": "skins/90/90018/90020/Malzahar.wad.client",
+      "size": 3404,
+      "sha256": "5e809677ac88c78791bd98951b5af3f7dce56433e21fb7db93eee40f3c279acd"
+    }
+  ],
+  "wads": {
+    "Malzahar.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3404,
+      "bytes_after": 3404,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

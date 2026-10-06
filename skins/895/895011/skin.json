@@ -1,0 +1,587 @@
+{
+  "champion_id": 895,
+  "base_skin_id": 895011,
+  "name": "魔女 尼菈",
+  "variants": [
+    {
+      "skin_id": 895011,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9a09dbf64a716395b432195246791bc9031ac8159096cc9d95872752a6e80b3e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895011.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895011/Nilah.wad.client",
+          "size": 93123,
+          "sha256": "58697ae2d5c9b1bad59ccabdeaf4ca2859c96ee5da0cdb6e9bba2b07767f1008"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6839,
+          "bytes_after": 93123,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895012,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 愤怒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "467dde04de32fd05f92d24933a7ba3888e34cc18459e265e7a5c5130f2cef1e4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895012/895012.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895012/Nilah.wad.client",
+          "size": 89267,
+          "sha256": "5c297e74b981a3382084f1336af02e31b56c2560b68eb0c84a8dee665cf94204"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2983,
+          "bytes_after": 89267,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895013,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 虚伪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0198e2b18561504e07cacee471426d651870a67c834963ddd7ff50b205be9303",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895013/895013.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895013/Nilah.wad.client",
+          "size": 89218,
+          "sha256": "aa094e5124b5022ceb44c485d7a5f74a95730d766cc8bcdb341a71e67419ef95"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2934,
+          "bytes_after": 89218,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895014,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 贪婪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4920f43020de02e30e371c9170fda566f259e1cc18987a54b204a1bf4899862e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895014/895014.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895014/Nilah.wad.client",
+          "size": 89236,
+          "sha256": "63ebc0bfde4d35870082be7ee6be7a03ae648645b15cf7960fac5885bd3ac9ca"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2952,
+          "bytes_after": 89236,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895015,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 欲望",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "488a825f52604377aeacd6c297dbe6a24349820fc50b236b34a610993ebfb258",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895015/895015.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895015/Nilah.wad.client",
+          "size": 89214,
+          "sha256": "d0668ec29a11d62cb8e6264ef2d602c475b390c4bae3ff6926bb34399ac72634"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2930,
+          "bytes_after": 89214,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895016,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 嫉妒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0db68ac3b34d8832fa04f82d264b981cb63f8873156a427cb5a1023cdead2ee3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895016/895016.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895016/Nilah.wad.client",
+          "size": 89217,
+          "sha256": "646f6bf9dbd34aebd3e6ef152d7b1583ce5243b0b7c7ce4e685566ae8e989ef4"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2933,
+          "bytes_after": 89217,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895017,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 虚荣",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5a54459a61270677459386271b2c9e7c44ff63329ebb74d9cc3ce1300b8a1b22",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895017/895017.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895017/Nilah.wad.client",
+          "size": 89216,
+          "sha256": "c10d20d57302817fb5f777b4a1fbb4859df916d95d6911ba3457975189deddd2"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2932,
+          "bytes_after": 89216,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895018,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 倦怠",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "74b180189fd75c6487efa4ee22202e448562750b5a4e19001e10c8c5e24f7382",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895018/895018.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895018/Nilah.wad.client",
+          "size": 89213,
+          "sha256": "14d1491ac65ffcff49f8bb8e32f3843b25c4b11e9320ce4a7f5af3e988085812"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2929,
+          "bytes_after": 89213,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895019,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 饕餮",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d66b22b54578007f5b26c70cfd449896640771a819eb412a88c0db1d34293c0a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895019/895019.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895019/Nilah.wad.client",
+          "size": 89216,
+          "sha256": "af99caedd32403e18e76a990a17da293b628e8225e8a6cc7fa24526c6acb3ff4"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2932,
+          "bytes_after": 89216,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 895020,
+      "base_skin_id": 895011,
+      "champion_id": 895,
+      "name": "魔女 尼菈 不畏",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5ff35b7cae610f8a3d450a4cef91dfb9950cb49e933f3313cb1bc62cfec0f4ca",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "895/895011/895020/895020.fantome",
+      "files": [
+        {
+          "path": "skins/895/895011/895020/Nilah.wad.client",
+          "size": 89273,
+          "sha256": "a72d127fc9c301eeac7c6e8189f598d0459b25df2f4fcf815e2a9779dc9afa0a"
+        }
+      ],
+      "wads": {
+        "Nilah.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2989,
+          "bytes_after": 89273,
+          "replacement_hashes": [
+            "f4027ec42b44cb1b"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nilah.wad.client",
+            "normal_hash": "f4027ec42b44cb1b",
+            "border_hash": "dfee106514c8b361",
+            "bytes": 86252,
+            "sha256": "9f0057e8159c8e3296490d38968ebee190c038eb9f748c607e5e9645a57d5f14"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

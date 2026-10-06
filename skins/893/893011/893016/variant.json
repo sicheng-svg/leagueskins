@@ -1,0 +1,48 @@
+{
+  "skin_id": 893016,
+  "base_skin_id": 893011,
+  "champion_id": 893,
+  "name": "慧理之贤 阿萝拉 忠诚",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b65e9c041baaeee1d3f0aea92406fea60783fd588cd050783335715db7c2492a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "893/893011/893016/893016.fantome",
+  "files": [
+    {
+      "path": "skins/893/893011/893016/Aurora.wad.client",
+      "size": 4590,
+      "sha256": "f0a3cf5cf6fb9783439646ace95bf515dbd8424ba9c8279f6f69150b2d5988e2"
+    }
+  ],
+  "wads": {
+    "Aurora.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4590,
+      "bytes_after": 4590,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

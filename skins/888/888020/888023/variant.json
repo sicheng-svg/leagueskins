@@ -1,0 +1,58 @@
+{
+  "skin_id": 888023,
+  "base_skin_id": 888020,
+  "champion_id": 888,
+  "name": "魂蔷薇 烈娜塔 告慰之饮",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4c389b5cf25b6fa8338cb05130d9f70e231c2c45eaef467396536c46182ea286",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "888/888020/888023/888023.fantome",
+  "files": [
+    {
+      "path": "skins/888/888020/888023/Renata.wad.client",
+      "size": 89065,
+      "sha256": "742c2f2b8159750390c8e5134b15e8c52369e61fb41827289f9fb32012402eea"
+    }
+  ],
+  "wads": {
+    "Renata.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2781,
+      "bytes_after": 89065,
+      "replacement_hashes": [
+        "45c7276562fd643d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Renata.wad.client",
+        "normal_hash": "45c7276562fd643d",
+        "border_hash": "c2232fecbda5755b",
+        "bytes": 86252,
+        "sha256": "b5e8d92dd5294171942002434768d014ba3aa9a2f52bfcf9058e0e8fb8f5a7e7"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

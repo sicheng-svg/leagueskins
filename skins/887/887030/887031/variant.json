@@ -1,0 +1,48 @@
+{
+  "skin_id": 887031,
+  "base_skin_id": 887030,
+  "champion_id": 887,
+  "name": "女帝 格温 纹章之刻印·英勇",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "57d30d94ee1256fff5d0f23ca2e2f8ba3551bb2706507a6d178da426407832d7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "887/887030/887031/887031.fantome",
+  "files": [
+    {
+      "path": "skins/887/887030/887031/Gwen.wad.client",
+      "size": 2975,
+      "sha256": "979ed83abf302dbaa0ff730d6beb0bf390f05be18c7ed601b8f8323b1b664892"
+    }
+  ],
+  "wads": {
+    "Gwen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2975,
+      "bytes_after": 2975,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

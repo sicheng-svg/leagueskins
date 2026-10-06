@@ -1,0 +1,65 @@
+{
+  "champion_id": 888,
+  "base_skin_id": 888021,
+  "name": "至臻 魂蔷薇 烈娜塔",
+  "variants": [
+    {
+      "skin_id": 888021,
+      "base_skin_id": 888021,
+      "champion_id": 888,
+      "name": "至臻 魂蔷薇 烈娜塔",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d78ad5d3001ebfe47a2c2b3ce7cbda1c66ac43f8c9c7eb0d092152ae0201589f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "888/888021/888021.fantome",
+      "files": [
+        {
+          "path": "skins/888/888021/888021/Renata.wad.client",
+          "size": 93048,
+          "sha256": "2f500dabf2f0b1ec2df9ce6fdd491ed10e562efd6014da1bb5e791109c1edc9a"
+        }
+      ],
+      "wads": {
+        "Renata.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 6764,
+          "bytes_after": 93048,
+          "replacement_hashes": [
+            "3603aab4934937c7"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Renata.wad.client",
+            "normal_hash": "3603aab4934937c7",
+            "border_hash": "50f4b39c54b2b0d3",
+            "bytes": 86252,
+            "sha256": "64bfea68d644729f44773853411ed78791b1d6feb1514cd7ab007da8edafd097"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

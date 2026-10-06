@@ -1,0 +1,58 @@
+{
+  "skin_id": 43043,
+  "base_skin_id": 43027,
+  "champion_id": 43,
+  "name": "破败军团 卡尔玛 咒缚征伐使",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a471be51a50b0100e7ba75930b51a465f2a90ff5c92938ec769fb69589ed749e",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "43/43027/43043/43043.fantome",
+  "files": [
+    {
+      "path": "skins/43/43027/43043/Karma.wad.client",
+      "size": 88497,
+      "sha256": "182ac22a9290bf03d34fd3efadff50d0edb6a72873b903cbb05178b1375792c1"
+    }
+  ],
+  "wads": {
+    "Karma.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2213,
+      "bytes_after": 88497,
+      "replacement_hashes": [
+        "fd9d3f1455993d41"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Karma.wad.client",
+        "normal_hash": "fd9d3f1455993d41",
+        "border_hash": "564f94de7971969e",
+        "bytes": 86252,
+        "sha256": "7c742c05a3c884a33c34c25f6ab5287b7464a56e41d7873e54aa870361c5db84"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

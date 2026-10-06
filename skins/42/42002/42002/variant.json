@@ -1,0 +1,58 @@
+{
+  "skin_id": 42002,
+  "base_skin_id": 42002,
+  "champion_id": 42,
+  "name": "雪橇速滑 库奇",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "56945ac80ceeef1df5f19bd142224eec96c0d612e35b63309e0ece4aff762db7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "42/42002/42002.fantome",
+  "files": [
+    {
+      "path": "skins/42/42002/42002/Corki.wad.client",
+      "size": 88375,
+      "sha256": "0005183e5ef089e5d5016d5ccc5404e42fdd2e7b163b5d84090f87e2c7120e58"
+    }
+  ],
+  "wads": {
+    "Corki.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2091,
+      "bytes_after": 88375,
+      "replacement_hashes": [
+        "7d64675f984d4808"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Corki.wad.client",
+        "normal_hash": "7d64675f984d4808",
+        "border_hash": "1947b2f02951acc2",
+        "bytes": 86252,
+        "sha256": "40db97c0f08dfe7dfbe1416c85240de313c1b2b80622a3b5899d898523486392"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

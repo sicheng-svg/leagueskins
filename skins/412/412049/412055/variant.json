@@ -1,0 +1,65 @@
+{
+  "skin_id": 412055,
+  "base_skin_id": 412049,
+  "champion_id": 412,
+  "name": "北极星典狱长 锤石 神秘幻彩",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "92ee48bef9d3562bc3e0f3d84ba9e3e120ee87ce808fa69aae5167a0a536cb41",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "412/412049/412055/412055.fantome",
+  "files": [
+    {
+      "path": "skins/412/412049/412055/Thresh.wad.client",
+      "size": 90455,
+      "sha256": "0d52b92f7ffe768ba119277ed60b38d0d226d7b1a446ff007408237a10e835fa"
+    }
+  ],
+  "wads": {
+    "Thresh.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4171,
+      "bytes_after": 90455,
+      "replacement_hashes": [
+        "d8675db9d084dff4"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "d8675db9d084dff4",
+        "border_hash": "ba9cac1889eca63a",
+        "bytes": 86252,
+        "sha256": "f9c8494fed91eeb6892d554b64bcfefb2e8c0ba331f4ac45f2cfd5f6ac97706c"
+      },
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "d8675db9d084dff4",
+        "border_hash": "ba9cac1889eca63a",
+        "bytes": 86252,
+        "sha256": "f9c8494fed91eeb6892d554b64bcfefb2e8c0ba331f4ac45f2cfd5f6ac97706c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

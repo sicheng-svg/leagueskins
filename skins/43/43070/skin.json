@@ -1,0 +1,413 @@
+{
+  "champion_id": 43,
+  "base_skin_id": 43070,
+  "name": "灵魂莲华 卡尔玛",
+  "variants": [
+    {
+      "skin_id": 43070,
+      "base_skin_id": 43070,
+      "champion_id": 43,
+      "name": "灵魂莲华 卡尔玛",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0d256e79a33304893b4de50df4162c2d738deab03e932f790a49e9939afbef95",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43070/43070.fantome",
+      "files": [
+        {
+          "path": "skins/43/43070/43070/Karma.wad.client",
+          "size": 90440,
+          "sha256": "53640800e8832686787eb659253fd771effed9c7cc93107c1d0f6dd0fba59fe1"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4156,
+          "bytes_after": 90440,
+          "replacement_hashes": [
+            "de58c168f842c0c2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "de58c168f842c0c2",
+            "border_hash": "5202bfd39c8cd597",
+            "bytes": 86252,
+            "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43071,
+      "base_skin_id": 43070,
+      "champion_id": 43,
+      "name": "灵魂莲华 卡尔玛 流火",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fcbd96eeb93d36ba5be618c4fbe64d26ef061cf0f765d93c6f453d35aa56e0c3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43070/43071/43071.fantome",
+      "files": [
+        {
+          "path": "skins/43/43070/43071/Karma.wad.client",
+          "size": 90497,
+          "sha256": "0decd4c49574a1a62a0fa0d67cc703565cf95334ee9dba1dc547b437442fba9d"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4213,
+          "bytes_after": 90497,
+          "replacement_hashes": [
+            "de58c168f842c0c2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "de58c168f842c0c2",
+            "border_hash": "5202bfd39c8cd597",
+            "bytes": 86252,
+            "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43072,
+      "base_skin_id": 43070,
+      "champion_id": 43,
+      "name": "灵魂莲华 卡尔玛 鸣蜩",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9eb0f1ed8f7998bef1cbc310eaaf107133a5d48ce404f106eba67218ea52e19a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43070/43072/43072.fantome",
+      "files": [
+        {
+          "path": "skins/43/43070/43072/Karma.wad.client",
+          "size": 90451,
+          "sha256": "01ecab5ce62c44ebfc338fe5c84fa083048ce5b5367a07ec82be57026f138517"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4167,
+          "bytes_after": 90451,
+          "replacement_hashes": [
+            "de58c168f842c0c2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "de58c168f842c0c2",
+            "border_hash": "5202bfd39c8cd597",
+            "bytes": 86252,
+            "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43073,
+      "base_skin_id": 43070,
+      "champion_id": 43,
+      "name": "灵魂莲华 卡尔玛 云开",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "961793c5ea80f824c1e3bcb4a3b9a0c801e1fe305cd678723258c503152c071b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43070/43073/43073.fantome",
+      "files": [
+        {
+          "path": "skins/43/43070/43073/Karma.wad.client",
+          "size": 90448,
+          "sha256": "ca6a1973b9346d03a90b7f9154fcf495432e1859bf06092cd3b0994415291368"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4164,
+          "bytes_after": 90448,
+          "replacement_hashes": [
+            "de58c168f842c0c2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "de58c168f842c0c2",
+            "border_hash": "5202bfd39c8cd597",
+            "bytes": 86252,
+            "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43074,
+      "base_skin_id": 43070,
+      "champion_id": 43,
+      "name": "灵魂莲华 卡尔玛 月升",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d13b9eb842ae086a2570ed75daa6b3e750bd1b0116fbef33e585b51019a946ea",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43070/43074/43074.fantome",
+      "files": [
+        {
+          "path": "skins/43/43070/43074/Karma.wad.client",
+          "size": 90447,
+          "sha256": "667a18d5840622bb04d0540cdf72a8f652038665eaef0cdca3fc4296a6434130"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4163,
+          "bytes_after": 90447,
+          "replacement_hashes": [
+            "de58c168f842c0c2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "de58c168f842c0c2",
+            "border_hash": "5202bfd39c8cd597",
+            "bytes": 86252,
+            "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43075,
+      "base_skin_id": 43070,
+      "champion_id": 43,
+      "name": "灵魂莲华 卡尔玛 沙飞",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "553596788b148976971c59b207b7217fb8269cae6f823c8827cf9a7c69276d88",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43070/43075/43075.fantome",
+      "files": [
+        {
+          "path": "skins/43/43070/43075/Karma.wad.client",
+          "size": 90452,
+          "sha256": "c5ba764edd41391132142be46870a7df8b1d96e8fea75cd55b20924de1cc0e86"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4168,
+          "bytes_after": 90452,
+          "replacement_hashes": [
+            "de58c168f842c0c2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "de58c168f842c0c2",
+            "border_hash": "5202bfd39c8cd597",
+            "bytes": 86252,
+            "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43076,
+      "base_skin_id": 43070,
+      "champion_id": 43,
+      "name": "灵魂莲华 卡尔玛 春晓",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ac00e32217094618ec5b471ad027c36383f38365bf4fd5557835b1b806a1d0d2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43070/43076/43076.fantome",
+      "files": [
+        {
+          "path": "skins/43/43070/43076/Karma.wad.client",
+          "size": 90475,
+          "sha256": "f1aca107bf7e12022fa846cb6c33ebd4a1b58757ad6f7689fc0a5f59adafa078"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4191,
+          "bytes_after": 90475,
+          "replacement_hashes": [
+            "de58c168f842c0c2"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "de58c168f842c0c2",
+            "border_hash": "5202bfd39c8cd597",
+            "bytes": 86252,
+            "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 12,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

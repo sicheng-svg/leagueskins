@@ -1,0 +1,48 @@
+{
+  "skin_id": 427024,
+  "base_skin_id": 427020,
+  "champion_id": 427,
+  "name": "宇航员 艾翁 万有引力",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3f0c5cee778ecd8a8884cfc469fe88c014a209a2558722cdd8ca3332b07c1c85",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "427/427020/427024/427024.fantome",
+  "files": [
+    {
+      "path": "skins/427/427020/427024/Ivern.wad.client",
+      "size": 6082,
+      "sha256": "c4fc3fab6410dbf61ff0f205463e9f94086ad1f7bc5a1bd18a7a0dbd2b1b9134"
+    }
+  ],
+  "wads": {
+    "Ivern.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6082,
+      "bytes_after": 6082,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

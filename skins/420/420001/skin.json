@@ -1,0 +1,55 @@
+{
+  "champion_id": 420,
+  "base_skin_id": 420001,
+  "name": "虚空使者 俄洛伊",
+  "variants": [
+    {
+      "skin_id": 420001,
+      "base_skin_id": 420001,
+      "champion_id": 420,
+      "name": "虚空使者 俄洛伊",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e67195291e3985b2c39d7e04fdf311c3bb3d4b0d07da7d3740196c52ef618675",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "420/420001/420001.fantome",
+      "files": [
+        {
+          "path": "skins/420/420001/420001/Illaoi.wad.client",
+          "size": 16031,
+          "sha256": "7473b9710c7f805918c74707b507ecb23274329c0cdb383271877351dfb69730"
+        }
+      ],
+      "wads": {
+        "Illaoi.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 16031,
+          "bytes_after": 16031,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

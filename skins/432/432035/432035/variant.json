@@ -1,0 +1,65 @@
+{
+  "skin_id": 432035,
+  "base_skin_id": 432035,
+  "champion_id": 432,
+  "name": "T1 巴德",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ece851478701fdffaea73470cabae50a34a31ca09b8041b8c7bcd36fafe60bea",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "432/432035/432035.fantome",
+  "files": [
+    {
+      "path": "skins/432/432035/432035/Bard.wad.client",
+      "size": 93962,
+      "sha256": "8f37e4ca3dacd64a5113de5364bc4ca4f21f2e12d4621e598c2b2ff52f7cc355"
+    }
+  ],
+  "wads": {
+    "Bard.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7678,
+      "bytes_after": 93962,
+      "replacement_hashes": [
+        "dcdf4ed99965cde0"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Bard.wad.client",
+        "normal_hash": "dcdf4ed99965cde0",
+        "border_hash": "551fbdb19444c696",
+        "bytes": 86252,
+        "sha256": "c3338e7553425ba12207a6620df2c1692034d9148623fce9ea7e92c48e908c63"
+      },
+      {
+        "archive": "Bard.wad.client",
+        "normal_hash": "dcdf4ed99965cde0",
+        "border_hash": "551fbdb19444c696",
+        "bytes": 86252,
+        "sha256": "c3338e7553425ba12207a6620df2c1692034d9148623fce9ea7e92c48e908c63"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "champion_id": 421,
+  "base_skin_id": 421026,
+  "name": "海魔兽 雷克塞",
+  "variants": [
+    {
+      "skin_id": 421026,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "89dd49be202cfc5596b5f4d0e96b0979b85c99e429bd384860a7094c9c757d33",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421026.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421026/RekSai.wad.client",
+          "size": 94373,
+          "sha256": "bbb75fb6b7b6de51773501b29da0a3d1287298e5551fbc9d1ddd9621920c7760"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 8089,
+          "bytes_after": 94373,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421027,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 威慑嘶吼",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "83dddb2cf5580bb99f1adaaa5fa6c621ff8ddc11dbeb0b9f33fbc21dde2918d9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421027/421027.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421027/RekSai.wad.client",
+          "size": 90681,
+          "sha256": "6640c3f8725ae4ad968d68bb5babf48595dfb31a1638e0a58e289c01cb8fb4fe"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4397,
+          "bytes_after": 90681,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421028,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 呼啸俯冲",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "80bce98e332e5a184f003d4399b4c5892cfbe1116a258f3d6711cf10e0c9a133",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421028/421028.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421028/RekSai.wad.client",
+          "size": 90629,
+          "sha256": "87778801dc8187a2c185ae047d90f64e031ff29d4ee7179138588361a3bec9f5"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4345,
+          "bytes_after": 90629,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421029,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 高傲气场",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f23a10809e304ed7231053e65cb0ac370e04ce1756c018c307140ae8293c8844",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421029/421029.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421029/RekSai.wad.client",
+          "size": 90630,
+          "sha256": "3464341cfdf98e9a21c59fc95aaffc33aa99ade168173f1e4e62602bedb735be"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4346,
+          "bytes_after": 90630,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421030,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 无情背袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3da1a85941d23a8555256bbacaf735076e677090a87aa3fa75d4c63ad695f5b2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421030/421030.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421030/RekSai.wad.client",
+          "size": 90637,
+          "sha256": "61932134adb4b0f8dcb85c7ca010457cb3af12cfcf70433547f55f20164c5be8"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4353,
+          "bytes_after": 90637,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421031,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 无休冲击",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f1e3bb3e6f1e28b54bd005cfb440bd24e4f01877749e10fb3d3dbb1d6759308f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421031/421031.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421031/RekSai.wad.client",
+          "size": 90685,
+          "sha256": "c838df9efc864c6806968732d3b8d8efadd095186866a6a12b896135439600b9"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4401,
+          "bytes_after": 90685,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421032,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 梦魇狂袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "12c01fad0801e35da1cdedcaad736df4f61d02d0b216a7e35858e6adfa99ce73",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421032/421032.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421032/RekSai.wad.client",
+          "size": 90658,
+          "sha256": "5bb15d5005953ecaea84bf5d9e8e2034a65ae972045638108696cf3c8e7eaeef"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4374,
+          "bytes_after": 90658,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421033,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 折光遮蔽",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e1cca05d311ead73fb939324f73798819d2edbf51a726350770021f9d1d630da",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421033/421033.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421033/RekSai.wad.client",
+          "size": 90637,
+          "sha256": "2e8b63a985376a6d364cd917a0827e7fbbfb97648ee135686dd200e1a366d479"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4353,
+          "bytes_after": 90637,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421034,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 黑云压城",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d830bfd7647eeb8a2b6af682eb7a5d86ac6a041826a84b07d269a6b7aebbe82c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421034/421034.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421034/RekSai.wad.client",
+          "size": 90633,
+          "sha256": "d0cb7c9353c9053ec7670be8590774d83c8b73f2156a84a5c45f358b5896b3eb"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4349,
+          "bytes_after": 90633,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 421035,
+      "base_skin_id": 421026,
+      "champion_id": 421,
+      "name": "海魔兽 雷克塞 深渊潜袭",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "fd2001b9ee3dcda1e0c49577a9f8d0a8490543b8d3ec67d76847346de8cf6145",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "421/421026/421035/421035.fantome",
+      "files": [
+        {
+          "path": "skins/421/421026/421035/RekSai.wad.client",
+          "size": 90687,
+          "sha256": "fcccd5e76afbe9e178b87134300afa272c6c1c4a33a366f96d19d639f711551d"
+        }
+      ],
+      "wads": {
+        "RekSai.wad.client": {
+          "entries_before": 2,
+          "entries_after": 3,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 4403,
+          "bytes_after": 90687,
+          "replacement_hashes": [
+            "a7a406fa3d298da4"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          },
+          {
+            "archive": "RekSai.wad.client",
+            "normal_hash": "a7a406fa3d298da4",
+            "border_hash": "3bb27d29c1e06ad2",
+            "bytes": 86252,
+            "sha256": "c2f60b46cab53bd684a56189593e7e2853b18cd05c98e830f50cc82886daebe4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 11,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

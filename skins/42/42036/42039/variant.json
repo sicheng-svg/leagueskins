@@ -1,0 +1,48 @@
+{
+  "skin_id": 42039,
+  "base_skin_id": 42036,
+  "champion_id": 42,
+  "name": "糖果屋战斗鸡 库奇",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3c67fa091286f1b47e8c0844babcde6f2c53a8ae5a56c6dca8d675cf72c62090",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "42/42036/42039/42039.fantome",
+  "files": [
+    {
+      "path": "skins/42/42036/42039/Corki.wad.client",
+      "size": 2187,
+      "sha256": "69ab6121e07848dea8f625d1ca4d6039a8e9c2c8655e9a7c090fb0b48a7b5eac"
+    }
+  ],
+  "wads": {
+    "Corki.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2187,
+      "bytes_after": 2187,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

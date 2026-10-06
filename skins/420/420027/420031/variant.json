@@ -1,0 +1,65 @@
+{
+  "skin_id": 420031,
+  "base_skin_id": 420027,
+  "champion_id": 420,
+  "name": "幻灵巨熊 俄洛伊 华丽冲阵",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5b51f44217d90a5226db7ab962daeca684fe1f62e447299131d86a7e03711d57",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "420/420027/420031/420031.fantome",
+  "files": [
+    {
+      "path": "skins/420/420027/420031/Illaoi.wad.client",
+      "size": 91441,
+      "sha256": "10ad1ccf7b9dbeefcc5daf97f10e8cdbe120e6b4c7fa7c131edfae228e3e9eae"
+    }
+  ],
+  "wads": {
+    "Illaoi.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5157,
+      "bytes_after": 91441,
+      "replacement_hashes": [
+        "b38a90ef0f9834c2"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Illaoi.wad.client",
+        "normal_hash": "b38a90ef0f9834c2",
+        "border_hash": "c54a0b0ce81ab9d2",
+        "bytes": 86252,
+        "sha256": "672a645d0bbf96197c09a6edc8f7b79ad46da1705ea65815020a1787c39f318f"
+      },
+      {
+        "archive": "Illaoi.wad.client",
+        "normal_hash": "b38a90ef0f9834c2",
+        "border_hash": "c54a0b0ce81ab9d2",
+        "bytes": 86252,
+        "sha256": "672a645d0bbf96197c09a6edc8f7b79ad46da1705ea65815020a1787c39f318f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

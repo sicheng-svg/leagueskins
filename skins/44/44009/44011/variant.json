@@ -1,0 +1,48 @@
+{
+  "skin_id": 44011,
+  "base_skin_id": 44009,
+  "champion_id": 44,
+  "name": "塔里克 · 辉盾 海洋勇者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bfae67bc552fc4977137a18f18d99a4f6af72be2bc8193b39406feb806adb53a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "44/44009/44011/44011.fantome",
+  "files": [
+    {
+      "path": "skins/44/44009/44011/Taric.wad.client",
+      "size": 2799,
+      "sha256": "e20fae8f87de3176d783084121d6f5093030c1dffb1844a120a9968ec6018faa"
+    }
+  ],
+  "wads": {
+    "Taric.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2799,
+      "bytes_after": 2799,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

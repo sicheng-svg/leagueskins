@@ -1,0 +1,65 @@
+{
+  "skin_id": 412044,
+  "base_skin_id": 412039,
+  "champion_id": 412,
+  "name": "春晖大帝 锤石 吉祥如意",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f2fbfde2eddeb9577017c33631e1157c6f2e8fa9faceb602bc822e00fa8ef563",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "412/412039/412044/412044.fantome",
+  "files": [
+    {
+      "path": "skins/412/412039/412044/Thresh.wad.client",
+      "size": 90543,
+      "sha256": "6b9a9b06c020f86246663b7eae3f70fea36cdf8a564661f6dbb8b44b45bd9501"
+    }
+  ],
+  "wads": {
+    "Thresh.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4259,
+      "bytes_after": 90543,
+      "replacement_hashes": [
+        "c78250c4d5e49f87"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "c78250c4d5e49f87",
+        "border_hash": "1afda634d4be3e3e",
+        "bytes": 86252,
+        "sha256": "839359f94a431d19a240687e0f626b53e202eebbab162507fcf543c312ef1792"
+      },
+      {
+        "archive": "Thresh.wad.client",
+        "normal_hash": "c78250c4d5e49f87",
+        "border_hash": "1afda634d4be3e3e",
+        "bytes": 86252,
+        "sha256": "839359f94a431d19a240687e0f626b53e202eebbab162507fcf543c312ef1792"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

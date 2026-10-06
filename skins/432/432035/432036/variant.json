@@ -1,0 +1,65 @@
+{
+  "skin_id": 432036,
+  "base_skin_id": 432035,
+  "champion_id": 432,
+  "name": "T1 巴德 精锐",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "926fed13ab75fd93ddeefc45ad2946281aa697b19addcbea044c698f5da3a552",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "432/432035/432036/432036.fantome",
+  "files": [
+    {
+      "path": "skins/432/432035/432036/Bard.wad.client",
+      "size": 90459,
+      "sha256": "dc3894b0c7e32d2dab6fe02843bf2f714d1f7508acfe1f98ef56ac6e23da9a8c"
+    }
+  ],
+  "wads": {
+    "Bard.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4175,
+      "bytes_after": 90459,
+      "replacement_hashes": [
+        "dcdf4ed99965cde0"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Bard.wad.client",
+        "normal_hash": "dcdf4ed99965cde0",
+        "border_hash": "551fbdb19444c696",
+        "bytes": 86252,
+        "sha256": "c3338e7553425ba12207a6620df2c1692034d9148623fce9ea7e92c48e908c63"
+      },
+      {
+        "archive": "Bard.wad.client",
+        "normal_hash": "dcdf4ed99965cde0",
+        "border_hash": "551fbdb19444c696",
+        "bytes": 86252,
+        "sha256": "c3338e7553425ba12207a6620df2c1692034d9148623fce9ea7e92c48e908c63"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 12,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

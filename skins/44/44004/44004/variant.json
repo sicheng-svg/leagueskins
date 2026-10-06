@@ -1,0 +1,48 @@
+{
+  "skin_id": 44004,
+  "base_skin_id": 44004,
+  "champion_id": 44,
+  "name": "泳池派对 塔里克",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "354cd5f34cc6909e781355504dc27d7d5485e0846257c8ef20bb277f84e00c1a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "44/44004/44004.fantome",
+  "files": [
+    {
+      "path": "skins/44/44004/44004/Taric.wad.client",
+      "size": 6329,
+      "sha256": "8acb6eefbe37b704af0426115ca55844de48a36553a499dd2db8eba820f0cc9c"
+    }
+  ],
+  "wads": {
+    "Taric.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 6329,
+      "bytes_after": 6329,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

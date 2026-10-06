@@ -1,0 +1,48 @@
+{
+  "skin_id": 44024,
+  "base_skin_id": 44018,
+  "champion_id": 44,
+  "name": "“爱乐之子” 塔里克 小橙的绿色舞台",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "347770d284186388398ddb59092439e536f2667845895399fd22d4c41569d90d",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "44/44018/44024/44024.fantome",
+  "files": [
+    {
+      "path": "skins/44/44018/44024/Taric.wad.client",
+      "size": 2970,
+      "sha256": "21361d7fcdd537cd3cd364dd7fa1660d95b5f142eb6f3c1d2c86a001683e1891"
+    }
+  ],
+  "wads": {
+    "Taric.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2970,
+      "bytes_after": 2970,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

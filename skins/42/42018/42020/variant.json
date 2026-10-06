@@ -1,0 +1,58 @@
+{
+  "skin_id": 42020,
+  "base_skin_id": 42018,
+  "champion_id": 42,
+  "name": "这货不是哈士奇 库奇",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "94d5d4e8c2ccfec2520d849c62946613025cb90a56d5368a7472914259bc22ce",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "42/42018/42020/42020.fantome",
+  "files": [
+    {
+      "path": "skins/42/42018/42020/Corki.wad.client",
+      "size": 88618,
+      "sha256": "1331b88e6edc11dd578713049cfc7b06fa12c6b9b563cf90e9ef6a90b676bbd0"
+    }
+  ],
+  "wads": {
+    "Corki.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2334,
+      "bytes_after": 88618,
+      "replacement_hashes": [
+        "f7ff73a87516011a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Corki.wad.client",
+        "normal_hash": "f7ff73a87516011a",
+        "border_hash": "962d3237e8b24976",
+        "bytes": 86252,
+        "sha256": "2a758bea65cb78001bc308a0a730adde943a91044e0489cd26fe6b423624f5de"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

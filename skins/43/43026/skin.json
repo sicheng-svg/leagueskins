@@ -1,0 +1,529 @@
+{
+  "champion_id": 43,
+  "base_skin_id": 43026,
+  "name": "奥德赛 卡尔玛",
+  "variants": [
+    {
+      "skin_id": 43026,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a2aef5c0fd3f17f77c467f5c4b5833a2139747de020db95d2870dce2d189b36e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43026.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43026/Karma.wad.client",
+          "size": 91052,
+          "sha256": "5cc16e102cf6e2d205acd1a348970f9b31cfee6d66951714b8790f0a76849e58"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4768,
+          "bytes_after": 91052,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43028,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 银河征服者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "4a00cda300d24e55da3065460ddbe68313c008bb8fe8d0f95e387834044e02d6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43028/43028.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43028/Karma.wad.client",
+          "size": 88669,
+          "sha256": "e2be579598f6b864e3dd121568edcabf080554d50cead2fb1eb57865fb4462e4"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2385,
+          "bytes_after": 88669,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43029,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 星陨粉碎者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "833edcd02ab71d586bdd7a567896a26b506c79d474d9ebb80e5da133b91be7e9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43029/43029.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43029/Karma.wad.client",
+          "size": 88608,
+          "sha256": "a84ba34dfc59ccf362b1fe295314c32f6efbc7779d5ab010bf132dcbb9699ea4"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2324,
+          "bytes_after": 88608,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43030,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 星核培育者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9d5ee224ddf6be87eb0f334dbf06398f675d61875c3bda33ab8eb289d2b343b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43030/43030.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43030/Karma.wad.client",
+          "size": 88612,
+          "sha256": "0a04aaf3199815b69fd4e890788047bbe5b687721dec6acebef91d77a12426c8"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2328,
+          "bytes_after": 88612,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43031,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 彗星追赶者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cc30967f78bc7a9e399ac5891f116b6dc8d875d7d2238594bc8e8d4fd9bc6806",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43031/43031.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43031/Karma.wad.client",
+          "size": 88615,
+          "sha256": "77acd09c2a09a7fc4cde8132de85d4f1390a5c7a39ea1fbb2ff43f17fe5b88d8"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2331,
+          "bytes_after": 88615,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43032,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 恒星游历者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9462d6b919cc59ae0db4013c83c23d60bd298788bf54c7c7efb56a28bfae0e97",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43032/43032.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43032/Karma.wad.client",
+          "size": 88638,
+          "sha256": "621a19a98a49c80e0a6f14891d8536202ed8bab02dffaecd8e27485b9dfbd910"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2354,
+          "bytes_after": 88638,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43033,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 宇宙探索者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "48261d8166ec81e0b659e7cfd0389a401d49eaed3b3a3a06a614c1182811a8ed",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43033/43033.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43033/Karma.wad.client",
+          "size": 88663,
+          "sha256": "f9f53b5f7f964875a9cd7a5178b9c309831a1ab414002a8bfe8cf4d0e3eb6e62"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2379,
+          "bytes_after": 88663,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43034,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 星云环游者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ccb4383a7980e35930b114ac5103324899ef74934232dd30ccec215f44c70a66",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43034/43034.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43034/Karma.wad.client",
+          "size": 88611,
+          "sha256": "084002f7c767357c25e0db3b70372fefc43d4c70b9a5808191111eaba80ca3aa"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2327,
+          "bytes_after": 88611,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43035,
+      "base_skin_id": 43026,
+      "champion_id": 43,
+      "name": "奥德赛 卡尔玛 星光守卫者",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7565c46a0a78a59cec3b5d1524b011b5ce3474d09ec697e0b40d2c491d0fb12b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43026/43035/43035.fantome",
+      "files": [
+        {
+          "path": "skins/43/43026/43035/Karma.wad.client",
+          "size": 88611,
+          "sha256": "3f435d70a9f88aed46ebaf40fa7658a459083f2d2930445e431fe2be14b4aaa0"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2327,
+          "bytes_after": 88611,
+          "replacement_hashes": [
+            "e6d87fb7fc2e619c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "e6d87fb7fc2e619c",
+            "border_hash": "e0812dbe6459469b",
+            "bytes": 86252,
+            "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

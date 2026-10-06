@@ -1,0 +1,48 @@
+{
+  "skin_id": 42005,
+  "base_skin_id": 42005,
+  "champion_id": 42,
+  "name": "海牛骑手  库奇",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "b592676289fa0f7e9926877ae4d1ef2ba11062f587edf24c654a6b807af7b4e8",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "42/42005/42005.fantome",
+  "files": [
+    {
+      "path": "skins/42/42005/42005/Corki.wad.client",
+      "size": 2816,
+      "sha256": "a59ecfe01ed07195daeac379d81e47e8421ca14752e66be68c85be771b15ef86"
+    }
+  ],
+  "wads": {
+    "Corki.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2816,
+      "bytes_after": 2816,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 43030,
+  "base_skin_id": 43026,
+  "champion_id": 43,
+  "name": "奥德赛 卡尔玛 星核培育者",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c9d5ee224ddf6be87eb0f334dbf06398f675d61875c3bda33ab8eb289d2b343b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "43/43026/43030/43030.fantome",
+  "files": [
+    {
+      "path": "skins/43/43026/43030/Karma.wad.client",
+      "size": 88612,
+      "sha256": "0a04aaf3199815b69fd4e890788047bbe5b687721dec6acebef91d77a12426c8"
+    }
+  ],
+  "wads": {
+    "Karma.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2328,
+      "bytes_after": 88612,
+      "replacement_hashes": [
+        "e6d87fb7fc2e619c"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Karma.wad.client",
+        "normal_hash": "e6d87fb7fc2e619c",
+        "border_hash": "e0812dbe6459469b",
+        "bytes": 86252,
+        "sha256": "400cce45d8492ec4d19c6d631b7f80658b68067d3c119e3d9ddfa309926cf198"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

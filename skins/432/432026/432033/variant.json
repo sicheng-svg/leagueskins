@@ -1,0 +1,48 @@
+{
+  "skin_id": 432033,
+  "base_skin_id": 432026,
+  "champion_id": 432,
+  "name": "山海绘卷 巴德 茶白",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7a5186a66129527e725437ee49a3d4f2ffb2e551a806a75fb22920864bf61cf5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "432/432026/432033/432033.fantome",
+  "files": [
+    {
+      "path": "skins/432/432026/432033/Bard.wad.client",
+      "size": 4697,
+      "sha256": "14a201c583387ad6d2071044aa7354aa7bf9400119db1ad1dbc449334e662569"
+    }
+  ],
+  "wads": {
+    "Bard.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4697,
+      "bytes_after": 4697,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

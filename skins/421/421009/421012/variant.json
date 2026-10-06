@@ -1,0 +1,48 @@
+{
+  "skin_id": 421012,
+  "base_skin_id": 421009,
+  "champion_id": 421,
+  "name": "黯晶巨兽 雷克塞 凝结之魂",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "26e15856e8b0cca80b951b0ee08bd4bbffd79cea1d68957cb8ba7b9ebfd31114",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "421/421009/421012/421012.fantome",
+  "files": [
+    {
+      "path": "skins/421/421009/421012/RekSai.wad.client",
+      "size": 4138,
+      "sha256": "6c30e0f5211a2f24939286e8fe9670f46abfa04025b18e400c958e277369423d"
+    }
+  ],
+  "wads": {
+    "RekSai.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4138,
+      "bytes_after": 4138,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

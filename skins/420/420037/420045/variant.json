@@ -1,0 +1,48 @@
+{
+  "skin_id": 420045,
+  "base_skin_id": 420037,
+  "champion_id": 420,
+  "name": "慢炖海鲜意面掌锅人 俄洛伊 字母面",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1894fc2e851bf91d593a676aa022caa19ab832350e6bc0fcf5d4b244d820a2bd",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "420/420037/420045/420045.fantome",
+  "files": [
+    {
+      "path": "skins/420/420037/420045/Illaoi.wad.client",
+      "size": 5348,
+      "sha256": "e8d501aa968b370cf266f8971e07182082c2b699d52338a61b8b8202a4bf9030"
+    }
+  ],
+  "wads": {
+    "Illaoi.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5348,
+      "bytes_after": 5348,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

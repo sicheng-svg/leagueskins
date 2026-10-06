@@ -1,0 +1,65 @@
+{
+  "skin_id": 432018,
+  "base_skin_id": 432017,
+  "champion_id": 432,
+  "name": "咖啡甜心 巴德 草莓戚风",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "161aea847cfa4d57e9a71e3971856bceb5c72c7ce4ba6996483accfef4282140",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "432/432017/432018/432018.fantome",
+  "files": [
+    {
+      "path": "skins/432/432017/432018/Bard.wad.client",
+      "size": 90664,
+      "sha256": "ec89d1b5b7f96be9433b64181ce9893ad3fa7759a21eb4b7735737b8ceca0035"
+    }
+  ],
+  "wads": {
+    "Bard.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4380,
+      "bytes_after": 90664,
+      "replacement_hashes": [
+        "98691651fc6c4763"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Bard.wad.client",
+        "normal_hash": "98691651fc6c4763",
+        "border_hash": "85034a80cc97f880",
+        "bytes": 86252,
+        "sha256": "24bb527524f5b6e3390f51ff9589dc231a277a13b33b52af9c6eba6773cab058"
+      },
+      {
+        "archive": "Bard.wad.client",
+        "normal_hash": "98691651fc6c4763",
+        "border_hash": "85034a80cc97f880",
+        "bytes": 86252,
+        "sha256": "24bb527524f5b6e3390f51ff9589dc231a277a13b33b52af9c6eba6773cab058"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

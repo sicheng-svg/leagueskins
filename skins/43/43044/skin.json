@@ -1,0 +1,587 @@
+{
+  "champion_id": 43,
+  "base_skin_id": 43044,
+  "name": "神龙尊者 宁静之龙 卡尔玛",
+  "variants": [
+    {
+      "skin_id": 43044,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "289e788600b1863563ee7bd388be509b69e7414e25a8916320cd61ef257f6137",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43044.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43044/Karma.wad.client",
+          "size": 91175,
+          "sha256": "f9be2f46f380ed3cb5d40d89e0b6c188719209be00f63ebfd59b93d8ab3da7aa"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4891,
+          "bytes_after": 91175,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43045,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 登龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "47463663c7597fc785354dc654b2053b2bf91398ea70fc590e71d8c5395aebec",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43045/43045.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43045/Karma.wad.client",
+          "size": 88617,
+          "sha256": "bd6839158df97d71f933e090a54811cc8bb058b01f27868f3d321c0687fdbc63"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2333,
+          "bytes_after": 88617,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43046,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 傲雪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "07db25ea8df3c958f6a8cf2533fff356c17a4dfa56d5a04ea463bce186a2103c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43046/43046.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43046/Karma.wad.client",
+          "size": 88565,
+          "sha256": "aa4e6ae569d7c8ea4bdcf3e26643de23be9464dcda31a2ae93bdb0e615909054"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2281,
+          "bytes_after": 88565,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43047,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 碧漪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "46a0f0a95cf81a8a038d5e9c92b885dbdc6b1a9f95fffbe6fad3daf0fd226c40",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43047/43047.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43047/Karma.wad.client",
+          "size": 88617,
+          "sha256": "f3579d01794f0f01898c40c898d6f80e30dfb9c2eea2e3157e2bc0c6df9d2094"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2333,
+          "bytes_after": 88617,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43048,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 望霞",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2b0fdee8bc9a6051cb363b0e9c298ac9171e1bcae4c92cecdf9c1dfad59db184",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43048/43048.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43048/Karma.wad.client",
+          "size": 88582,
+          "sha256": "e3f8e8079960918bb0e575b53129fe6900e8664fe51954cb9d55e3bace179972"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2298,
+          "bytes_after": 88582,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43049,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 聚鹤",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "670a53f2b41bae749a06e25164c8debf34176fa66f69fac248c26567ea5eea8f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43049/43049.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43049/Karma.wad.client",
+          "size": 88564,
+          "sha256": "91404cd95ce3c8b6e059d83371ca136a6333403720803a51f80c050577d30539"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2280,
+          "bytes_after": 88564,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43050,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 摘星",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "72847456e2b5d3a526ff5358f95f95d52807fe732a3721e224b7262e3e9f73f1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43050/43050.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43050/Karma.wad.client",
+          "size": 88566,
+          "sha256": "4c8437bc40b5493a1491220414b9b97fd84182ef40bc029266beb2bb88042722"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2282,
+          "bytes_after": 88566,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43051,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 朝云",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f7e3da9b02e9f01ef0e7d74d0f9b4fbd26bc73ac735cb6f589eab55f295d17f2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43051/43051.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43051/Karma.wad.client",
+          "size": 88566,
+          "sha256": "93537d048c4ea047eda61fe0c3c832029d2050e51abecc8ddd4c6d4281f57892"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2282,
+          "bytes_after": 88566,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43052,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 松峦",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b328810595e38afed5a6fb79771c680162a470d59b1387a54315d63a2d60130a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43052/43052.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43052/Karma.wad.client",
+          "size": 88567,
+          "sha256": "5dcbdc6b6ecc0529481c4f808abf61a63c88da5e7069408d36be68e271a79841"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2283,
+          "bytes_after": 88567,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 43053,
+      "base_skin_id": 43044,
+      "champion_id": 43,
+      "name": "神龙尊者 宁静之龙 卡尔玛 烬爪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "392697ee2d270f8fc34c5c0bde5d8c141cd115b16d086970ce53da629c96cca3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "43/43044/43053/43053.fantome",
+      "files": [
+        {
+          "path": "skins/43/43044/43053/Karma.wad.client",
+          "size": 88621,
+          "sha256": "6aada1df01cbf4c395cf69c7081d12240b7b1ced1494742fef56282e94096e50"
+        }
+      ],
+      "wads": {
+        "Karma.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2337,
+          "bytes_after": 88621,
+          "replacement_hashes": [
+            "af83cf254e6ac021"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Karma.wad.client",
+            "normal_hash": "af83cf254e6ac021",
+            "border_hash": "e79356f690d166c9",
+            "bytes": 86252,
+            "sha256": "1baef05f9a2bf37bcd51162d67f2d382e1c71879cd1a4412f8c7bfa5debdd044"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 43024,
+  "base_skin_id": 43019,
+  "champion_id": 43,
+  "name": "黎明使者 卡尔玛 圣辉",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "630098a008dbf4ddb65d197d8ad5e43ec783d05a57c0101d7982dd55d7e56741",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "43/43019/43024/43024.fantome",
+  "files": [
+    {
+      "path": "skins/43/43019/43024/Karma.wad.client",
+      "size": 88444,
+      "sha256": "7bfbcfbcbe3e118078a4880e0aac6465ec387bc0f10286a49dc8e883349b5050"
+    }
+  ],
+  "wads": {
+    "Karma.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2160,
+      "bytes_after": 88444,
+      "replacement_hashes": [
+        "43126adb0cc5243e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Karma.wad.client",
+        "normal_hash": "43126adb0cc5243e",
+        "border_hash": "75bc712cba9f5bca",
+        "bytes": 86252,
+        "sha256": "c33e1586ea3bc0d0c0758f897bf44c6fbb2d764237a23dcd9972e00a9eb5cd5f"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

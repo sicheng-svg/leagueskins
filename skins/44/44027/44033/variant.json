@@ -1,0 +1,48 @@
+{
+  "skin_id": 44033,
+  "base_skin_id": 44027,
+  "champion_id": 44,
+  "name": "逆命 塔里克 真诚之命图",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "9f320a2c13f70c778ed744f0fa7d57268f360d534401604e5ca410821f14471f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "44/44027/44033/44033.fantome",
+  "files": [
+    {
+      "path": "skins/44/44027/44033/Taric.wad.client",
+      "size": 2897,
+      "sha256": "471395629a12590dbe11a8018bc2e2404130a3d373c722db63b8539f4fdc8e20"
+    }
+  ],
+  "wads": {
+    "Taric.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2897,
+      "bytes_after": 2897,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

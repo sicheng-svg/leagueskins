@@ -1,0 +1,58 @@
+{
+  "skin_id": 99077,
+  "base_skin_id": 99072,
+  "champion_id": 99,
+  "name": "熊猫娃娃 拉克丝 银花丝匠",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "cfe3477898f434ace86c1e828f27a2fa9d36a34fdcf05953f5663c478a854650",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "99/99072/99077/99077.fantome",
+  "files": [
+    {
+      "path": "skins/99/99072/99077/Lux.wad.client",
+      "size": 88682,
+      "sha256": "4d47129d8448c0d78d8b4fd4575a1e9ffb2833780878ad4b50eefdadc3463001"
+    }
+  ],
+  "wads": {
+    "Lux.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2398,
+      "bytes_after": 88682,
+      "replacement_hashes": [
+        "7b791d303f559ba3"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lux.wad.client",
+        "normal_hash": "7b791d303f559ba3",
+        "border_hash": "33235ca4fbb25015",
+        "bytes": 86252,
+        "sha256": "2ba3fa8ae712a45085eb854574ee9e6cb6ef6c65c101ea0d677fcee318febe4e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

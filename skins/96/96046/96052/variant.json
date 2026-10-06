@@ -1,0 +1,48 @@
+{
+  "skin_id": 96052,
+  "base_skin_id": 96046,
+  "champion_id": 96,
+  "name": "山海绘卷 克格莫 雪青",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "145aa66f800a365eca74852d773b13ef129cc0152af691b1cd808a57128956e0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "96/96046/96052/96052.fantome",
+  "files": [
+    {
+      "path": "skins/96/96046/96052/KogMaw.wad.client",
+      "size": 2641,
+      "sha256": "9953354cb7652d13a40c05bd7cb6ec4776be8e9577ca75a14f0625b06f57cb90"
+    }
+  ],
+  "wads": {
+    "KogMaw.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2641,
+      "bytes_after": 2641,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

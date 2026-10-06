@@ -1,0 +1,65 @@
+{
+  "champion_id": 99,
+  "base_skin_id": 99040,
+  "name": "至臻 青花瓷 拉克丝",
+  "variants": [
+    {
+      "skin_id": 99040,
+      "base_skin_id": 99040,
+      "champion_id": 99,
+      "name": "至臻 青花瓷 拉克丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "ae60d603e4250fa668cf05fc6c699e2fe268293d1bd8b214964bd0c50ed40e2f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99040/99040.fantome",
+      "files": [
+        {
+          "path": "skins/99/99040/99040/Lux.wad.client",
+          "size": 91644,
+          "sha256": "24b33fc8f134fa15e24da3f7073ab4acba08a7879eb95ec2364cf265a075ce05"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5360,
+          "bytes_after": 91644,
+          "replacement_hashes": [
+            "6db9578ed2422949"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "6db9578ed2422949",
+            "border_hash": "e5b6ab6f6cf926d9",
+            "bytes": 86252,
+            "sha256": "fe8bc8daa9a9d2d0d6922d62b78a141122bd31ff604ec4ded3972a4b9284d4c4"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

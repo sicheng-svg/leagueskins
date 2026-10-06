@@ -1,0 +1,65 @@
+{
+  "skin_id": 96045,
+  "base_skin_id": 96037,
+  "champion_id": 96,
+  "name": "电格莫 丹泉",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fb12a4fd5289edc2e95fbf3f995d75e7a05212d3f6e36495b3540047fe4c6962",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "96/96037/96045/96045.fantome",
+  "files": [
+    {
+      "path": "skins/96/96037/96045/KogMaw.wad.client",
+      "size": 89414,
+      "sha256": "443736a8ff654cbfe0602c797729eea9619fd2a32bb69eb246b541d36d619728"
+    }
+  ],
+  "wads": {
+    "KogMaw.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3130,
+      "bytes_after": 89414,
+      "replacement_hashes": [
+        "bf2897a777175f5b"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "KogMaw.wad.client",
+        "normal_hash": "bf2897a777175f5b",
+        "border_hash": "c5ed6600ce18270e",
+        "bytes": 86252,
+        "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+      },
+      {
+        "archive": "KogMaw.wad.client",
+        "normal_hash": "bf2897a777175f5b",
+        "border_hash": "c5ed6600ce18270e",
+        "bytes": 86252,
+        "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "champion_id": 98,
+  "base_skin_id": 98006,
+  "name": "暗杀星 慎",
+  "variants": [
+    {
+      "skin_id": 98006,
+      "base_skin_id": 98006,
+      "champion_id": 98,
+      "name": "暗杀星 慎",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "91bf8871dc29adc557b7acb7c6d4e8e23cb5d3c0c6ce0a534a633372470bbda5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "98/98006/98006.fantome",
+      "files": [
+        {
+          "path": "skins/98/98006/98006/Shen.wad.client",
+          "size": 3246,
+          "sha256": "309c49b11def8d75ccc2258a2bf52899a5c760abe638276a8118a569fa1b2083"
+        }
+      ],
+      "wads": {
+        "Shen.wad.client": {
+          "entries_before": 1,
+          "entries_after": 1,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3246,
+          "bytes_after": 3246,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

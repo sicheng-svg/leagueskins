@@ -1,0 +1,58 @@
+{
+  "skin_id": 98036,
+  "base_skin_id": 98022,
+  "champion_id": 98,
+  "name": "灵能特工 慎 代号：蝮蛇",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "106ae3f5dda3bc6bb26da83c50c3503aaeb0fc3bf5a1efd806345db1d4d88ac7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "98/98022/98036/98036.fantome",
+  "files": [
+    {
+      "path": "skins/98/98022/98036/Shen.wad.client",
+      "size": 88654,
+      "sha256": "19463f0c47070ff2834a5cd2923c0a89bd5b81a2e2d82d3324ca7148ede2e1c1"
+    }
+  ],
+  "wads": {
+    "Shen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2370,
+      "bytes_after": 88654,
+      "replacement_hashes": [
+        "e7bbe2577688ba36"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Shen.wad.client",
+        "normal_hash": "e7bbe2577688ba36",
+        "border_hash": "ef714a7983dd2cd1",
+        "bytes": 86252,
+        "sha256": "61cf91b6c446702ce77bff1b276e6908b57ea91eb291d60f9375ae0ce8b49180"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

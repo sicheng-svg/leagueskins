@@ -1,0 +1,59 @@
+{
+  "skin_id": 99998,
+  "base_skin_id": 99007,
+  "champion_id": 99,
+  "name": "99998",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "8b9d04a5a51caa6666f6e22a15e77c14c06737bfe71ac5eaf4ae9f62280d7316",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+  },
+  "source_package": "99/99007/99998/99998.fantome",
+  "files": [
+    {
+      "path": "skins/99/99007/99998/Lux.wad.client",
+      "size": 311551,
+      "sha256": "8c0e6cb620905c90af84c418b8c874f6c98c3e642d503a40bf790d8509e2b5b3"
+    }
+  ],
+  "wads": {
+    "Lux.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 225267,
+      "bytes_after": 311551,
+      "replacement_hashes": [
+        "d94fe0b4f2e0c267"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lux.wad.client",
+        "normal_hash": "d94fe0b4f2e0c267",
+        "border_hash": "4541e0f565c301c4",
+        "bytes": 86252,
+        "sha256": "13a27985433410559224e7733ebb240c0213e11851250ced187dfdddbedef52b",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 280,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 98040,
+  "base_skin_id": 98040,
+  "champion_id": 98,
+  "name": "冲击之刃 慎",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "54e25e955f366f4c009b049ddd50f19c0fb09045990fa6ad5897196766dc8fee",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "98/98040/98040.fantome",
+  "files": [
+    {
+      "path": "skins/98/98040/98040/Shen.wad.client",
+      "size": 4895,
+      "sha256": "0ad01b180bd08cee93da20ca4a6895f127529c7f667d3bd6ca3e720a0c3cb68d"
+    }
+  ],
+  "wads": {
+    "Shen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4895,
+      "bytes_after": 4895,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

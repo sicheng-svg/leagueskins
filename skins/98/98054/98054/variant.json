@@ -1,0 +1,58 @@
+{
+  "skin_id": 98054,
+  "base_skin_id": 98054,
+  "champion_id": 98,
+  "name": "绝息圣堂 慎",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "126d1fda66935874f8f9b767c05436c110fb34b66dd1ba2f8513dc6c55228dc7",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "98/98054/98054.fantome",
+  "files": [
+    {
+      "path": "skins/98/98054/98054/Shen.wad.client",
+      "size": 91563,
+      "sha256": "4c4d05f207b3b31041458dc438a67a410c18a0c0847392d3f3b27abfd8ad45ff"
+    }
+  ],
+  "wads": {
+    "Shen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 5279,
+      "bytes_after": 91563,
+      "replacement_hashes": [
+        "16ac770095cfa926"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Shen.wad.client",
+        "normal_hash": "16ac770095cfa926",
+        "border_hash": "0d4647d87bd0b270",
+        "bytes": 86252,
+        "sha256": "3ef3fdb75c147ec67919bd2bbf75ba1a8209ec784541e625bf479825edd51916"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "skin_id": 96029,
+  "base_skin_id": 96028,
+  "champion_id": 96,
+  "name": "元气满满七星瓢 克格莫",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c1f60621305a821710443a0cfb5de0540dccf06114b9d793012f2f3c5d528b65",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "96/96028/96029/96029.fantome",
+  "files": [
+    {
+      "path": "skins/96/96028/96029/KogMaw.wad.client",
+      "size": 2718,
+      "sha256": "f02059b154fd8570984c09e7ca718d4b197ac8cf34023311a2d8ddd291bed47d"
+    }
+  ],
+  "wads": {
+    "KogMaw.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2718,
+      "bytes_after": 2718,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

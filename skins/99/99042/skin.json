@@ -1,0 +1,587 @@
+{
+  "champion_id": 99,
+  "base_skin_id": 99042,
+  "name": "至高天 拉克丝",
+  "variants": [
+    {
+      "skin_id": 99042,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "393004fb0fca2108383256e54850340c9dd1795e7f646da153c9d737d8642f29",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99042.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99042/Lux.wad.client",
+          "size": 91676,
+          "sha256": "5fe3e0ddd980f7802fbb0e86c6bec48fc03c7ac6085f72aea7aeae3b21765088"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5392,
+          "bytes_after": 91676,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99043,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 狂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "efaf1587f7450561f180a87ff0f0dc6235b6395a49e20347fff28d0b2d70ff57",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99043/99043.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99043/Lux.wad.client",
+          "size": 88803,
+          "sha256": "7b08677357de9a86ccc6de5adfecfb76a62803d863a0eb79f6685d77398c3869"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2519,
+          "bytes_after": 88803,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99044,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 幻耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b363fbcce6514f14423d1e6664f522edc1e2aa78817c17e05b9d9610968563ab",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99044/99044.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99044/Lux.wad.client",
+          "size": 88773,
+          "sha256": "de01a9a86a333d417d1a83adb5972dee1abbd331f4b43c084996ce024fa869ff"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2489,
+          "bytes_after": 88773,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99045,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 华耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "037eb8b75a81796187b0e90631bba818cda29460460546e7461f215cdd81c024",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99045/99045.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99045/Lux.wad.client",
+          "size": 88752,
+          "sha256": "a5a40dfd840b62059cea8eaa2b61bf6f96f12e08afb6feef9d3a281796bcc3b5"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2468,
+          "bytes_after": 88752,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99046,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 青炬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b3f19600d5c99be63d68f0fdc2fa9e07af1e1ee2e01d901a7d0792167de589e7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99046/99046.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99046/Lux.wad.client",
+          "size": 88752,
+          "sha256": "9db5e2695e4549c2ac52cf7ec83f94d2f3c869233f9481ca2c9ea45992525240"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2468,
+          "bytes_after": 88752,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99047,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 寒芒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "04f7aa38361aec0bbcae4bd1f337abcc16c90de30be5a2756944679c96e28b0e",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99047/99047.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99047/Lux.wad.client",
+          "size": 88753,
+          "sha256": "38a2a613199931d1e4c6f6d6ab9518194869d79560b236b16cd9c22938e3990a"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2469,
+          "bytes_after": 88753,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99048,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 荧煌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "abc7f754018cd3aebfa77cbf681d39c0448608392b6c29b8f37b37accece4326",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99048/99048.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99048/Lux.wad.client",
+          "size": 88754,
+          "sha256": "7b724d3f5fac63f4a86d68a6e29e7130adc18cb16818e1d5a6086d6a88ce4dec"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2470,
+          "bytes_after": 88754,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99049,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 胧光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b282204a4be7fe8c6bc84dda5e5e8c03f151ddd433bebeb1ecc2ccbf4d2fd5d7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99049/99049.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99049/Lux.wad.client",
+          "size": 88753,
+          "sha256": "5350aa6de4ed015182a9d7342fa8f5b6a10a8ac66b0b5c64beca95785ed12d85"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2469,
+          "bytes_after": 88753,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99050,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 苍黯",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "30bca55131c1ef013381d1502e6c7d611a96bf81ab1805e2fdc0b4f9ac1544ae",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99050/99050.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99050/Lux.wad.client",
+          "size": 88753,
+          "sha256": "27cd2f958ef2a2508ab7f67db5f3777d0e11ed47b8c99359a21aad3a7029b759"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2469,
+          "bytes_after": 88753,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99051,
+      "base_skin_id": 99042,
+      "champion_id": 99,
+      "name": "至高天 拉克丝 霓虹耀斑",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f345ac8c220f65f42965f01427bb539d16a2b5abed389aa4f44bef1fbc4ca907",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99042/99051/99051.fantome",
+      "files": [
+        {
+          "path": "skins/99/99042/99051/Lux.wad.client",
+          "size": 88807,
+          "sha256": "c564e8464ae271c38bc24a2558e06dba94c68036f0bee4de5f5f09634e4f7017"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2523,
+          "bytes_after": 88807,
+          "replacement_hashes": [
+            "e461ad2725cda970"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "e461ad2725cda970",
+            "border_hash": "a38fb19a428bcb3e",
+            "bytes": 86252,
+            "sha256": "db23b6cec391ef05b78cad288055dd0fc099e1c400ad69dd617f9b2b0b016620"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

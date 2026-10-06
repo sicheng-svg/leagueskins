@@ -1,0 +1,58 @@
+{
+  "skin_id": 99053,
+  "base_skin_id": 99038,
+  "champion_id": 99,
+  "name": "斗魂觉醒 拉克丝 澄之魂焰",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "c91f41615abe9100704e027e9c146ccb3b0bfe23261ba88ebbbe48ae54b5e8c0",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "99/99038/99053/99053.fantome",
+  "files": [
+    {
+      "path": "skins/99/99038/99053/Lux.wad.client",
+      "size": 88869,
+      "sha256": "aea39082cb17ff0469aaf77af441c6a95bc55327f8967edbe9737f2b61aa4df7"
+    }
+  ],
+  "wads": {
+    "Lux.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2585,
+      "bytes_after": 88869,
+      "replacement_hashes": [
+        "afb7bc1cfd15232a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lux.wad.client",
+        "normal_hash": "afb7bc1cfd15232a",
+        "border_hash": "6df4e2c0b69e57b4",
+        "bytes": 86252,
+        "sha256": "e9bb719d834d2c2ab78caed9270943e4ebbef4605133eb9a79ccfeb422fe9fa2"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

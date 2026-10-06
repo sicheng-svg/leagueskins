@@ -1,0 +1,48 @@
+{
+  "skin_id": 98004,
+  "base_skin_id": 98004,
+  "champion_id": 98,
+  "name": "腥红之月 鬼武者 慎",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "a1f185454390046997b088e54aac369047c52b9521fb22c4b78e6c62b2c21c9a",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "98/98004/98004.fantome",
+  "files": [
+    {
+      "path": "skins/98/98004/98004/Shen.wad.client",
+      "size": 2361,
+      "sha256": "9b5ea38e355681059207ea0ce62d9968cd090b77d6f3145c3d591a85511f5b83"
+    }
+  ],
+  "wads": {
+    "Shen.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2361,
+      "bytes_after": 2361,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

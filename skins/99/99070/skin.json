@@ -1,0 +1,123 @@
+{
+  "champion_id": 99,
+  "base_skin_id": 99070,
+  "name": "至臻 灵魂莲华 拉克丝",
+  "variants": [
+    {
+      "skin_id": 99070,
+      "base_skin_id": 99070,
+      "champion_id": 99,
+      "name": "至臻 灵魂莲华 拉克丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0e49815afea94245920f458cbf0b9c6d32c931f38fc4f0f5dfa3cf2e242804c7",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99070/99070.fantome",
+      "files": [
+        {
+          "path": "skins/99/99070/99070/Lux.wad.client",
+          "size": 91626,
+          "sha256": "990cd77e791f27d1ee9f61ba9a1065d48a9c7ac7acf3a57906e4b528e54cd58a"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5342,
+          "bytes_after": 91626,
+          "replacement_hashes": [
+            "d97b1608c28ae8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "d97b1608c28ae8bc",
+            "border_hash": "6e9a2630fe2a8f57",
+            "bytes": 86252,
+            "sha256": "d8a66033e8af7b8a05c49c107fc2adb8d9e3020d905b5ff259a2b56d04cfb4e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99071,
+      "base_skin_id": 99070,
+      "champion_id": 99,
+      "name": "至臻 灵魂莲华 拉克丝 绽灵",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d6a915d85dd2d27c81469d18ba5f10ec69c3ebaa6e886a9f4cda0eaafb4b6e9d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99070/99071/99071.fantome",
+      "files": [
+        {
+          "path": "skins/99/99070/99071/Lux.wad.client",
+          "size": 88895,
+          "sha256": "598260997727038d6b03e822d139ac7a16fe8ef32ef756ba8c5e6a555fc2d10b"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2611,
+          "bytes_after": 88895,
+          "replacement_hashes": [
+            "d97b1608c28ae8bc"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "d97b1608c28ae8bc",
+            "border_hash": "6e9a2630fe2a8f57",
+            "bytes": 86252,
+            "sha256": "d8a66033e8af7b8a05c49c107fc2adb8d9e3020d905b5ff259a2b56d04cfb4e0"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "skin_id": 99022,
+  "base_skin_id": 99019,
+  "champion_id": 99,
+  "name": "“闪耀灯球” 拉克丝 我又补车了",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3adc122aa5d3b844a4346b64a379feac480e5deae2e205725a8e3bb338dcd016",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "99/99019/99022/99022.fantome",
+  "files": [
+    {
+      "path": "skins/99/99019/99022/Lux.wad.client",
+      "size": 88695,
+      "sha256": "930229b92febb2fc088fd27c46f4577ffe9c2882121cfe44c5cde1eff36109f2"
+    }
+  ],
+  "wads": {
+    "Lux.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2411,
+      "bytes_after": 88695,
+      "replacement_hashes": [
+        "af9d099710c08907"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lux.wad.client",
+        "normal_hash": "af9d099710c08907",
+        "border_hash": "890004a08e9cb73b",
+        "bytes": 86252,
+        "sha256": "53ac53f9760cc00ce29bc49d74a1e0504697f50e00a9c6dc001f8bb49b9b3e9e"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

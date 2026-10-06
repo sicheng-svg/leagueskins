@@ -1,0 +1,58 @@
+{
+  "skin_id": 99041,
+  "base_skin_id": 99029,
+  "champion_id": 99,
+  "name": "青花瓷 拉克丝 天青",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "2cba26a87f561e6cc6084e9e0955a2055d47bfc767e3b235802ad7355e485a2c",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "99/99029/99041/99041.fantome",
+  "files": [
+    {
+      "path": "skins/99/99029/99041/Lux.wad.client",
+      "size": 88720,
+      "sha256": "7cf6ccd0f6ead658bc166d86e84e4feabf1d9312a30462d5c981be9064818669"
+    }
+  ],
+  "wads": {
+    "Lux.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2436,
+      "bytes_after": 88720,
+      "replacement_hashes": [
+        "34e628b1e286e164"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Lux.wad.client",
+        "normal_hash": "34e628b1e286e164",
+        "border_hash": "98c04844fba4295a",
+        "bytes": 86252,
+        "sha256": "4b68a9faef576de9d5c0ac08ffba40659092d1b9c21b5a5f4d7ae5c782b267d2"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

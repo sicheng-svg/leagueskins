@@ -1,0 +1,355 @@
+{
+  "champion_id": 99,
+  "base_skin_id": 99008,
+  "name": "春晖神女 拉克丝",
+  "variants": [
+    {
+      "skin_id": 99008,
+      "base_skin_id": 99008,
+      "champion_id": 99,
+      "name": "春晖神女 拉克丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6bb280e7eb31f1a4d5334ebfc0a9a7abce91a45b2a7f43fa88a8d013cb52170a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99008/99008.fantome",
+      "files": [
+        {
+          "path": "skins/99/99008/99008/Lux.wad.client",
+          "size": 91371,
+          "sha256": "e4c2838adf51c77891c24a75db064a0e8546f095eacc49f56d5da1218d8f21cd"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5087,
+          "bytes_after": 91371,
+          "replacement_hashes": [
+            "7c4da09e53cc2c3d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "7c4da09e53cc2c3d",
+            "border_hash": "15bb2de2ee38597b",
+            "bytes": 86252,
+            "sha256": "a6a2cc275f6c1612a4df3b8adb594dcb31f99de6f05ef28d99ffb9190cd53784"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99009,
+      "base_skin_id": 99008,
+      "champion_id": 99,
+      "name": "春晖神女 拉克丝 玉露金风",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "35790c96a73de4e9dc4f390a45a60653e164757fca92a1f467afcbac76dd51be",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99008/99009/99009.fantome",
+      "files": [
+        {
+          "path": "skins/99/99008/99009/Lux.wad.client",
+          "size": 88715,
+          "sha256": "40f8ae5e64860fa2e2603a72c30bb7af5eea34947dfacdfce8a6feca2adc2810"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2431,
+          "bytes_after": 88715,
+          "replacement_hashes": [
+            "7c4da09e53cc2c3d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "7c4da09e53cc2c3d",
+            "border_hash": "15bb2de2ee38597b",
+            "bytes": 86252,
+            "sha256": "a6a2cc275f6c1612a4df3b8adb594dcb31f99de6f05ef28d99ffb9190cd53784"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99010,
+      "base_skin_id": 99008,
+      "champion_id": 99,
+      "name": "春晖神女 拉克丝 倾城碧色",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e7805c65f6eaabfb4113e86d116ae024c0454f78d6f305e3c513328a1ad3d72a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99008/99010/99010.fantome",
+      "files": [
+        {
+          "path": "skins/99/99008/99010/Lux.wad.client",
+          "size": 88663,
+          "sha256": "71501579a6d0aa812eac2383f7a1bf3df01973923dc7d0371e6e8d750e897bba"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2379,
+          "bytes_after": 88663,
+          "replacement_hashes": [
+            "7c4da09e53cc2c3d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "7c4da09e53cc2c3d",
+            "border_hash": "15bb2de2ee38597b",
+            "bytes": 86252,
+            "sha256": "a6a2cc275f6c1612a4df3b8adb594dcb31f99de6f05ef28d99ffb9190cd53784"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99011,
+      "base_skin_id": 99008,
+      "champion_id": 99,
+      "name": "春晖神女 拉克丝 轻云蔽月",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bcbcd42b5cf673b1e50753b55906fa4ed5cd43338aa65fbdbcb42b6bf0cb02b1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99008/99011/99011.fantome",
+      "files": [
+        {
+          "path": "skins/99/99008/99011/Lux.wad.client",
+          "size": 88664,
+          "sha256": "da8a0faaee15ffb89f5e4bf866e26db0fc48ac924cc9d697377136107cbab70d"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2380,
+          "bytes_after": 88664,
+          "replacement_hashes": [
+            "7c4da09e53cc2c3d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "7c4da09e53cc2c3d",
+            "border_hash": "15bb2de2ee38597b",
+            "bytes": 86252,
+            "sha256": "a6a2cc275f6c1612a4df3b8adb594dcb31f99de6f05ef28d99ffb9190cd53784"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99012,
+      "base_skin_id": 99008,
+      "champion_id": 99,
+      "name": "春晖神女 拉克丝 流风回雪",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b2d0bd7b43392511526ec37c8ab4a75208015c3f025673b5a0854567cb390826",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99008/99012/99012.fantome",
+      "files": [
+        {
+          "path": "skins/99/99008/99012/Lux.wad.client",
+          "size": 88668,
+          "sha256": "1cd3fc2e7323af04717a03ffe8b56c36d7430e4ce2688038767774fd2dd1defa"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2384,
+          "bytes_after": 88668,
+          "replacement_hashes": [
+            "7c4da09e53cc2c3d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "7c4da09e53cc2c3d",
+            "border_hash": "15bb2de2ee38597b",
+            "bytes": 86252,
+            "sha256": "a6a2cc275f6c1612a4df3b8adb594dcb31f99de6f05ef28d99ffb9190cd53784"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 99013,
+      "base_skin_id": 99008,
+      "champion_id": 99,
+      "name": "春晖神女 拉克丝 空谷幽兰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5db83b349c91b4abd31e87ca8e101f22093fa400c5a2dc468dbba308883020d4",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "99/99008/99013/99013.fantome",
+      "files": [
+        {
+          "path": "skins/99/99008/99013/Lux.wad.client",
+          "size": 88666,
+          "sha256": "df95d70b6c15cdc951aeb501a7420a337c87de9ceecd110a0728cb0a69a59501"
+        }
+      ],
+      "wads": {
+        "Lux.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2382,
+          "bytes_after": 88666,
+          "replacement_hashes": [
+            "7c4da09e53cc2c3d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Lux.wad.client",
+            "normal_hash": "7c4da09e53cc2c3d",
+            "border_hash": "15bb2de2ee38597b",
+            "bytes": 86252,
+            "sha256": "a6a2cc275f6c1612a4df3b8adb594dcb31f99de6f05ef28d99ffb9190cd53784"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

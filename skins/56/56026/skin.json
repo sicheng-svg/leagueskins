@@ -1,0 +1,587 @@
+{
+  "champion_id": 56,
+  "base_skin_id": 56026,
+  "name": "至高天 魔腾",
+  "variants": [
+    {
+      "skin_id": 56026,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9b6e5b19c324d6179d790a4fba22dd6ce30b25daf1e62e8c16099a508d4d816d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56026.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56026/Nocturne.wad.client",
+          "size": 91640,
+          "sha256": "a29441322b5d21c5718c36e36d59bd50d780613ff442d31af8936cfbabe15061"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 5356,
+          "bytes_after": 91640,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56027,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 狂焰",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1b9cc73794281db67a7ce086c29430109c73e1f68d64d714b3ca2b4c8ba297ed",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56027/56027.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56027/Nocturne.wad.client",
+          "size": 88564,
+          "sha256": "8f6bc3bf271df214525245de7ead6ebeb072c34314e4f72a249fb1dd1b008402"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2280,
+          "bytes_after": 88564,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56028,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 华耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "79ac9cca1c700bbbf322f5a0fafa207ee11b9ba93a8093c6135f1450c9a5e40d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56028/56028.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56028/Nocturne.wad.client",
+          "size": 88511,
+          "sha256": "a02492d14c96a7c420be16d3d9c17d3c3ef5da64ff82e0a70418066eb308d51a"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2227,
+          "bytes_after": 88511,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56029,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 青炬",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d9ba9972ea3ba22cc13a3f40516d2603b2993a1a7f3ca27a5018c181d756dd1c",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56029/56029.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56029/Nocturne.wad.client",
+          "size": 88510,
+          "sha256": "61c2702176a79674da6b434d581fabc32000138f53286a4bd64e2249378c60d7"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2226,
+          "bytes_after": 88510,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56030,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 灵辉",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f17601ebed4306bbd191bb83453ef18135638efe5ec034444997a6309dc98cb1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56030/56030.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56030/Nocturne.wad.client",
+          "size": 88514,
+          "sha256": "cc8d41aa36977ba224d11a413e0fc617d1b9fd8bf253a1d6bf335fc78853f41d"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2230,
+          "bytes_after": 88514,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56031,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 寒芒",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5ba9fd57a53def2158e94782614f91f43ec44325c22e2d6e37c87192ba5d4eee",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56031/56031.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56031/Nocturne.wad.client",
+          "size": 88535,
+          "sha256": "3ca17f0d7bebbc63f6f8ad3a6bf8b27ade6e2d30f615e56e15fbbe9e52bb9154"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2251,
+          "bytes_after": 88535,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56032,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 荧煌",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d3f685e2b8d6b0e31716ac63bf5f38552ac3782a4774c1b787d4363860627371",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56032/56032.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56032/Nocturne.wad.client",
+          "size": 88514,
+          "sha256": "48542695e23c6427ae53aa8703deb035db55752056ab96419ed5008f81173336"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2230,
+          "bytes_after": 88514,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56033,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 幻耀",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2914cc67b02054453fcd3b260d634db519d30d05cb1d943a68a97ab63ce9277d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56033/56033.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56033/Nocturne.wad.client",
+          "size": 88535,
+          "sha256": "01084f2ffa411e0c60920d15095fd5350dfce8985005ef8b503be42002c43a90"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2251,
+          "bytes_after": 88535,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56034,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 胧光",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "81233166f4e8cf930438e71d4d9720e482ad83952ea6b9ae740a80c68624a4fa",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56034/56034.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56034/Nocturne.wad.client",
+          "size": 88514,
+          "sha256": "dee54da1466667a8dc48f8ec9c5c26ee3181e79cfc3d409f11e16e2baf81afe5"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2230,
+          "bytes_after": 88514,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 56035,
+      "base_skin_id": 56026,
+      "champion_id": 56,
+      "name": "至高天 魔腾 霓虹表象",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "abfe1ab530362384fb53de56baa02cea4bd8fd69cf9146472d87a454371f49a3",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "56/56026/56035/56035.fantome",
+      "files": [
+        {
+          "path": "skins/56/56026/56035/Nocturne.wad.client",
+          "size": 88566,
+          "sha256": "8173725aa8abc7a044e79d8652bfbcb9f294d80bff6bfc26328c4b797450a5aa"
+        }
+      ],
+      "wads": {
+        "Nocturne.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2282,
+          "bytes_after": 88566,
+          "replacement_hashes": [
+            "dee128d36eeabc81"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Nocturne.wad.client",
+            "normal_hash": "dee128d36eeabc81",
+            "border_hash": "bdaeb89995dfa985",
+            "bytes": 86252,
+            "sha256": "92e5a55ea2d69ee407c1f75f172a1848de6e270c222ad0ad9d98a8b064477a70"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "skin_id": 60006,
+  "base_skin_id": 60006,
+  "champion_id": 60,
+  "name": "魅惑女巫 伊莉丝",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "34d81f2a0dbedd27f18cf750136ee649077f252f739189826eade1de73017c4f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "60/60006/60006.fantome",
+  "files": [
+    {
+      "path": "skins/60/60006/60006/Elise.wad.client",
+      "size": 95697,
+      "sha256": "a5b52dfd2430097be1ec257529dead729453ea063bb8520d28f76f24c2d56630"
+    }
+  ],
+  "wads": {
+    "Elise.wad.client": {
+      "entries_before": 6,
+      "entries_after": 7,
+      "was_sorted": false,
+      "version": "3.3",
+      "bytes_before": 9413,
+      "bytes_after": 95697,
+      "replacement_hashes": [
+        "1da144687a1ace4a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Elise.wad.client",
+        "normal_hash": "1da144687a1ace4a",
+        "border_hash": "7f0db09c56bbff8d",
+        "bytes": 86252,
+        "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+      },
+      {
+        "archive": "Elise.wad.client",
+        "normal_hash": "1da144687a1ace4a",
+        "border_hash": "7f0db09c56bbff8d",
+        "bytes": 86252,
+        "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+      },
+      {
+        "archive": "Elise.wad.client",
+        "normal_hash": "1da144687a1ace4a",
+        "border_hash": "7f0db09c56bbff8d",
+        "bytes": 86252,
+        "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

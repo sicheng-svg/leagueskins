@@ -1,0 +1,48 @@
+{
+  "skin_id": 60035,
+  "base_skin_id": 60015,
+  "champion_id": 60,
+  "name": "幽梦玫瑰 伊莉丝 至强",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "13799a00c32c44eb39a5509a48e9192482b2627d7bb5c90afd4cdc42d92821c2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "60/60015/60035/60035.fantome",
+  "files": [
+    {
+      "path": "skins/60/60015/60035/Elise.wad.client",
+      "size": 5214,
+      "sha256": "465e669fb912d889d0f78c8af8423db238eb733e6c42c738ac49340887da5ac0"
+    }
+  ],
+  "wads": {
+    "Elise.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 5214,
+      "bytes_after": 5214,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

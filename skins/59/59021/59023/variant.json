@@ -1,0 +1,72 @@
+{
+  "skin_id": 59023,
+  "base_skin_id": 59021,
+  "champion_id": 59,
+  "name": "福牛守护者 嘉文四世 招财",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "691997fc2252895fd06140b086ff8106ea2b7dbb6610542e77019891f0dd0801",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "59/59021/59023/59023.fantome",
+  "files": [
+    {
+      "path": "skins/59/59021/59023/JarvanIV.wad.client",
+      "size": 89893,
+      "sha256": "559b0181315826a5455d76d81d2311e5694263e9bf52ebc26aac12ac579ab353"
+    }
+  ],
+  "wads": {
+    "JarvanIV.wad.client": {
+      "entries_before": 3,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 3609,
+      "bytes_after": 89893,
+      "replacement_hashes": [
+        "e25f8c03abdd265a"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "JarvanIV.wad.client",
+        "normal_hash": "e25f8c03abdd265a",
+        "border_hash": "5da5caedb3c06a61",
+        "bytes": 86252,
+        "sha256": "fbe550122b79a48d221ee595fbf298fef98e06e1ddfe1570451bc5e5db2429b5"
+      },
+      {
+        "archive": "JarvanIV.wad.client",
+        "normal_hash": "e25f8c03abdd265a",
+        "border_hash": "5da5caedb3c06a61",
+        "bytes": 86252,
+        "sha256": "fbe550122b79a48d221ee595fbf298fef98e06e1ddfe1570451bc5e5db2429b5"
+      },
+      {
+        "archive": "JarvanIV.wad.client",
+        "normal_hash": "e25f8c03abdd265a",
+        "border_hash": "5da5caedb3c06a61",
+        "bytes": 86252,
+        "sha256": "fbe550122b79a48d221ee595fbf298fef98e06e1ddfe1570451bc5e5db2429b5"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

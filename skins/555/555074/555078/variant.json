@@ -1,0 +1,48 @@
+{
+  "skin_id": 555078,
+  "base_skin_id": 555074,
+  "champion_id": 555,
+  "name": "墨之影 派克 樱墨映影",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "543880d996a00802e31e06a8e54fd347f5c46e8553c4cbf86cbd417f2a0ced63",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "555/555074/555078/555078.fantome",
+  "files": [
+    {
+      "path": "skins/555/555074/555078/Pyke.wad.client",
+      "size": 3198,
+      "sha256": "69f22f5131a00aaa598c7eca9b04ab157fadf8fd3255c2a63c2cb03a211efc0a"
+    }
+  ],
+  "wads": {
+    "Pyke.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3198,
+      "bytes_after": 3198,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "champion_id": 60,
+  "base_skin_id": 60006,
+  "name": "魅惑女巫 伊莉丝",
+  "variants": [
+    {
+      "skin_id": 60006,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "34d81f2a0dbedd27f18cf750136ee649077f252f739189826eade1de73017c4f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60006.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60006/Elise.wad.client",
+          "size": 95697,
+          "sha256": "a5b52dfd2430097be1ec257529dead729453ea063bb8520d28f76f24c2d56630"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 6,
+          "entries_after": 7,
+          "was_sorted": false,
+          "version": "3.3",
+          "bytes_before": 9413,
+          "bytes_after": 95697,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 20,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60007,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 明艳化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "de24a42bef7da395db72957fb2f5873fba58a6d0f0adfe2ab743eb0f72895606",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60007/60007.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60007/Elise.wad.client",
+          "size": 91531,
+          "sha256": "bd6b84ded8e11b3b00e0fbecd741564609810e5d3902bfbeef4a287d59a40354"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5247,
+          "bytes_after": 91531,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60008,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 热情化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "92274a8896e17b3afab86319a55997a1d5a615ceeba8ae77534f2f4ddf1bee61",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60008/60008.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60008/Elise.wad.client",
+          "size": 91571,
+          "sha256": "a501566bc1cf17907e466743ec007f67ffdc48dfb71da81dcd17a789ea195c03"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5287,
+          "bytes_after": 91571,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60009,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 知性化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9031f10154fb395753b69aa6298cbd4349a0d1421ab4cac3121852965b36f1d9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60009/60009.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60009/Elise.wad.client",
+          "size": 91531,
+          "sha256": "6b63489676487d188896821a6164ec5263a34f761fbb6fdee8486bbc2c7f6900"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5247,
+          "bytes_after": 91531,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60010,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 高雅化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1be3d5aaa4a0b098fff2de90a03dd9dd87814deaa25c2fc706a4479188cfecbb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60010/60010.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60010/Elise.wad.client",
+          "size": 91532,
+          "sha256": "450d65ac53f8d9a30004947782f4734c3ad4220daeadc6546ba2a13420c8b12a"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5248,
+          "bytes_after": 91532,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60011,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 浪漫化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5306be5683d4a843996f9ce003235f5c7013c8da1f9006e7cab597de0f8cfc6b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60011/60011.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60011/Elise.wad.client",
+          "size": 91547,
+          "sha256": "18ebfb576c82bf63d17a20c8c7d99ed14ee488538c10b24783f6737db9efeae7"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5263,
+          "bytes_after": 91547,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60012,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 纯真化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e48d92b9b66a6174f33afa2384f709cc2a304ae098badae444bbfe327c39aac1",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60012/60012.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60012/Elise.wad.client",
+          "size": 91532,
+          "sha256": "b44e0286c4ef9aca7cbba078ac7f2920c4a16a600bc9212a74d1dd37eaf08903"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5248,
+          "bytes_after": 91532,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60013,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 野性化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a537368c42e33595c1b70baf42abf0385d447ef6dbee0ac01ceb69e85dfefaed",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60013/60013.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60013/Elise.wad.client",
+          "size": 91532,
+          "sha256": "60d3b3bd9d5a4747129b7d1d7d195dbf2fde54c86d3851e964d68e45e548fd06"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5248,
+          "bytes_after": 91532,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 60014,
+      "base_skin_id": 60006,
+      "champion_id": 60,
+      "name": "魅惑女巫 伊莉丝 雍容化身",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f82cacb102bcbbeb23d8998182035e473443bd5ef0f4af7f89a7d717abe8e541",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60006/60014/60014.fantome",
+      "files": [
+        {
+          "path": "skins/60/60006/60014/Elise.wad.client",
+          "size": 91532,
+          "sha256": "8738f2479f393ad71011ec038db47e2fbccf04a7f87bd0310641df5e2bd7315e"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5248,
+          "bytes_after": 91532,
+          "replacement_hashes": [
+            "1da144687a1ace4a"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "1da144687a1ace4a",
+            "border_hash": "7f0db09c56bbff8d",
+            "bytes": 86252,
+            "sha256": "ba0a08323e50abb554f1c64cd847c4076335d66196006b2e4cfb1cc08b502127"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

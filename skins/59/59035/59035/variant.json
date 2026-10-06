@@ -1,0 +1,48 @@
+{
+  "skin_id": 59035,
+  "base_skin_id": 59035,
+  "champion_id": 59,
+  "name": "黑夜使者 嘉文四世",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "20dc705c6ba2af2695716f35cf13568f1500333f7c8f326e39dc20a36debe11b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "59/59035/59035.fantome",
+  "files": [
+    {
+      "path": "skins/59/59035/59035/JarvanIV.wad.client",
+      "size": 7985,
+      "sha256": "0efb4d9b62d6877d1b3a17204d399a0387dda0f3c110a9980848ada2ea73693e"
+    }
+  ],
+  "wads": {
+    "JarvanIV.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 7985,
+      "bytes_after": 7985,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 17,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

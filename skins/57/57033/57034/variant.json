@@ -1,0 +1,65 @@
+{
+  "skin_id": 57034,
+  "base_skin_id": 57033,
+  "champion_id": 57,
+  "name": "DRX 茂凯 无双",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4cdee329148d7abca461430c222f7199db90239feb69f8c3656270d246db7e58",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "57/57033/57034/57034.fantome",
+  "files": [
+    {
+      "path": "skins/57/57033/57034/Maokai.wad.client",
+      "size": 89940,
+      "sha256": "387317a4b3fe348362d264d3acb9269b79411960fc5eecddecf27863a96f69e4"
+    }
+  ],
+  "wads": {
+    "Maokai.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3656,
+      "bytes_after": 89940,
+      "replacement_hashes": [
+        "9fa859553a18bb77"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Maokai.wad.client",
+        "normal_hash": "9fa859553a18bb77",
+        "border_hash": "179c8aafc3e98489",
+        "bytes": 86252,
+        "sha256": "95ca0834552b34ae85c3b443065b103b4a651d90a9151d510b1a69c0c56b1900"
+      },
+      {
+        "archive": "Maokai.wad.client",
+        "normal_hash": "9fa859553a18bb77",
+        "border_hash": "179c8aafc3e98489",
+        "bytes": 86252,
+        "sha256": "95ca0834552b34ae85c3b443065b103b4a651d90a9151d510b1a69c0c56b1900"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

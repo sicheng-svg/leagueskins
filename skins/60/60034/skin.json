@@ -1,0 +1,79 @@
+{
+  "champion_id": 60,
+  "base_skin_id": 60034,
+  "name": "黑色玫瑰假面舞会 伊莉丝",
+  "variants": [
+    {
+      "skin_id": 60034,
+      "base_skin_id": 60034,
+      "champion_id": 60,
+      "name": "黑色玫瑰假面舞会 伊莉丝",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f0a1d2bfd164b3e8f7670ce05dc707f9c66dc878f2b35fabb562a71cd2f6f714",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "60/60034/60034.fantome",
+      "files": [
+        {
+          "path": "skins/60/60034/60034/Elise.wad.client",
+          "size": 94678,
+          "sha256": "e1bb207a6cb25c891a25b45ec238793a9bcc1a99c4d6b33812fbfcc8ba37e3e8"
+        }
+      ],
+      "wads": {
+        "Elise.wad.client": {
+          "entries_before": 6,
+          "entries_after": 7,
+          "was_sorted": false,
+          "version": "3.3",
+          "bytes_before": 8394,
+          "bytes_after": 94678,
+          "replacement_hashes": [
+            "4db5b2adb9f6ebad"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "4db5b2adb9f6ebad",
+            "border_hash": "ef42bdd20715a4ae",
+            "bytes": 86252,
+            "sha256": "7de0e38a327674576694b919973d79829f6879e2ea83ea7dc06782c274d53a8f"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "4db5b2adb9f6ebad",
+            "border_hash": "ef42bdd20715a4ae",
+            "bytes": 86252,
+            "sha256": "7de0e38a327674576694b919973d79829f6879e2ea83ea7dc06782c274d53a8f"
+          },
+          {
+            "archive": "Elise.wad.client",
+            "normal_hash": "4db5b2adb9f6ebad",
+            "border_hash": "ef42bdd20715a4ae",
+            "bytes": 86252,
+            "sha256": "7de0e38a327674576694b919973d79829f6879e2ea83ea7dc06782c274d53a8f"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 20,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

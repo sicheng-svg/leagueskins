@@ -1,0 +1,48 @@
+{
+  "skin_id": 6033,
+  "base_skin_id": 6032,
+  "champion_id": 6,
+  "name": "洗地教父 厄加特 敬业",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d5968239863f764850c07149e945c6946405dd0d4c796c5eb0a39e997ced9d55",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "6/6032/6033/6033.fantome",
+  "files": [
+    {
+      "path": "skins/6/6032/6033/Urgot.wad.client",
+      "size": 3561,
+      "sha256": "2c25a7d2a0cc04ea8bc4ba3edf9d6ed57abcdb6b3e69ed3b3b588206d952d0a0"
+    }
+  ],
+  "wads": {
+    "Urgot.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3561,
+      "bytes_after": 3561,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

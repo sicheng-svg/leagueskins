@@ -1,0 +1,58 @@
+{
+  "skin_id": 58030,
+  "base_skin_id": 58026,
+  "champion_id": 58,
+  "name": "源计划：泯灭 雷克顿 失控",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "7100cc756c2101ed520ccac5deb43f31c77ffdffe3c4e56890594717779273b5",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "58/58026/58030/58030.fantome",
+  "files": [
+    {
+      "path": "skins/58/58026/58030/Renekton.wad.client",
+      "size": 89515,
+      "sha256": "564cdaa10078c9089828a2c9dfdbbbe67f8c46b9900eeabfc878da8d6d8e41a1"
+    }
+  ],
+  "wads": {
+    "Renekton.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3231,
+      "bytes_after": 89515,
+      "replacement_hashes": [
+        "a1923c9627405544"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Renekton.wad.client",
+        "normal_hash": "a1923c9627405544",
+        "border_hash": "74168b71470af3ff",
+        "bytes": 86252,
+        "sha256": "bb33b699f8690538bf05c0d89fd793469b3a5b29a791be468ba50fb3a6671684"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 15,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "skin_id": 61033,
+  "base_skin_id": 61029,
+  "champion_id": 61,
+  "name": "星之守护者 奥莉安娜 智慧之光",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "440ea95a625e043a689d853a50c52fd9d8f001f9f804f764cd329bdb6c3b7b03",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "61/61029/61033/61033.fantome",
+  "files": [
+    {
+      "path": "skins/61/61029/61033/Orianna.wad.client",
+      "size": 90715,
+      "sha256": "8f801f364f7efbaf00aca0faaaae16c8af52f525b68fb27cf4b9944999546ee4"
+    }
+  ],
+  "wads": {
+    "Orianna.wad.client": {
+      "entries_before": 3,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4431,
+      "bytes_after": 90715,
+      "replacement_hashes": [
+        "9d56b4ae8f36d7ce"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Orianna.wad.client",
+        "normal_hash": "9d56b4ae8f36d7ce",
+        "border_hash": "e76bbe1458ff7abb",
+        "bytes": 86252,
+        "sha256": "52f9b5fd8664a57050c42b29f37e6886411ac7b761df2b28f389715406ea0c5d"
+      },
+      {
+        "archive": "Orianna.wad.client",
+        "normal_hash": "9d56b4ae8f36d7ce",
+        "border_hash": "e76bbe1458ff7abb",
+        "bytes": 86252,
+        "sha256": "52f9b5fd8664a57050c42b29f37e6886411ac7b761df2b28f389715406ea0c5d"
+      },
+      {
+        "archive": "Orianna.wad.client",
+        "normal_hash": "9d56b4ae8f36d7ce",
+        "border_hash": "e76bbe1458ff7abb",
+        "bytes": 86252,
+        "sha256": "52f9b5fd8664a57050c42b29f37e6886411ac7b761df2b28f389715406ea0c5d"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

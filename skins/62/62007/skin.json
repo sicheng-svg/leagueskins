@@ -1,0 +1,655 @@
+{
+  "champion_id": 62,
+  "base_skin_id": 62007,
+  "name": "战斗学院 孙悟空",
+  "variants": [
+    {
+      "skin_id": 62007,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "40c2a18814a3008320197681027c7bfc1a235058efc2895480b43b111032fba8",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62007.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62007/MonkeyKing.wad.client",
+          "size": 93311,
+          "sha256": "f337e633632908d9040cca0018421f43da1d1381c4fb79018c72c0431220842e"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 7027,
+          "bytes_after": 93311,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62008,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 不死鸟",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f99860dfc432ca61c9c1a172cd2a0c1eb9667b88b7217d54b6bdaf363a2c394d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62008/62008.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62008/MonkeyKing.wad.client",
+          "size": 90495,
+          "sha256": "28e7e9ddd8a5bdd4514c4c727316c65261a0c347f7bf01daae0434f566249dac"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4211,
+          "bytes_after": 90495,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62009,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 独角兽",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "83d29bf921811157dc2b7d6c65c0ed6d65b734176a131cc0e83e10d7b362c1f2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62009/62009.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62009/MonkeyKing.wad.client",
+          "size": 90466,
+          "sha256": "2e94f8b5f48a07704c9984b78c416864948954b03b37bb556a15cfaf0f8c7e1a"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4182,
+          "bytes_after": 90466,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62010,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 雄狮",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "7a7fd00fe2e78b48254b8e71860f46845bee1de90527dfd2356a458738fd44b9",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62010/62010.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62010/MonkeyKing.wad.client",
+          "size": 90444,
+          "sha256": "7c4eff3ad1d3914c7dfada0a810dfc0e1ecb0d09b596253cfadf390b322e71c5"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4160,
+          "bytes_after": 90444,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62011,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 天马",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "689237da2328bd0e66cc18fab35977e7169725ec2dbcd57da76eb9cf8dc502cb",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62011/62011.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62011/MonkeyKing.wad.client",
+          "size": 90445,
+          "sha256": "794a26209420de476b47743fe9db32b51244d28fedecf1ca457f22abacc8cd9f"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4161,
+          "bytes_after": 90445,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62012,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 森林龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f4d581504a552e45ce7c523f8687f56a8ecee1a6d58fb1f33ce1ee57bd29358a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62012/62012.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62012/MonkeyKing.wad.client",
+          "size": 90447,
+          "sha256": "2e35dd95828f665087997962ad03ca38a78da4d2887ac2efa79738a94741f7be"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4163,
+          "bytes_after": 90447,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62013,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 狮鹫",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f43c380ba084e92d0205f4078768eabfdf76a730078af305794b7bfa3d456263",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62013/62013.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62013/MonkeyKing.wad.client",
+          "size": 90444,
+          "sha256": "55fd87bfe09352777d98d0ac79d1fb1c2b40729ee76a1a166679fb840814b4b9"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4160,
+          "bytes_after": 90444,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62014,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 剑齿虎",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e805395c8689f9eab19951bdbbcfe9b2cb2e365fbf84d8d896cb0c447806d938",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62014/62014.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62014/MonkeyKing.wad.client",
+          "size": 90445,
+          "sha256": "8873c1784c9644834258cbececab2e94599d28256aa0192d077bd875da1fe986"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4161,
+          "bytes_after": 90445,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 62015,
+      "base_skin_id": 62007,
+      "champion_id": 62,
+      "name": "战斗学院 孙悟空 黑龙",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "5ce04e498d4d7d79601a148cb4af12ab0eaf879eb26bdb3e27f65111ab9e474f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "62/62007/62015/62015.fantome",
+      "files": [
+        {
+          "path": "skins/62/62007/62015/MonkeyKing.wad.client",
+          "size": 90445,
+          "sha256": "872b01b1f35e3b07f7a0488885c9ef83bad7f3d43994d1b597aef154f955fc94"
+        }
+      ],
+      "wads": {
+        "MonkeyKing.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4161,
+          "bytes_after": 90445,
+          "replacement_hashes": [
+            "e7de42bb56b855b3"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          },
+          {
+            "archive": "MonkeyKing.wad.client",
+            "normal_hash": "e7de42bb56b855b3",
+            "border_hash": "3c35b88928d57ad1",
+            "bytes": 86252,
+            "sha256": "e68b81cf31332cd2ae327dd0f03318fa26d71401c97bc26b80566110c1b0baa8"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 16,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

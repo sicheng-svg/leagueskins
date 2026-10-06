@@ -1,0 +1,58 @@
+{
+  "skin_id": 56008,
+  "base_skin_id": 56007,
+  "champion_id": 56,
+  "name": "古神 魔腾 嗜血之刃",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fea91351dfdac26d2d0ccdd08d33032ed5c32ae41766ab5fb36ebc252722b389",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "56/56007/56008/56008.fantome",
+  "files": [
+    {
+      "path": "skins/56/56007/56008/Nocturne.wad.client",
+      "size": 88655,
+      "sha256": "02cb91a21488d8dcff168d1e0b858eb321834f44b9d6e58c196c01f595927d26"
+    }
+  ],
+  "wads": {
+    "Nocturne.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2371,
+      "bytes_after": 88655,
+      "replacement_hashes": [
+        "85bbc71b79b3c890"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nocturne.wad.client",
+        "normal_hash": "85bbc71b79b3c890",
+        "border_hash": "0e4e6fa557b65ec6",
+        "bytes": 86252,
+        "sha256": "933479d0ef07f805671e2f7d5b696a076d2377db8f92a6a784b94ecb1582c46c"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

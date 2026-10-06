@@ -1,0 +1,355 @@
+{
+  "champion_id": 6,
+  "base_skin_id": 6009,
+  "name": "西部魔影 厄加特",
+  "variants": [
+    {
+      "skin_id": 6009,
+      "base_skin_id": 6009,
+      "champion_id": 6,
+      "name": "西部魔影 厄加特",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "05250cdd34b383064c564ab8542df7919918685e3e3c13d265d8ddacb4619eab",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6009/6009.fantome",
+      "files": [
+        {
+          "path": "skins/6/6009/6009/Urgot.wad.client",
+          "size": 97152,
+          "sha256": "134a31763a6be979dcb478265c2712301f59aee3622d6a17c3371d305a3c29aa"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 10868,
+          "bytes_after": 97152,
+          "replacement_hashes": [
+            "e4dd9485fcc2814d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "e4dd9485fcc2814d",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6010,
+      "base_skin_id": 6009,
+      "champion_id": 6,
+      "name": "西部魔影 厄加特 邪金霸权",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2e21328ec22ea795cc3306ebc8c51287fc1a1079c955f73dd71a9ad253f0e91f",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6009/6010/6010.fantome",
+      "files": [
+        {
+          "path": "skins/6/6009/6010/Urgot.wad.client",
+          "size": 89487,
+          "sha256": "4ad98e35c5d81d881cb7abfb8de16ca88dd0939cb0500b698f479b75b7f00d94"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3203,
+          "bytes_after": 89487,
+          "replacement_hashes": [
+            "e4dd9485fcc2814d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "e4dd9485fcc2814d",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6011,
+      "base_skin_id": 6009,
+      "champion_id": 6,
+      "name": "西部魔影 厄加特 瘟疫原体",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "84427c1e77d74673498d3313d6224b76ecdf51e9e316801c47e2ace4961a5572",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6009/6011/6011.fantome",
+      "files": [
+        {
+          "path": "skins/6/6009/6011/Urgot.wad.client",
+          "size": 89496,
+          "sha256": "d6f999f4de5d0a2bcf781fd25514dd31eb83d99b32aefab7c447c9b6816601f2"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3212,
+          "bytes_after": 89496,
+          "replacement_hashes": [
+            "e4dd9485fcc2814d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "e4dd9485fcc2814d",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6012,
+      "base_skin_id": 6009,
+      "champion_id": 6,
+      "name": "西部魔影 厄加特 嗜血魔头",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c348805ea47486579265b41949958dd0bd5eeed0cc8e348867f1ad891a2bcb5d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6009/6012/6012.fantome",
+      "files": [
+        {
+          "path": "skins/6/6009/6012/Urgot.wad.client",
+          "size": 89550,
+          "sha256": "657353b931110e5f6450a6e3585f40f43aefced3f9e1d209a63d9ddab10ba004"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3266,
+          "bytes_after": 89550,
+          "replacement_hashes": [
+            "e4dd9485fcc2814d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "e4dd9485fcc2814d",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6013,
+      "base_skin_id": 6009,
+      "champion_id": 6,
+      "name": "西部魔影 厄加特 黄沙火花",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "1af4f96ea01b178d03c454f16b1ec9af74cd8823a266486c69797aaff5ac1215",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6009/6013/6013.fantome",
+      "files": [
+        {
+          "path": "skins/6/6009/6013/Urgot.wad.client",
+          "size": 89496,
+          "sha256": "0e7a36c80979873e87a253f72b1b45562245327e77b7ad9667aad18e807b8d65"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3212,
+          "bytes_after": 89496,
+          "replacement_hashes": [
+            "e4dd9485fcc2814d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "e4dd9485fcc2814d",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6014,
+      "base_skin_id": 6009,
+      "champion_id": 6,
+      "name": "西部魔影 厄加特 怒焰死神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "0361575e00a3ac865f09549265cb4e73e55c64b027652d0f5be899c26a057398",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6009/6014/6014.fantome",
+      "files": [
+        {
+          "path": "skins/6/6009/6014/Urgot.wad.client",
+          "size": 89497,
+          "sha256": "e23a255900e45e9e8d6f0db4606de62eceb651685b5ec564a1e978fd5d2f74be"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3213,
+          "bytes_after": 89497,
+          "replacement_hashes": [
+            "e4dd9485fcc2814d"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "e4dd9485fcc2814d",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

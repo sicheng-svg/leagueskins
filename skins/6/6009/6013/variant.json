@@ -1,0 +1,58 @@
+{
+  "skin_id": 6013,
+  "base_skin_id": 6009,
+  "champion_id": 6,
+  "name": "西部魔影 厄加特 黄沙火花",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1af4f96ea01b178d03c454f16b1ec9af74cd8823a266486c69797aaff5ac1215",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "6/6009/6013/6013.fantome",
+  "files": [
+    {
+      "path": "skins/6/6009/6013/Urgot.wad.client",
+      "size": 89496,
+      "sha256": "0e7a36c80979873e87a253f72b1b45562245327e77b7ad9667aad18e807b8d65"
+    }
+  ],
+  "wads": {
+    "Urgot.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3212,
+      "bytes_after": 89496,
+      "replacement_hashes": [
+        "e4dd9485fcc2814d"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Urgot.wad.client",
+        "normal_hash": "e4dd9485fcc2814d",
+        "border_hash": "434739c98e1b051b",
+        "bytes": 86252,
+        "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 10,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

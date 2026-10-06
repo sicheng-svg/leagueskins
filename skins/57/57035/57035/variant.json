@@ -1,0 +1,65 @@
+{
+  "skin_id": 57035,
+  "base_skin_id": 57035,
+  "champion_id": 57,
+  "name": "腐化禁魔石巨像 茂凯",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5ac4532a31d611ce826d9614108c139eaeaa00f8e413d93fb743bc15a48314cb",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "57/57035/57035.fantome",
+  "files": [
+    {
+      "path": "skins/57/57035/57035/Maokai.wad.client",
+      "size": 93947,
+      "sha256": "28c7ab28cdb010cf087630079d1973bef87eccc8c5c942841844f31f46f92236"
+    }
+  ],
+  "wads": {
+    "Maokai.wad.client": {
+      "entries_before": 2,
+      "entries_after": 3,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 7663,
+      "bytes_after": 93947,
+      "replacement_hashes": [
+        "74ec7bec89f30be0"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Maokai.wad.client",
+        "normal_hash": "74ec7bec89f30be0",
+        "border_hash": "39835c3e9c9773f2",
+        "bytes": 86252,
+        "sha256": "983c19766fe963b02bcef7088e26c9c04263c3c4226863a0d157d11749bf56ef"
+      },
+      {
+        "archive": "Maokai.wad.client",
+        "normal_hash": "74ec7bec89f30be0",
+        "border_hash": "39835c3e9c9773f2",
+        "bytes": 86252,
+        "sha256": "983c19766fe963b02bcef7088e26c9c04263c3c4226863a0d157d11749bf56ef"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 11,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

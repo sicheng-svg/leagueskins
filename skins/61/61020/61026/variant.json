@@ -1,0 +1,48 @@
+{
+  "skin_id": 61026,
+  "base_skin_id": 61020,
+  "champion_id": 61,
+  "name": "野心勃勃特工蝇 奥莉安娜",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "edae4e68e309e8b0bdc94f1050a79994ac838f8667e87801576620bd6e100b10",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "61/61020/61026/61026.fantome",
+  "files": [
+    {
+      "path": "skins/61/61020/61026/Orianna.wad.client",
+      "size": 4699,
+      "sha256": "91ded3359489aac2b97aac5ec8cb518f40074f7b1330c4d109ee11f534dcf894"
+    }
+  ],
+  "wads": {
+    "Orianna.wad.client": {
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 4699,
+      "bytes_after": 4699,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 16,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

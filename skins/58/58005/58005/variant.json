@@ -1,0 +1,48 @@
+{
+  "skin_id": 58005,
+  "base_skin_id": 58005,
+  "champion_id": 58,
+  "name": "枯萎之壤 雷克顿",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "648c3cfb4acafddce4cdf8d761b66657b5e473c5db15b53fadfd8d65554e89ef",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "58/58005/58005.fantome",
+  "files": [
+    {
+      "path": "skins/58/58005/58005/Renekton.wad.client",
+      "size": 3851,
+      "sha256": "205a11697f322781a9541a82a328ad98a025c44708eddcd91fd1f9059e468708"
+    }
+  ],
+  "wads": {
+    "Renekton.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 3851,
+      "bytes_after": 3851,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

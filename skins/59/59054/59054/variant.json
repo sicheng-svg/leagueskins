@@ -1,0 +1,72 @@
+{
+  "skin_id": 59054,
+  "base_skin_id": 59054,
+  "champion_id": 59,
+  "name": "至臻 暗裔英雄 嘉文四世",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "1b916b32d4d0962a302e27f415a06a840eac2b390476793f83b7da7687e90f1f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "59/59054/59054.fantome",
+  "files": [
+    {
+      "path": "skins/59/59054/59054/JarvanIV.wad.client",
+      "size": 93202,
+      "sha256": "77c53a0beb4797eef8e19f69c2b151af79bc22744fd52f74a7966a5f42679053"
+    }
+  ],
+  "wads": {
+    "JarvanIV.wad.client": {
+      "entries_before": 3,
+      "entries_after": 4,
+      "was_sorted": false,
+      "version": "3.4",
+      "bytes_before": 6918,
+      "bytes_after": 93202,
+      "replacement_hashes": [
+        "74be3d6898ac2525"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "JarvanIV.wad.client",
+        "normal_hash": "74be3d6898ac2525",
+        "border_hash": "8f21f39a08590a6a",
+        "bytes": 86252,
+        "sha256": "486e24e7446df42ab22afd2cbef14305c7444a6a580da3c67fec543e06f0edc1"
+      },
+      {
+        "archive": "JarvanIV.wad.client",
+        "normal_hash": "74be3d6898ac2525",
+        "border_hash": "8f21f39a08590a6a",
+        "bytes": 86252,
+        "sha256": "486e24e7446df42ab22afd2cbef14305c7444a6a580da3c67fec543e06f0edc1"
+      },
+      {
+        "archive": "JarvanIV.wad.client",
+        "normal_hash": "74be3d6898ac2525",
+        "border_hash": "8f21f39a08590a6a",
+        "bytes": 86252,
+        "sha256": "486e24e7446df42ab22afd2cbef14305c7444a6a580da3c67fec543e06f0edc1"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

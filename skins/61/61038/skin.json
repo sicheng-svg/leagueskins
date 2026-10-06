@@ -1,0 +1,151 @@
+{
+  "champion_id": 61,
+  "base_skin_id": 61038,
+  "name": "T1 奥莉安娜",
+  "variants": [
+    {
+      "skin_id": 61038,
+      "base_skin_id": 61038,
+      "champion_id": 61,
+      "name": "T1 奥莉安娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b053d5ce09ce4d30a6fb8859956ac7c6e60522729b1482becc1e09015b7c37cf",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "61/61038/61038.fantome",
+      "files": [
+        {
+          "path": "skins/61/61038/61038/Orianna.wad.client",
+          "size": 94351,
+          "sha256": "633650055a6da9a3590f8de56d301ba17fb5b88d53ab750f0afc8520f243b0a9"
+        }
+      ],
+      "wads": {
+        "Orianna.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 8067,
+          "bytes_after": 94351,
+          "replacement_hashes": [
+            "6f7080d0571b516c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "6f7080d0571b516c",
+            "border_hash": "ae90235320afc9be",
+            "bytes": 86252,
+            "sha256": "392c4c4ede629cb21cf3256ccfc33bebfe82457c0d64e192feb3f05bc35570fb"
+          },
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "6f7080d0571b516c",
+            "border_hash": "ae90235320afc9be",
+            "bytes": 86252,
+            "sha256": "392c4c4ede629cb21cf3256ccfc33bebfe82457c0d64e192feb3f05bc35570fb"
+          },
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "6f7080d0571b516c",
+            "border_hash": "ae90235320afc9be",
+            "bytes": 86252,
+            "sha256": "392c4c4ede629cb21cf3256ccfc33bebfe82457c0d64e192feb3f05bc35570fb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 61039,
+      "base_skin_id": 61038,
+      "champion_id": 61,
+      "name": "T1 奥莉安娜 精锐",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "61c17e29cee566d0df5ce2dafe3c6d9ea36792356cbc3c26e94843bf17765a12",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "61/61038/61039/61039.fantome",
+      "files": [
+        {
+          "path": "skins/61/61038/61039/Orianna.wad.client",
+          "size": 91442,
+          "sha256": "f1f404eaf34d82ef224dd1c14fc62d08d6a67376bd9b4cea2a35659a5e79a37a"
+        }
+      ],
+      "wads": {
+        "Orianna.wad.client": {
+          "entries_before": 3,
+          "entries_after": 4,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5158,
+          "bytes_after": 91442,
+          "replacement_hashes": [
+            "6f7080d0571b516c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "6f7080d0571b516c",
+            "border_hash": "ae90235320afc9be",
+            "bytes": 86252,
+            "sha256": "392c4c4ede629cb21cf3256ccfc33bebfe82457c0d64e192feb3f05bc35570fb"
+          },
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "6f7080d0571b516c",
+            "border_hash": "ae90235320afc9be",
+            "bytes": 86252,
+            "sha256": "392c4c4ede629cb21cf3256ccfc33bebfe82457c0d64e192feb3f05bc35570fb"
+          },
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "6f7080d0571b516c",
+            "border_hash": "ae90235320afc9be",
+            "bytes": 86252,
+            "sha256": "392c4c4ede629cb21cf3256ccfc33bebfe82457c0d64e192feb3f05bc35570fb"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 14,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

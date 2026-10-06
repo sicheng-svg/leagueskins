@@ -1,0 +1,58 @@
+{
+  "skin_id": 56021,
+  "base_skin_id": 56017,
+  "champion_id": 56,
+  "name": "绝息圣堂 魔腾 朝霞幻想曲",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "6ae1cfa40bf33296e0d0f91ff6d7c1b1a9920877a2fdc47f296311ee320f070b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "56/56017/56021/56021.fantome",
+  "files": [
+    {
+      "path": "skins/56/56017/56021/Nocturne.wad.client",
+      "size": 88783,
+      "sha256": "a75632da33c2836b6a32e09996eaac1b10141b6e172dca155caade74ca6678dc"
+    }
+  ],
+  "wads": {
+    "Nocturne.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2499,
+      "bytes_after": 88783,
+      "replacement_hashes": [
+        "044d1079e6a99568"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nocturne.wad.client",
+        "normal_hash": "044d1079e6a99568",
+        "border_hash": "da025009c95a8949",
+        "bytes": 86252,
+        "sha256": "db9fe9b8f25103c86f84e5b85a83bd680ec9f1ee00d59469e7ab8bc79b929f79"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

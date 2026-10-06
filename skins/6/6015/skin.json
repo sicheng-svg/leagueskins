@@ -1,0 +1,471 @@
+{
+  "champion_id": 6,
+  "base_skin_id": 6015,
+  "name": "星之守护者COS 厄加特",
+  "variants": [
+    {
+      "skin_id": 6015,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "9e29654fc8f3689805359df33bc9a9411bb87a65870fc26619f53cc0e743fcae",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6015.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6015/Urgot.wad.client",
+          "size": 97316,
+          "sha256": "81737e3ddb1c78654d69963cb75879e6da2485823798ff6b6ad65408f20a203f"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 11032,
+          "bytes_after": 97316,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6016,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特 火焰与热情",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e3297e169f39211e5d5dd8877aecd00c264e3515dd68326c9972b4ada92a208a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6016/6016.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6016/Urgot.wad.client",
+          "size": 89715,
+          "sha256": "01ad102e8e8772fa35915275bf0d97a34bdc00f6be12350659a0cbffadd7e177"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3431,
+          "bytes_after": 89715,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6017,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特 爱与正义",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "6ce10925dcb62d85e8e86013c59b776174b2936993ec612cada064895f2b2c75",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6017/6017.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6017/Urgot.wad.client",
+          "size": 89662,
+          "sha256": "d5731a461d0414ad08997c1277eed60f2f1a43a1805a5a50bafaf99fc8eee5c0"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3378,
+          "bytes_after": 89662,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6018,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特 雷电与勇气",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a8f938f4b2abc1608b9c6b80deb46eb8dde16db7de4f897dabaca3146bc1c86a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6018/6018.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6018/Urgot.wad.client",
+          "size": 89661,
+          "sha256": "a7279df9855507a6976eb40f9fb404ddc49892676e3a75705cbf6a4e6b7a7fd0"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3377,
+          "bytes_after": 89661,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6019,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特 爱与美",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "70163795ab2941ff54c2168cc119a0af81c101cf6ea7a9dc0534cd35ad721231",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6019/6019.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6019/Urgot.wad.client",
+          "size": 89659,
+          "sha256": "8ff3c9d4d14065d4b11fb90b985212b3e28d5b74cefdbe1cf5d1f5be1cf13057"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3375,
+          "bytes_after": 89659,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6020,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特 正义与包容",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c3ab5abf2cdfc94c1a287dc1468fc53180dd391e5f93b64e4f1c41498a40c810",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6020/6020.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6020/Urgot.wad.client",
+          "size": 89665,
+          "sha256": "9ac90e6e475941a2edf1693b127d1160655cbc58509c659ab9c7a70557724d8d"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3381,
+          "bytes_after": 89665,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6021,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特 变化与重生",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c8ea0e2d5d95e4d2ffca2ef8212d4d525462434f5ce08c7c384a7f4d495bd4b2",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6021/6021.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6021/Urgot.wad.client",
+          "size": 89668,
+          "sha256": "2424ddeba3db7e8fea2dacb6fae37ed82851b686a5027693a1c27f9651695b1d"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3384,
+          "bytes_after": 89668,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 6022,
+      "base_skin_id": 6015,
+      "champion_id": 6,
+      "name": "星之守护者COS 厄加特 天空与飞翔",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a48b8537e9d4d607668025e5a2b6d28fc94e4ff79238a637a8afbaec2a71de87",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "6/6015/6022/6022.fantome",
+      "files": [
+        {
+          "path": "skins/6/6015/6022/Urgot.wad.client",
+          "size": 89665,
+          "sha256": "ab17775d1d22057809fcf6d6b2e83fba1d3ced2e56dc97c57af99c9476a95903"
+        }
+      ],
+      "wads": {
+        "Urgot.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 3381,
+          "bytes_after": 89665,
+          "replacement_hashes": [
+            "02765ebef06480d5"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Urgot.wad.client",
+            "normal_hash": "02765ebef06480d5",
+            "border_hash": "434739c98e1b051b",
+            "bytes": 86252,
+            "sha256": "52a7d633e16f5e227d0e974b77e6cc2cde9ec8221d644f21c51f74d9634d1ff1"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 10,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

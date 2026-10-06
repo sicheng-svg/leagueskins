@@ -1,0 +1,226 @@
+{
+  "champion_id": 61,
+  "base_skin_id": 61040,
+  "name": "殿堂传奇 奥莉安娜",
+  "variants": [
+    {
+      "skin_id": 61040,
+      "base_skin_id": 61040,
+      "champion_id": 61,
+      "name": "殿堂传奇 奥莉安娜",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "22168d0edc39b16aec0ea1f9cff1ccdf5ffa034b937cffad1a0c54c64f801f42",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "61/61040/61040.fantome",
+      "files": [
+        {
+          "path": "skins/61/61040/61040/Orianna.wad.client",
+          "size": 960138,
+          "sha256": "768139fd4eb8b29863b5420e3d049d10e8f66c8cda10dc1a918fdbf34e7efd22"
+        }
+      ],
+      "wads": {
+        "Orianna.wad.client": {
+          "entries_before": 3,
+          "entries_after": 6,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 7942,
+          "bytes_after": 960138,
+          "replacement_hashes": [
+            "0a68f91676ff31b1",
+            "846ee3a066053d4c",
+            "f532a675452c9385"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "846ee3a066053d4c",
+            "border_hash": "f532a675452c9385",
+            "bytes": 689932,
+            "sha256": "49221801bf5729470fb8d7a5a17cb6a98ec39fc1da49b26ff35a2cace5488599",
+            "strategy": "bake_native_augment_layers",
+            "layers": [
+              {
+                "path": "ASSETS/Characters/Orianna/Skins/Skin40/UI/Orianna_Skin40_LoadScreen_Augments_Border_Premium.tex",
+                "sha256": "7f9980054b4625566f8039f8eaf61e5f9ce587d1deed1bd7dc72fea256932e58"
+              },
+              {
+                "path": "ASSETS/Characters/Orianna/Skins/Skin40/UI/Orianna_Skin40_LoadScreen_Augments_Border_Signature.tex",
+                "sha256": "2174cc9d2d2db96b40c29c5575de7b9e61606874a0ef5606e3ede856af35007f"
+              }
+            ],
+            "placement": "scale_native_layers_to_loading_card",
+            "in_game": "not_verified"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 61041,
+      "base_skin_id": 61040,
+      "champion_id": 61,
+      "name": "殿堂传奇 奥莉安娜 至强",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "152ae42508ff6ac8a91e6fc281cc1bb6904e9a76d36a14878382fbb0e5840656",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "61/61040/61041/61041.fantome",
+      "files": [
+        {
+          "path": "skins/61/61040/61041/Orianna.wad.client",
+          "size": 957251,
+          "sha256": "a8ce20437e5cd32ebbe8f4fda13cb7221df2d908125e4d18392ee56310bf0350"
+        }
+      ],
+      "wads": {
+        "Orianna.wad.client": {
+          "entries_before": 3,
+          "entries_after": 6,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5055,
+          "bytes_after": 957251,
+          "replacement_hashes": [
+            "0a68f91676ff31b1",
+            "846ee3a066053d4c",
+            "f532a675452c9385"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "846ee3a066053d4c",
+            "border_hash": "f532a675452c9385",
+            "bytes": 689932,
+            "sha256": "49221801bf5729470fb8d7a5a17cb6a98ec39fc1da49b26ff35a2cace5488599",
+            "strategy": "bake_native_augment_layers",
+            "layers": [
+              {
+                "path": "assets/characters/orianna/skins/skin40/ui/orianna_skin40_loadscreen_augments_border_premium.tex",
+                "sha256": "7f9980054b4625566f8039f8eaf61e5f9ce587d1deed1bd7dc72fea256932e58"
+              },
+              {
+                "path": "assets/characters/orianna/skins/skin40/ui/orianna_skin40_loadscreen_augments_border_signature.tex",
+                "sha256": "2174cc9d2d2db96b40c29c5575de7b9e61606874a0ef5606e3ede856af35007f"
+              }
+            ],
+            "placement": "scale_native_layers_to_loading_card",
+            "in_game": "not_verified"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 61042,
+      "base_skin_id": 61040,
+      "champion_id": 61,
+      "name": "殿堂传奇 奥莉安娜 登神",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e7e1f667be060897af0cd73664e3ede3e46eb61801dda0dee19fe71eef48022d",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+      },
+      "source_package": "61/61040/61042/61042.fantome",
+      "files": [
+        {
+          "path": "skins/61/61040/61042/Orianna.wad.client",
+          "size": 957253,
+          "sha256": "72df9ec54139366bde843d7b1f61d678cc9b9f60b688058292a6919bd377a9fa"
+        }
+      ],
+      "wads": {
+        "Orianna.wad.client": {
+          "entries_before": 3,
+          "entries_after": 6,
+          "was_sorted": false,
+          "version": "3.4",
+          "bytes_before": 5057,
+          "bytes_after": 957253,
+          "replacement_hashes": [
+            "0a68f91676ff31b1",
+            "846ee3a066053d4c",
+            "f532a675452c9385"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Orianna.wad.client",
+            "normal_hash": "846ee3a066053d4c",
+            "border_hash": "f532a675452c9385",
+            "bytes": 689932,
+            "sha256": "49221801bf5729470fb8d7a5a17cb6a98ec39fc1da49b26ff35a2cace5488599",
+            "strategy": "bake_native_augment_layers",
+            "layers": [
+              {
+                "path": "assets/characters/orianna/skins/skin40/ui/orianna_skin40_loadscreen_augments_border_premium.tex",
+                "sha256": "7f9980054b4625566f8039f8eaf61e5f9ce587d1deed1bd7dc72fea256932e58"
+              },
+              {
+                "path": "assets/characters/orianna/skins/skin40/ui/orianna_skin40_loadscreen_augments_border_signature.tex",
+                "sha256": "2174cc9d2d2db96b40c29c5575de7b9e61606874a0ef5606e3ede856af35007f"
+              }
+            ],
+            "placement": "scale_native_layers_to_loading_card",
+            "in_game": "not_verified"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 15,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

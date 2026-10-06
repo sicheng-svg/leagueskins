@@ -1,0 +1,587 @@
+{
+  "champion_id": 555,
+  "base_skin_id": 555064,
+  "name": "魔域梦魇 派克",
+  "variants": [
+    {
+      "skin_id": 555064,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克",
+      "kind": "base",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b3240db96d34cf026fe2796a0f88ab36ec4b505c98494da53e7953df43b1b0fc",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555064.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555064/Pyke.wad.client",
+          "size": 91067,
+          "sha256": "c635cfa4b895a4f47fb61fc02d436b6a2b7a5b560552252a5b03099b1baa702a"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 4783,
+          "bytes_after": 91067,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555065,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 红夜梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "766f7ec00511f2de72fe0c0a4859d870dc13f21a86fe7deb65f301dde503474b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555065/555065.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555065/Pyke.wad.client",
+          "size": 88883,
+          "sha256": "0cd5c0a9c75fe605150b0be6c87da403ccf5a238b751c05b6ed973ae6e372025"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2599,
+          "bytes_after": 88883,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555066,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 糖果梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2dfc8b08e67f79da478d9b05e31773b4417af6b35f57a9cf8e69e902595f376b",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555066/555066.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555066/Pyke.wad.client",
+          "size": 88832,
+          "sha256": "f9c87271bbca5d7270c55c2e748109bf316d8908bb088092caebb659eae421dd"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2548,
+          "bytes_after": 88832,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555067,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 荆棘梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "8f43f59755de29449e504cba4719fc477ef368310efa74611b1f0c763da260b5",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555067/555067.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555067/Pyke.wad.client",
+          "size": 88832,
+          "sha256": "413fe09c4fbc75203e4232ad62f6de0a2e9b48a1fb17ebf628f2214d0e06d6cf"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2548,
+          "bytes_after": 88832,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555068,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 魔咒梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "047d11aeb2e1697294ad7e8c64e08f9dc0cdf17ccd2142f76219e6047409ed87",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555068/555068.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555068/Pyke.wad.client",
+          "size": 88831,
+          "sha256": "2fd67eb04b74a0d765cd79f76f77b9cec9e25e9702b78e1a5a938b3cecb877d6"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2547,
+          "bytes_after": 88831,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555069,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 荒宅梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "df2294178676927eaaf77730c7b2b1a6774bbf33d4c8b7191bc37650456f012a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555069/555069.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555069/Pyke.wad.client",
+          "size": 88831,
+          "sha256": "6b874415896b5c6139fbbbf42833ad6cdb1735b294c9001485b3e6e85daaf56f"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2547,
+          "bytes_after": 88831,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555070,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 欢笑梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "65dd41871d0826f945a4e811152c623d02da027871dcc50e4ae531f6617aee51",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555070/555070.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555070/Pyke.wad.client",
+          "size": 88833,
+          "sha256": "8d39fc76a700a9eeb587486956da77d4c7d8998d4d8bb27090f387e2bcd4d430"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2549,
+          "bytes_after": 88833,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555071,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 歌影梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2198a5d684899505932ef05817c0a0d504d97a243a5517470ebf8901f10dcdee",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555071/555071.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555071/Pyke.wad.client",
+          "size": 88833,
+          "sha256": "1c022ffdcaf488b36ae7dc0cc81686d2902dd417f9097828f3edff1d249b7296"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2549,
+          "bytes_after": 88833,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555072,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 惊情梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2e115bfe338874c86825091a714d72275c8ce02b7eaa3775c8a47f59ca927f3a",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555072/555072.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555072/Pyke.wad.client",
+          "size": 88833,
+          "sha256": "2e4cde768048c5a7b4b462584ae4e265e06d028732b4274f27578546551e81c0"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2549,
+          "bytes_after": 88833,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    },
+    {
+      "skin_id": 555073,
+      "base_skin_id": 555064,
+      "champion_id": 555,
+      "name": "魔域梦魇 派克 古堡梦境",
+      "kind": "variant",
+      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3bf8da5e8185f3f2c82ce6460d3b2a5072931994e6e7cca2bd6b03cc398abfa6",
+        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+      },
+      "source_package": "555/555064/555073/555073.fantome",
+      "files": [
+        {
+          "path": "skins/555/555064/555073/Pyke.wad.client",
+          "size": 88885,
+          "sha256": "3077a40d8b91ffa134109f1e433ce0ad4d7b3619e23a80e045c8ed87cf7328f2"
+        }
+      ],
+      "wads": {
+        "Pyke.wad.client": {
+          "entries_before": 1,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2601,
+          "bytes_after": 88885,
+          "replacement_hashes": [
+            "ca38928ad1106f05"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Pyke.wad.client",
+            "normal_hash": "ca38928ad1106f05",
+            "border_hash": "c8888a50ea380b26",
+            "bytes": 86252,
+            "sha256": "e88e6dcd8430fcebf9ab30b54513e0e0387ba890d92ad3414322026202a253dc"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {},
+      "references": {
+        "paths": 8,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

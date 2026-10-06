@@ -1,0 +1,48 @@
+{
+  "skin_id": 6005,
+  "base_skin_id": 6003,
+  "champion_id": 6,
+  "name": "战地机甲 · 机动II型 厄加特",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bc6d629433dde8dce2b15faaa575ff7c11c28167309c6f0a5ee3645488f03e2b",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "6/6003/6005/6005.fantome",
+  "files": [
+    {
+      "path": "skins/6/6003/6005/Urgot.wad.client",
+      "size": 4626,
+      "sha256": "94926d5c3ffa735aa5bf25cc56316bfe58ebf0df2517afdf60ac7fb06c70f2f3"
+    }
+  ],
+  "wads": {
+    "Urgot.wad.client": {
+      "entries_before": 1,
+      "entries_after": 1,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4626,
+      "bytes_after": 4626,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

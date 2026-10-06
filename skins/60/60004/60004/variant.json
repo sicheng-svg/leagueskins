@@ -1,0 +1,48 @@
+{
+  "skin_id": 60004,
+  "base_skin_id": 60004,
+  "champion_id": 60,
+  "name": "SKT T1 伊莉丝",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "4334f5c32e5eca4e4c8816419b2a3f91b5b3d364c24113b3c030e08f6a337ae4",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "60/60004/60004.fantome",
+  "files": [
+    {
+      "path": "skins/60/60004/60004/Elise.wad.client",
+      "size": 8107,
+      "sha256": "e67f36cf6f3cad14b9928899019603882af62d2d91481361e609f87d97667ad6"
+    }
+  ],
+  "wads": {
+    "Elise.wad.client": {
+      "entries_before": 6,
+      "entries_after": 6,
+      "was_sorted": false,
+      "version": "3.3",
+      "bytes_before": 8107,
+      "bytes_after": 8107,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 20,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

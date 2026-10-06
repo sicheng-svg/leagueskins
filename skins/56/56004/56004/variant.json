@@ -1,0 +1,58 @@
+{
+  "skin_id": 56004,
+  "base_skin_id": 56004,
+  "champion_id": 56,
+  "name": "鬼影重重 魔腾",
+  "kind": "base",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "82e555f58c034e8f4c94e4a513188d1271e86f1c8a7c4aac3037ccbfc88590e2",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "56/56004/56004.fantome",
+  "files": [
+    {
+      "path": "skins/56/56004/56004/Nocturne.wad.client",
+      "size": 89007,
+      "sha256": "1d60980c0636e3aa175ad4a809370dfeb9f75e5b0705cb5d9e690f160fc38e28"
+    }
+  ],
+  "wads": {
+    "Nocturne.wad.client": {
+      "entries_before": 1,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2723,
+      "bytes_after": 89007,
+      "replacement_hashes": [
+        "c937a90eccf74256"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Nocturne.wad.client",
+        "normal_hash": "c937a90eccf74256",
+        "border_hash": "b41faf7ac9c40bf0",
+        "bytes": 86252,
+        "sha256": "331ddfd9a2fdb1cef79592538891693c61228a05d31efb27a6ec2793906808a9"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 8,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

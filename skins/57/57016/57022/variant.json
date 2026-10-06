@@ -1,0 +1,48 @@
+{
+  "skin_id": 57022,
+  "base_skin_id": 57016,
+  "champion_id": 57,
+  "name": "创世之神 茂凯 祥瑞之雪",
+  "kind": "variant",
+  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "d69faae92c5ffd6f0acf9d1205b5efd548605410ba85d2a814da7e95707d748f",
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+  },
+  "source_package": "57/57016/57022/57022.fantome",
+  "files": [
+    {
+      "path": "skins/57/57016/57022/Maokai.wad.client",
+      "size": 4228,
+      "sha256": "240d8f5df0fd647958426ee548068ccf6b2b65e8ef26d5a3e173c3f267bd24cd"
+    }
+  ],
+  "wads": {
+    "Maokai.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 4228,
+      "bytes_after": 4228,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {},
+  "references": {
+    "paths": 13,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

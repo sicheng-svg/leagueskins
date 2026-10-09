@@ -4,19 +4,20 @@
   "champion_id": 103,
   "name": "103087",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "833d31ef28ab08816ce4b5d47c164b5885ea7fe3ef160dca0fd9dd5478210787",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "103/103085/103087/103087.fantome",
   "files": [
     {
       "path": "skins/103/103085/103087/Ahri.wad.client",
-      "size": 959659,
-      "sha256": "80611ce4c2bb90d68f714b4ece6dcc7a1d3dcd4e2e2f8e0ad47e2e207834fa5e"
+      "size": 2035164,
+      "sha256": "0dbc10d5d8a6299de8460b6ec095c48ade8eab292745704ba1658809180ac0c7"
     },
     {
       "path": "skins/103/103085/103087/UI.wad.client",
@@ -26,12 +27,12 @@
   ],
   "wads": {
     "Ahri.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 7463,
-      "bytes_after": 959659,
+      "bytes_before": 1176411,
+      "bytes_after": 2035164,
       "replacement_hashes": [
         "04c1289dbd886290",
         "261d722a38168006",
@@ -73,9 +74,13 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Ahri.wad.client": [
+      "49e643f9c8a74bc7"
+    ]
+  },
   "references": {
-    "paths": 20,
+    "paths": 364,
     "missing": 0
   },
   "validation": {

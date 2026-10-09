@@ -9,29 +9,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "121b114441e966d28abf1921f73aef91054b5af169707221f5a73d8d9ec1ad29",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67014.fantome",
       "files": [
         {
           "path": "skins/67/67014/67014/Vayne.wad.client",
-          "size": 91037,
-          "sha256": "a022d807bde97d53b8b464e972100909480475235ab5d6172199d3fbfa212f97"
+          "size": 99097,
+          "sha256": "25dac5fbf407bfc286f5173a9fcfebad2defde813bec35380935987bc505bcbf"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4753,
-          "bytes_after": 91037,
+          "bytes_before": 103546,
+          "bytes_after": 99097,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 流火",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "50ad14891a7ca8f82ac30cf1fd1cf230c84d70a3a12835283a338ca5325c420b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67017/67017.fantome",
       "files": [
         {
           "path": "skins/67/67014/67017/Vayne.wad.client",
-          "size": 88540,
-          "sha256": "9a57354dff90de4d3e461358272695ec80e7f0b7010202dde5487d899189eff5"
+          "size": 99202,
+          "sha256": "006f63c04adf1684650a00fa9f5348d8f0047f3dc7f5e21a4e40cc02647ccead"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2256,
-          "bytes_after": 88540,
+          "bytes_before": 101154,
+          "bytes_after": 99202,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 鸣蜩",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "21a4152f60414d657958506d349a5a212b83d59df9727d471bb7d394ba0cf35c",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67018/67018.fantome",
       "files": [
         {
           "path": "skins/67/67014/67018/Vayne.wad.client",
-          "size": 88487,
-          "sha256": "a11136f3148d3053a515386dc5b51cdf2beb89ddd1003d187d40489021c3c72f"
+          "size": 99130,
+          "sha256": "b8286300086f01b0af84a10858bbe56c4346454638f0c1db24a9726cd478ef9a"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2203,
-          "bytes_after": 88487,
+          "bytes_before": 101029,
+          "bytes_after": 99130,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 云开",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b300d77c23e1f1c40306629ddff75fdd1cc362de7539e1bbfeca034abf737cf8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67019/67019.fantome",
       "files": [
         {
           "path": "skins/67/67014/67019/Vayne.wad.client",
-          "size": 88487,
-          "sha256": "8ad22b5283673e97917c981472900802a246466a4d47acff6144c9ef48b19db5"
+          "size": 99130,
+          "sha256": "9bac86962b288d202687631c7161b6cb41f1aeedafbb35b475b7c4dbd898d828"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2203,
-          "bytes_after": 88487,
+          "bytes_before": 101029,
+          "bytes_after": 99130,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 星回",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "57362343c0b4f7859b20e8ee42fc366ea32a057904e3c24efb4d2ed877e18b17",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67020/67020.fantome",
       "files": [
         {
           "path": "skins/67/67014/67020/Vayne.wad.client",
-          "size": 88490,
-          "sha256": "33a31fa5de8e69de5e3e404b14b5019016bc6a364aec2fc17e508dfa3158f212"
+          "size": 99130,
+          "sha256": "2bd1cb93990988558510ad9c03211c6efaffc6aeb664c5d8c448f77f1fee908a"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2206,
-          "bytes_after": 88490,
+          "bytes_before": 101032,
+          "bytes_after": 99130,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 春晓",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6e6c4b8c89c40061c32a5ba23b9b6b38977549ae358a5ddad865bffea50fc83d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67021/67021.fantome",
       "files": [
         {
           "path": "skins/67/67014/67021/Vayne.wad.client",
-          "size": 88508,
-          "sha256": "334c068056c8c7e6e11471fb11b124ee02273c16460ca3c6774ecd7dd7575203"
+          "size": 99158,
+          "sha256": "61c75de030d9a6b7dfc447063ba1f8a81ec92e35dbd012fc20b1b7aa4f8ad7a5"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2224,
-          "bytes_after": 88508,
+          "bytes_before": 101078,
+          "bytes_after": 99158,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 月升",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3b785c8ad03665414c8575c3e3c3bca138a3a6b011f338ebf57688a23954ca32",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67022/67022.fantome",
       "files": [
         {
           "path": "skins/67/67014/67022/Vayne.wad.client",
-          "size": 88486,
-          "sha256": "0af17a37037ba039f8f1c735008905bb09af34aace2c9edaf7499bea7587382c"
+          "size": 99130,
+          "sha256": "80823e7cd07a3403064ab3607dd1cd0e875ec27256f4bede342d7f916c23ac72"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2202,
-          "bytes_after": 88486,
+          "bytes_before": 101028,
+          "bytes_after": 99130,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 朝花",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1214d077b5fe959035ef0afa1784a5739e3a019c1ceb867ed320e10af1d57ad3",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67023/67023.fantome",
       "files": [
         {
           "path": "skins/67/67014/67023/Vayne.wad.client",
-          "size": 88489,
-          "sha256": "d08c17eced6afa5827e2c9ba6ca1e2d14bed6bb3baa9e6b005145171e5d81790"
+          "size": 99130,
+          "sha256": "d51d5f8e61bed19debf9fb0f95af480e270e2f16c0e0c13f58036a475000cf49"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2205,
-          "bytes_after": 88489,
+          "bytes_before": 101031,
+          "bytes_after": 99130,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 67,
       "name": "灵魂莲华 薇恩 霜见",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "145686a70d5e192f60290f1d80cf4d334d0780a49509bca8b10da1a07b9db659",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67014/67024/67024.fantome",
       "files": [
         {
           "path": "skins/67/67014/67024/Vayne.wad.client",
-          "size": 88543,
-          "sha256": "9758060578b81d72d2b315e211d30c01e92b7df8f680ac4958e677eb43c229e0"
+          "size": 99202,
+          "sha256": "779824f114a88fec4c1d978a30aaa6215d05758429f9a9f6ed2e3bd569ba5b77"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2259,
-          "bytes_after": 88543,
+          "bytes_before": 101157,
+          "bytes_after": 99202,
           "replacement_hashes": [
             "fc476eadeb21584a"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "fc476eadeb21584a",
             "border_hash": "550738c4f0661ba3",
             "bytes": 86252,
-            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+            "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 21,
         "missing": 0
       },
       "validation": {

@@ -9,29 +9,30 @@
       "champion_id": 67,
       "name": "恶魔诅咒 薇恩",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2f98340a36d596bb76b03c2f7ffb6d55a1126a37ea8bbdf16900309e90cd9868",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67067/67067.fantome",
       "files": [
         {
           "path": "skins/67/67067/67067/Vayne.wad.client",
-          "size": 99294,
-          "sha256": "3df0b51ecdc5f03a15a62a357d4a0871d40f2cd866856c7fbfabcd59fecdb336"
+          "size": 483481,
+          "sha256": "2149c5927baa44c3a0c388767a900642708904b89dd5bb9527c6c2f5fc5c7cc7"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 13010,
-          "bytes_after": 99294,
+          "bytes_before": 496187,
+          "bytes_after": 483481,
           "replacement_hashes": [
             "b6af72e958e770fd"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "b6af72e958e770fd",
             "border_hash": "2be913e23511415e",
             "bytes": 86252,
-            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 168,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 67,
       "name": "恶魔诅咒 薇恩 暴怒附体",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b1b08340fa2e6120b93c18de805e036a1ede94d0b328297e8dc856d9d6d65ef3",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67067/67068/67068.fantome",
       "files": [
         {
           "path": "skins/67/67067/67068/Vayne.wad.client",
-          "size": 90723,
-          "sha256": "6557e86881d06fa8ad7bc617b7ccefba92638e663e78e47474134e17f84b5c08"
+          "size": 483586,
+          "sha256": "2cf8cd8088693e945e16f0330e9e1092ed25e2e002724d748a0d9c2caecf0d72"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4439,
-          "bytes_after": 90723,
+          "bytes_before": 487721,
+          "bytes_after": 483586,
           "replacement_hashes": [
             "b6af72e958e770fd"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "b6af72e958e770fd",
             "border_hash": "2be913e23511415e",
             "bytes": 86252,
-            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 168,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 67,
       "name": "恶魔诅咒 薇恩 骄狂附体",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "03ca4dd074b24fc23acf27e653a59958c0c916db605277ac4d12eb3aa3338773",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67067/67069/67069.fantome",
       "files": [
         {
           "path": "skins/67/67067/67069/Vayne.wad.client",
-          "size": 90672,
-          "sha256": "7cc7e16113205a47f6675062ca86448fb22b9eddda4e12aff962d1ac0304576f"
+          "size": 483514,
+          "sha256": "19dae86d5fbab4dc58085fcb2be04c72c35b465001689a729211528da72a5ded"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4388,
-          "bytes_after": 90672,
+          "bytes_before": 487598,
+          "bytes_after": 483514,
           "replacement_hashes": [
             "b6af72e958e770fd"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "b6af72e958e770fd",
             "border_hash": "2be913e23511415e",
             "bytes": 86252,
-            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 168,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 67,
       "name": "恶魔诅咒 薇恩 绝望附体",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d59ca7d86fa6267cd4c434fbe16a5a5e6ccb7e8f3406e8c7009bca5f4ae9c41a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67067/67070/67070.fantome",
       "files": [
         {
           "path": "skins/67/67067/67070/Vayne.wad.client",
-          "size": 90677,
-          "sha256": "87f14b897097d85a874ea0b8d94d8a7412f92596f20c1ba4bbb0c6f727f76bb1"
+          "size": 483514,
+          "sha256": "4dd7c29d120c94319e4e53dfa5e59ef5e4fa56cc76972585c06310ff7efedb24"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4393,
-          "bytes_after": 90677,
+          "bytes_before": 487603,
+          "bytes_after": 483514,
           "replacement_hashes": [
             "b6af72e958e770fd"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "b6af72e958e770fd",
             "border_hash": "2be913e23511415e",
             "bytes": 86252,
-            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 168,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 67,
       "name": "恶魔诅咒 薇恩 诡诈附体",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b301db4fc397455bd9f0a3f4691fe073bd76b8dec4018244670a6718de507230",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67067/67071/67071.fantome",
       "files": [
         {
           "path": "skins/67/67067/67071/Vayne.wad.client",
-          "size": 90674,
-          "sha256": "35497008e1d28018596afa96524d88030b7003be50784f6c1c269326e1339893"
+          "size": 483514,
+          "sha256": "1648803df70ae3bdc74e5b13332a1b7c76c1d029c44ca9ce2f93b4d88b869d65"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4390,
-          "bytes_after": 90674,
+          "bytes_before": 487600,
+          "bytes_after": 483514,
           "replacement_hashes": [
             "b6af72e958e770fd"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "b6af72e958e770fd",
             "border_hash": "2be913e23511415e",
             "bytes": 86252,
-            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 168,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 67,
       "name": "恶魔诅咒 薇恩 诱惑附体",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0914822f35bc4fe9495faa41ccf7919077515702b201bcbfb9ab4bdf28c02162",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67067/67072/67072.fantome",
       "files": [
         {
           "path": "skins/67/67067/67072/Vayne.wad.client",
-          "size": 90675,
-          "sha256": "c5f47d17768de9d03e35ccf0b996fa302e0e9f4a14c35f4726d036105567d1f9"
+          "size": 483514,
+          "sha256": "f41774bfce52c056ef18f765a243fd2af27e284c6a4299995d753ab997b1c854"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4391,
-          "bytes_after": 90675,
+          "bytes_before": 487601,
+          "bytes_after": 483514,
           "replacement_hashes": [
             "b6af72e958e770fd"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "b6af72e958e770fd",
             "border_hash": "2be913e23511415e",
             "bytes": 86252,
-            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 168,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 67,
       "name": "恶魔诅咒 薇恩 毁灭附体",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "304d407ee0fe46501687d3023844fcae57e2b3bdb008c504d72cd382f5c0524f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "67/67067/67073/67073.fantome",
       "files": [
         {
           "path": "skins/67/67067/67073/Vayne.wad.client",
-          "size": 90677,
-          "sha256": "cd29fd1359ad6293a43aa6373a07393df373fb87451acb3c011cc1d84d6fb9ff"
+          "size": 483514,
+          "sha256": "aff7a042fb9f97dbd5c2a516c17b030280563e9c7e4940a2eb85a3ba5c027296"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4393,
-          "bytes_after": 90677,
+          "bytes_before": 487603,
+          "bytes_after": 483514,
           "replacement_hashes": [
             "b6af72e958e770fd"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "b6af72e958e770fd",
             "border_hash": "2be913e23511415e",
             "bytes": 86252,
-            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+            "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Vayne.wad.client": [
+          "4516f95b33af71e0"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 168,
         "missing": 0
       },
       "validation": {

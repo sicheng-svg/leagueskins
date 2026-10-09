@@ -4,29 +4,30 @@
   "champion_id": 67,
   "name": "幻灵战斗蝠 薇恩 连绵奔袭",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "c3f45482fb1bdf5e58db0c42bf024289556bbf51775650af2808aacbb94e5ba7",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "67/67032/67038/67038.fantome",
   "files": [
     {
       "path": "skins/67/67032/67038/Vayne.wad.client",
-      "size": 88620,
-      "sha256": "43b1ffed878f3892b7a93e918f8b99ff592d9aa2d0ffa95d0577fabea0d8f391"
+      "size": 104672,
+      "sha256": "e2128e6ca8d414ae00a8f138699efd25290c94469984c8aa5067da5172da872e"
     }
   ],
   "wads": {
     "Vayne.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2336,
-      "bytes_after": 88620,
+      "bytes_before": 106704,
+      "bytes_after": 104672,
       "replacement_hashes": [
         "f042be289e588614"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "f042be289e588614",
         "border_hash": "2fb0d4f7fa003652",
         "bytes": 86252,
-        "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88"
+        "sha256": "4bf78266b5261cbef0310f2590c46307e3baacf71493ed877b2af0522742dd88",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Vayne.wad.client": [
+      "4516f95b33af71e0"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 23,
     "missing": 0
   },
   "validation": {

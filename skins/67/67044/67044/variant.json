@@ -4,29 +4,30 @@
   "champion_id": 67,
   "name": "黎明使者 薇恩",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "431df563bd43bf6570cfe2c1a660e93085a02f8bfcf59b02619291ebe77e7b37",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "67/67044/67044.fantome",
   "files": [
     {
       "path": "skins/67/67044/67044/Vayne.wad.client",
-      "size": 4916,
-      "sha256": "2ab33fc713a7ab71729bb8370b3f52ef2124483484f43e51b3e2b7bb34c5dd5c"
+      "size": 187664,
+      "sha256": "e7fff6b101ca255e5b4fae4913566c373e5e2ac9f67d09959e593d5fede4d5f3"
     }
   ],
   "wads": {
     "Vayne.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4916,
-      "bytes_after": 4916,
+      "bytes_before": 192276,
+      "bytes_after": 187664,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Vayne.wad.client": [
+      "4516f95b33af71e0"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 61,
     "missing": 0
   },
   "validation": {

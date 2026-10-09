@@ -4,29 +4,30 @@
   "champion_id": 67,
   "name": "恶魔诅咒 薇恩 诡诈附体",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "b301db4fc397455bd9f0a3f4691fe073bd76b8dec4018244670a6718de507230",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "67/67067/67071/67071.fantome",
   "files": [
     {
       "path": "skins/67/67067/67071/Vayne.wad.client",
-      "size": 90674,
-      "sha256": "35497008e1d28018596afa96524d88030b7003be50784f6c1c269326e1339893"
+      "size": 483514,
+      "sha256": "1648803df70ae3bdc74e5b13332a1b7c76c1d029c44ca9ce2f93b4d88b869d65"
     }
   ],
   "wads": {
     "Vayne.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4390,
-      "bytes_after": 90674,
+      "bytes_before": 487600,
+      "bytes_after": 483514,
       "replacement_hashes": [
         "b6af72e958e770fd"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "b6af72e958e770fd",
         "border_hash": "2be913e23511415e",
         "bytes": 86252,
-        "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256"
+        "sha256": "9aa37c28f289c34929d87632dac7a05b505467aabf57a8f32f43ab3fe9264256",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Vayne.wad.client": [
+      "4516f95b33af71e0"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 168,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 67,
   "name": "灵魂莲华 薇恩 霜见",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "145686a70d5e192f60290f1d80cf4d334d0780a49509bca8b10da1a07b9db659",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "67/67014/67024/67024.fantome",
   "files": [
     {
       "path": "skins/67/67014/67024/Vayne.wad.client",
-      "size": 88543,
-      "sha256": "9758060578b81d72d2b315e211d30c01e92b7df8f680ac4958e677eb43c229e0"
+      "size": 99202,
+      "sha256": "779824f114a88fec4c1d978a30aaa6215d05758429f9a9f6ed2e3bd569ba5b77"
     }
   ],
   "wads": {
     "Vayne.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2259,
-      "bytes_after": 88543,
+      "bytes_before": 101157,
+      "bytes_after": 99202,
       "replacement_hashes": [
         "fc476eadeb21584a"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "fc476eadeb21584a",
         "border_hash": "550738c4f0661ba3",
         "bytes": 86252,
-        "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89"
+        "sha256": "3f2559351ce20f95b0be6ca58337fc017eecf90769f47c5625bbf679809c7d89",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Vayne.wad.client": [
+      "4516f95b33af71e0"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 21,
     "missing": 0
   },
   "validation": {

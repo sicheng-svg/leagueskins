@@ -4,29 +4,30 @@
   "champion_id": 67,
   "name": "源计划：净化 薇恩",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "9a21d581fd957624afe4229d622e948168ccab45857576e1074f537019b4ee7f",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "67/67011/67011.fantome",
   "files": [
     {
       "path": "skins/67/67011/67011/Vayne.wad.client",
-      "size": 89244,
-      "sha256": "74699987b7bd6ff4c513e6632beadc8b474e356640ecb0c9cce647a68ed7d44e"
+      "size": 316615,
+      "sha256": "134cc1cba000d0c04c1bbe465f272181caf72d1a4d5f3ba28696e20096aac42e"
     }
   ],
   "wads": {
     "Vayne.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2960,
-      "bytes_after": 89244,
+      "bytes_before": 319271,
+      "bytes_after": 316615,
       "replacement_hashes": [
         "7c750b37b9080e15"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "7c750b37b9080e15",
         "border_hash": "0f483887768e0af7",
         "bytes": 86252,
-        "sha256": "0cb6eb5900d936d6b00f28edb23d80f199e134c565d81dbb6df7fa55243f4813"
+        "sha256": "0cb6eb5900d936d6b00f28edb23d80f199e134c565d81dbb6df7fa55243f4813",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Vayne.wad.client": [
+      "4516f95b33af71e0"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 63,
     "missing": 0
   },
   "validation": {

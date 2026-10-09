@@ -9,29 +9,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b26267426a2e2930276ddf88e2764335b69191616659ad5d1648dc8fc6dc7bde",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24022.fantome",
       "files": [
         {
           "path": "skins/24/24022/24022/Jax.wad.client",
-          "size": 93274,
-          "sha256": "98f275baafd1a612dac08cf79bb27332c1cf0bdedb7e57e1559ad6ad77957d1a"
+          "size": 138360,
+          "sha256": "7aa2a0bea753a3a34bc377256eb3208e1daba913ba0c85ccb403399ede5153bf"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6990,
-          "bytes_after": 93274,
+          "bytes_before": 145046,
+          "bytes_after": 138360,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 42,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 狂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "39534c81e3b27562f7e0e5f8152106607e9d5ad737e1dcbe7f74cc7c0611b5a9",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24023/24023.fantome",
       "files": [
         {
           "path": "skins/24/24022/24023/Jax.wad.client",
-          "size": 89196,
-          "sha256": "3c03016885b8a0c3d13ffc5349f7c6a13722af1ca180bf1ea7bbe0ab132a664d"
+          "size": 138663,
+          "sha256": "5efa3b5d6436565cd5a2e9b55342e2b2fe8727fba6ec6ac3c9bff60c24d08470"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2912,
-          "bytes_after": 89196,
+          "bytes_before": 141271,
+          "bytes_after": 138663,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 华耀",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "73a63e5d71d7aae9dbfe312a5e66bf39aa3714c4a0f1117541dc2082ba26d6ae",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24024/24024.fantome",
       "files": [
         {
           "path": "skins/24/24022/24024/Jax.wad.client",
-          "size": 89143,
-          "sha256": "70a9c10e43935ec1c5692b26fbae0a1b8e35b807c20d27143e5de77670bc6cae"
+          "size": 138550,
+          "sha256": "e2675b2d049b284cf1ebed5f57e8037c8b69c83ae5736547a4ed152b6d8e7467"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2859,
-          "bytes_after": 89143,
+          "bytes_before": 141105,
+          "bytes_after": 138550,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 青炬",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "307179cb90c84eee98384ef0c5fc8e1695270d424348b41efc0d4e1f5554da2e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24025/24025.fantome",
       "files": [
         {
           "path": "skins/24/24022/24025/Jax.wad.client",
-          "size": 89143,
-          "sha256": "d2c400fa71562e250e81504021356912b3e5781fa3d688873f64e1abbb0a5f31"
+          "size": 138484,
+          "sha256": "61128b1d202ad56777eeab7535db32cd2a5b45186a0b3a71daada93a54d1f70a"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2859,
-          "bytes_after": 89143,
+          "bytes_before": 141039,
+          "bytes_after": 138484,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 幻耀",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "68a8267b4ad03a4009385902954e4d592e055652d04ea982598b1c2f5ebed586",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24026/24026.fantome",
       "files": [
         {
           "path": "skins/24/24022/24026/Jax.wad.client",
-          "size": 89165,
-          "sha256": "6d1bbfc719c2756a92dc5dad9629c6ecb14807fef180d753087eada0eab85be9"
+          "size": 138506,
+          "sha256": "2ac14fc848f69b921e5534be42fdf07b8810e418c756766cb5c9dfceead76429"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2881,
-          "bytes_after": 89165,
+          "bytes_before": 141083,
+          "bytes_after": 138506,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 灵辉",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0e35013ca352f8fb34951ef81c6f385b702c8023a8c10a00b9c648a9db560c8e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24027/24027.fantome",
       "files": [
         {
           "path": "skins/24/24022/24027/Jax.wad.client",
-          "size": 89143,
-          "sha256": "1321f43e7744bb518193f368cf349105a4cdb9a800987bd29a262ff79425531e"
+          "size": 138535,
+          "sha256": "0c838c9dd3fa014efb666252786d90c5e93981db6a981d9894f9b113933b5264"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2859,
-          "bytes_after": 89143,
+          "bytes_before": 141090,
+          "bytes_after": 138535,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 荧煌",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "83c020253a76d3a0994ed8e426b963cc1e5f2c877b775df18df47b33f9cd6ff5",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24028/24028.fantome",
       "files": [
         {
           "path": "skins/24/24022/24028/Jax.wad.client",
-          "size": 89143,
-          "sha256": "8e3d067ea2ce6982b806e33894839c89d1cd90da10d9525030983eb44c40fdc8"
+          "size": 138532,
+          "sha256": "e4e02d13109ccf99410675ec2f144fb28d2ef504623e4a3ec364ec67ed20c510"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2859,
-          "bytes_after": 89143,
+          "bytes_before": 141087,
+          "bytes_after": 138532,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 炫煌",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "973195ce12819d98b40c3eb2e19e47acf83ccb5915770e7c47c7a76525dc825d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24029/24029.fantome",
       "files": [
         {
           "path": "skins/24/24022/24029/Jax.wad.client",
-          "size": 89143,
-          "sha256": "ff8fda5cdbf0933919b981fc1249117765e795b57d700645533c81f68a09d5dc"
+          "size": 138598,
+          "sha256": "0544888e92ff7f045dff97f07eb3d7f69abc25e903c5d657b75c4ae90faa9e70"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2859,
-          "bytes_after": 89143,
+          "bytes_before": 141153,
+          "bytes_after": 138598,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 胧光",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3ce82acf6252d7ae5999b59d60ac217ecf5edb2b46027e8433352265236536a1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24030/24030.fantome",
       "files": [
         {
           "path": "skins/24/24022/24030/Jax.wad.client",
-          "size": 89148,
-          "sha256": "01b04a7178238c0d806919b768d49716a7c5706cb209cc7834fd4d145a940126"
+          "size": 138532,
+          "sha256": "d50d8c644ae2191da9239fd129b769e84c7e39104b8266a5306861ad7cd28a26"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2864,
-          "bytes_after": 89148,
+          "bytes_before": 141092,
+          "bytes_after": 138532,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {
@@ -531,29 +585,30 @@
       "champion_id": 24,
       "name": "至高天 贾克斯 霓虹耀斑",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "485319f5c90ad2b7448043cdc586860bded9cd6d0e1c87dfe9a007fcff1b871b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24022/24031/24031.fantome",
       "files": [
         {
           "path": "skins/24/24022/24031/Jax.wad.client",
-          "size": 89212,
-          "sha256": "c23049a5593f1161d104bab477e51422878f4cf6d8aaaf7376addd615c56d497"
+          "size": 138667,
+          "sha256": "a3d06ce3e80d6ade00f3dd617a12a09e8793491ca732329b47cd16aad795e6a8"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2928,
-          "bytes_after": 89212,
+          "bytes_before": 141291,
+          "bytes_after": 138667,
           "replacement_hashes": [
             "7c0d2ba3aaef26fb"
           ]
@@ -567,13 +622,18 @@
             "normal_hash": "7c0d2ba3aaef26fb",
             "border_hash": "025dddf77491a8f5",
             "bytes": 86252,
-            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818"
+            "sha256": "f061a6be79335e77eee4c07663f3718a5447b1a40ad31f20d6fe959bc9304818",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 43,
         "missing": 0
       },
       "validation": {

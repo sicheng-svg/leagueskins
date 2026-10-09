@@ -4,29 +4,30 @@
   "champion_id": 34,
   "name": "神凰行者 瑞羽圣凰 艾尼维亚 清仪",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "09bb2a4d2c2c558d8ede26f6a1807c93e9e9b966d4cfbd22d4fe3171b40131bc",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "34/34027/34031/34031.fantome",
   "files": [
     {
       "path": "skins/34/34027/34031/Anivia.wad.client",
-      "size": 188719,
-      "sha256": "3d2f55da9deda950ec95302dda0d041751623ef3c89da3015e7103bb5d3ecff6"
+      "size": 95328,
+      "sha256": "7d2b9c555f9f2fedb0c78e59487ce4a3d743ce66b6b59795371965824cd1feed"
     }
   ],
   "wads": {
     "Anivia.wad.client": {
-      "entries_before": 3,
+      "entries_before": 4,
       "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 7507,
-      "bytes_after": 188719,
+      "bytes_before": 102467,
+      "bytes_after": 95328,
       "replacement_hashes": [
         "6d1912ef9175042c"
       ]
@@ -40,21 +41,24 @@
         "normal_hash": "6d1912ef9175042c",
         "border_hash": "2e5fdaf24ad8f23f",
         "bytes": 86252,
-        "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+        "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Anivia.wad.client",
         "normal_hash": "6d1912ef9175042c",
         "border_hash": "2e5fdaf24ad8f23f",
         "bytes": 86252,
-        "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+        "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Anivia.wad.client",
         "normal_hash": "6d1912ef9175042c",
         "border_hash": "2e5fdaf24ad8f23f",
         "bytes": 86252,
-        "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+        "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+        "strategy": "replace_normal_image"
       }
     ]
   },

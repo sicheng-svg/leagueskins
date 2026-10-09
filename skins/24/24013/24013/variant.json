@@ -4,29 +4,30 @@
   "champion_id": 24,
   "name": "武神 贾克斯",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "f77ff3289e30c02add5a6de4ad5fa71d998b1ca65eb00e582bfd1626351d1725",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "24/24013/24013.fantome",
   "files": [
     {
       "path": "skins/24/24013/24013/Jax.wad.client",
-      "size": 6930,
-      "sha256": "b2f71a035d3c1b22ce1b73b73167a39232f8decee4aab29f15ebf76ec17dc92e"
+      "size": 346852,
+      "sha256": "1c6b52a4896a2a61c971ee1bc4e754a6063825f6c23e36d7103b8f373641dcce"
     }
   ],
   "wads": {
     "Jax.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6930,
-      "bytes_after": 6930,
+      "bytes_before": 353478,
+      "bytes_after": 346852,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Jax.wad.client": [
+      "9fbe15414c419cad"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 132,
     "missing": 0
   },
   "validation": {

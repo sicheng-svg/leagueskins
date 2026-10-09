@@ -9,29 +9,30 @@
       "champion_id": 22,
       "name": "西部天使 艾希",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "029c656df796851b8e8a8c09eb0b45d79c2247ebc24a4a53807cc5952d2f9c75",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "22/22017/22017.fantome",
       "files": [
         {
           "path": "skins/22/22017/22017/Ashe.wad.client",
-          "size": 89361,
-          "sha256": "62ad79abfa4cc6cf6d4f484ac9d6c8f1b91f55ba06bdfdab74a423f2ed774449"
+          "size": 124204,
+          "sha256": "9aa3229f9c1ccee49003daeb40825e86e584581b58360caaf434cb2c9d2eb831"
         }
       ],
       "wads": {
         "Ashe.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3077,
-          "bytes_after": 89361,
+          "bytes_before": 126977,
+          "bytes_after": 124204,
           "replacement_hashes": [
             "c1ce732ed4a1150b"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "c1ce732ed4a1150b",
             "border_hash": "8c743ed40c299063",
             "bytes": 86252,
-            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ashe.wad.client": [
+          "7fd757f76e818e8a"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 31,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 22,
       "name": "西部天使 艾希 米迦勒之威",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3d19638ea9110ca3b29b1c13e1305a94f253bf000b8f95071a36170b58987d03",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "22/22017/22018/22018.fantome",
       "files": [
         {
           "path": "skins/22/22017/22018/Ashe.wad.client",
-          "size": 89430,
-          "sha256": "38cfd557c7af834f2215fcb1c622e57a8be756d5f1e91749e4cf621db30a63ce"
+          "size": 124381,
+          "sha256": "f68089b90aa94293ef24edd5c278d078858a216cd7ec934c812fa40855b6f273"
         }
       ],
       "wads": {
         "Ashe.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3146,
-          "bytes_after": 89430,
+          "bytes_before": 127223,
+          "bytes_after": 124381,
           "replacement_hashes": [
             "c1ce732ed4a1150b"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "c1ce732ed4a1150b",
             "border_hash": "8c743ed40c299063",
             "bytes": 86252,
-            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ashe.wad.client": [
+          "7fd757f76e818e8a"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 31,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 22,
       "name": "西部天使 艾希 加百列之智",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e5744e518be50b02afb80972d01622688f9c1f5a5672720b4b8c2e807b226522",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "22/22017/22019/22019.fantome",
       "files": [
         {
           "path": "skins/22/22017/22019/Ashe.wad.client",
-          "size": 89375,
-          "sha256": "3a901c758687c8c75047ffc284e1bc7fd2cebdba20089ce19b12ec788973bc02"
+          "size": 124309,
+          "sha256": "d0decbfc1070968e059bf97e9ea1860f04c1b4d60eb96f9ed3f2b60da5b260c8"
         }
       ],
       "wads": {
         "Ashe.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3091,
-          "bytes_after": 89375,
+          "bytes_before": 127096,
+          "bytes_after": 124309,
           "replacement_hashes": [
             "c1ce732ed4a1150b"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "c1ce732ed4a1150b",
             "border_hash": "8c743ed40c299063",
             "bytes": 86252,
-            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ashe.wad.client": [
+          "7fd757f76e818e8a"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 31,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 22,
       "name": "西部天使 艾希 乌利尔之怒",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "80ad8fcd4084775f420897fd30cb9e730f20885934aa43d14cfb69b9ea54d2f6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "22/22017/22020/22020.fantome",
       "files": [
         {
           "path": "skins/22/22017/22020/Ashe.wad.client",
-          "size": 89380,
-          "sha256": "1a90bdaa18bb8a5a8c555ee27c822b59dee6fc7d33dbee0c94384b1266bd0862"
+          "size": 124237,
+          "sha256": "3c8cf3f1cb6e5cefc12f53bbf81efa428ae2880a3385c8129c7525c52b07a1bc"
         }
       ],
       "wads": {
         "Ashe.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3096,
-          "bytes_after": 89380,
+          "bytes_before": 127029,
+          "bytes_after": 124237,
           "replacement_hashes": [
             "c1ce732ed4a1150b"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "c1ce732ed4a1150b",
             "border_hash": "8c743ed40c299063",
             "bytes": 86252,
-            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ashe.wad.client": [
+          "7fd757f76e818e8a"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 31,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 22,
       "name": "西部天使 艾希 拉斐尔之佑",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "59a508a305f554464e7e64ba2b205105c8c926cc4f90ea115bcb90a545fe3d93",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "22/22017/22021/22021.fantome",
       "files": [
         {
           "path": "skins/22/22017/22021/Ashe.wad.client",
-          "size": 89435,
-          "sha256": "f90611970fb342e57805898d6a3fa65b862356580d7ed32b3f677170e0285857"
+          "size": 124381,
+          "sha256": "58f40750fe96e488edb804026aceed6899df45ffe973dc80fe6981eea29848a9"
         }
       ],
       "wads": {
         "Ashe.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3151,
-          "bytes_after": 89435,
+          "bytes_before": 127228,
+          "bytes_after": 124381,
           "replacement_hashes": [
             "c1ce732ed4a1150b"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "c1ce732ed4a1150b",
             "border_hash": "8c743ed40c299063",
             "bytes": 86252,
-            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ashe.wad.client": [
+          "7fd757f76e818e8a"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 31,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 22,
       "name": "西部天使 艾希 路西法之傲",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5b3bc1bfadc8b51d12b38eddbba279d5734fd98994cac4f5fe0994b3da654837",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "22/22017/22022/22022.fantome",
       "files": [
         {
           "path": "skins/22/22017/22022/Ashe.wad.client",
-          "size": 89373,
-          "sha256": "a835b191fe353bdaed1e4c1b7f3d30e1bc3728c4b5080ac26a18ba4c8674f888"
+          "size": 124309,
+          "sha256": "af22146d0f1cead948343ec792248f604755f03632ada2cd9093a8bf82674384"
         }
       ],
       "wads": {
         "Ashe.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3089,
-          "bytes_after": 89373,
+          "bytes_before": 127094,
+          "bytes_after": 124309,
           "replacement_hashes": [
             "c1ce732ed4a1150b"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "c1ce732ed4a1150b",
             "border_hash": "8c743ed40c299063",
             "bytes": 86252,
-            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8"
+            "sha256": "81c60ade0ec44e5a04c2bd3f5189409188fae454000cffa9d153a5efb7ed68d8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ashe.wad.client": [
+          "7fd757f76e818e8a"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 31,
         "missing": 0
       },
       "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 37,
   "name": "至臻 安魂曲 娑娜 至强",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "b3ca36c9b9bfc70101b9f0faed32e1bd0c8e39ef95e57e92bc125b0b048dc28a",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "37/37075/37076/37076.fantome",
   "files": [
     {
       "path": "skins/37/37075/37076/Sona.wad.client",
-      "size": 89557,
-      "sha256": "e3af90c15f4a105801fbb46931a78af470a0325d2257f7dd0f4684367e1f05b1"
+      "size": 191069,
+      "sha256": "aecf6bd537b98a64adbd9e9fe5781507044dade2d3d6f0e04836a76eba7cd36d"
     }
   ],
   "wads": {
     "Sona.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3273,
-      "bytes_after": 89557,
+      "bytes_before": 194038,
+      "bytes_after": 191069,
       "replacement_hashes": [
         "ae667ed090ebd615"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "ae667ed090ebd615",
         "border_hash": "df2766d21aa1b239",
         "bytes": 86252,
-        "sha256": "edf1a19e73287100a0e1e51c38d2158e51dd55e70891ec19c4a7bd29f1b0a59b"
+        "sha256": "edf1a19e73287100a0e1e51c38d2158e51dd55e70891ec19c4a7bd29f1b0a59b",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sona.wad.client": [
+      "6cd4cc2bfeb1311f"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 51,
     "missing": 0
   },
   "validation": {

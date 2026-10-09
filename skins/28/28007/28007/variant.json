@@ -4,29 +4,30 @@
   "champion_id": 28,
   "name": "至臻 K/DA 伊芙琳",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "1c2b750f53e3214b74270c37fc166b5a6cd5331ced9f9b9df1d78e319034a3bb",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "28/28007/28007.fantome",
   "files": [
     {
       "path": "skins/28/28007/28007/Evelynn.wad.client",
-      "size": 3155,
-      "sha256": "ebfb96edeed29b5275e40d64d4e01ea0c2695e4bad5041261790dfca4ca25d60"
+      "size": 119989,
+      "sha256": "0cb455631ad74e0bb3ecc5d7f7e282e2715411486d5d1ea810571d564b0504d2"
     }
   ],
   "wads": {
     "Evelynn.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3155,
-      "bytes_after": 3155,
+      "bytes_before": 122840,
+      "bytes_after": 119989,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Evelynn.wad.client": [
+      "51b5ac6bc5395969"
+    ]
+  },
   "references": {
-    "paths": 19,
+    "paths": 37,
     "missing": 0
   },
   "validation": {

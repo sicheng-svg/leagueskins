@@ -9,29 +9,30 @@
       "champion_id": 25,
       "name": "至臻 魅惑女巫 莫甘娜",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e0a5fcb9bccb25e8239cde9675743bade41b48c66be64786b4eb3a6350bc1af3",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25041/25041.fantome",
       "files": [
         {
           "path": "skins/25/25041/25041/Morgana.wad.client",
-          "size": 93306,
-          "sha256": "a2e8286555b2bc4577e85ad4e0405f394ec9b97eddcb55cd7544c5d802b1fa12"
+          "size": 561056,
+          "sha256": "a073c3c551bfeff4373029523cb57c061c449f6743043d7f7ab47161fab4ac00"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7022,
-          "bytes_after": 93306,
+          "bytes_before": 567774,
+          "bytes_after": 561056,
           "replacement_hashes": [
             "d9aca55f4b9c7a38"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "d9aca55f4b9c7a38",
             "border_hash": "0c906af43dc314fd",
             "bytes": 86252,
-            "sha256": "2108f27cf8cff554bf49d595ebf6432e59e4114128d6b3f286d602c974190efb"
+            "sha256": "2108f27cf8cff554bf49d595ebf6432e59e4114128d6b3f286d602c974190efb",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 222,
         "missing": 0
       },
       "validation": {

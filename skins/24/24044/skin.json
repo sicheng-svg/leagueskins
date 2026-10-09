@@ -1,0 +1,60 @@
+{
+  "champion_id": 24,
+  "base_skin_id": 24044,
+  "name": "SKT T1 贾克斯 精锐",
+  "variants": [
+    {
+      "skin_id": 24044,
+      "base_skin_id": 24044,
+      "champion_id": 24,
+      "name": "SKT T1 贾克斯 精锐",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a1a507ebeffe542d7f9853e2e5a0a6e040862bbc34288f5b95ab2edb4724c8f9",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "24/24044/24044.fantome",
+      "files": [
+        {
+          "path": "skins/24/24044/24044/Jax.wad.client",
+          "size": 95702,
+          "sha256": "7f012096e3641ca8e83e50e68a31864d7ebe3211ec8982bacde6f6fda296fe3d"
+        }
+      ],
+      "wads": {
+        "Jax.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 104816,
+          "bytes_after": 95702,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
+      "references": {
+        "paths": 20,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

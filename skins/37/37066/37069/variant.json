@@ -4,29 +4,30 @@
   "champion_id": 37,
   "name": "莲华温泉 娑娜 云开",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "adf956a80a2855bda521db0409160f01679bb1107363c0ceef5578500c253254",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "37/37066/37069/37069.fantome",
   "files": [
     {
       "path": "skins/37/37066/37069/Sona.wad.client",
-      "size": 89259,
-      "sha256": "0ed1413d9f6b8847c838b815f1a50afa7e17a864377c56fa7f120882aaae1288"
+      "size": 157167,
+      "sha256": "4d9c802a8a34b7911c79947d445a204380d42250e749d9c18ec0fc85f0becd5d"
     }
   ],
   "wads": {
     "Sona.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2975,
-      "bytes_after": 89259,
+      "bytes_before": 159838,
+      "bytes_after": 157167,
       "replacement_hashes": [
         "4ae462a2a71c1bad"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "4ae462a2a71c1bad",
         "border_hash": "3e06414b26dd253b",
         "bytes": 86252,
-        "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e"
+        "sha256": "6068d001924819aebee66e74e42749250bfcfe6c2d4ffed975b656c3c6c8848e",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sona.wad.client": [
+      "6cd4cc2bfeb1311f"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 21,
     "missing": 0
   },
   "validation": {

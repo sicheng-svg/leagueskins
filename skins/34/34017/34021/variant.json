@@ -4,29 +4,30 @@
   "champion_id": 34,
   "name": "凤凰星神 艾尼维亚 猎神星魂",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "0b9d8febb7f61d3da789da5f101a1d4b84401b74577bbc286c7cb1c255f97938",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "34/34017/34021/34021.fantome",
   "files": [
     {
       "path": "skins/34/34017/34021/Anivia.wad.client",
-      "size": 55999,
-      "sha256": "227b5baff2d88f19dbd99c88a3eea64f011b9691db9bcd0f8d21db664b1e1f37"
+      "size": 135997,
+      "sha256": "2698b3b4151588cbe64fd746ecbb71f3998c87533b5fa0c4f8acef9bebaea9e1"
     }
   ],
   "wads": {
     "Anivia.wad.client": {
-      "entries_before": 3,
-      "entries_after": 3,
+      "entries_before": 4,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6654,
-      "bytes_after": 55999,
+      "bytes_before": 142283,
+      "bytes_after": 135997,
       "replacement_hashes": []
     }
   },

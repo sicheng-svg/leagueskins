@@ -4,29 +4,30 @@
   "champion_id": 6,
   "name": "古神 厄加特 欲望",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "310d0879eac524304358f3142392b608b1f14e923843ae18a1719ee4555ed3ce",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "6/6041/6046/6046.fantome",
   "files": [
     {
       "path": "skins/6/6041/6046/Urgot.wad.client",
-      "size": 3756,
-      "sha256": "fee18b32a82f3a9807ba9961cbb50010bde694d5952f0da6051b9bf3bab8ad9c"
+      "size": 274672,
+      "sha256": "9b78d271012acf569299d7e95d8862057232022a62030d4a0f0def06fb7a0b6b"
     }
   ],
   "wads": {
     "Urgot.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3756,
-      "bytes_after": 3756,
+      "bytes_before": 278124,
+      "bytes_after": 274672,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Urgot.wad.client": [
+      "4ce892ac40ca773f"
+    ]
+  },
   "references": {
-    "paths": 9,
+    "paths": 101,
     "missing": 0
   },
   "validation": {

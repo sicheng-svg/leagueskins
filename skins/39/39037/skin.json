@@ -9,29 +9,30 @@
       "champion_id": 39,
       "name": "剪纸仙灵 艾瑞莉娅",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "314f6645a40f9912c96a7906eedfad9fe2e5939bd9497c992df8c0e44350bb39",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "39/39037/39037.fantome",
       "files": [
         {
           "path": "skins/39/39037/39037/Irelia.wad.client",
-          "size": 91991,
-          "sha256": "a4792f1a616296beea8078888dbe764b5a408d1f2b6d76f6f5ccedfff65de80d"
+          "size": 422073,
+          "sha256": "d536c6ed6cbd486f86997739e2e3591819379aad65eb379363f5318f5e033827"
         }
       ],
       "wads": {
         "Irelia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5707,
-          "bytes_after": 91991,
+          "bytes_before": 427444,
+          "bytes_after": 422073,
           "replacement_hashes": [
             "de0cddffc1872c70"
           ]
@@ -45,20 +46,27 @@
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Irelia.wad.client",
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Irelia.wad.client": [
+          "b427b47c2f1744af",
+          "c013c914af146147"
+        ]
+      },
       "references": {
-        "paths": 21,
+        "paths": 163,
         "missing": 0
       },
       "validation": {
@@ -74,29 +82,30 @@
       "champion_id": 39,
       "name": "剪纸仙灵 艾瑞莉娅 恭喜发财",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "50d396c2d137ae9497545096d411c6066894e092b6c63e94e957579e7e96c6b4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "39/39037/39038/39038.fantome",
       "files": [
         {
           "path": "skins/39/39037/39038/Irelia.wad.client",
-          "size": 92074,
-          "sha256": "3b9cad149772fb3e9248ed060115e85382491aafe230e1afa0245e45126f77c2"
+          "size": 422558,
+          "sha256": "8f68538519c4dd2d20fa09e44cb661b3ea5c5c21ed071e0be64ad457f4060cff"
         }
       ],
       "wads": {
         "Irelia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5790,
-          "bytes_after": 92074,
+          "bytes_before": 428012,
+          "bytes_after": 422558,
           "replacement_hashes": [
             "de0cddffc1872c70"
           ]
@@ -110,20 +119,27 @@
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Irelia.wad.client",
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Irelia.wad.client": [
+          "b427b47c2f1744af",
+          "c013c914af146147"
+        ]
+      },
       "references": {
-        "paths": 21,
+        "paths": 166,
         "missing": 0
       },
       "validation": {
@@ -139,29 +155,30 @@
       "champion_id": 39,
       "name": "剪纸仙灵 艾瑞莉娅 前程似锦",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9810680a525fc5d82dac06747415a4c2da7c6f1885206add055bbf5dfe86604b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "39/39037/39039/39039.fantome",
       "files": [
         {
           "path": "skins/39/39037/39039/Irelia.wad.client",
-          "size": 92034,
-          "sha256": "5f5e79a0e0b9794e350bcc5e74417d06a0f09233bd2fa7d8d1d877bcb539a661"
+          "size": 422522,
+          "sha256": "4a5c1c3c16615138555cb66c0095624f6af7ade2157e8fd68eb4b4ca7b206494"
         }
       ],
       "wads": {
         "Irelia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5750,
-          "bytes_after": 92034,
+          "bytes_before": 427936,
+          "bytes_after": 422522,
           "replacement_hashes": [
             "de0cddffc1872c70"
           ]
@@ -175,20 +192,27 @@
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Irelia.wad.client",
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Irelia.wad.client": [
+          "b427b47c2f1744af",
+          "c013c914af146147"
+        ]
+      },
       "references": {
-        "paths": 21,
+        "paths": 166,
         "missing": 0
       },
       "validation": {
@@ -204,29 +228,30 @@
       "champion_id": 39,
       "name": "剪纸仙灵 艾瑞莉娅 喜气洋洋",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "37b4e8782d50f6c10b0ae48729e2d272d9a7df353b527324cf3ae6dc58b50938",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "39/39037/39040/39040.fantome",
       "files": [
         {
           "path": "skins/39/39037/39040/Irelia.wad.client",
-          "size": 92038,
-          "sha256": "bcb862473a015055b62ee9b7ca399dfea910f25865fc502c28af2ffc98cce393"
+          "size": 422307,
+          "sha256": "8d3e45a301d87331a494bdbf08f95cc7115e6de084d55787c196a401f69b680a"
         }
       ],
       "wads": {
         "Irelia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5754,
-          "bytes_after": 92038,
+          "bytes_before": 427725,
+          "bytes_after": 422307,
           "replacement_hashes": [
             "de0cddffc1872c70"
           ]
@@ -240,20 +265,27 @@
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Irelia.wad.client",
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Irelia.wad.client": [
+          "b427b47c2f1744af",
+          "c013c914af146147"
+        ]
+      },
       "references": {
-        "paths": 21,
+        "paths": 166,
         "missing": 0
       },
       "validation": {
@@ -269,29 +301,30 @@
       "champion_id": 39,
       "name": "剪纸仙灵 艾瑞莉娅 年年有余",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b60cb12a23eae88c6e6e71281a91fd502ec78452bfa721b757ab12cd78d15e2b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "39/39037/39041/39041.fantome",
       "files": [
         {
           "path": "skins/39/39037/39041/Irelia.wad.client",
-          "size": 92044,
-          "sha256": "8f0175fb0f4c0a6c6cbbd92f613c89ae757bbe09eaaad1f06c78af356f5a6f43"
+          "size": 422191,
+          "sha256": "750ec168beaf64e3aa9b5f41adb45a73084fa6454a4383003259a9b8acb69437"
         }
       ],
       "wads": {
         "Irelia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5760,
-          "bytes_after": 92044,
+          "bytes_before": 427615,
+          "bytes_after": 422191,
           "replacement_hashes": [
             "de0cddffc1872c70"
           ]
@@ -305,20 +338,27 @@
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Irelia.wad.client",
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Irelia.wad.client": [
+          "b427b47c2f1744af",
+          "c013c914af146147"
+        ]
+      },
       "references": {
-        "paths": 21,
+        "paths": 166,
         "missing": 0
       },
       "validation": {
@@ -334,29 +374,30 @@
       "champion_id": 39,
       "name": "剪纸仙灵 艾瑞莉娅 阖家安康",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9ea6f47feb52fcf89870de170ceec3574e0044d306c56c49b6c87d3b16d449c8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "39/39037/39042/39042.fantome",
       "files": [
         {
           "path": "skins/39/39037/39042/Irelia.wad.client",
-          "size": 92039,
-          "sha256": "e91e3ce2da686599695d3a4053d844956d04909bc340c75401e376f1cfffc201"
+          "size": 422147,
+          "sha256": "acba249eec9f4c64851e1f0fb558e3a3c5c3041f98931470bc09549e6761b626"
         }
       ],
       "wads": {
         "Irelia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5755,
-          "bytes_after": 92039,
+          "bytes_before": 427566,
+          "bytes_after": 422147,
           "replacement_hashes": [
             "de0cddffc1872c70"
           ]
@@ -370,20 +411,27 @@
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Irelia.wad.client",
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Irelia.wad.client": [
+          "b427b47c2f1744af",
+          "c013c914af146147"
+        ]
+      },
       "references": {
-        "paths": 21,
+        "paths": 166,
         "missing": 0
       },
       "validation": {
@@ -399,29 +447,30 @@
       "champion_id": 39,
       "name": "剪纸仙灵 艾瑞莉娅 金玉满堂",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4920116845d302c00d0ad23f7cf27fcc47b6393b750a73929e3565381e8e5fa5",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "39/39037/39043/39043.fantome",
       "files": [
         {
           "path": "skins/39/39037/39043/Irelia.wad.client",
-          "size": 92084,
-          "sha256": "065ca32accb2fd453cb82043c6e67406883219277d9d08d986f5e0b4fb3e8e53"
+          "size": 422308,
+          "sha256": "7a2c6d2def543ccba44c78979601338299ee89914da5317b679ef5498874b636"
         }
       ],
       "wads": {
         "Irelia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5800,
-          "bytes_after": 92084,
+          "bytes_before": 427772,
+          "bytes_after": 422308,
           "replacement_hashes": [
             "de0cddffc1872c70"
           ]
@@ -435,20 +484,27 @@
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Irelia.wad.client",
             "normal_hash": "de0cddffc1872c70",
             "border_hash": "d8ed88798011bd69",
             "bytes": 86252,
-            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+            "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Irelia.wad.client": [
+          "b427b47c2f1744af",
+          "c013c914af146147"
+        ]
+      },
       "references": {
-        "paths": 21,
+        "paths": 166,
         "missing": 0
       },
       "validation": {

@@ -9,29 +9,30 @@
       "champion_id": 11,
       "name": "源计划：林 易",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "12668a47647d34e3e70a20e30b8cb6ad534d4b3c2b9fd46af0e252f9c4f65932",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "11/11009/11009.fantome",
       "files": [
         {
           "path": "skins/11/11009/11009/MasterYi.wad.client",
-          "size": 89572,
-          "sha256": "d0062a4a5c0b9862a79d21f98b7e46c04949c9c49519d2c48d7f7cffd24cec42"
+          "size": 229627,
+          "sha256": "91a0bc6279211a785a3d52c29e53b2643d9ed9b15394d59f648ba846ce0c4227"
         }
       ],
       "wads": {
         "MasterYi.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3288,
-          "bytes_after": 89572,
+          "bytes_before": 232611,
+          "bytes_after": 229627,
           "replacement_hashes": [
             "5badcafb6910f0ae"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "5badcafb6910f0ae",
             "border_hash": "4afbbb370cf9ee52",
             "bytes": 86252,
-            "sha256": "e52c08b8b598000dfee4937f2115c513db581dcb902688410c8f345e7dfeb86b"
+            "sha256": "e52c08b8b598000dfee4937f2115c513db581dcb902688410c8f345e7dfeb86b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MasterYi.wad.client": [
+          "1d5c271d91e85aed"
+        ]
+      },
       "references": {
-        "paths": 20,
+        "paths": 102,
         "missing": 0
       },
       "validation": {

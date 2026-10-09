@@ -4,19 +4,20 @@
   "champion_id": 18,
   "name": "18080",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "a297a2021b185af59dc6611c4d44b21b20424e4ded25cb721365590168339ed0",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "18/18080/18080.fantome",
   "files": [
     {
       "path": "skins/18/18080/18080/Tristana.wad.client",
-      "size": 979367,
-      "sha256": "1b6b93de1017970c96241822b47d1a8754e51a2a92eed69991eb0d97bdf4d589"
+      "size": 3049672,
+      "sha256": "e96f9902d759e59dd0ed064349876a92bf664edbb96e5e54d8be3163818dc87b"
     },
     {
       "path": "skins/18/18080/18080/UI.wad.client",
@@ -26,12 +27,12 @@
   ],
   "wads": {
     "Tristana.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 5,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.3",
-      "bytes_before": 27171,
-      "bytes_after": 979367,
+      "bytes_before": 2210595,
+      "bytes_after": 3049672,
       "replacement_hashes": [
         "1d4acf363057b15f",
         "7be9a69be8ecd175",
@@ -73,9 +74,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Tristana.wad.client": [
+      "20a477b80fcb5081",
+      "aee45054c42d2e5d"
+    ]
+  },
   "references": {
-    "paths": 12,
+    "paths": 427,
     "missing": 0
   },
   "validation": {

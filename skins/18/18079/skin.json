@@ -9,19 +9,20 @@
       "champion_id": 18,
       "name": "殿堂传奇 崔丝塔娜",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "dc1c8da33ad7a1b883cbd0083f1f9070b3316a0a28f51529ca273c81b2ed9f08",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "18/18079/18079.fantome",
       "files": [
         {
           "path": "skins/18/18079/18079/Tristana.wad.client",
-          "size": 979424,
-          "sha256": "1d7710d100019bf85604908ac1b3f1ef117a119c1e69110a8031c99a06936550"
+          "size": 3049672,
+          "sha256": "e96f9902d759e59dd0ed064349876a92bf664edbb96e5e54d8be3163818dc87b"
         },
         {
           "path": "skins/18/18079/18079/UI.wad.client",
@@ -31,12 +32,12 @@
       ],
       "wads": {
         "Tristana.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.3",
-          "bytes_before": 27228,
-          "bytes_after": 979424,
+          "bytes_before": 2210652,
+          "bytes_after": 3049672,
           "replacement_hashes": [
             "1d4acf363057b15f",
             "7be9a69be8ecd175",
@@ -78,9 +79,14 @@
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Tristana.wad.client": [
+          "20a477b80fcb5081",
+          "aee45054c42d2e5d"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 427,
         "missing": 0
       },
       "validation": {
@@ -96,19 +102,19 @@
       "champion_id": 18,
       "name": "18998",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "dc1c8da33ad7a1b883cbd0083f1f9070b3316a0a28f51529ca273c81b2ed9f08",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "18/18079/18998/18998.fantome",
       "files": [
         {
           "path": "skins/18/18079/18998/Tristana.wad.client",
           "size": 979424,
-          "sha256": "1d7710d100019bf85604908ac1b3f1ef117a119c1e69110a8031c99a06936550"
+          "sha256": "6fb718221001bf1f6558fd1dcba774d7d956bed715bdae8bccd11877f2b69879"
         },
         {
           "path": "skins/18/18079/18998/UI.wad.client",
@@ -183,19 +189,19 @@
       "champion_id": 18,
       "name": "18999",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4a5f8a0bada1521c8ab97802cce9649bdf9d50c99f5daa7dea1c3ec963cab1ad",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "18/18079/18999/18999.fantome",
       "files": [
         {
           "path": "skins/18/18079/18999/Tristana.wad.client",
           "size": 979354,
-          "sha256": "5bb161ab8640240b4482bc1466959069db9ef3be4bf88e002ea7102ce10ce131"
+          "sha256": "76dcf7a6e94a68e0b36ef60989a83de8f5213f242c6e415ec7968d0c8cb020ba"
         }
       ],
       "wads": {

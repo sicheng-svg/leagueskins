@@ -9,29 +9,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8fedc234036c6252ad966a99c970fe5263d73043ce467c3cce8dea39db46bfb1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34027.fantome",
       "files": [
         {
           "path": "skins/34/34027/34027/Anivia.wad.client",
-          "size": 188570,
-          "sha256": "7774e5e7cc8ed7cdad96ba9f68ac6d67720468d2597168057bf820cff3c1c793"
+          "size": 95249,
+          "sha256": "feea28968970e11db31eff2fedfa33a01deb1a573c0fc3aa2b417b2c97c00f5f"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7437,
-          "bytes_after": 188570,
+          "bytes_before": 102318,
+          "bytes_after": 95249,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -45,21 +46,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -87,29 +91,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 凌云",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6eeeea20c6b37935d6b3f99b55a91ec059cd2f6bcd2ade46440b2e1f37999c81",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34028/34028.fantome",
       "files": [
         {
           "path": "skins/34/34027/34028/Anivia.wad.client",
-          "size": 188819,
-          "sha256": "453513e556d9c06be2bce1a9151091b4cdaa46cb0d0d274e372611729ad90d44"
+          "size": 95385,
+          "sha256": "030308a68aadc272a49ea948bdb32a45e7ab0893a1872e6ec8a3e43535a68b8f"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7550,
-          "bytes_after": 188819,
+          "bytes_before": 102567,
+          "bytes_after": 95385,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -123,21 +128,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -165,29 +173,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 灵音",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c310d81caabfc8b254a85579c9bdca0abe6445ee95fe20e6c6d62ef6ab0f90f4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34029/34029.fantome",
       "files": [
         {
           "path": "skins/34/34027/34029/Anivia.wad.client",
-          "size": 188713,
-          "sha256": "901b49726e81f1bda88556792090820d082adb4ea7a1bc67eafca5bfa39ae255"
+          "size": 95328,
+          "sha256": "f1430a723a32ad1fc28fa44f3764a32db229cc1bae4ed04430f8257c12d55c3b"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7501,
-          "bytes_after": 188713,
+          "bytes_before": 102461,
+          "bytes_after": 95328,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -201,21 +210,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -243,29 +255,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 仙翰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4eaf6f9bb2f969330b108a6e78f0a799c024a4ae66fad7c0c88227a9b21f636b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34030/34030.fantome",
       "files": [
         {
           "path": "skins/34/34027/34030/Anivia.wad.client",
-          "size": 188718,
-          "sha256": "68ab95d0de0ed4a731048516466c38e7f4c09d01480004956857567a02c551de"
+          "size": 95328,
+          "sha256": "4dd8b78dbbd3e7338b1b8d9782bd804f742db60074884b16fd6bb26dd51bcbf0"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7506,
-          "bytes_after": 188718,
+          "bytes_before": 102466,
+          "bytes_after": 95328,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -279,21 +292,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -321,29 +337,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 清仪",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "09bb2a4d2c2c558d8ede26f6a1807c93e9e9b966d4cfbd22d4fe3171b40131bc",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34031/34031.fantome",
       "files": [
         {
           "path": "skins/34/34027/34031/Anivia.wad.client",
-          "size": 188719,
-          "sha256": "3d2f55da9deda950ec95302dda0d041751623ef3c89da3015e7103bb5d3ecff6"
+          "size": 95328,
+          "sha256": "7d2b9c555f9f2fedb0c78e59487ce4a3d743ce66b6b59795371965824cd1feed"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7507,
-          "bytes_after": 188719,
+          "bytes_before": 102467,
+          "bytes_after": 95328,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -357,21 +374,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -399,29 +419,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 腾光",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "abd4ba5add6199b2bbb53a104822746543372fd69176edbd3fbef8aa68d22ca5",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34032/34032.fantome",
       "files": [
         {
           "path": "skins/34/34027/34032/Anivia.wad.client",
-          "size": 188719,
-          "sha256": "9f9c7d799ac5b60085b63a8e635485df97b2a9592666c14ce0951d0bfccd1309"
+          "size": 95328,
+          "sha256": "b54dd8318e616a304ae6caeb0a7129042c3cdc4ef3406c33cca1bcb11792c650"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7507,
-          "bytes_after": 188719,
+          "bytes_before": 102467,
+          "bytes_after": 95328,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -435,21 +456,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -477,29 +501,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 紫雾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "40fe10cde8ab39c8547ebad382f56e674937044813ee24bc7c4e5b286c339f01",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34033/34033.fantome",
       "files": [
         {
           "path": "skins/34/34027/34033/Anivia.wad.client",
-          "size": 188720,
-          "sha256": "bd86a5974c5cb0f538f0bfbcc6e58b1d0e8ffe53dc4789ce3da8f8ef7fbfc139"
+          "size": 95328,
+          "sha256": "65c2402a977110898a2bb31ad99b7f06fc8982d9604b7cc549c5c7777b72506e"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7508,
-          "bytes_after": 188720,
+          "bytes_before": 102468,
+          "bytes_after": 95328,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -513,21 +538,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -555,29 +583,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 玄霜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "7e7de599eabd585acfa482dc842f35cccb82b6dd3c0640f7c9b8368aca376c2a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34034/34034.fantome",
       "files": [
         {
           "path": "skins/34/34027/34034/Anivia.wad.client",
-          "size": 188719,
-          "sha256": "6449c7b9955b27efa53df431bfd03741e366003edfc6962f82f4c4ed2f6f31a1"
+          "size": 95328,
+          "sha256": "fac3b95d999b8bd17c59f0c8b89ef9821c823aff3ab7b6f703dca9589ecf915f"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7507,
-          "bytes_after": 188719,
+          "bytes_before": 102467,
+          "bytes_after": 95328,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -591,21 +620,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -633,29 +665,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 逸羽",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "05924ee9d3374229b6f1d2db4c6ce0f7c7581a1d68bed036fadfa16263e062e5",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34035/34035.fantome",
       "files": [
         {
           "path": "skins/34/34027/34035/Anivia.wad.client",
-          "size": 188718,
-          "sha256": "3541f669e2a46ffeb884db9722fb3ad2ee151d8c8c39fd340432c1e4324ffed2"
+          "size": 95328,
+          "sha256": "6bfdf7c5976ec19f554730523d21ab4f7a06d72f89735003c5f70c446d12bdb0"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7506,
-          "bytes_after": 188718,
+          "bytes_before": 102466,
+          "bytes_after": 95328,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -669,21 +702,24 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -711,29 +747,30 @@
       "champion_id": 34,
       "name": "神凰行者 瑞羽圣凰 艾尼维亚 玉虎呈祥",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "bcd7b82c944d7876bb80c3fdd0df68979d4c0742be639731a548d72790e84191",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "34/34027/34036/34036.fantome",
       "files": [
         {
           "path": "skins/34/34027/34036/Anivia.wad.client",
-          "size": 187340,
-          "sha256": "c67bca7200473f93badcc864d5fa6067e6a54278a047f29504cb53097d49ed1a"
+          "size": 94558,
+          "sha256": "e3fff95e9e766ec7fdbabf3bd5f92955bede515daa9ac8a5eb859fb324407908"
         }
       ],
       "wads": {
         "Anivia.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6866,
-          "bytes_after": 187340,
+          "bytes_before": 101088,
+          "bytes_after": 94558,
           "replacement_hashes": [
             "6d1912ef9175042c"
           ]
@@ -747,14 +784,16 @@
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Anivia.wad.client",
             "normal_hash": "6d1912ef9175042c",
             "border_hash": "2e5fdaf24ad8f23f",
             "bytes": 86252,
-            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d"
+            "sha256": "649c777b7c9ff6e3ad233605d3cdc5fc13923469ab1eea4ee186c4505715ac2d",
+            "strategy": "replace_normal_image"
           }
         ]
       },

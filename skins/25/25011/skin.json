@@ -9,19 +9,19 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c88f0e75a2cea646bae1fa42446c9fefd7c8d41010490d28d032bfac40483cdc",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "25/25011/25011.fantome",
       "files": [
         {
           "path": "skins/25/25011/25011/Morgana.wad.client",
           "size": 92955,
-          "sha256": "aa495f3cb226ba42f3f4dc84d52e0e9fdaf93387e1b9fd968dbcbe85c7ba567d"
+          "sha256": "2698651374466f5aa5e761cfd6fc18c21c52f0f95562ff7e431321534b92582c"
         }
       ],
       "wads": {
@@ -45,7 +45,8 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
@@ -67,29 +68,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 热情化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0e0df000763e90ca59114a3c5491c8ad0e88f94e10f572133e28a237f9b2964b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25031/25031.fantome",
       "files": [
         {
           "path": "skins/25/25011/25031/Morgana.wad.client",
-          "size": 88994,
-          "sha256": "879c4f8cbf2a2c8d44e9512797043c91775e2185a684a3cbf7402a5f362804e3"
+          "size": 99128,
+          "sha256": "d9c5085d254f49f6f5a5971c80aadb2c41172f03ad93787a92e39c8c7af78793"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2710,
-          "bytes_after": 88994,
+          "bytes_before": 101534,
+          "bytes_after": 99128,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -103,13 +105,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {
@@ -125,29 +132,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 清新化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "94f6a3f53ca18135e4233f3137b38bd1eb3805aea8e27a1c41e99015669686c4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25032/25032.fantome",
       "files": [
         {
           "path": "skins/25/25011/25032/Morgana.wad.client",
-          "size": 88962,
-          "sha256": "467300db290a0f31e28c9c153603a62b1609c4a702d4daee905c78d878a5dc30"
+          "size": 99081,
+          "sha256": "bbc217d476b0a8245db572e00e7a1e766843ee7089fe84077276beceba210525"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2678,
-          "bytes_after": 88962,
+          "bytes_before": 101455,
+          "bytes_after": 99081,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -161,13 +169,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {
@@ -183,29 +196,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 典雅化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "45f0b25636984946c2d3a0de6799c491d92e538d70f8b7d1289daee878dab0e8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25033/25033.fantome",
       "files": [
         {
           "path": "skins/25/25011/25033/Morgana.wad.client",
-          "size": 88961,
-          "sha256": "db6cbfea60d5d8842765f6367f7a44ba0dd404fedcc0e2b20d34f7d0d6538e65"
+          "size": 99081,
+          "sha256": "d8b9ecf50e2a5fe3e627d2fdcf6e299373ed8011ae9c814a7843395a7bf198eb"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2677,
-          "bytes_after": 88961,
+          "bytes_before": 101454,
+          "bytes_after": 99081,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -219,13 +233,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {
@@ -241,29 +260,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 知性化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e22ea7f98196c7a29fa4f2e222223d5c750b6e9fbe584d12f6e651a064d6e0f8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25034/25034.fantome",
       "files": [
         {
           "path": "skins/25/25011/25034/Morgana.wad.client",
-          "size": 88964,
-          "sha256": "f6579744af711cdaa11ea2fe4f7744275461acddf3938e97b6149fa8819c80e0"
+          "size": 99081,
+          "sha256": "bdbcd745df783308d45badc23cfae277d1fd9a12d714530e2d8c3dde536e81b5"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2680,
-          "bytes_after": 88964,
+          "bytes_before": 101457,
+          "bytes_after": 99081,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -277,13 +297,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {
@@ -299,29 +324,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 高贵化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3bd66d9f1a6b2fb4376323a96e617e0ad384442bec19be7b6f359784109cf895",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25035/25035.fantome",
       "files": [
         {
           "path": "skins/25/25011/25035/Morgana.wad.client",
-          "size": 88961,
-          "sha256": "241408b98cb04b5a98a5b58383b4f3d3737ec0b4c5dedb1026ebf2511d6802e5"
+          "size": 99081,
+          "sha256": "8d085cd0e5337b3abad8876f16a392b2f2705731b3b0bb83d791cde951aa16f0"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2677,
-          "bytes_after": 88961,
+          "bytes_before": 101454,
+          "bytes_after": 99081,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -335,13 +361,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {
@@ -357,29 +388,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 浪漫化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b2d5058d7e92c2232f6a4c86836a7677c19e415fe20e472a54af0e8e126963fc",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25036/25036.fantome",
       "files": [
         {
           "path": "skins/25/25011/25036/Morgana.wad.client",
-          "size": 88971,
-          "sha256": "55e970ebfad12901f84836b52539046a3c2ddf3be7bb799a9061d7820e3113a9"
+          "size": 99094,
+          "sha256": "7c18a1b40df869eaff2a6e6a17c4c4190e27ea729f6070e6b796e483298aaa98"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2687,
-          "bytes_after": 88971,
+          "bytes_before": 101477,
+          "bytes_after": 99094,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -393,13 +425,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {
@@ -415,29 +452,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 纯真化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f30265f775738e674549255d2e56fe648d3f88a4e55986d508b82da88d4c7ef2",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25037/25037.fantome",
       "files": [
         {
           "path": "skins/25/25011/25037/Morgana.wad.client",
-          "size": 88962,
-          "sha256": "9a3d7de4a03638e48cb32dccaadecc769556288295dfb6202956e28620514de2"
+          "size": 99081,
+          "sha256": "f34df59d471815d95b112d49a7129cea8e08cfbe7f9edf3920d8478af1fea34e"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2678,
-          "bytes_after": 88962,
+          "bytes_before": 101455,
+          "bytes_after": 99081,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -451,13 +489,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {
@@ -473,29 +516,30 @@
       "champion_id": 25,
       "name": "魅惑女巫 莫甘娜 雍容化身",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "91dd8b9498b42034125847e045604eee447108d5f26ede5cc631226e94d69f0b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "25/25011/25038/25038.fantome",
       "files": [
         {
           "path": "skins/25/25011/25038/Morgana.wad.client",
-          "size": 88961,
-          "sha256": "617936a15d891e94431ad7e9b2cb912ddcd1ad8bba6f9c95b277fba6ca17993f"
+          "size": 99081,
+          "sha256": "c8a8ef4abb50e5ad6fea02f1bde311f76827108cbef9a520da539dd183fe338f"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2677,
-          "bytes_after": 88961,
+          "bytes_before": 101454,
+          "bytes_after": 99081,
           "replacement_hashes": [
             "4b67c64391a1e4b9"
           ]
@@ -509,13 +553,18 @@
             "normal_hash": "4b67c64391a1e4b9",
             "border_hash": "f8ec256a3e8e0633",
             "bytes": 86252,
-            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183"
+            "sha256": "ac9d0344d568f143d6161f1561c565e41b71e453e841d8a82389fec64b991183",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Morgana.wad.client": [
+          "6031aa8b633d9f7f"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 14,
         "missing": 0
       },
       "validation": {

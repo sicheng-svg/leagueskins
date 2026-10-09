@@ -9,29 +9,30 @@
       "champion_id": 21,
       "name": "MVP T1 厄运小姐",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "cb315fd0e6df11ab310188a5ed77fb75e5eec1083db340749a7c44778a2e7bf6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "21/21069/21069.fantome",
       "files": [
         {
           "path": "skins/21/21069/21069/MissFortune.wad.client",
-          "size": 1831606,
-          "sha256": "8246358b27c84cc890f61105039506cee30fae573141be0dbd8b7d8480dd5e39"
+          "size": 1839061,
+          "sha256": "5951529e04c52aec5e52338490bd45523deb7083e2911c5c8ffb7d44280d2cfa"
         }
       ],
       "wads": {
         "MissFortune.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1745322,
-          "bytes_after": 1831606,
+          "bytes_before": 1965002,
+          "bytes_after": 1839061,
           "replacement_hashes": [
             "23447ee22c889c39"
           ]
@@ -45,13 +46,19 @@
             "normal_hash": "23447ee22c889c39",
             "border_hash": "58da50315571762a",
             "bytes": 86252,
-            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8"
+            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MissFortune.wad.client": [
+          "b7107798498ee639",
+          "ffe71c06e8329504"
+        ]
+      },
       "references": {
-        "paths": 327,
+        "paths": 30,
         "missing": 0
       },
       "validation": {
@@ -67,29 +74,30 @@
       "champion_id": 21,
       "name": "MVP T1 厄运小姐 精锐",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "00a1f9d3c72e582693c352718271052a46cd20e8a9d384eb7f84166f5e7d2301",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "21/21069/21070/21070.fantome",
       "files": [
         {
           "path": "skins/21/21069/21070/MissFortune.wad.client",
-          "size": 1831470,
-          "sha256": "5a4235e822354f202020e4a41d7aade490999ba469c89b1936c28baab3cd14dc"
+          "size": 1802196,
+          "sha256": "61f2291662d0223095c70126b14507f4dbfb42742cb8ef9cadde566afb03a761"
         }
       ],
       "wads": {
         "MissFortune.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1745186,
-          "bytes_after": 1831470,
+          "bytes_before": 1920127,
+          "bytes_after": 1802196,
           "replacement_hashes": [
             "23447ee22c889c39"
           ]
@@ -103,13 +111,18 @@
             "normal_hash": "23447ee22c889c39",
             "border_hash": "58da50315571762a",
             "bytes": 86252,
-            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8"
+            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MissFortune.wad.client": [
+          "b7107798498ee639"
+        ]
+      },
       "references": {
-        "paths": 327,
+        "paths": 30,
         "missing": 0
       },
       "validation": {
@@ -125,29 +138,30 @@
       "champion_id": 21,
       "name": "MVP T1 厄运小姐 混合的世界",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "be5dcf148ee2e5cd53f06765e48937ec5714c5e2efa09c03aa300c3a61465aca",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "21/21069/21071/21071.fantome",
       "files": [
         {
           "path": "skins/21/21069/21071/MissFortune.wad.client",
-          "size": 1831689,
-          "sha256": "23005f9b131006f9d2f4940f0fdabd92770b419861724873eeb0814c31a5a26a"
+          "size": 1802123,
+          "sha256": "626263bf4312d0a3c975436ebb7c1a46e363bc793c0154c74614b58ec9390c3b"
         }
       ],
       "wads": {
         "MissFortune.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1745405,
-          "bytes_after": 1831689,
+          "bytes_before": 1920273,
+          "bytes_after": 1802123,
           "replacement_hashes": [
             "23447ee22c889c39"
           ]
@@ -161,13 +175,18 @@
             "normal_hash": "23447ee22c889c39",
             "border_hash": "58da50315571762a",
             "bytes": 86252,
-            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8"
+            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MissFortune.wad.client": [
+          "b7107798498ee639"
+        ]
+      },
       "references": {
-        "paths": 327,
+        "paths": 30,
         "missing": 0
       },
       "validation": {
@@ -183,29 +202,30 @@
       "champion_id": 21,
       "name": "MVP T1 厄运小姐 决战在即",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f1877ac69bb9c48295a3939e748b084cf70bf58208733d00efd1bad3918e0593",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "21/21069/21072/21072.fantome",
       "files": [
         {
           "path": "skins/21/21069/21072/MissFortune.wad.client",
-          "size": 1831590,
-          "sha256": "c4315ac6a018fb38c49226bdcb9c6530a469e214175cf754ee0f0fa297cb25cc"
+          "size": 1802195,
+          "sha256": "fbb6747718eb3500a2562ce923fe641225e673fc5928412096a18f38dac37ac3"
         }
       ],
       "wads": {
         "MissFortune.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1745306,
-          "bytes_after": 1831590,
+          "bytes_before": 1920246,
+          "bytes_after": 1802195,
           "replacement_hashes": [
             "23447ee22c889c39"
           ]
@@ -219,13 +239,18 @@
             "normal_hash": "23447ee22c889c39",
             "border_hash": "58da50315571762a",
             "bytes": 86252,
-            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8"
+            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MissFortune.wad.client": [
+          "b7107798498ee639"
+        ]
+      },
       "references": {
-        "paths": 327,
+        "paths": 30,
         "missing": 0
       },
       "validation": {
@@ -241,29 +266,30 @@
       "champion_id": 21,
       "name": "MVP T1 厄运小姐 燃",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "7f9093b5ebd67a5327cc90bed72360de06285d62658e9a019ea2d1f13aafd94c",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "21/21069/21073/21073.fantome",
       "files": [
         {
           "path": "skins/21/21069/21073/MissFortune.wad.client",
-          "size": 1831520,
-          "sha256": "9d1acbb5694d124e1bd706eea20793ec2b67ad6950d8465509b6d7b5df14b851"
+          "size": 1802123,
+          "sha256": "7b97628cf5c81fcb1a6b54e8f69aec0c0b4febee33025d60966e0233c6af118b"
         }
       ],
       "wads": {
         "MissFortune.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1745236,
-          "bytes_after": 1831520,
+          "bytes_before": 1920104,
+          "bytes_after": 1802123,
           "replacement_hashes": [
             "23447ee22c889c39"
           ]
@@ -277,13 +303,18 @@
             "normal_hash": "23447ee22c889c39",
             "border_hash": "58da50315571762a",
             "bytes": 86252,
-            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8"
+            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MissFortune.wad.client": [
+          "b7107798498ee639"
+        ]
+      },
       "references": {
-        "paths": 327,
+        "paths": 30,
         "missing": 0
       },
       "validation": {
@@ -299,29 +330,30 @@
       "champion_id": 21,
       "name": "MVP T1 厄运小姐 登神",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "7d995a1b95fa0f2bf7cb765602c309e42c7d83713f7e31200c1eecfac5ffc887",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "21/21069/21074/21074.fantome",
       "files": [
         {
           "path": "skins/21/21069/21074/MissFortune.wad.client",
-          "size": 1831745,
-          "sha256": "ec53b8d5d935a35f554ef1afea9318c9e42fde71f8657f7d4f6c9af61679220b"
+          "size": 1802123,
+          "sha256": "49b93fcbc86cc60755cd8fbf31e5abca120a4c316cf89dbe329b1d32e9f4bad3"
         }
       ],
       "wads": {
         "MissFortune.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1745461,
-          "bytes_after": 1831745,
+          "bytes_before": 1920329,
+          "bytes_after": 1802123,
           "replacement_hashes": [
             "23447ee22c889c39"
           ]
@@ -335,13 +367,18 @@
             "normal_hash": "23447ee22c889c39",
             "border_hash": "58da50315571762a",
             "bytes": 86252,
-            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8"
+            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MissFortune.wad.client": [
+          "b7107798498ee639"
+        ]
+      },
       "references": {
-        "paths": 327,
+        "paths": 30,
         "missing": 0
       },
       "validation": {
@@ -357,29 +394,30 @@
       "champion_id": 21,
       "name": "MVP T1 厄运小姐 王冠之重",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1abc2d1fdf0baec11bb1f673ec90f86f0dda81b392b89118e96d2dc570b57f64",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "21/21069/21075/21075.fantome",
       "files": [
         {
           "path": "skins/21/21069/21075/MissFortune.wad.client",
-          "size": 1831561,
-          "sha256": "513b917ba43a361bbd762eac519bde4fbe000ea0c01d03a0991684f2b38c8366"
+          "size": 1802123,
+          "sha256": "c3913622016a94b5a91096178a024c48d26ad6878dbe57cdc42c81bf643066be"
         }
       ],
       "wads": {
         "MissFortune.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1745277,
-          "bytes_after": 1831561,
+          "bytes_before": 1920145,
+          "bytes_after": 1802123,
           "replacement_hashes": [
             "23447ee22c889c39"
           ]
@@ -393,13 +431,18 @@
             "normal_hash": "23447ee22c889c39",
             "border_hash": "58da50315571762a",
             "bytes": 86252,
-            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8"
+            "sha256": "4efbf73f3b8ffcbb57d2fd579e577120439e82e196d64e04a3d9e0aa19bd82c8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MissFortune.wad.client": [
+          "b7107798498ee639"
+        ]
+      },
       "references": {
-        "paths": 327,
+        "paths": 30,
         "missing": 0
       },
       "validation": {

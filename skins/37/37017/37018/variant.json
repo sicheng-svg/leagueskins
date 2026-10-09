@@ -4,29 +4,30 @@
   "champion_id": 37,
   "name": "灵能特工 娑娜 代号：龙焰",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "d95962c13a9a03b74bd25d4afe197b8c37681a8e693a58959ada410be1b29956",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "37/37017/37018/37018.fantome",
   "files": [
     {
       "path": "skins/37/37017/37018/Sona.wad.client",
-      "size": 98667,
-      "sha256": "d57777c4e5b4142d427fedba8f4dfc5e003ac7bbea21efa1c1e92b33aee1a042"
+      "size": 111336,
+      "sha256": "e5b93a9fd52e965a1cba8cbd04ecb45705d0733205b637093658531a4f2d2a2c"
     }
   ],
   "wads": {
     "Sona.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 12383,
-      "bytes_after": 98667,
+      "bytes_before": 115739,
+      "bytes_after": 111336,
       "replacement_hashes": [
         "cc24bd14d7ed6100"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "cc24bd14d7ed6100",
         "border_hash": "eb0f0df5da1ed631",
         "bytes": 86252,
-        "sha256": "158474d15fd53527c3942f00ac262b05d95d39673be76feec3133b7539e33ba7"
+        "sha256": "158474d15fd53527c3942f00ac262b05d95d39673be76feec3133b7539e33ba7",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sona.wad.client": [
+      "6cd4cc2bfeb1311f"
+    ]
+  },
   "references": {
-    "paths": 21,
+    "paths": 19,
     "missing": 0
   },
   "validation": {

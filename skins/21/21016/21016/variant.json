@@ -4,29 +4,30 @@
   "champion_id": 21,
   "name": "武装战姬 厄运小姐",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "47b2e6767938a84f96cbe450d8e81546231c52f95cd9edfac41667df52f907e3",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "7e59a5a7bdabee1d5ec1ac0bfb796a13d905c968f53a68ca41fedf0715660e8a"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "21/21016/21016.fantome",
   "files": [
     {
       "path": "skins/21/21016/21016/MissFortune.wad.client",
-      "size": 149088,
-      "sha256": "8eabcc074965cea05af9c3833342e340d1f4ac34498884280ba19edab184dfd7"
+      "size": 924498,
+      "sha256": "020071632301221c611d2a5538f79904d824a0cd32cfdd66bb7f88d1037e7ba4"
     }
   ],
   "wads": {
     "MissFortune.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 62804,
-      "bytes_after": 149088,
+      "bytes_before": 986998,
+      "bytes_after": 924498,
       "replacement_hashes": [
         "025f784c5a5fc05c"
       ]
@@ -45,7 +46,11 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "MissFortune.wad.client": [
+      "b7107798498ee639"
+    ]
+  },
   "references": {
     "paths": 224,
     "missing": 0

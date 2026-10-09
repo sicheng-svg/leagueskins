@@ -4,29 +4,30 @@
   "champion_id": 24,
   "name": "征服者 贾克斯",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "dec34b662cf8f9b1f462555c94f18641b1b476a54fd3ec700c2d00720427d8e2",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "24/24020/24020.fantome",
   "files": [
     {
       "path": "skins/24/24020/24020/Jax.wad.client",
-      "size": 92947,
-      "sha256": "108e5c33b92766da992f54dfcc6fea245eba6d28499a2512a8a9c07322968666"
+      "size": 331107,
+      "sha256": "69e59ab69ba74df96309c17c885b9ffb7a7935c4f2ada0dc9df64295cfb2931d"
     }
   ],
   "wads": {
     "Jax.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6663,
-      "bytes_after": 92947,
+      "bytes_before": 337466,
+      "bytes_after": 331107,
       "replacement_hashes": [
         "77b5cb3bc2c260b4"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "77b5cb3bc2c260b4",
         "border_hash": "70bba40882b9bb64",
         "bytes": 86252,
-        "sha256": "4ce2785fc31a04658d321cdbfee07b2ef072dcbbfb4711b6778121e73452f479"
+        "sha256": "4ce2785fc31a04658d321cdbfee07b2ef072dcbbfb4711b6778121e73452f479",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Jax.wad.client": [
+      "9fbe15414c419cad"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 162,
     "missing": 0
   },
   "validation": {

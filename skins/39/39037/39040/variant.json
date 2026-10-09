@@ -4,29 +4,30 @@
   "champion_id": 39,
   "name": "剪纸仙灵 艾瑞莉娅 喜气洋洋",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "37b4e8782d50f6c10b0ae48729e2d272d9a7df353b527324cf3ae6dc58b50938",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "39/39037/39040/39040.fantome",
   "files": [
     {
       "path": "skins/39/39037/39040/Irelia.wad.client",
-      "size": 92038,
-      "sha256": "bcb862473a015055b62ee9b7ca399dfea910f25865fc502c28af2ffc98cce393"
+      "size": 422307,
+      "sha256": "8d3e45a301d87331a494bdbf08f95cc7115e6de084d55787c196a401f69b680a"
     }
   ],
   "wads": {
     "Irelia.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 5754,
-      "bytes_after": 92038,
+      "bytes_before": 427725,
+      "bytes_after": 422307,
       "replacement_hashes": [
         "de0cddffc1872c70"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "de0cddffc1872c70",
         "border_hash": "d8ed88798011bd69",
         "bytes": 86252,
-        "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+        "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Irelia.wad.client",
         "normal_hash": "de0cddffc1872c70",
         "border_hash": "d8ed88798011bd69",
         "bytes": 86252,
-        "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0"
+        "sha256": "5e2d78ba672271a8d253dd8d6fbbbc85b663c7d71fa46e12afffbab3dda090e0",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Irelia.wad.client": [
+      "b427b47c2f1744af",
+      "c013c914af146147"
+    ]
+  },
   "references": {
-    "paths": 21,
+    "paths": 166,
     "missing": 0
   },
   "validation": {

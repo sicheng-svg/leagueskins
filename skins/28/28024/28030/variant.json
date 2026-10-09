@@ -4,29 +4,30 @@
   "champion_id": 28,
   "name": "魔女 伊芙琳 狂信",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "1348c3ded33a0b6abecffca3b9218615158802bd2ca5c3473511a86e30c4f6e1",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "28/28024/28030/28030.fantome",
   "files": [
     {
       "path": "skins/28/28024/28030/Evelynn.wad.client",
-      "size": 89842,
-      "sha256": "c2e02142ef4bcdc43aacb3529b04d01836030407f8c1d826cc8e8676a0162862"
+      "size": 124341,
+      "sha256": "360e3d30849fdd7396b19a5ef9848cfd96a65edca63eb6f16a2cf51724d4c303"
     }
   ],
   "wads": {
     "Evelynn.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3558,
-      "bytes_after": 89842,
+      "bytes_before": 127595,
+      "bytes_after": 124341,
       "replacement_hashes": [
         "31eb9f47c76be367"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "31eb9f47c76be367",
         "border_hash": "d8f82ac5b368a4ab",
         "bytes": 86252,
-        "sha256": "259cb768f6931c5d40a5866341fd672c0ab91267bfcfd9b8a52041b63053135b"
+        "sha256": "259cb768f6931c5d40a5866341fd672c0ab91267bfcfd9b8a52041b63053135b",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Evelynn.wad.client": [
+      "51b5ac6bc5395969"
+    ]
+  },
   "references": {
-    "paths": 26,
+    "paths": 43,
     "missing": 0
   },
   "validation": {

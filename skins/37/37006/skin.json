@@ -1,0 +1,60 @@
+{
+  "champion_id": 37,
+  "base_skin_id": 37006,
+  "name": "DJ 娑娜",
+  "variants": [
+    {
+      "skin_id": 37006,
+      "base_skin_id": 37006,
+      "champion_id": 37,
+      "name": "DJ 娑娜",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cc0abaf0f284d51447f215bad0bdc4b07bd3eab354913750ab492b5d8ee44444",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "37/37006/37006.fantome",
+      "files": [
+        {
+          "path": "skins/37/37006/37006/Sona.wad.client",
+          "size": 722223,
+          "sha256": "2e82c83d18d031dd294fa498e56a10d215ad4b7bd1c96fd884603ecff9ad7bea"
+        }
+      ],
+      "wads": {
+        "Sona.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 783033,
+          "bytes_after": 722223,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {
+        "Sona.wad.client": [
+          "6cd4cc2bfeb1311f"
+        ]
+      },
+      "references": {
+        "paths": 269,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

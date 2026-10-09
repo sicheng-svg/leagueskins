@@ -4,29 +4,30 @@
   "champion_id": 34,
   "name": "千纸凤凰 艾尼维亚 珊瑚",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "3b40737951416c474f4d9d42b0273bed55c785fc5c77311c16d3d0788241091b",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "34/34008/34015/34015.fantome",
   "files": [
     {
       "path": "skins/34/34008/34015/Anivia.wad.client",
-      "size": 157029,
-      "sha256": "9f5770799e3283d913e8d26433534648efceae03d2e09eeaec04cbe595fd84b0"
+      "size": 235610,
+      "sha256": "8ad90317314cbb5cbdb9244507f4939b0d6d60d08648a441b08e27c3a962ee9b"
     }
   ],
   "wads": {
     "Anivia.wad.client": {
-      "entries_before": 3,
-      "entries_after": 3,
+      "entries_before": 4,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8071,
-      "bytes_after": 157029,
+      "bytes_before": 243313,
+      "bytes_after": 235610,
       "replacement_hashes": []
     }
   },

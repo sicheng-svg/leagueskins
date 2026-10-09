@@ -4,29 +4,30 @@
   "champion_id": 24,
   "name": "源计划：孤狼 贾克斯 暴走",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "016a7e01f3d35d11d94c0b0bbf479971b399ebbca4fb3f41412bc4d6d2279b81",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "24/24033/24038/24038.fantome",
   "files": [
     {
       "path": "skins/24/24033/24038/Jax.wad.client",
-      "size": 3056,
-      "sha256": "53e4f1f34f568f6b8ed0d481d005ba4b50ce29c78badf64ec55752ce81f6da3e"
+      "size": 107464,
+      "sha256": "5602a83f9d7c0d9dfad7c7e582891535b18dbb15c38509d2c5ca4bd75c2d8564"
     }
   ],
   "wads": {
     "Jax.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3056,
-      "bytes_after": 3056,
+      "bytes_before": 110216,
+      "bytes_after": 107464,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Jax.wad.client": [
+      "9fbe15414c419cad"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 13,
     "missing": 0
   },
   "validation": {

@@ -9,29 +9,30 @@
       "champion_id": 24,
       "name": "至臻 征服者 贾克斯",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3ba05de4dd62700275caa3602e22bb0025a4ae5c8dd9ac0c9256c4f4887429d2",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "24/24021/24021.fantome",
       "files": [
         {
           "path": "skins/24/24021/24021/Jax.wad.client",
-          "size": 92941,
-          "sha256": "3fb84283f1e57804f613188ce2728bfc7a52ada2f1118e00a95e0e2858ef8366"
+          "size": 381262,
+          "sha256": "d31f68fa66d8e9247360c96fc0bc9d7698ab0431056ee25b05e993b3481bb90f"
         }
       ],
       "wads": {
         "Jax.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6657,
-          "bytes_after": 92941,
+          "bytes_before": 387615,
+          "bytes_after": 381262,
           "replacement_hashes": [
             "96973f7dd650081d"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "96973f7dd650081d",
             "border_hash": "de3d3b33a625abab",
             "bytes": 86252,
-            "sha256": "473e156b364d52e79da89ae642a807e620b1857ab28d636d05fc67b6f79de6c4"
+            "sha256": "473e156b364d52e79da89ae642a807e620b1857ab28d636d05fc67b6f79de6c4",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jax.wad.client": [
+          "9fbe15414c419cad"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 170,
         "missing": 0
       },
       "validation": {

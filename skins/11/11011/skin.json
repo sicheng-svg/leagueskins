@@ -9,29 +9,30 @@
       "champion_id": 11,
       "name": "玉剑传说 无极",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e09acabfb9aec56de5e42a18015008a0543108c85e828e4ce1d63dc72b9e842b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "11/11011/11011.fantome",
       "files": [
         {
           "path": "skins/11/11011/11011/MasterYi.wad.client",
-          "size": 5449,
-          "sha256": "4da445b3b58ca29a0fecd287931b48dedcf0b0ea4f663199547d6760065b9f65"
+          "size": 119301,
+          "sha256": "fa99e601406549b39c9cbc779e4e04203605d70267a734ce50be0118ba9c8aa6"
         }
       ],
       "wads": {
         "MasterYi.wad.client": {
-          "entries_before": 2,
-          "entries_after": 2,
+          "entries_before": 3,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5449,
-          "bytes_after": 5449,
+          "bytes_before": 124414,
+          "bytes_after": 119301,
           "replacement_hashes": []
         }
       },
@@ -39,9 +40,14 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MasterYi.wad.client": [
+          "1d5c271d91e85aed",
+          "4679d8d214f61c77"
+        ]
+      },
       "references": {
-        "paths": 19,
+        "paths": 25,
         "missing": 0
       },
       "validation": {
@@ -57,29 +63,30 @@
       "champion_id": 11,
       "name": "玉剑传说 无极 白虎",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8f35fb438dd1aa03456af249ac10484f37a198454d592dac194dbf26be62887d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "11/11011/11012/11012.fantome",
       "files": [
         {
           "path": "skins/11/11011/11012/MasterYi.wad.client",
-          "size": 5477,
-          "sha256": "0cb4d5ae7e1d13cef85a50791ec0e135c5570cadae953e7b0a15bd68da390267"
+          "size": 110118,
+          "sha256": "ea18e2c49de81b4273774f2c34ce5ad39f3c108a7b1f22b2259272dc06234d3f"
         }
       ],
       "wads": {
         "MasterYi.wad.client": {
-          "entries_before": 2,
-          "entries_after": 2,
+          "entries_before": 3,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5477,
-          "bytes_after": 5477,
+          "bytes_before": 112580,
+          "bytes_after": 110118,
           "replacement_hashes": []
         }
       },
@@ -87,9 +94,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MasterYi.wad.client": [
+          "1d5c271d91e85aed"
+        ]
+      },
       "references": {
-        "paths": 19,
+        "paths": 25,
         "missing": 0
       },
       "validation": {
@@ -105,29 +116,30 @@
       "champion_id": 11,
       "name": "玉剑传说 无极 青龙",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "73ed63b77613216b7c9e3b281e3cf488bc6359c7a41c6f071c5e6d192da0c6e0",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "11/11011/11013/11013.fantome",
       "files": [
         {
           "path": "skins/11/11011/11013/MasterYi.wad.client",
-          "size": 5477,
-          "sha256": "044acd3c29358270e8d6c0e920733fae93e0a6481de9528514ac927d44f053a0"
+          "size": 110118,
+          "sha256": "d59f9f28dcffe80b02e44a7e04eec931d97347ac13744d005035a14eff08fb78"
         }
       ],
       "wads": {
         "MasterYi.wad.client": {
-          "entries_before": 2,
-          "entries_after": 2,
+          "entries_before": 3,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5477,
-          "bytes_after": 5477,
+          "bytes_before": 112580,
+          "bytes_after": 110118,
           "replacement_hashes": []
         }
       },
@@ -135,9 +147,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MasterYi.wad.client": [
+          "1d5c271d91e85aed"
+        ]
+      },
       "references": {
-        "paths": 19,
+        "paths": 25,
         "missing": 0
       },
       "validation": {
@@ -153,29 +169,30 @@
       "champion_id": 11,
       "name": "玉剑传说 无极 朱雀",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "dfaf34a0a9ea6c1ff7253265c20d73621990f6bc43d5da9340dcd622a951be02",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "11/11011/11014/11014.fantome",
       "files": [
         {
           "path": "skins/11/11011/11014/MasterYi.wad.client",
-          "size": 5475,
-          "sha256": "fd8a61543d1075b22cd9c8a459daa5619237aebba944c97ae43e2f72906bd8a9"
+          "size": 110118,
+          "sha256": "13c0337f310d95fc8c888d762bcc3e3c32e989833ec24725c72b4f33f3f7eca3"
         }
       ],
       "wads": {
         "MasterYi.wad.client": {
-          "entries_before": 2,
-          "entries_after": 2,
+          "entries_before": 3,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5475,
-          "bytes_after": 5475,
+          "bytes_before": 112578,
+          "bytes_after": 110118,
           "replacement_hashes": []
         }
       },
@@ -183,9 +200,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MasterYi.wad.client": [
+          "1d5c271d91e85aed"
+        ]
+      },
       "references": {
-        "paths": 19,
+        "paths": 25,
         "missing": 0
       },
       "validation": {
@@ -201,29 +222,30 @@
       "champion_id": 11,
       "name": "玉剑传说 无极 玄武",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8a5ad57083e3d6ce4023904f08d61ce0058e2f03259cd0c98660e1514cc4cb55",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "11/11011/11015/11015.fantome",
       "files": [
         {
           "path": "skins/11/11011/11015/MasterYi.wad.client",
-          "size": 5478,
-          "sha256": "833e7b059a56a6b7308a93d454706775149d87c38c5163f5ed70d19c551e82d9"
+          "size": 110118,
+          "sha256": "b2835e3a31ff6952c0065631fd220ede70e1f22527c7832876509a3be69dadae"
         }
       ],
       "wads": {
         "MasterYi.wad.client": {
-          "entries_before": 2,
-          "entries_after": 2,
+          "entries_before": 3,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5478,
-          "bytes_after": 5478,
+          "bytes_before": 112581,
+          "bytes_after": 110118,
           "replacement_hashes": []
         }
       },
@@ -231,9 +253,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MasterYi.wad.client": [
+          "1d5c271d91e85aed"
+        ]
+      },
       "references": {
-        "paths": 19,
+        "paths": 25,
         "missing": 0
       },
       "validation": {
@@ -249,29 +275,30 @@
       "champion_id": 11,
       "name": "玉剑传说 无极 麒麟",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c5b27525d3d838be847eb60a303f1d0160126ca3d955c5f803646f3b64a7e683",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "11/11011/11016/11016.fantome",
       "files": [
         {
           "path": "skins/11/11011/11016/MasterYi.wad.client",
-          "size": 5480,
-          "sha256": "604ddaf049670a7c738513b2322a18bef219562ca3b9634d453fa7595e0edac6"
+          "size": 110119,
+          "sha256": "994ff57195a20adca4ed021406f5797ad4f2097ccc615f9ed8ad0bf58f3fbb22"
         }
       ],
       "wads": {
         "MasterYi.wad.client": {
-          "entries_before": 2,
-          "entries_after": 2,
+          "entries_before": 3,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5480,
-          "bytes_after": 5480,
+          "bytes_before": 112584,
+          "bytes_after": 110119,
           "replacement_hashes": []
         }
       },
@@ -279,9 +306,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "MasterYi.wad.client": [
+          "1d5c271d91e85aed"
+        ]
+      },
       "references": {
-        "paths": 19,
+        "paths": 25,
         "missing": 0
       },
       "validation": {

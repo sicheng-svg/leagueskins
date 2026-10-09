@@ -4,29 +4,30 @@
   "champion_id": 202,
   "name": "暗星尊 烬",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "c439b39fa1c6bb690c6e8174180e628f37de56edd35aab0ea43e4fb9e7e8b6ca",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "202/202005/202005.fantome",
   "files": [
     {
       "path": "skins/202/202005/202005/Jhin.wad.client",
-      "size": 90178,
-      "sha256": "8d07e89ab514620572f425c35c9564410f5088b81ac137a177acba063efbf715"
+      "size": 1181162,
+      "sha256": "fabd39297733bb5568606147e7b8d242e91ded2449d2edbae76997da3fcd71d5"
     }
   ],
   "wads": {
     "Jhin.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3894,
-      "bytes_after": 90178,
+      "bytes_before": 1184752,
+      "bytes_after": 1181162,
       "replacement_hashes": [
         "d313d5817becff25"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "d313d5817becff25",
         "border_hash": "2c8315d6b563aa7f",
         "bytes": 86252,
-        "sha256": "f2a0667abf267453ee3b53d05aec1e35c1837a9493b37eae88f33ab7ef7b51cd"
+        "sha256": "f2a0667abf267453ee3b53d05aec1e35c1837a9493b37eae88f33ab7ef7b51cd",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Jhin.wad.client": [
+      "e1c567d211f030ec"
+    ]
+  },
   "references": {
-    "paths": 21,
+    "paths": 287,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 163,
   "name": "弗雷尔卓德 塔莉垭",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "130b6613f924323e12391688c64cb1a8602a07a8e34ff9a33ae24aa7c618e2b5",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "163/163001/163001.fantome",
   "files": [
     {
       "path": "skins/163/163001/163001/Taliyah.wad.client",
-      "size": 10821,
-      "sha256": "b17ecbff9a33ee21dffedc85bdadc7430e352168ab78ede2463e6f5a33e7729d"
+      "size": 328387,
+      "sha256": "92d44a9a6655f485681e75164c39df850e652ab2c486afbd8071a55b8f34dbd6"
     }
   ],
   "wads": {
     "Taliyah.wad.client": {
-      "entries_before": 2,
-      "entries_after": 2,
-      "was_sorted": false,
+      "entries_before": 3,
+      "entries_after": 3,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 10821,
-      "bytes_after": 10821,
+      "bytes_before": 338872,
+      "bytes_after": 328387,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,14 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Taliyah.wad.client": [
+      "6454556cde01bd48",
+      "a8f81471e95de7f0"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 162,
     "missing": 0
   },
   "validation": {

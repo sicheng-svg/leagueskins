@@ -4,29 +4,30 @@
   "champion_id": 145,
   "name": "星之守护者 卡莎 勇气之光",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "bdf210fd437d4b0185d263b85dba663ec6b0a026a1c9ad5dd5c4ae518e045884",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "145/145040/145044/145044.fantome",
   "files": [
     {
       "path": "skins/145/145040/145044/Kaisa.wad.client",
-      "size": 90951,
-      "sha256": "802e7e980277dcbec20149e96ef21b389c6e6504c7f75c78bd9c7f7f471a0dbb"
+      "size": 290712,
+      "sha256": "cf7cba25e5ae47eee9ca081a0eed891f2f84a1d2d94d07fb008780dd056d2dc6"
     }
   ],
   "wads": {
     "Kaisa.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4667,
-      "bytes_after": 90951,
+      "bytes_before": 295075,
+      "bytes_after": 290712,
       "replacement_hashes": [
         "12b911051549ffee"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "12b911051549ffee",
         "border_hash": "09208509f9992e41",
         "bytes": 86252,
-        "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02"
+        "sha256": "8c0ae0fb09aae343e3d2307ff2489345ab3435dabfe5b2060466282968155a02",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Kaisa.wad.client": [
+      "64bffe6a927eff38"
+    ]
+  },
   "references": {
-    "paths": 17,
+    "paths": 108,
     "missing": 0
   },
   "validation": {

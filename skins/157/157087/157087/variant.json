@@ -4,29 +4,30 @@
   "champion_id": 157,
   "name": "创世 黑夜使者 亚索",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "97ee7bc484d6946d356790bcb1d18a0f2b90b1fae74a093505c870394b5f66e7",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "157/157087/157087.fantome",
   "files": [
     {
       "path": "skins/157/157087/157087/Yasuo.wad.client",
-      "size": 113065,
-      "sha256": "0c2901998ce83722bc522608c97a8b9403deee6048f5eff9138e1a7faa07bab8"
+      "size": 961841,
+      "sha256": "2d223f0514aa3e5314dee1a8d696abbf70dadf868ddab37cbe5265fa5aa43ff6"
     }
   ],
   "wads": {
     "Yasuo.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 26781,
-      "bytes_after": 113065,
+      "bytes_before": 988286,
+      "bytes_after": 961841,
       "replacement_hashes": [
         "cb898f8be93756c6"
       ]
@@ -45,9 +46,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yasuo.wad.client": [
+      "4c3292c3dd304276",
+      "7548bbdc51d274c3"
+    ]
+  },
   "references": {
-    "paths": 105,
+    "paths": 272,
     "missing": 0
   },
   "validation": {

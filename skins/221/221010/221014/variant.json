@@ -4,29 +4,30 @@
   "champion_id": 221,
   "name": "海之歌 泽丽 浪漫氛围",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "4d1da81bef85bb46f815f9b7e8e970336051b9a2b4452265110d21ecc5c27a25",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "221/221010/221014/221014.fantome",
   "files": [
     {
       "path": "skins/221/221010/221014/Zeri.wad.client",
-      "size": 3534,
-      "sha256": "a6e1f7a7617682ac850091f08e00c9850703b64a6fde693dac786527121ee96f"
+      "size": 143513,
+      "sha256": "5c6c4b1245c491ad70658e0ac6538b406f9893024714822b6d0bcde29f8352ce"
     }
   ],
   "wads": {
     "Zeri.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3534,
-      "bytes_after": 3534,
+      "bytes_before": 146743,
+      "bytes_after": 143513,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zeri.wad.client": [
+      "260ca7218d54eaef"
+    ]
+  },
   "references": {
-    "paths": 10,
+    "paths": 41,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 221,
   "name": "玉剑传说 神机花火 青竹",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "05ad8bd18bc263390681ebb80025550b5f891e57b58590c41da6f236eda1a594",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "221/221019/221024/221024.fantome",
   "files": [
     {
       "path": "skins/221/221019/221024/Zeri.wad.client",
-      "size": 89635,
-      "sha256": "707a279873934487f00d038527d102931d6ebfe8eb5d2adad3721df267941127"
+      "size": 507923,
+      "sha256": "59fa0aaa58f6d2b3ded707c32ce83cb36d1b0f5a0eeb7905fa9d1798ec6c49d1"
     }
   ],
   "wads": {
     "Zeri.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3351,
-      "bytes_after": 89635,
+      "bytes_before": 510970,
+      "bytes_after": 507923,
       "replacement_hashes": [
         "dd0d8535c88be2fa"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "dd0d8535c88be2fa",
         "border_hash": "f81cfd5b1234856f",
         "bytes": 86252,
-        "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+        "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zeri.wad.client": [
+      "260ca7218d54eaef"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 161,
     "missing": 0
   },
   "validation": {

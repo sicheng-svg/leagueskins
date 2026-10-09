@@ -9,29 +9,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a842ed0c1920c99d3169fe4a3b2a0240e4e2444a41282b0530f7ef84bab58411",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221019.fantome",
       "files": [
         {
           "path": "skins/221/221019/221019/Zeri.wad.client",
-          "size": 93711,
-          "sha256": "1c79957c6fb4a3877152dffd1d6568a902ae5873ebe9e223b2f6344d01186bab"
+          "size": 507873,
+          "sha256": "b0a19551dfd106a59b7953caf4bfab8402ed362441be6cd9b2020be7c0a704de"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7427,
-          "bytes_after": 93711,
+          "bytes_before": 514996,
+          "bytes_after": 507873,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 160,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 胭脂",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a68e23543684acb43fb8710db664a2b5b0047d94f155565df6d938d888627ef6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221020/221020.fantome",
       "files": [
         {
           "path": "skins/221/221019/221020/Zeri.wad.client",
-          "size": 89688,
-          "sha256": "9da9ce3fb0e4badaff6bf4634df25a451287ad640ed5a47ba38f55737fe3d374"
+          "size": 507996,
+          "sha256": "6efa9c131f81b1d1838d11399e1661f43e7d0f44f0252c06c801ee07010223bb"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3404,
-          "bytes_after": 89688,
+          "bytes_before": 511096,
+          "bytes_after": 507996,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 黄栌",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "56f52386183ae9b9b09976c7c1e5ed0bbf62b1897ca73c8012126deab2832854",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221021/221021.fantome",
       "files": [
         {
           "path": "skins/221/221019/221021/Zeri.wad.client",
-          "size": 89635,
-          "sha256": "a7af926bc581c9db5d78d6388b1b5dc4f20c4f288de9e27b2d3634c3ee384316"
+          "size": 507923,
+          "sha256": "0e1242ace87d9d26fe08859216890d4aa0136e3ca0aa01b9bf4587b39285dc27"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3351,
-          "bytes_after": 89635,
+          "bytes_before": 510970,
+          "bytes_after": 507923,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 翡翠",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "cb78262aecf2c47c95c80a6c0377319f835a163829f0af24f8506b26f8b0d3af",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221022/221022.fantome",
       "files": [
         {
           "path": "skins/221/221019/221022/Zeri.wad.client",
-          "size": 89632,
-          "sha256": "2ba457496f44fe2b035f30f14f44bcb463d8ef3e9762f0f259bbf7d7ab88e108"
+          "size": 507923,
+          "sha256": "581e8b71b6800d7d73898f108808901ef334a15cf0a950cb951628e39f9dee7b"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3348,
-          "bytes_after": 89632,
+          "bytes_before": 510967,
+          "bytes_after": 507923,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 珐琅",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f0e9c262238c3ff3ef8956e8016f07fb5bfee8efe0202dcc10775bbdda879438",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221023/221023.fantome",
       "files": [
         {
           "path": "skins/221/221019/221023/Zeri.wad.client",
-          "size": 89630,
-          "sha256": "ff34494ac6a781a7b1ec6757f9bd6f349d67a6f4d5e3211e59188f12a7335d5b"
+          "size": 507923,
+          "sha256": "397a142234f4fd76f08a477b8bdd18e8b4c431b702e395046652efdeeb6b43cd"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3346,
-          "bytes_after": 89630,
+          "bytes_before": 510965,
+          "bytes_after": 507923,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 青竹",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "05ad8bd18bc263390681ebb80025550b5f891e57b58590c41da6f236eda1a594",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221024/221024.fantome",
       "files": [
         {
           "path": "skins/221/221019/221024/Zeri.wad.client",
-          "size": 89635,
-          "sha256": "707a279873934487f00d038527d102931d6ebfe8eb5d2adad3721df267941127"
+          "size": 507923,
+          "sha256": "59fa0aaa58f6d2b3ded707c32ce83cb36d1b0f5a0eeb7905fa9d1798ec6c49d1"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3351,
-          "bytes_after": 89635,
+          "bytes_before": 510970,
+          "bytes_after": 507923,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 丁香",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fa622823e2773edfeb21be50ef682e9d72a2d866858aef96c2401a29c4ea6b35",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221025/221025.fantome",
       "files": [
         {
           "path": "skins/221/221019/221025/Zeri.wad.client",
-          "size": 89649,
-          "sha256": "c09c766ad697870ab7345dc71a447844b1cef97d3a4e81d68d4f76fd85ac7558"
+          "size": 507951,
+          "sha256": "9fa1d881e4470cd81262cd9638a50b431ebfc06d78e345fdfe306a5a615c2a2e"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3365,
-          "bytes_after": 89649,
+          "bytes_before": 511012,
+          "bytes_after": 507951,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 珠光",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8d15875317c8c32ec8972d2a70111b686dbb1e9b343f889db0b7687566a228b8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221026/221026.fantome",
       "files": [
         {
           "path": "skins/221/221019/221026/Zeri.wad.client",
-          "size": 89632,
-          "sha256": "8da6b2bcdaf95bd043d0de553a35002a712d9cce4c3d1c4266ecae63d81d6d97"
+          "size": 507923,
+          "sha256": "870466512238c9765dbc475735480dda350d0339f35b9a91471e39d5a75d3cb7"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3348,
-          "bytes_after": 89632,
+          "bytes_before": 510967,
+          "bytes_after": 507923,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 221,
       "name": "玉剑传说 神机花火 墨云",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ff7c5c1ca949409a8d6755ac1dcc1c35c289170ed2ae4911c2f04ce602c05cb2",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221019/221027/221027.fantome",
       "files": [
         {
           "path": "skins/221/221019/221027/Zeri.wad.client",
-          "size": 89630,
-          "sha256": "2e8595341fb02866f105a20b6d201ecc2b694ad4b082ee80b00d9e379805f3c1"
+          "size": 507923,
+          "sha256": "a747105e7504610ab778b31494dd8a4fd5efc6047c49108a020fa3bdb1fe0ce2"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3346,
-          "bytes_after": 89630,
+          "bytes_before": 510965,
+          "bytes_after": 507923,
           "replacement_hashes": [
             "dd0d8535c88be2fa"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "dd0d8535c88be2fa",
             "border_hash": "f81cfd5b1234856f",
             "bytes": 86252,
-            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c"
+            "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 161,
         "missing": 0
       },
       "validation": {

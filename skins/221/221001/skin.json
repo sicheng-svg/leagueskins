@@ -9,29 +9,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5aef7e31e129cec82c9085c10af5a6ba75e051a3718561973983e78453ae3703",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221001.fantome",
       "files": [
         {
           "path": "skins/221/221001/221001/Zeri.wad.client",
-          "size": 6918,
-          "sha256": "cf5685cb80e2e57a00676050e6ed6afb0d7eadd3b439673fc532ec6ff0540943"
+          "size": 115368,
+          "sha256": "5e88aa601c9a8d58d24436d04720185001131d09035fd48329476fdf906c42d3"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6918,
-          "bytes_after": 6918,
+          "bytes_before": 121982,
+          "bytes_after": 115368,
           "replacement_hashes": []
         }
       },
@@ -39,9 +40,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -57,29 +62,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 热烈花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1c39a88b58792278c3319100d70500056fed382aca6d4d3ccf252a5982f4e3c1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221002/221002.fantome",
       "files": [
         {
           "path": "skins/221/221001/221002/Zeri.wad.client",
-          "size": 3066,
-          "sha256": "0f7ff716443e4e309b26c29fd6e0039f71d158a54c2effb8bbb6067f2f416eae"
+          "size": 115480,
+          "sha256": "3ff93dabc3a83fec459498bd29fc4eacc613b20aee16af697ac1fed0c8d4e767"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3066,
-          "bytes_after": 3066,
+          "bytes_before": 118242,
+          "bytes_after": 115480,
           "replacement_hashes": []
         }
       },
@@ -87,9 +93,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -105,29 +115,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 倾心花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "407b1e7dff5dcb21489975ad86043134c82e0bbc9221395bd65d360a766f0e1b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221003/221003.fantome",
       "files": [
         {
           "path": "skins/221/221001/221003/Zeri.wad.client",
-          "size": 3031,
-          "sha256": "126e91e267b3089e383657ffdc05de8688e2617325c5a85f8de5a5914b513097"
+          "size": 115432,
+          "sha256": "5e7eeed066c1efa60d4e42a12f347a2a33053cb985c24a1a4fd6e9395e04d6df"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3031,
-          "bytes_after": 3031,
+          "bytes_before": 118159,
+          "bytes_after": 115432,
           "replacement_hashes": []
         }
       },
@@ -135,9 +146,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -153,29 +168,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 长情花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e0f5606c356f59835ec1914c7f098a4bd964f0a8afc0600213c4d04d842b74da",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221004/221004.fantome",
       "files": [
         {
           "path": "skins/221/221001/221004/Zeri.wad.client",
-          "size": 3031,
-          "sha256": "9530608378190c9f002250be7efee4577e9a105030df19d87de3a5f4ef92be5c"
+          "size": 115432,
+          "sha256": "d4182a0e6885f09bec0ba6344681e0b86267dffba8d7d1733a7b2368cad2b83d"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3031,
-          "bytes_after": 3031,
+          "bytes_before": 118159,
+          "bytes_after": 115432,
           "replacement_hashes": []
         }
       },
@@ -183,9 +199,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -201,29 +221,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 憧憬花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5e3559d60c9ab8d0b87d1a2c72dd70ef2d6090a947a5ed5cae49c22882e4e135",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221005/221005.fantome",
       "files": [
         {
           "path": "skins/221/221001/221005/Zeri.wad.client",
-          "size": 3032,
-          "sha256": "33b4e709c19dea2db64ee097e214fe7bab6ad12ea4943b73f81af4ac79fd362b"
+          "size": 115432,
+          "sha256": "5d6ee9e505ca054c9c9b910d3ea8f72023237b89bf58b62547a5eb682c707290"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3032,
-          "bytes_after": 3032,
+          "bytes_before": 118160,
+          "bytes_after": 115432,
           "replacement_hashes": []
         }
       },
@@ -231,9 +252,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -249,29 +274,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 浪漫花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1e43591caabc154148ace9edc5ddd1a2f882e4a2aee1a5c476e715c887b2e349",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221006/221006.fantome",
       "files": [
         {
           "path": "skins/221/221001/221006/Zeri.wad.client",
-          "size": 3032,
-          "sha256": "3d99b5794d7e1313d7eea4efa835a5db7eaac99d7a32de0f3716da321583dd69"
+          "size": 115432,
+          "sha256": "0d9549a0e7aa724c6626e6c8eb578ca3d6b83f6e8aff2ef1454f2daf98a21534"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3032,
-          "bytes_after": 3032,
+          "bytes_before": 118160,
+          "bytes_after": 115432,
           "replacement_hashes": []
         }
       },
@@ -279,9 +305,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -297,29 +327,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 甜蜜花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5ce20d887fcf2711dd0d65d7018754eafd3ed95ec9a7ae411e0c672ddb804558",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221007/221007.fantome",
       "files": [
         {
           "path": "skins/221/221001/221007/Zeri.wad.client",
-          "size": 3030,
-          "sha256": "bdf0ec88312584880922b0e0db440c8b9adfdf5b10931ebeb6face56e2400cc4"
+          "size": 115432,
+          "sha256": "1fe4797f6f7750bcf49d29dfd6eaf74f3f01774417ba5da544c2b4dcd987fe63"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3030,
-          "bytes_after": 3030,
+          "bytes_before": 118158,
+          "bytes_after": 115432,
           "replacement_hashes": []
         }
       },
@@ -327,9 +358,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -345,29 +380,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 纯洁花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f9bd3f29e26ad564c8cf22c550a51ee40373dc63242ea1b92dcf0830ddedb459",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221008/221008.fantome",
       "files": [
         {
           "path": "skins/221/221001/221008/Zeri.wad.client",
-          "size": 3029,
-          "sha256": "01a82da8d112e86dcf02fe0bab640fe0362d6c63b0253079b81bb5168f72ca3c"
+          "size": 115432,
+          "sha256": "a180dfd009b18a22dedbada6cbce73d87d4eae5c0def39a04d84f39f145eaeae"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3029,
-          "bytes_after": 3029,
+          "bytes_before": 118157,
+          "bytes_after": 115432,
           "replacement_hashes": []
         }
       },
@@ -375,9 +411,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -393,29 +433,30 @@
       "champion_id": 221,
       "name": "幽梦玫瑰 泽丽 真挚花蕾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0a820cf5c93d61777e95a8a1588c2dd6032c24e50a565679b3ef09e92658bc9e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221001/221009/221009.fantome",
       "files": [
         {
           "path": "skins/221/221001/221009/Zeri.wad.client",
-          "size": 3031,
-          "sha256": "de4abc23a8d52e808d0629476963c59d70f820df2fc7d11373f00c81637861cc"
+          "size": 115432,
+          "sha256": "28101a2966a34734deff8b1b097745d124d72cf6a9ec7864e9c386d0e13dbffc"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3031,
-          "bytes_after": 3031,
+          "bytes_before": 118159,
+          "bytes_after": 115432,
           "replacement_hashes": []
         }
       },
@@ -423,9 +464,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {

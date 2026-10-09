@@ -9,29 +9,30 @@
       "champion_id": 221,
       "name": "至臻 魔域梦魇 泽丽",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "58aa6cf2ffd1c722b5db42d83545ab308ef37b7e89fa9347d99deb0430984d9f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "221/221029/221029.fantome",
       "files": [
         {
           "path": "skins/221/221029/221029/Zeri.wad.client",
-          "size": 93670,
-          "sha256": "6c5a6a12a8b12548c7ee22406cde0ed3f014ad50209b8fae2b5b6095c957e3c0"
+          "size": 974512,
+          "sha256": "dbf50b0237294177d0f2835be49433fcdbbe191732954163c565bdf82892edca"
         }
       ],
       "wads": {
         "Zeri.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7386,
-          "bytes_after": 93670,
+          "bytes_before": 981594,
+          "bytes_after": 974512,
           "replacement_hashes": [
             "200ca91fe5cb8281"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "200ca91fe5cb8281",
             "border_hash": "ab1934154cd117da",
             "bytes": 86252,
-            "sha256": "f18905d45286b0bbe64604e94c482a6c96baf5fbf554a49ada4765e6053cf743"
+            "sha256": "f18905d45286b0bbe64604e94c482a6c96baf5fbf554a49ada4765e6053cf743",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zeri.wad.client": [
+          "260ca7218d54eaef"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 233,
         "missing": 0
       },
       "validation": {

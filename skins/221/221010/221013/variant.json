@@ -4,29 +4,30 @@
   "champion_id": 221,
   "name": "海之歌 泽丽 葱郁椰林",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "35dea6ff3035a328736867cf5dd43e0529df754ccfe1949528b65eae914962d1",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "221/221010/221013/221013.fantome",
   "files": [
     {
       "path": "skins/221/221010/221013/Zeri.wad.client",
-      "size": 3513,
-      "sha256": "f17b29b35f70a445667ae659c5b682b902175c9a5bc0439e9ff65c500aa203ba"
+      "size": 143485,
+      "sha256": "f30350c0911bbe0d4a8df9388b03af3f445b44fb31ecf807ba5fc522900d57fa"
     }
   ],
   "wads": {
     "Zeri.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3513,
-      "bytes_after": 3513,
+      "bytes_before": 146694,
+      "bytes_after": 143485,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zeri.wad.client": [
+      "260ca7218d54eaef"
+    ]
+  },
   "references": {
-    "paths": 10,
+    "paths": 41,
     "missing": 0
   },
   "validation": {

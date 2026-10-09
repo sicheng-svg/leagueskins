@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "灵魂莲华 永恩 流火",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "103098a04f7ab03d5d0b336513dccc8db3c24da129f06ef0b0a003fe123802d5",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777001/777002/777002.fantome",
   "files": [
     {
       "path": "skins/777/777001/777002/Yone.wad.client",
-      "size": 89507,
-      "sha256": "475f9eb1b66753012c36c672f942d45333effff743264b725dc60600bb841d6f"
+      "size": 112390,
+      "sha256": "3e0cb219f0676e5e7c9d6cb5d2eba825e20a1731517e385b77b091b4956868f9"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3223,
-      "bytes_after": 89507,
+      "bytes_before": 115309,
+      "bytes_after": 112390,
       "replacement_hashes": [
         "286f17ecd75df2cc"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "286f17ecd75df2cc",
         "border_hash": "b886b4c87f8ef0ee",
         "bytes": 86252,
-        "sha256": "962463e965478c7cad9819e3eef719a2aa1c7bd0a1a450a1aad7af6924bf3c26"
+        "sha256": "962463e965478c7cad9819e3eef719a2aa1c7bd0a1a450a1aad7af6924bf3c26",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 27,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 555,
   "name": "至高天 派克 霓虹耀斑",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "6fc5cd4a6d7f83629b2dfc482048bd5fa125cdfc5c19ea4d43e6081fcf720167",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "555/555045/555052/555052.fantome",
   "files": [
     {
       "path": "skins/555/555045/555052/Pyke.wad.client",
-      "size": 93188,
-      "sha256": "b785f833dbd1bd33a314ee367ac8b22dfaf8153849cb283f0551ebdb5668f4ab"
+      "size": 346500,
+      "sha256": "9bf1002236d67eb20b43cc5d9cffa317886cb54d4c91e1368081a336dd955622"
     }
   ],
   "wads": {
     "Pyke.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6904,
-      "bytes_after": 93188,
+      "bytes_before": 353100,
+      "bytes_after": 346500,
       "replacement_hashes": [
         "f5efdb896922c5d9"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "f5efdb896922c5d9",
         "border_hash": "37a1223beff60590",
         "bytes": 86252,
-        "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+        "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Pyke.wad.client": [
+      "aea21176a596ba79"
+    ]
+  },
   "references": {
-    "paths": 31,
+    "paths": 128,
     "missing": 0
   },
   "validation": {

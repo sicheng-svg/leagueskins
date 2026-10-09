@@ -1,0 +1,71 @@
+{
+  "champion_id": 523,
+  "base_skin_id": 523047,
+  "name": "心之钢 我行我路 厄斐琉斯 无畏斗志",
+  "variants": [
+    {
+      "skin_id": 523047,
+      "base_skin_id": 523047,
+      "champion_id": 523,
+      "name": "心之钢 我行我路 厄斐琉斯 无畏斗志",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "3d28ac26679dcc99ae39ba3cb20f08d53ba752b1d4f4091b544879d86d92c684",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "523/523047/523047.fantome",
+      "files": [
+        {
+          "path": "skins/523/523047/523047/Aphelios.wad.client",
+          "size": 139010,
+          "sha256": "8b937a1af5595b33a09b7babde3e1641d04c3bb9b862e8e561a627fcbdb73f81"
+        }
+      ],
+      "wads": {
+        "Aphelios.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 191432,
+          "bytes_after": 139010,
+          "replacement_hashes": [
+            "e0a0ec09d21cb36f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Aphelios.wad.client",
+            "normal_hash": "e0a0ec09d21cb36f",
+            "border_hash": "5f60e5988bbe1001",
+            "bytes": 86252,
+            "sha256": "9ce08666b8fd68033dadabbe5512590cf8c1132814ca5907f2017528de3ba43f",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c"
+        ]
+      },
+      "references": {
+        "paths": 37,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

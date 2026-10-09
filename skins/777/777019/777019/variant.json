@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "黎明使者 永恩",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "ab1d1e852de61eca0ae2642ea07acce8c7d7276eb050859c342f799888e0ca89",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777019/777019.fantome",
   "files": [
     {
       "path": "skins/777/777019/777019/Yone.wad.client",
-      "size": 90555,
-      "sha256": "766311359c6dcd908713209666e31544b50492a4375a0e1908417ab57de9ef49"
+      "size": 145265,
+      "sha256": "1b7e33c204b4bb27f679482679d87ab252e3b43983c0ea126e612f44b4017351"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4271,
-      "bytes_after": 90555,
+      "bytes_before": 149232,
+      "bytes_after": 145265,
       "replacement_hashes": [
         "a03610d3e3feff08"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "a03610d3e3feff08",
         "border_hash": "4236520655d3b053",
         "bytes": 86252,
-        "sha256": "295473f08ddddf5c04e6e2a141ebeb94324b05c8f7c7c1f13ccb9a68afd931a4"
+        "sha256": "295473f08ddddf5c04e6e2a141ebeb94324b05c8f7c7c1f13ccb9a68afd931a4",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 18,
+    "paths": 57,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "海之歌 永恩 逐浪流沙",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "1754c9e49a7cc55a3e390be315cf3509b3f23c9d9b93759715a1d8ac9f4fca55",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777026/777031/777031.fantome",
   "files": [
     {
       "path": "skins/777/777026/777031/Yone.wad.client",
-      "size": 3267,
-      "sha256": "5c72a9bb15c7bf071871ae7a61ed4d24347eab533d90646d3de7bad9beaadeeb"
+      "size": 118387,
+      "sha256": "cde61a2ddb68b4facda8629141c4b74f267f467f5996ae4714cf57e4a1b18c6b"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3267,
-      "bytes_after": 3267,
+      "bytes_before": 121350,
+      "bytes_after": 118387,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 26,
     "missing": 0
   },
   "validation": {

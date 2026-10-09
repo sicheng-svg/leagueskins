@@ -4,19 +4,19 @@
   "champion_id": 555,
   "name": "源计划：毁灭 派克",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "d1328c9779da7e133282ce607ca21fd8a5aa9495fd718f3d9fc496aaacdbff7d",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
   },
   "source_package": "555/555016/555016.fantome",
   "files": [
     {
       "path": "skins/555/555016/555016/Pyke.wad.client",
       "size": 90112,
-      "sha256": "dfc5223eb9209804701fc86a8fcc92a9f277f817a62be989ebe4d10774306552"
+      "sha256": "bfff0a3358ccda380272f2cca697d690855ea363358929ed52661e0480c50e5a"
     }
   ],
   "wads": {
@@ -40,7 +40,8 @@
         "normal_hash": "5844fc0614d10d04",
         "border_hash": "a260c7edfe7db120",
         "bytes": 86252,
-        "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+        "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4",
+        "strategy": "replace_normal_image"
       }
     ]
   },

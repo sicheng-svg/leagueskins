@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "战斗学院 永恩 天马",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "f557d088b47aec7e97aee9020c6ddd3b6a36fb2debdafea48f225a42cd65076d",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777010/777016/777016.fantome",
   "files": [
     {
       "path": "skins/777/777010/777016/Yone.wad.client",
-      "size": 89464,
-      "sha256": "bf778c3717477e3803e2f545540a2c3f851163ad1150124fb4aea3b1d544accf"
+      "size": 112877,
+      "sha256": "b2476eb6dcb6c7e2668e34f3f20407e9a983ac95401dbff97af0c6f207a6a64e"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3180,
-      "bytes_after": 89464,
+      "bytes_before": 115753,
+      "bytes_after": 112877,
       "replacement_hashes": [
         "0658c5fb90c02853"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "0658c5fb90c02853",
         "border_hash": "68e6c9e713fcbbb2",
         "bytes": 86252,
-        "sha256": "740169e1eef9d90e63b49c6e2edcc602ae0cd8cebc5042b9c99b3c0215843cd8"
+        "sha256": "740169e1eef9d90e63b49c6e2edcc602ae0cd8cebc5042b9c99b3c0215843cd8",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 33,
     "missing": 0
   },
   "validation": {

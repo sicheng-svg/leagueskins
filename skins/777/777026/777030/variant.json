@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "海之歌 永恩 浪漫氛围",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "103f2e610e107b8df539bcb2978f1cade15feb770eb9849e12749ce6dde08f2e",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777026/777030/777030.fantome",
   "files": [
     {
       "path": "skins/777/777026/777030/Yone.wad.client",
-      "size": 3293,
-      "sha256": "95449ab23de2bbfd4aacb0a70b488d43917b01b602bc9b924ad710b2bbf5009d"
+      "size": 118415,
+      "sha256": "03a88b2178a70638c3bd4c4ee6db5c40381ef503df879f5784327ca5e98015e6"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3293,
-      "bytes_after": 3293,
+      "bytes_before": 121404,
+      "bytes_after": 118415,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 26,
     "missing": 0
   },
   "validation": {

@@ -1,0 +1,64 @@
+{
+  "skin_id": 523042,
+  "base_skin_id": 523042,
+  "champion_id": 523,
+  "name": "心之钢 我行我路 厄斐琉斯 锐意曲风",
+  "kind": "base",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "701bbb50f23c781dbb458d1feee38b81c9214537f3543eabdd28dc3cc02c99c9",
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "523/523042/523042.fantome",
+  "files": [
+    {
+      "path": "skins/523/523042/523042/Aphelios.wad.client",
+      "size": 139083,
+      "sha256": "747a8048e8bbd38a9382597b43fca5025323e0d905e1c3977a9ae094a20b3faf"
+    }
+  ],
+  "wads": {
+    "Aphelios.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 191578,
+      "bytes_after": 139083,
+      "replacement_hashes": [
+        "e0a0ec09d21cb36f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Aphelios.wad.client",
+        "normal_hash": "e0a0ec09d21cb36f",
+        "border_hash": "5f60e5988bbe1001",
+        "bytes": 86252,
+        "sha256": "9ce08666b8fd68033dadabbe5512590cf8c1132814ca5907f2017528de3ba43f",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Aphelios.wad.client": [
+      "baa0fb9a9d1bd02c"
+    ]
+  },
+  "references": {
+    "paths": 37,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -9,29 +9,30 @@
       "champion_id": 555,
       "name": "至高天 派克",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "457db1ae8e1bd8dc4135070430446f87eb2de1a568abb461d012c1e31634cb42",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "555/555045/555045.fantome",
       "files": [
         {
           "path": "skins/555/555045/555045/Pyke.wad.client",
-          "size": 93127,
-          "sha256": "7480c90289baaded1f1a51da47ff4d107d55a5feda6b2d9c3bc7ec7345d74d00"
+          "size": 345124,
+          "sha256": "b6cdf859611ee9b9678ed5ecda27a782b7d4e99f01125b9d9d03b6faf8fcb3fd"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6843,
-          "bytes_after": 93127,
+          "bytes_before": 351663,
+          "bytes_after": 345124,
           "replacement_hashes": [
             "f5efdb896922c5d9"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "f5efdb896922c5d9",
             "border_hash": "37a1223beff60590",
             "bytes": 86252,
-            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Pyke.wad.client": [
+          "aea21176a596ba79"
+        ]
+      },
       "references": {
-        "paths": 31,
+        "paths": 123,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 555,
       "name": "至高天 派克 狂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "747532351edac45f23d2c525e8c3ebe27536ae98004adab09f023e4d0c6a01f9",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "555/555045/555047/555047.fantome",
       "files": [
         {
           "path": "skins/555/555045/555047/Pyke.wad.client",
-          "size": 93189,
-          "sha256": "4f29cab1e0956e64c948d8bb58f0c96ca67f4e613c983d92eba76e295b8d3fd5"
+          "size": 346949,
+          "sha256": "ce7d3de8e3ae28e50526fd568bdbcf197c3084c320fe6accd627c5d01e23d60b"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6905,
-          "bytes_after": 93189,
+          "bytes_before": 353550,
+          "bytes_after": 346949,
           "replacement_hashes": [
             "f5efdb896922c5d9"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "f5efdb896922c5d9",
             "border_hash": "37a1223beff60590",
             "bytes": 86252,
-            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Pyke.wad.client": [
+          "aea21176a596ba79"
+        ]
+      },
       "references": {
-        "paths": 31,
+        "paths": 128,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 555,
       "name": "至高天 派克 青炬",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2b17519ccf898ee2fd290d11d78ebaf1bbd8e80efb2d53547ec1bfeea23695b4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "555/555045/555048/555048.fantome",
       "files": [
         {
           "path": "skins/555/555045/555048/Pyke.wad.client",
-          "size": 93132,
-          "sha256": "e1e364d91a84e9e0e09522108272c91f566bcfcfd846624affae6c08dab5757f"
+          "size": 346529,
+          "sha256": "7a4e53ee4ffdaf92a704648eef66e4e6468b6806f1b9f2d2f4964c1949a6badf"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6848,
-          "bytes_after": 93132,
+          "bytes_before": 353073,
+          "bytes_after": 346529,
           "replacement_hashes": [
             "f5efdb896922c5d9"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "f5efdb896922c5d9",
             "border_hash": "37a1223beff60590",
             "bytes": 86252,
-            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Pyke.wad.client": [
+          "aea21176a596ba79"
+        ]
+      },
       "references": {
-        "paths": 31,
+        "paths": 128,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 555,
       "name": "至高天 派克 胧光",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "cfbda3ad962866461b242caf26cf934182684f16ce71e4abf0e14c607e13e37b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "555/555045/555049/555049.fantome",
       "files": [
         {
           "path": "skins/555/555045/555049/Pyke.wad.client",
-          "size": 93137,
-          "sha256": "50a098cc5e175d4ab27f65655e74b171e588d5ae752ae3e63b2468fcc20b1717"
+          "size": 345006,
+          "sha256": "bd78b4d0946165eccdccb5b9ddb142dc5d10c02522b0e2c2b7afcfaed1aff328"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6853,
-          "bytes_after": 93137,
+          "bytes_before": 351555,
+          "bytes_after": 345006,
           "replacement_hashes": [
             "f5efdb896922c5d9"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "f5efdb896922c5d9",
             "border_hash": "37a1223beff60590",
             "bytes": 86252,
-            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Pyke.wad.client": [
+          "aea21176a596ba79"
+        ]
+      },
       "references": {
-        "paths": 31,
+        "paths": 128,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 555,
       "name": "至高天 派克 幻耀",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1a27f1e2063963266536fc0a1aa8f78242f3aef335a393e632edef9c7b26c1af",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "555/555045/555050/555050.fantome",
       "files": [
         {
           "path": "skins/555/555045/555050/Pyke.wad.client",
-          "size": 93157,
-          "sha256": "bd8433cf4dfbd08a59230b18e8c3e04ed585b0c2fbd0bf937e264d6e6fe84f4a"
+          "size": 346472,
+          "sha256": "a28791330db2536134f6f81d38306682998d1c10a22ddbd1c347ec9cda67bacd"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6873,
-          "bytes_after": 93157,
+          "bytes_before": 353041,
+          "bytes_after": 346472,
           "replacement_hashes": [
             "f5efdb896922c5d9"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "f5efdb896922c5d9",
             "border_hash": "37a1223beff60590",
             "bytes": 86252,
-            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Pyke.wad.client": [
+          "aea21176a596ba79"
+        ]
+      },
       "references": {
-        "paths": 31,
+        "paths": 128,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 555,
       "name": "至高天 派克 灵辉",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3f39bf4c57bf090f797aa6c5bc5fa9abe52a458aad08af1d085ee74b9d97b6d9",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "555/555045/555051/555051.fantome",
       "files": [
         {
           "path": "skins/555/555045/555051/Pyke.wad.client",
-          "size": 93134,
-          "sha256": "0e5e6e4073938791d84d07cbd5ffb14c3a05794d2c8ced7d5704abb75678c055"
+          "size": 346375,
+          "sha256": "4ff3d309ce64d820b1f413931931b38f8793f204f2fbc4378f95d0965761e288"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6850,
-          "bytes_after": 93134,
+          "bytes_before": 352921,
+          "bytes_after": 346375,
           "replacement_hashes": [
             "f5efdb896922c5d9"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "f5efdb896922c5d9",
             "border_hash": "37a1223beff60590",
             "bytes": 86252,
-            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Pyke.wad.client": [
+          "aea21176a596ba79"
+        ]
+      },
       "references": {
-        "paths": 31,
+        "paths": 128,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 555,
       "name": "至高天 派克 霓虹耀斑",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6fc5cd4a6d7f83629b2dfc482048bd5fa125cdfc5c19ea4d43e6081fcf720167",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "555/555045/555052/555052.fantome",
       "files": [
         {
           "path": "skins/555/555045/555052/Pyke.wad.client",
-          "size": 93188,
-          "sha256": "b785f833dbd1bd33a314ee367ac8b22dfaf8153849cb283f0551ebdb5668f4ab"
+          "size": 346500,
+          "sha256": "9bf1002236d67eb20b43cc5d9cffa317886cb54d4c91e1368081a336dd955622"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6904,
-          "bytes_after": 93188,
+          "bytes_before": 353100,
+          "bytes_after": 346500,
           "replacement_hashes": [
             "f5efdb896922c5d9"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "f5efdb896922c5d9",
             "border_hash": "37a1223beff60590",
             "bytes": 86252,
-            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+            "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Pyke.wad.client": [
+          "aea21176a596ba79"
+        ]
+      },
       "references": {
-        "paths": 31,
+        "paths": 128,
         "missing": 0
       },
       "validation": {

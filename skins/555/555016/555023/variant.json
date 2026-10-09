@@ -4,29 +4,30 @@
   "champion_id": 555,
   "name": "源计划：毁灭 派克 幻灭",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "6b606766f62f04eda51beb886cd80e05141b790a0aced09f0226b0d9e1156675",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "555/555016/555023/555023.fantome",
   "files": [
     {
       "path": "skins/555/555016/555023/Pyke.wad.client",
-      "size": 90130,
-      "sha256": "9a1323fd1a71e00b4956fdf99116d3d75c2ae663b26f7fe87bc7d485b607ee3a"
+      "size": 190969,
+      "sha256": "e2db1826f19485eb8d18b298f7881811aa569a67df7b1f38d6246c9d3a69a765"
     }
   ],
   "wads": {
     "Pyke.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3846,
-      "bytes_after": 90130,
+      "bytes_before": 194511,
+      "bytes_after": 190969,
       "replacement_hashes": [
         "5844fc0614d10d04"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "5844fc0614d10d04",
         "border_hash": "a260c7edfe7db120",
         "bytes": 86252,
-        "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4"
+        "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Pyke.wad.client": [
+      "aea21176a596ba79"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 98,
     "missing": 0
   },
   "validation": {

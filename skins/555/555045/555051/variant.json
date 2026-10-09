@@ -4,29 +4,30 @@
   "champion_id": 555,
   "name": "至高天 派克 灵辉",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "3f39bf4c57bf090f797aa6c5bc5fa9abe52a458aad08af1d085ee74b9d97b6d9",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "555/555045/555051/555051.fantome",
   "files": [
     {
       "path": "skins/555/555045/555051/Pyke.wad.client",
-      "size": 93134,
-      "sha256": "0e5e6e4073938791d84d07cbd5ffb14c3a05794d2c8ced7d5704abb75678c055"
+      "size": 346375,
+      "sha256": "4ff3d309ce64d820b1f413931931b38f8793f204f2fbc4378f95d0965761e288"
     }
   ],
   "wads": {
     "Pyke.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6850,
-      "bytes_after": 93134,
+      "bytes_before": 352921,
+      "bytes_after": 346375,
       "replacement_hashes": [
         "f5efdb896922c5d9"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "f5efdb896922c5d9",
         "border_hash": "37a1223beff60590",
         "bytes": 86252,
-        "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b"
+        "sha256": "65323369218d04c10ee4b7bf9e9e8bfef992aa72b42828d317e96d52e32ffd4b",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Pyke.wad.client": [
+      "aea21176a596ba79"
+    ]
+  },
   "references": {
-    "paths": 31,
+    "paths": 128,
     "missing": 0
   },
   "validation": {

@@ -9,29 +9,30 @@
       "champion_id": 96,
       "name": "电格莫",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0aefac8e64dbcd564704fdb95b6f267d6cb1dce9bb06808520a6cded57de1824",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96037.fantome",
       "files": [
         {
           "path": "skins/96/96037/96037/KogMaw.wad.client",
-          "size": 92692,
-          "sha256": "a051a0789ab4f4e35a6c6e05f5d5fc504c0b863b6698e44d58f7c068c27c7375"
+          "size": 339688,
+          "sha256": "30c9933277cec309df0ab1d0e00b3b9901640a626314b8b6fbf540708bd14f82"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6408,
-          "bytes_after": 92692,
+          "bytes_before": 345760,
+          "bytes_after": 339688,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -45,20 +46,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -74,29 +82,30 @@
       "champion_id": 96,
       "name": "电格莫 红宝",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d5c48744f57a54ca5fe754bfa579e618c1e0056027fc174f015b5f8a5b772643",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96038/96038.fantome",
       "files": [
         {
           "path": "skins/96/96037/96038/KogMaw.wad.client",
-          "size": 89461,
-          "sha256": "60f7b2d2f1bd3f9a0f89003e8dc22dd7bfc0cc9902736923b0d6317bb978d2da"
+          "size": 339802,
+          "sha256": "708171759260ce7d9d3ed57c42f0b027d880367186c3d52ff29d2b1f0c8c4c36"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3177,
-          "bytes_after": 89461,
+          "bytes_before": 342643,
+          "bytes_after": 339802,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -110,20 +119,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -139,29 +155,30 @@
       "champion_id": 96,
       "name": "电格莫 海蓝宝",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "dc2aedb72afedf41cecf26d116332331ff696b13088a2e9781020bf1a3b1e703",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96039/96039.fantome",
       "files": [
         {
           "path": "skins/96/96037/96039/KogMaw.wad.client",
-          "size": 89408,
-          "sha256": "48a375a82028e784784b99caa050bb5830f7372ff5fe4447be1948bfb3a2a2f2"
+          "size": 339730,
+          "sha256": "ba4a36eb299829c58edbdd67c82c3f473953b032d7052aba0df684e375f64f7e"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3124,
-          "bytes_after": 89408,
+          "bytes_before": 342518,
+          "bytes_after": 339730,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -175,20 +192,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -204,29 +228,30 @@
       "champion_id": 96,
       "name": "电格莫 绿宝",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a2bf132828e60290f13e2f7780d436880912faa0a3a2be5fa24ebdca32d888fd",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96040/96040.fantome",
       "files": [
         {
           "path": "skins/96/96037/96040/KogMaw.wad.client",
-          "size": 89460,
-          "sha256": "f7864e8cdfc7cbeba50bbcbc1857f70c080853caf97141eeb56fecfcc45f459f"
+          "size": 339802,
+          "sha256": "3628747b68e62aa39ad0e5a2f656e58dde870fb680a4dd12df91115930d434e3"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3176,
-          "bytes_after": 89460,
+          "bytes_before": 342642,
+          "bytes_after": 339802,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -240,20 +265,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -269,29 +301,30 @@
       "champion_id": 96,
       "name": "电格莫 蔷薇石英",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9780a6456c047ef35d784a752ae5b6329d63d69981cc736810a4beb6380cb90a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96041/96041.fantome",
       "files": [
         {
           "path": "skins/96/96037/96041/KogMaw.wad.client",
-          "size": 89431,
-          "sha256": "c28ad613a6b28d04406861a270c06f7f452f9eec5f5f3c911c2277f20bea77d5"
+          "size": 339758,
+          "sha256": "a182c1ee9d55cfc8dbb7928d19725b63e474707ca79d65880692fecaaa43f053"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3147,
-          "bytes_after": 89431,
+          "bytes_before": 342569,
+          "bytes_after": 339758,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -305,20 +338,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -334,29 +374,30 @@
       "champion_id": 96,
       "name": "电格莫 紫晶",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fcc6d0a1c2147333f135244e257c7670fd4d88cba541f3323d7826bc34abebf6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96042/96042.fantome",
       "files": [
         {
           "path": "skins/96/96037/96042/KogMaw.wad.client",
-          "size": 89412,
-          "sha256": "804ddf7ddcc12638fe4e9346cda892a53fe71b0b9382d99ce1e737c855068048"
+          "size": 339730,
+          "sha256": "8a7968bb251eaed49f0fea3af7b16724d5e88feb6f41df43f07e0707208657a0"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3128,
-          "bytes_after": 89412,
+          "bytes_before": 342522,
+          "bytes_after": 339730,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -370,20 +411,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -399,29 +447,30 @@
       "champion_id": 96,
       "name": "电格莫 绿松",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c5310004ea6ad0087552a5f623d13d225e1d6e35195cbd85174aca4d4e14c7c8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96043/96043.fantome",
       "files": [
         {
           "path": "skins/96/96037/96043/KogMaw.wad.client",
-          "size": 89408,
-          "sha256": "c64e71a85e904bb26d45354c7cb1ff0a231d1c7ab8a9219e85bbe6014121ebbc"
+          "size": 339730,
+          "sha256": "cb759e22e218c7ddf6a38d5ea87d9ceb389180e969b41efbd3404299a7766583"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3124,
-          "bytes_after": 89408,
+          "bytes_before": 342518,
+          "bytes_after": 339730,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -435,20 +484,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -464,29 +520,30 @@
       "champion_id": 96,
       "name": "电格莫 珍珠",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d5cd03f87260fb8fd08fe6883ccad6c0596fe5afbaeadaa647092dd56e3d323d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96044/96044.fantome",
       "files": [
         {
           "path": "skins/96/96037/96044/KogMaw.wad.client",
-          "size": 89411,
-          "sha256": "9d972d2ba439e5e8afcc2f05297a3853b08f3c3e332dcfafb6dc3a0c32462f32"
+          "size": 339730,
+          "sha256": "0ae9b23565d63ecccdce7b628e3b02366e90ee77fa56e4a0bf2f33ab62f08f19"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3127,
-          "bytes_after": 89411,
+          "bytes_before": 342521,
+          "bytes_after": 339730,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -500,20 +557,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {
@@ -529,29 +593,30 @@
       "champion_id": 96,
       "name": "电格莫 丹泉",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fb12a4fd5289edc2e95fbf3f995d75e7a05212d3f6e36495b3540047fe4c6962",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "96/96037/96045/96045.fantome",
       "files": [
         {
           "path": "skins/96/96037/96045/KogMaw.wad.client",
-          "size": 89414,
-          "sha256": "443736a8ff654cbfe0602c797729eea9619fd2a32bb69eb246b541d36d619728"
+          "size": 339730,
+          "sha256": "29351a898c2d552a90e7abe7bd1d9a8051a3a66fc1b966eb02bf57a2df179b16"
         }
       ],
       "wads": {
         "KogMaw.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3130,
-          "bytes_after": 89414,
+          "bytes_before": 342524,
+          "bytes_after": 339730,
           "replacement_hashes": [
             "bf2897a777175f5b"
           ]
@@ -565,20 +630,27 @@
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "KogMaw.wad.client",
             "normal_hash": "bf2897a777175f5b",
             "border_hash": "c5ed6600ce18270e",
             "bytes": 86252,
-            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04"
+            "sha256": "e5d6964d3324ab6afc4d0ae1d3b9b6c769ca829d26d4d247136d9f0b8a5b7e04",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KogMaw.wad.client": [
+          "185436626538619c",
+          "4f64cd9eb32a7abf"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 171,
         "missing": 0
       },
       "validation": {

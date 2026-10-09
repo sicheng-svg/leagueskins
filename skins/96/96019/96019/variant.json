@@ -4,29 +4,30 @@
   "champion_id": 96,
   "name": "奥术师 克格莫",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "bde890788a7df43d357effcea32438058248c9283c1fe6614dbe9fea65608361",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "96/96019/96019.fantome",
   "files": [
     {
       "path": "skins/96/96019/96019/KogMaw.wad.client",
-      "size": 5519,
-      "sha256": "b70b8fb525f8207bdfb52ddbc52e8cfde3eb79de783c6a7a6eed455c12b8f9a6"
+      "size": 101254,
+      "sha256": "2ebe0473183726f1fcebfe98911e9f17bd3987c32ccc8b111d7bb39e33901744"
     }
   ],
   "wads": {
     "KogMaw.wad.client": {
-      "entries_before": 2,
-      "entries_after": 2,
+      "entries_before": 3,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 5519,
-      "bytes_after": 5519,
+      "bytes_before": 106437,
+      "bytes_after": 101254,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,14 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "KogMaw.wad.client": [
+      "185436626538619c",
+      "4f64cd9eb32a7abf"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 21,
     "missing": 0
   },
   "validation": {

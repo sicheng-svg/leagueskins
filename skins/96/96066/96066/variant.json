@@ -1,0 +1,64 @@
+{
+  "skin_id": 96066,
+  "base_skin_id": 96066,
+  "champion_id": 96,
+  "name": "至臻 经典 克格莫男爵 至强",
+  "kind": "base",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f3864c732cc0147ea24384bca9ff42d8bfbd774949fdddb348ba87e7a30e214f",
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "96/96066/96066.fantome",
+  "files": [
+    {
+      "path": "skins/96/96066/96066/KogMaw.wad.client",
+      "size": 155094,
+      "sha256": "a9479b32317741291277d1d0b4bc712104d062dd9eb4d4111556ec77ce0df7eb"
+    }
+  ],
+  "wads": {
+    "KogMaw.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 223600,
+      "bytes_after": 155094,
+      "replacement_hashes": [
+        "6c1929f7d8344288"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "KogMaw.wad.client",
+        "normal_hash": "6c1929f7d8344288",
+        "border_hash": "6e4b57bf241d9b6f",
+        "bytes": 86252,
+        "sha256": "7274ffe3613b609aa775d7f0c5d5c50390c416600cfee30368449cce91b3ac94",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "KogMaw.wad.client": [
+      "185436626538619c"
+    ]
+  },
+  "references": {
+    "paths": 72,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

@@ -9,29 +9,30 @@
       "champion_id": 238,
       "name": "至高天 劫",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4b32bfd19b9395cfc60d6b06d7801647f74a023683b4d530e88b326de470a0f6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238038.fantome",
       "files": [
         {
           "path": "skins/238/238038/238038/Zed.wad.client",
-          "size": 92878,
-          "sha256": "a803c26abe04c8f1f3055db15f84570bcd0c25e4bda0e01ad8f0d26e245b9512"
+          "size": 170042,
+          "sha256": "55b0817dd7519feb7b4e9ccf58b088dba27159e0befc3cef6d05bcd247233827"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6594,
-          "bytes_after": 92878,
+          "bytes_before": 176300,
+          "bytes_after": 170042,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -45,20 +46,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -74,29 +82,30 @@
       "champion_id": 238,
       "name": "至高天 劫 狂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d298184a3d5a64b4d6a8144a8f65eb124083f609c9ff00c3f1549b21f18bf271",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238040/238040.fantome",
       "files": [
         {
           "path": "skins/238/238038/238040/Zed.wad.client",
-          "size": 90533,
-          "sha256": "6113f470d7cfed2f88114a710591bad87b401575b9eec737db31a672091f1228"
+          "size": 170157,
+          "sha256": "1f85f840d6be03a9e85a8d135814afa7bd6d4b18c5ef79e23e6795b7f10d4d13"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4249,
-          "bytes_after": 90533,
+          "bytes_before": 174070,
+          "bytes_after": 170157,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -110,20 +119,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -139,29 +155,30 @@
       "champion_id": 238,
       "name": "至高天 劫 幻耀",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a14341b619ca5d2f9797dae681c14f52060b99ef019be84675476b41425c6be1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238041/238041.fantome",
       "files": [
         {
           "path": "skins/238/238038/238041/Zed.wad.client",
-          "size": 90501,
-          "sha256": "1dd83a81bd14f12860efefbc6c0c796995d43c885fad519ff998a2212526b091"
+          "size": 170112,
+          "sha256": "34b52269d50012368eb7b1111913fb18551428965b2890898e983d8db0d8b64f"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4217,
-          "bytes_after": 90501,
+          "bytes_before": 173993,
+          "bytes_after": 170112,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -175,20 +192,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -204,29 +228,30 @@
       "champion_id": 238,
       "name": "至高天 劫 华耀",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8b4db88da14118e4b7f9bb2d64940061fd897c64e4e41dcd237398698512306d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238042/238042.fantome",
       "files": [
         {
           "path": "skins/238/238038/238042/Zed.wad.client",
-          "size": 90479,
-          "sha256": "86d955526b6d799d103618461e82b5b4b75a3bf185ed3d5515db32d55df86b03"
+          "size": 170084,
+          "sha256": "6e75fba5c1556a26802db5053f8b42738da90f1e76fc99985e754962fa4bbba7"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4195,
-          "bytes_after": 90479,
+          "bytes_before": 173943,
+          "bytes_after": 170084,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -240,20 +265,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -269,29 +301,30 @@
       "champion_id": 238,
       "name": "至高天 劫 寒芒",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9e724d155a0fcaf602fb931b9d4ea33d43adb7c86c06f88e8ae383be961200ee",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238043/238043.fantome",
       "files": [
         {
           "path": "skins/238/238038/238043/Zed.wad.client",
-          "size": 90480,
-          "sha256": "533034d96e05d30de4c4099773414c6dce62e7215a5319e693d569521ab8bafe"
+          "size": 170084,
+          "sha256": "fc26e4e0058298bf0a396a5a3e4f9b04d8f1e0ec74c32a51032b799175f69488"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4196,
-          "bytes_after": 90480,
+          "bytes_before": 173944,
+          "bytes_after": 170084,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -305,20 +338,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -334,29 +374,30 @@
       "champion_id": 238,
       "name": "至高天 劫 胧光",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "7e8b76b95391fa0c43b278b563840dd9632295505ca4222a1d7392d0ebbfcd9f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238044/238044.fantome",
       "files": [
         {
           "path": "skins/238/238038/238044/Zed.wad.client",
-          "size": 90480,
-          "sha256": "e9f5c09c3049669e2c7c48f6dfe904980506354369ff1e8205625dfb4e184309"
+          "size": 170084,
+          "sha256": "e899cde278a1395780d02203367a2dc0b1512c2209174794f22b8563fb4f743d"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4196,
-          "bytes_after": 90480,
+          "bytes_before": 173944,
+          "bytes_after": 170084,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -370,20 +411,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -399,29 +447,30 @@
       "champion_id": 238,
       "name": "至高天 劫 青炬",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d69bf6ed9144540454f062c9040c995467ba0e288b38119925ab186c58ff02fa",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238045/238045.fantome",
       "files": [
         {
           "path": "skins/238/238038/238045/Zed.wad.client",
-          "size": 90479,
-          "sha256": "75202b5ba14b35f009b320579ae0831b5a0fa4ab0965983ed05969e7c39132c0"
+          "size": 170084,
+          "sha256": "651c74a5d0d3fd7599cf8b1ce317dbc81609b7525a63a8d5322ae70a06d71c20"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4195,
-          "bytes_after": 90479,
+          "bytes_before": 173943,
+          "bytes_after": 170084,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -435,20 +484,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -464,29 +520,30 @@
       "champion_id": 238,
       "name": "至高天 劫 遁影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ce8dfa572e0aced62f85370a6aa0424fd46f051daabab60d422c689f00112953",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238046/238046.fantome",
       "files": [
         {
           "path": "skins/238/238038/238046/Zed.wad.client",
-          "size": 90481,
-          "sha256": "a935d14030a4ba5f3d1acd2b095b39550cbdbf67512ec1241ec8629d07bc6a6b"
+          "size": 170084,
+          "sha256": "3713ec1a46e1521e92ca9a515b7bff402950520061cc66eff8bbc35e8ae5f50b"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4197,
-          "bytes_after": 90481,
+          "bytes_before": 173945,
+          "bytes_after": 170084,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -500,20 +557,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -529,29 +593,30 @@
       "champion_id": 238,
       "name": "至高天 劫 灵辉",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "75339133ca490fae68251adf5e3901c499e8b455fd19cdd177a4ffd0f19156b7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238047/238047.fantome",
       "files": [
         {
           "path": "skins/238/238038/238047/Zed.wad.client",
-          "size": 90479,
-          "sha256": "d3928f3084e1b01a997ad232b6a292d9d5ea043ac6ce56bee213b6866bb440da"
+          "size": 170084,
+          "sha256": "c257092246d6a1c65309d24024adee854bf3498a9aa275d9b572c1499781738a"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4195,
-          "bytes_after": 90479,
+          "bytes_before": 173943,
+          "bytes_after": 170084,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -565,20 +630,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {
@@ -594,29 +666,30 @@
       "champion_id": 238,
       "name": "至高天 劫 霓虹耀斑",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "842659344862f2572d5b92cea38df45ff0e414904ca0d3f35816460f2fa5375a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "238/238038/238048/238048.fantome",
       "files": [
         {
           "path": "skins/238/238038/238048/Zed.wad.client",
-          "size": 90534,
-          "sha256": "90a659ddcbad08ce7c4127c32499b43942f211c0eb302639f53dcab0084ad15a"
+          "size": 170157,
+          "sha256": "95c9bbe0c5498f117213d4ba969badcccff004a670a78ad2db89f1e38a4300ce"
         }
       ],
       "wads": {
         "Zed.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4250,
-          "bytes_after": 90534,
+          "bytes_before": 174071,
+          "bytes_after": 170157,
           "replacement_hashes": [
             "48a71f61b7cc10f5"
           ]
@@ -630,20 +703,27 @@
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zed.wad.client",
             "normal_hash": "48a71f61b7cc10f5",
             "border_hash": "3a5fb5a4f9c6f596",
             "bytes": 86252,
-            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f"
+            "sha256": "bf06ebd3a4af37d0206b3416a2139b2f37ca04531fb0fae8817da364543c149f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7",
+          "dee7b66950f0b170"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 78,
         "missing": 0
       },
       "validation": {

@@ -1,0 +1,60 @@
+{
+  "champion_id": 238,
+  "base_skin_id": 238071,
+  "name": "SKT T1 劫 精锐",
+  "variants": [
+    {
+      "skin_id": 238071,
+      "base_skin_id": 238071,
+      "champion_id": 238,
+      "name": "SKT T1 劫 精锐",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "05eba700ad401374a6824364f8923e10bb4346d66177c0654994bac013fd3998",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "238/238071/238071.fantome",
+      "files": [
+        {
+          "path": "skins/238/238071/238071/Zed.wad.client",
+          "size": 100340,
+          "sha256": "bc2926f3bedfcb16694bcbdf9402e07a1ba7794a7f492ff422344fc21b2dc509"
+        }
+      ],
+      "wads": {
+        "Zed.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 114092,
+          "bytes_after": 100340,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {
+        "Zed.wad.client": [
+          "36c2a502d404b9a7"
+        ]
+      },
+      "references": {
+        "paths": 34,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

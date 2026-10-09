@@ -4,29 +4,30 @@
   "champion_id": 238,
   "name": "腥红之月 劫 夜鸦",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "bb145eae123ce8f9de971bcc012a602aeb0b05c81fd8cf65dc058824b995dfe0",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "238/238058/238066/238066.fantome",
   "files": [
     {
       "path": "skins/238/238058/238066/Zed.wad.client",
-      "size": 3712,
-      "sha256": "968a474121b40855793fee6c92b49a08c9e9a5f2bd9ce4114017a22fae2eb3b7"
+      "size": 129067,
+      "sha256": "efdbe43e43882066954f80c9bb7c07b3b1831a04272c75f10be3fdfaa8e6d288"
     }
   ],
   "wads": {
     "Zed.wad.client": {
-      "entries_before": 2,
-      "entries_after": 2,
+      "entries_before": 3,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3712,
-      "bytes_after": 3712,
+      "bytes_before": 132443,
+      "bytes_after": 129067,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,14 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zed.wad.client": [
+      "36c2a502d404b9a7",
+      "dee7b66950f0b170"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 46,
     "missing": 0
   },
   "validation": {

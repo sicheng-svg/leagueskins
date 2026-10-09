@@ -4,29 +4,30 @@
   "champion_id": 238,
   "name": "灭世 天煞 劫",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "211679ebfd1a28becc2302c74f60df4c013084320353232da145a385c9df5dc7",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "238/238068/238068.fantome",
   "files": [
     {
       "path": "skins/238/238068/238068/Zed.wad.client",
-      "size": 96351,
-      "sha256": "191f46c563555ade0919c619a62609253e71f9ac2843e291f25849a468fd0bb8"
+      "size": 639910,
+      "sha256": "429ef430509cb621f7030c828b51dcc24ec984f86093ffb3619aba013160728b"
     }
   ],
   "wads": {
     "Zed.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 10067,
-      "bytes_after": 96351,
+      "bytes_before": 649641,
+      "bytes_after": 639910,
       "replacement_hashes": [
         "65af3c7021e98d5a"
       ]
@@ -53,9 +54,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zed.wad.client": [
+      "36c2a502d404b9a7",
+      "dee7b66950f0b170"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 226,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 238,
   "name": "天煞 劫 银河征服者",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "027f3753d04390fe5b70cc734a7d30d2186f345d7bbfa37b11f16a8362291c51",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "238/238013/238024/238024.fantome",
   "files": [
     {
       "path": "skins/238/238013/238024/Zed.wad.client",
-      "size": 90657,
-      "sha256": "dc946229edce26828050ded39967fae310e464236ed71be32887b85696890d6c"
+      "size": 143502,
+      "sha256": "7c55b6a9a14f1f37ee56eee98a53e9c00b632c1f8f05b98b9d68a31d31e2791a"
     }
   ],
   "wads": {
     "Zed.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4373,
-      "bytes_after": 90657,
+      "bytes_before": 147539,
+      "bytes_after": 143502,
       "replacement_hashes": [
         "30678e7fcd2ad071"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "30678e7fcd2ad071",
         "border_hash": "c379d46bdcd2cf42",
         "bytes": 86252,
-        "sha256": "5894ed912f6fe4ee5a3d97c6ed4334f9d9bbbbd084574d9ead7a10d4ebe431fc"
+        "sha256": "5894ed912f6fe4ee5a3d97c6ed4334f9d9bbbbd084574d9ead7a10d4ebe431fc",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zed.wad.client",
         "normal_hash": "30678e7fcd2ad071",
         "border_hash": "c379d46bdcd2cf42",
         "bytes": 86252,
-        "sha256": "5894ed912f6fe4ee5a3d97c6ed4334f9d9bbbbd084574d9ead7a10d4ebe431fc"
+        "sha256": "5894ed912f6fe4ee5a3d97c6ed4334f9d9bbbbd084574d9ead7a10d4ebe431fc",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zed.wad.client": [
+      "36c2a502d404b9a7",
+      "dee7b66950f0b170"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 63,
     "missing": 0
   },
   "validation": {

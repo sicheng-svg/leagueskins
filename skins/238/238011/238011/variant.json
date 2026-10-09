@@ -4,29 +4,30 @@
   "champion_id": 238,
   "name": "死亡誓约 劫",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "56ca66c27059fc73598231518ce4aedd74a085999f6f5e63df020758b54a39af",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "238/238011/238011.fantome",
   "files": [
     {
       "path": "skins/238/238011/238011/Zed.wad.client",
-      "size": 7303,
-      "sha256": "2122066aafc2e1a509989579327c5094735126c06bd6d84760bea8c0dca040c4"
+      "size": 406093,
+      "sha256": "a7bebdcd22f3a4ddf01d291c419262f7cbe6bf5e0c98ef684ca92feec42cbe17"
     }
   ],
   "wads": {
     "Zed.wad.client": {
-      "entries_before": 2,
-      "entries_after": 2,
+      "entries_before": 3,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 7303,
-      "bytes_after": 7303,
+      "bytes_before": 413060,
+      "bytes_after": 406093,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,14 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zed.wad.client": [
+      "36c2a502d404b9a7",
+      "dee7b66950f0b170"
+    ]
+  },
   "references": {
-    "paths": 13,
+    "paths": 79,
     "missing": 0
   },
   "validation": {

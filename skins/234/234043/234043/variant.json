@@ -4,29 +4,30 @@
   "champion_id": 234,
   "name": "王 佛耶戈",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "67e463b23f2b5febaa907fd8bd186265dae903b48a5095b395af49c9f0670edf",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "234/234043/234043.fantome",
   "files": [
     {
       "path": "skins/234/234043/234043/Common.wad.client",
       "size": 962801,
-      "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+      "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
     },
     {
       "path": "skins/234/234043/234043/UI.wad.client",
       "size": 25379,
-      "sha256": "c419e17e7ac82bc137bab00ca8c72fcb7c2c81488370b08d24b9bfe7619a47ac"
+      "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
     },
     {
       "path": "skins/234/234043/234043/Viego.wad.client",
-      "size": 1065703,
-      "sha256": "059d909d2d7d74735a1bd95a955f6d40ea5d83b0db66a892697fe84d6f111de4"
+      "size": 5136652,
+      "sha256": "8952bcf64a2635716f3c7ffadb4c9a42629a077020237c30e738368c379534f0"
     }
   ],
   "wads": {
@@ -49,12 +50,12 @@
       "replacement_hashes": []
     },
     "Viego.wad.client": {
-      "entries_before": 3,
+      "entries_before": 4,
       "entries_after": 5,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 244623,
-      "bytes_after": 1065703,
+      "bytes_before": 4564514,
+      "bytes_after": 5136652,
       "replacement_hashes": [
         "74a4de35e9f6c972",
         "7745ced5ab71a4d4"
@@ -82,9 +83,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Viego.wad.client": [
+      "4edf655bf6f3d880",
+      "26162bd67c7eb042"
+    ]
+  },
   "references": {
-    "paths": 244,
+    "paths": 445,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 876,
   "name": "黑夜使者 莉莉娅 白夜",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "ff5c1d4601feb0c619b322fb509aae5182d30f0a3f0759ee070a24cdf2a07cf4",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "876/876010/876017/876017.fantome",
   "files": [
     {
       "path": "skins/876/876010/876017/Lillia.wad.client",
-      "size": 88984,
-      "sha256": "cd9788c1eb5edad7d28f8535d7083ff198831674b60d8559d5812a6333e30e21"
+      "size": 118156,
+      "sha256": "af6f31a55a07bd7f6460549c0d39aad6ca24d5793fe3a12755942e5c32c517d4"
     }
   ],
   "wads": {
     "Lillia.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2700,
-      "bytes_after": 88984,
+      "bytes_before": 120552,
+      "bytes_after": 118156,
       "replacement_hashes": [
         "6433c0a370d040c1"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "6433c0a370d040c1",
         "border_hash": "8132f3b47381a384",
         "bytes": 86252,
-        "sha256": "139f9e0c63cb3d97a7fc3f2cbea47ed593dd136ed7ec90502e72fe5831670d59"
+        "sha256": "139f9e0c63cb3d97a7fc3f2cbea47ed593dd136ed7ec90502e72fe5831670d59",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Lillia.wad.client": [
+      "85828a74196b0921"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 32,
     "missing": 0
   },
   "validation": {

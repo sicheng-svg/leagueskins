@@ -4,29 +4,30 @@
   "champion_id": 876,
   "name": "山海绘卷 莉莉娅",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "925c89036413ab0154887043a91329980851f5f03149ee61713b67d7ddf0c81b",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "876/876019/876019.fantome",
   "files": [
     {
       "path": "skins/876/876019/876019/Lillia.wad.client",
-      "size": 5804,
-      "sha256": "3f176c802bb4acfdf7dfd22051d49b1744df727781c62f671a746d60eb61886c"
+      "size": 150073,
+      "sha256": "ac446a78a1b5e46887d692ca0da79977a51dc1385d1fce33dfcf4ab0ba9d963d"
     }
   ],
   "wads": {
     "Lillia.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 5804,
-      "bytes_after": 5804,
+      "bytes_before": 155573,
+      "bytes_after": 150073,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Lillia.wad.client": [
+      "85828a74196b0921"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 61,
     "missing": 0
   },
   "validation": {

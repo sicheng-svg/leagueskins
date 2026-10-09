@@ -4,29 +4,30 @@
   "champion_id": 875,
   "name": "金蛇巨星 瑟提",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "f2c21d2aae5ca382b87472bf923df746b22c54e5ad683deec2d8af098566d63b",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "7d43bab66b71084e0d956ec9c555bda522a9c35420e49532ae9859ac60e75169"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "875/875066/875066.fantome",
   "files": [
     {
       "path": "skins/875/875066/875066/Sett.wad.client",
-      "size": 2043456,
-      "sha256": "36f2e495b247a53f92aa2744300932ccc7bf4a452c7b33d4c392745066f61dc0"
+      "size": 4171767,
+      "sha256": "309230f29f3c720391b471919d580e9b3cd7ced3e774b300fabe13e77f850422"
     }
   ],
   "wads": {
     "Sett.wad.client": {
-      "entries_before": 3,
+      "entries_before": 4,
       "entries_after": 5,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.3",
-      "bytes_before": 1222376,
-      "bytes_after": 2043456,
+      "bytes_before": 3456689,
+      "bytes_after": 4171767,
       "replacement_hashes": [
         "40cfb20fcc564587",
         "e8f0224bc3d17ce9"
@@ -54,9 +55,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sett.wad.client": [
+      "557176f20f43a734",
+      "cf296b4f3dd4f8ff"
+    ]
+  },
   "references": {
-    "paths": 10,
+    "paths": 347,
     "missing": 0
   },
   "validation": {

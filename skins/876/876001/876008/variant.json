@@ -4,29 +4,30 @@
   "champion_id": 876,
   "name": "灵魂莲华 莉莉娅 雪落",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "9cc1c14ee138025e332f2834418bd421e6950fc067e3ecd8a075e4c435a7a899",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "876/876001/876008/876008.fantome",
   "files": [
     {
       "path": "skins/876/876001/876008/Lillia.wad.client",
-      "size": 89128,
-      "sha256": "8638ac94754e51a89b7d8da06a0a6b95eee2a4e1bbe04cc9200c0448d72e0fba"
+      "size": 137345,
+      "sha256": "0937b57e2d0ebba3ee74be052a415416e8ab8c95e9cc5f8ebbad283b22e63ab7"
     }
   ],
   "wads": {
     "Lillia.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2844,
-      "bytes_after": 89128,
+      "bytes_before": 139885,
+      "bytes_after": 137345,
       "replacement_hashes": [
         "f5a58f05d2522e31"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "f5a58f05d2522e31",
         "border_hash": "9c0d41ba3eafc814",
         "bytes": 86252,
-        "sha256": "4224750dbd99f659cb7488e500f32a7cee91bcca3de98f2b6b121604c52a67f6"
+        "sha256": "4224750dbd99f659cb7488e500f32a7cee91bcca3de98f2b6b121604c52a67f6",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Lillia.wad.client": [
+      "85828a74196b0921"
+    ]
+  },
   "references": {
-    "paths": 13,
+    "paths": 47,
     "missing": 0
   },
   "validation": {

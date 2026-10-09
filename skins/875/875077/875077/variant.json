@@ -1,0 +1,64 @@
+{
+  "skin_id": 875077,
+  "base_skin_id": 875077,
+  "champion_id": 875,
+  "name": "至臻 心之钢 我行我路 瑟提 至强",
+  "kind": "base",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "fa10a32717771a2c6ceee0d38fa7296706d710662f3b24fc2feef5a0f9b29b43",
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "875/875077/875077.fantome",
+  "files": [
+    {
+      "path": "skins/875/875077/875077/Sett.wad.client",
+      "size": 141642,
+      "sha256": "74cac6d2854ec852eaf38323a48d48e581a092c52195d15cfd0085670ae2ee0c"
+    }
+  ],
+  "wads": {
+    "Sett.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 196696,
+      "bytes_after": 141642,
+      "replacement_hashes": [
+        "bb9a3fb8f7249e83"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Sett.wad.client",
+        "normal_hash": "bb9a3fb8f7249e83",
+        "border_hash": "07756a4f9eae9ba2",
+        "bytes": 86252,
+        "sha256": "794f32ca75cfdadd27a0fa4684923e68bcd9a2ebc7d4812b94aeb5da39301555",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Sett.wad.client": [
+      "557176f20f43a734"
+    ]
+  },
+  "references": {
+    "paths": 42,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

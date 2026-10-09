@@ -4,29 +4,30 @@
   "champion_id": 222,
   "name": "源计划：疯狂 金克丝",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "6700d11a1f5ce6dcf33438b1b008688043c92ca864fc3e816d945404f74c29fe",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "222/222020/222020.fantome",
   "files": [
     {
       "path": "skins/222/222020/222020/Jinx.wad.client",
-      "size": 1799772,
-      "sha256": "1b653415bfd1a8dc0f61998a61ce120dff23617269fc8408682ffe4b56e36979"
+      "size": 1822598,
+      "sha256": "d2e1d3755858de7d0f22d54a31dcf7ae2771c70e483b03f7399d43ec43e2b936"
     }
   ],
   "wads": {
     "Jinx.wad.client": {
-      "entries_before": 3,
+      "entries_before": 4,
       "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 1713488,
-      "bytes_after": 1799772,
+      "bytes_before": 1825980,
+      "bytes_after": 1822598,
       "replacement_hashes": [
         "0be66b61c2b19368"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "0be66b61c2b19368",
         "border_hash": "a91160e8f4b78efd",
         "bytes": 86252,
-        "sha256": "0582173e7a2285023311e4234a14593e591f64a0791a27379523de46d328034b"
+        "sha256": "0582173e7a2285023311e4234a14593e591f64a0791a27379523de46d328034b",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Jinx.wad.client",
         "normal_hash": "0be66b61c2b19368",
         "border_hash": "a91160e8f4b78efd",
         "bytes": 86252,
-        "sha256": "0582173e7a2285023311e4234a14593e591f64a0791a27379523de46d328034b"
+        "sha256": "0582173e7a2285023311e4234a14593e591f64a0791a27379523de46d328034b",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Jinx.wad.client": [
+      "7d8c25b9bf88d865",
+      "e33178a67b131480"
+    ]
+  },
   "references": {
-    "paths": 38,
+    "paths": 45,
     "missing": 0
   },
   "validation": {

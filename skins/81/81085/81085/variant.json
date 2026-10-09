@@ -1,0 +1,64 @@
+{
+  "skin_id": 81085,
+  "base_skin_id": 81085,
+  "champion_id": 81,
+  "name": "心之钢 我行我路 伊泽瑞尔 本真风范",
+  "kind": "base",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "5a2ac70c1fc7531fd92724893db38a2592e809e2e7684fbac5a6bd9a4652a120",
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "81/81085/81085.fantome",
+  "files": [
+    {
+      "path": "skins/81/81085/81085/Ezreal.wad.client",
+      "size": 107611,
+      "sha256": "0d77d58bc969b98c794f50ddef04699761033bbe71f46e47dd5ad6a3605f52e3"
+    }
+  ],
+  "wads": {
+    "Ezreal.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 128634,
+      "bytes_after": 107611,
+      "replacement_hashes": [
+        "2163ff2eff7451c6"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ezreal.wad.client",
+        "normal_hash": "2163ff2eff7451c6",
+        "border_hash": "5fbfc4dcf903aa4e",
+        "bytes": 86252,
+        "sha256": "3f43198d489eda30222f975ef86abb8ccc02850b0c480f8c712ffbb407dda244",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Ezreal.wad.client": [
+      "fcbbf499d20c282a"
+    ]
+  },
+  "references": {
+    "paths": 23,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

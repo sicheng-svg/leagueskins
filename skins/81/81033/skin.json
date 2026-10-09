@@ -9,29 +9,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3096b9949ee7af119571ed673f063c5269f7ad1a3c96ae0e4cfd1db44d7eb17d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81033.fantome",
       "files": [
         {
           "path": "skins/81/81033/81033/Ezreal.wad.client",
-          "size": 93734,
-          "sha256": "45efd8e9c63738f61d9e4a61f9f1782dde0f8198f3913727f49bc078e46059aa"
+          "size": 233152,
+          "sha256": "14754da85a8cb5b4b4f21df5f380806c34e6f65ba1d4e60eb6af15be9c3b1100"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7450,
-          "bytes_after": 93734,
+          "bytes_before": 240298,
+          "bytes_after": 233152,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 红漪",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "10f9547684946c9d5aecfee9e794704ba4493628c6aa24eebef9747c7002d307",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81034/81034.fantome",
       "files": [
         {
           "path": "skins/81/81033/81034/Ezreal.wad.client",
-          "size": 89294,
-          "sha256": "c4207c8773821f92d704810853bfa8f70f36243857db986476317f24cbf550c0"
+          "size": 233257,
+          "sha256": "d3995648184ef22e4a84678ade2deca2d7cb9225a76e67eca2dd4a99947d7b6f"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3010,
-          "bytes_after": 89294,
+          "bytes_before": 235963,
+          "bytes_after": 233257,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 荧光裳",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "50d0f3e154d62077b580867d9972bf82c7324fa9a195649fe5b9fc6bf2cef6cf",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81035/81035.fantome",
       "files": [
         {
           "path": "skins/81/81033/81035/Ezreal.wad.client",
-          "size": 89238,
-          "sha256": "1e082e47b4cfc97a082f9c75d5bef82923edc5499785347ce7836c02012ede1a"
+          "size": 233121,
+          "sha256": "3542dd1c65e2660ee80252c07347a44c46576f70565e736ced577a66f89b5e8e"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2954,
-          "bytes_after": 89238,
+          "bytes_before": 235771,
+          "bytes_after": 233121,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 曙凤",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d2492d5f372e4fd4abf60f6c1eca7669ad50241984d7cac0c513fd71caf53024",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81036/81036.fantome",
       "files": [
         {
           "path": "skins/81/81033/81036/Ezreal.wad.client",
-          "size": 89237,
-          "sha256": "30f3aaf29424f62a4fff2312258fe8d3d3799f7b0328869d22759358f06d8a02"
+          "size": 233185,
+          "sha256": "7c44be712f918644bef3a604deff38cc07a5746575c58700c9ed780d1cb3678a"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2953,
-          "bytes_after": 89237,
+          "bytes_before": 235834,
+          "bytes_after": 233185,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 琉璃翠",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c83d28debff73bd3e32bf1c5e14a6d5230b1fa432b80522591eddbb8fa6127cc",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81037/81037.fantome",
       "files": [
         {
           "path": "skins/81/81033/81037/Ezreal.wad.client",
-          "size": 89239,
-          "sha256": "247dbd85f4c85adf52e3a3bf962c91714c2b81b6c5f400404e5e5d9cc061592e"
+          "size": 233121,
+          "sha256": "5d1d79ec584264939cea2941b0d3983f2e5496ff49757e206a3d9e71041980e7"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2955,
-          "bytes_after": 89239,
+          "bytes_before": 235772,
+          "bytes_after": 233121,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 玫瑰水晶眼",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "83dc3f800afdf8eff470f62da738916bd7ad40f53a56b21e2171dc6ee9d1a2e4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81038/81038.fantome",
       "files": [
         {
           "path": "skins/81/81033/81038/Ezreal.wad.client",
-          "size": 89260,
-          "sha256": "dc98f71e27379ff0c4efd8c5671984abe2ef44a3d643536d6c9e1cf8139e9d0f"
+          "size": 233213,
+          "sha256": "749988ed1854ce691795a63df28e1d832125a8192c5730aeb44c09300a090d59"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2976,
-          "bytes_after": 89260,
+          "bytes_before": 235885,
+          "bytes_after": 233213,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 蓝闪",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2322a0ecb2696d6077110966db8c5208dfd72f2de2ac68e4c1995bd74e6195e2",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81039/81039.fantome",
       "files": [
         {
           "path": "skins/81/81033/81039/Ezreal.wad.client",
-          "size": 89238,
-          "sha256": "5f19a09a80e8f226b547c487664305e9654cb340572f58a2aa4bcc1c3fae8f8b"
+          "size": 233185,
+          "sha256": "898c1eaad192c5559d7a0ddef595af7cf8a3a61462a677e01498e4486fc07222"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2954,
-          "bytes_after": 89238,
+          "bytes_before": 235835,
+          "bytes_after": 233185,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 翠蓝",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "82aac83f82ad13e5e94fa5a5b6a2972aac116e94c30e3366ea207833da485748",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81040/81040.fantome",
       "files": [
         {
           "path": "skins/81/81033/81040/Ezreal.wad.client",
-          "size": 89241,
-          "sha256": "7de9d6ee0aba6f283665d5310d7d8ba63df13376a913d58a24ffb61dbfef84b9"
+          "size": 233185,
+          "sha256": "988f78607b8a7e14940af0a71caad581df79177dcb8e6494b3dc612d1fa46c54"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2957,
-          "bytes_after": 89241,
+          "bytes_before": 235838,
+          "bytes_after": 233185,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 樟青",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d087e1d316502a51bf431b64e065f904768a7cc31b44fa13a9c6a9abe488d788",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81041/81041.fantome",
       "files": [
         {
           "path": "skins/81/81033/81041/Ezreal.wad.client",
-          "size": 89242,
-          "sha256": "746c05d4edde3ef2dde11bd1329c038496bd244cef1e0a099ac768298d86e287"
+          "size": 233185,
+          "sha256": "9fdcec507e5e504c66693f2f0f5cc695a5e265f724ccee30bc7b68fdae8d5166"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2958,
-          "bytes_after": 89242,
+          "bytes_before": 235839,
+          "bytes_after": 233185,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {
@@ -531,29 +585,30 @@
       "champion_id": 81,
       "name": "花仙贵族 伊泽瑞尔 迷人幻翼",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3a77306a3a67968f991d7715a2a6505d8fb7e2910dfb3de9c397484b1b880cbe",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "81/81033/81042/81042.fantome",
       "files": [
         {
           "path": "skins/81/81033/81042/Ezreal.wad.client",
-          "size": 89295,
-          "sha256": "249a628fdd6cdfd6b79767cfe3229f0d83aaba1c4205e2e5305ec9cfe18c7e06"
+          "size": 233257,
+          "sha256": "b3d1bc87533e3ee4d7c375443bd6c9be48b1d50a914fc62c73dd24277f15ab3c"
         }
       ],
       "wads": {
         "Ezreal.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3011,
-          "bytes_after": 89295,
+          "bytes_before": 235964,
+          "bytes_after": 233257,
           "replacement_hashes": [
             "d3d90a28a8152071"
           ]
@@ -567,13 +622,18 @@
             "normal_hash": "d3d90a28a8152071",
             "border_hash": "ec947bffce3b99d6",
             "bytes": 86252,
-            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b"
+            "sha256": "9f25911ea1546ed3bd056f3bdb396a93f039db14fde27987b3a1272eaf62b32b",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 137,
         "missing": 0
       },
       "validation": {

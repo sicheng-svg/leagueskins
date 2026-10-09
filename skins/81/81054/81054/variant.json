@@ -4,29 +4,30 @@
   "champion_id": 81,
   "name": "至臻 天龙之子 伊泽瑞尔",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "bfb104d5167248a89b46e125caa7152f55d27d3f9bb9399235fe674f9215e100",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "81/81054/81054.fantome",
   "files": [
     {
       "path": "skins/81/81054/81054/Ezreal.wad.client",
-      "size": 93988,
-      "sha256": "f0107df1070fad18a6b9e2da0481bdfd4e01ce44b7621c56198baa49298bcd7d"
+      "size": 901689,
+      "sha256": "46976ae599e0aec52ee0c30acf39dc9b54e2895fbf1e7db06d0928843628b203"
     }
   ],
   "wads": {
     "Ezreal.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 7704,
-      "bytes_after": 93988,
+      "bytes_before": 909089,
+      "bytes_after": 901689,
       "replacement_hashes": [
         "b8b49f831f6acc42"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "b8b49f831f6acc42",
         "border_hash": "f9023e326d03f65c",
         "bytes": 86252,
-        "sha256": "9eba4ecf52a3a7ae7523e69af75587cc82a2ad9007392d7609c825ea829c1b37"
+        "sha256": "9eba4ecf52a3a7ae7523e69af75587cc82a2ad9007392d7609c825ea829c1b37",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Ezreal.wad.client": [
+      "fcbbf499d20c282a"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 319,
     "missing": 0
   },
   "validation": {

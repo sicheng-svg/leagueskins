@@ -4,29 +4,30 @@
   "champion_id": 81,
   "name": "天龙之子 伊泽瑞尔 飞天",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "78df24e0c763f82f31430eb89b0c0deb60f6632e8d0f942b576d9d677185119a",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "81/81044/81076/81076.fantome",
   "files": [
     {
       "path": "skins/81/81044/81076/Ezreal.wad.client",
-      "size": 89212,
-      "sha256": "85722b3e9020f98dc23bb1986e741b0e73f297773b94786e533fff5066838be3"
+      "size": 110010,
+      "sha256": "78e74d31f8676a52423b49103054dd42121a6cf04d7ab223640b0f2767056ab1"
     }
   ],
   "wads": {
     "Ezreal.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2928,
-      "bytes_after": 89212,
+      "bytes_before": 112634,
+      "bytes_after": 110010,
       "replacement_hashes": [
         "3397026a33508812"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "3397026a33508812",
         "border_hash": "2dedea0bd25623e2",
         "bytes": 86252,
-        "sha256": "22e5128e878da6ab4250543992d972cd273f371f37d6ffd48c970a6787d2d86c"
+        "sha256": "22e5128e878da6ab4250543992d972cd273f371f37d6ffd48c970a6787d2d86c",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Ezreal.wad.client": [
+      "fcbbf499d20c282a"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 18,
     "missing": 0
   },
   "validation": {

@@ -1,0 +1,71 @@
+{
+  "champion_id": 81,
+  "base_skin_id": 81078,
+  "name": "心之钢 我行我路 伊泽瑞尔",
+  "variants": [
+    {
+      "skin_id": 81078,
+      "base_skin_id": 81078,
+      "champion_id": 81,
+      "name": "心之钢 我行我路 伊泽瑞尔",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "102a3c3df0939f39d1481e1446098d7ea0ef4e5143844f2988bb82f47f25ba45",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "81/81078/81078.fantome",
+      "files": [
+        {
+          "path": "skins/81/81078/81078/Ezreal.wad.client",
+          "size": 107578,
+          "sha256": "3554e30f13f970ebc7e80594ec94e75e28b28f3ccd0892acab060d38725d67ec"
+        }
+      ],
+      "wads": {
+        "Ezreal.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 128568,
+          "bytes_after": 107578,
+          "replacement_hashes": [
+            "2163ff2eff7451c6"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ezreal.wad.client",
+            "normal_hash": "2163ff2eff7451c6",
+            "border_hash": "5fbfc4dcf903aa4e",
+            "bytes": 86252,
+            "sha256": "3f43198d489eda30222f975ef86abb8ccc02850b0c480f8c712ffbb407dda244",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ezreal.wad.client": [
+          "fcbbf499d20c282a"
+        ]
+      },
+      "references": {
+        "paths": 23,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

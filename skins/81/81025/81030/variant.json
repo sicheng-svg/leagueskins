@@ -4,29 +4,30 @@
   "champion_id": 81,
   "name": "青花瓷 伊泽瑞尔 月色",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "20f0e4642ec1cc0388874e1cc087399350cd1601323b57b55364130218037963",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "81/81025/81030/81030.fantome",
   "files": [
     {
       "path": "skins/81/81025/81030/Ezreal.wad.client",
-      "size": 88964,
-      "sha256": "fae92a6f1a38186e46c02284ffb51419e7dfeb5b8de63bec46317f89a2bb2559"
+      "size": 154681,
+      "sha256": "780fe44ca3de67ff35acf10d518fc45817efd31543175f43a01ba5913520b453"
     }
   ],
   "wads": {
     "Ezreal.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2680,
-      "bytes_after": 88964,
+      "bytes_before": 157057,
+      "bytes_after": 154681,
       "replacement_hashes": [
         "49e571d3dbd46862"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "49e571d3dbd46862",
         "border_hash": "866390f2f3b232c2",
         "bytes": 86252,
-        "sha256": "b3d165ad829a50ac6cec48ba6b95f4023dec09d38faa360166a31df35f15a012"
+        "sha256": "b3d165ad829a50ac6cec48ba6b95f4023dec09d38faa360166a31df35f15a012",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Ezreal.wad.client": [
+      "fcbbf499d20c282a"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 81,
     "missing": 0
   },
   "validation": {

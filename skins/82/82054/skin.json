@@ -9,29 +9,30 @@
       "champion_id": 82,
       "name": "萨恩 · 乌祖尔 莫德凯撒",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6adfe4a79df78ff0eb2959c3b78bf00a82be30af991608356ffeaca81cf2a3f4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "82/82054/82054.fantome",
       "files": [
         {
           "path": "skins/82/82054/82054/Mordekaiser.wad.client",
-          "size": 1851280,
-          "sha256": "9c6d4868933c6bdc9568c6c3c9d82ee3bc9b6f127cea0ea81d7643e9f4f833b2"
+          "size": 3509649,
+          "sha256": "14935a8deabc3792d40fb78b9e30a74889dfb5a9eabb24ba9f7017cb1b4f9313"
         }
       ],
       "wads": {
         "Mordekaiser.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.3",
-          "bytes_before": 1030200,
-          "bytes_after": 1851280,
+          "bytes_before": 2793475,
+          "bytes_after": 3509649,
           "replacement_hashes": [
             "678d7b68a48d08ea",
             "d7e94027f8ce4d98"
@@ -59,9 +60,14 @@
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mordekaiser.wad.client": [
+          "40d15e11f5b58285",
+          "8d76a7bf57df6d39"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 272,
         "missing": 0
       },
       "validation": {
@@ -77,19 +83,19 @@
       "champion_id": 82,
       "name": "82998",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "44ba7271cd8fe00a3af2cb839fc20a37907debe96221a20cc10def3e5c272e35",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "82/82054/82998/82998.fantome",
       "files": [
         {
           "path": "skins/82/82054/82998/Mordekaiser.wad.client",
           "size": 837788,
-          "sha256": "a6530f49d0ed286839a3e68d0a56f233eba2a96cb40c1935d1ad11a9cc69ba78"
+          "sha256": "aad9e1c472afdd3ff2a72a28a9ad8b765380e1cba2a00fe7633f4759f7464454"
         }
       ],
       "wads": {
@@ -145,19 +151,19 @@
       "champion_id": 82,
       "name": "82999",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "26089ed80e22343d852464b93ee9a768623987179bee9dcc4142ec370bcf2536",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "82/82054/82999/82999.fantome",
       "files": [
         {
           "path": "skins/82/82054/82999/Mordekaiser.wad.client",
           "size": 837859,
-          "sha256": "e243b3ca5d8b951146f81b0f1440f558a35eb42cb9398c35693390bb738d3ad4"
+          "sha256": "36aa124ba84fe35d9cda9edd664afcb0ce00d2d2f936322ff655f763c2348cf6"
         }
       ],
       "wads": {

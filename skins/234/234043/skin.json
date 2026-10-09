@@ -13,26 +13,26 @@
       "identity": {
         "version": 1,
         "source_sha256": "67e463b23f2b5febaa907fd8bd186265dae903b48a5095b395af49c9f0670edf",
-        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-        "repair": "manager-native-records-v1"
+        "game_snapshot": "16.20-preserve-source-skin0",
+        "builder_sha256": "candidate-preserve-skin0-v1",
+        "repair": "preserve-source-skin0-adaptations-v1"
       },
       "source_package": "234/234043/234043.fantome",
       "files": [
         {
           "path": "skins/234/234043/234043/Common.wad.client",
           "size": 962801,
-          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
+          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
         },
         {
           "path": "skins/234/234043/234043/UI.wad.client",
           "size": 25379,
-          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
+          "sha256": "c419e17e7ac82bc137bab00ca8c72fcb7c2c81488370b08d24b9bfe7619a47ac"
         },
         {
           "path": "skins/234/234043/234043/Viego.wad.client",
-          "size": 5136652,
-          "sha256": "8952bcf64a2635716f3c7ffadb4c9a42629a077020237c30e738368c379534f0"
+          "size": 1065703,
+          "sha256": "059d909d2d7d74735a1bd95a955f6d40ea5d83b0db66a892697fe84d6f111de4"
         }
       ],
       "wads": {
@@ -55,12 +55,12 @@
           "replacement_hashes": []
         },
         "Viego.wad.client": {
-          "entries_before": 4,
+          "entries_before": 3,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4564514,
-          "bytes_after": 5136652,
+          "bytes_before": 244623,
+          "bytes_after": 1065703,
           "replacement_hashes": [
             "74a4de35e9f6c972",
             "7745ced5ab71a4d4"
@@ -88,19 +88,14 @@
           }
         ]
       },
-      "native_rebuilt_entries": {
-        "Viego.wad.client": [
-          "4edf655bf6f3d880",
-          "26162bd67c7eb042"
-        ]
-      },
+      "native_rebuilt_entries": {},
       "references": {
-        "paths": 445,
+        "paths": 244,
         "missing": 0
       },
       "validation": {
         "structure": "passed",
-        "hid_in_game": "not_verified",
+        "hid_in_game": "passed_user_test_2026-10-09",
         "cslol_build": "not_checked",
         "cslol_in_game": "not_verified"
       }

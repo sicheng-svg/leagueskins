@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "神龙尊者 圣龙李青 松峦",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "e1d50040562c70a2f313f950bab4d7e281d98b8bc85800c0d2b1c68c4e709cb3",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64031/64036/64036.fantome",
   "files": [
     {
       "path": "skins/64/64031/64036/LeeSin.wad.client",
-      "size": 89400,
-      "sha256": "2181760cb9e012a09bc0c7020010243fdbdeff5fa86d89cada1708cf00f245ce"
+      "size": 270080,
+      "sha256": "abfca48df0867b8f35d0435205aa230e8c469b17acb54670024cf00484c69a79"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3116,
-      "bytes_after": 89400,
+      "bytes_before": 272892,
+      "bytes_after": 270080,
       "replacement_hashes": [
         "0861af6c820d19f9"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "0861af6c820d19f9",
         "border_hash": "da9a4f4ac7571779",
         "bytes": 86252,
-        "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc"
+        "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 148,
     "missing": 0
   },
   "validation": {

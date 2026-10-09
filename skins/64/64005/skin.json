@@ -9,29 +9,30 @@
       "champion_id": 64,
       "name": "泳池派对 李青",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "38e9fdac78273d88c34625befc9dfaaa882ad0dbbd35e84ce38df4d7be8b1ac9",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64005/64005.fantome",
       "files": [
         {
           "path": "skins/64/64005/64005/LeeSin.wad.client",
-          "size": 5909,
-          "sha256": "de77226d28379d64c713ec0e3c64afe330467cde9ae5efaddab8c3805acc1eac"
+          "size": 164456,
+          "sha256": "c4f7ffd87ba0ee3636d30c2aad02f217339fa3e6d2f52daa7c0d070a1348db78"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5909,
-          "bytes_after": 5909,
+          "bytes_before": 170061,
+          "bytes_after": 164456,
           "replacement_hashes": []
         }
       },
@@ -39,9 +40,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 86,
         "missing": 0
       },
       "validation": {

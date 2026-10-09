@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "T1 李青",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "fbc3132285cfe05939d92691c8075ef77c2ee8cc575f6c4bb0d9720dda003439",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64068/64068.fantome",
   "files": [
     {
       "path": "skins/64/64068/64068/LeeSin.wad.client",
-      "size": 92810,
-      "sha256": "ad9b8f554bf371808b6b4a8408bdc2318baf9395019acc50727935b6ae99a6ff"
+      "size": 102867,
+      "sha256": "deccedf0b7bd23ae802fcc308c087fdda67fdfe3edb3a5870f13f9a50e280c6a"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6526,
-      "bytes_after": 92810,
+      "bytes_before": 109089,
+      "bytes_after": 102867,
       "replacement_hashes": [
         "9a87806a665746ec"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "9a87806a665746ec",
         "border_hash": "440f63f6c91966b4",
         "bytes": 86252,
-        "sha256": "52865575073b87fd879d78a831a54b0ac721a5a571bd25d2d0dd3b2f01ec8619"
+        "sha256": "52865575073b87fd879d78a831a54b0ac721a5a571bd25d2d0dd3b2f01ec8619",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 11,
     "missing": 0
   },
   "validation": {

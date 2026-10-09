@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "天龙之子 李青 龙马精神",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "b21f160117426144f999ecea17b9d071b106a28ab3dd8f59b15ae44b908a20db",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64051/64054/64054.fantome",
   "files": [
     {
       "path": "skins/64/64051/64054/LeeSin.wad.client",
-      "size": 89240,
-      "sha256": "bd1844d73dedc11f297431ffaba9d963996adbdc0064ef1ace427f53faa13ffc"
+      "size": 234836,
+      "sha256": "034001b1a2718f1404e5931ca030ee5289681d9b0a5a30d72fa63d7f5fefd03e"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2956,
-      "bytes_after": 89240,
+      "bytes_before": 237488,
+      "bytes_after": 234836,
       "replacement_hashes": [
         "6c1691bcc4516d0a"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "6c1691bcc4516d0a",
         "border_hash": "67230463d43e9711",
         "bytes": 86252,
-        "sha256": "3de776ffc16299ef62ea89d29ab143703ed897b4b1addf5c4710eb3e0602532b"
+        "sha256": "3de776ffc16299ef62ea89d29ab143703ed897b4b1addf5c4710eb3e0602532b",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 9,
+    "paths": 86,
     "missing": 0
   },
   "validation": {

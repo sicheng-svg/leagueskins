@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "至高之拳 李青 优雅敬意",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "ddad93d1d03b2da03b3045e81300596e9d24c63a06ab1ea624bd9398efbdc12e",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64004/64064/64064.fantome",
   "files": [
     {
       "path": "skins/64/64004/64064/LeeSin.wad.client",
-      "size": 2249,
-      "sha256": "f9c6a99f47a87c7e705a6ff1be922818dae0e3166b21a7db61f09d29f16e3db7"
+      "size": 98754,
+      "sha256": "5efe61e268c57cc0d4b30d6f134817a3e0297a79b5a840cc1965229cc8e45cab"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2249,
-      "bytes_after": 2249,
+      "bytes_before": 100699,
+      "bytes_after": 98754,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 22,
     "missing": 0
   },
   "validation": {

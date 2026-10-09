@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "至高之拳 李青 锤炼成金",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "326954adc0510de0cc9dbd8a983a9dd1a78d976b378cf79fabde4d2e7e8745db",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64004/64061/64061.fantome",
   "files": [
     {
       "path": "skins/64/64004/64061/LeeSin.wad.client",
-      "size": 2249,
-      "sha256": "0ff00ce0a0ca1d9028294b469f24b39f8d8f7790fb58ced26869ba0756c51151"
+      "size": 98754,
+      "sha256": "b173b05752cf805d7b5d6c5a13d8f139b0dde63f3b99095b39abd8a9c2b6344d"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2249,
-      "bytes_after": 2249,
+      "bytes_before": 100699,
+      "bytes_after": 98754,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 22,
     "missing": 0
   },
   "validation": {

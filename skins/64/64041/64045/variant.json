@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "巅峰之星 李青 科学求实",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "a336854b42c2e2d4a81be2773d3d99021dd23fe80f05634776c7e9a98c65d2a8",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64041/64045/64045.fantome",
   "files": [
     {
       "path": "skins/64/64041/64045/LeeSin.wad.client",
-      "size": 2457,
-      "sha256": "d126dc4c2fff61a0e6dff8b84f10a321190280c172ab9383f50f080551b4d6a8"
+      "size": 122163,
+      "sha256": "f6abd6fe694e8937f2c94aad6b9e9d51ac7bc38e144391b7bf46f0f6164a6039"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2457,
-      "bytes_after": 2457,
+      "bytes_before": 124316,
+      "bytes_after": 122163,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 45,
     "missing": 0
   },
   "validation": {

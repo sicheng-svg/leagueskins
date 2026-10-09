@@ -9,29 +9,30 @@
       "champion_id": 64,
       "name": "墨之影 李青",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9a113fdc99b2c5260cde2866fb884aae5343357227597ea4378daf996cf074dc",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64072.fantome",
       "files": [
         {
           "path": "skins/64/64072/64072/LeeSin.wad.client",
-          "size": 6564,
-          "sha256": "bdb24d204de10a01eb933f529e704a034ffb623bd16975a4f8b5fd9d0f31ff86"
+          "size": 109256,
+          "sha256": "addce5a81c990c56b21988a8eea8fb18fe938ed239da09b4a1e46f319c626085"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6564,
-          "bytes_after": 6564,
+          "bytes_before": 115516,
+          "bytes_after": 109256,
           "replacement_hashes": []
         }
       },
@@ -39,9 +40,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -57,29 +62,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 炽墨挥影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "77c729faf4fa1590590f344afcbd34cc067d3ce2be3498500123fa259ce1a7d8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64073/64073.fantome",
       "files": [
         {
           "path": "skins/64/64072/64073/LeeSin.wad.client",
-          "size": 2672,
-          "sha256": "d60f964863982a5057912fd59b901edbfc615ad1c8678110f1c6725e84fdd622"
+          "size": 109361,
+          "sha256": "31667a20161220f8f42921e66d08071bc9b0299d50b5ed1ef2e321fcfc20e450"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2672,
-          "bytes_after": 2672,
+          "bytes_before": 111729,
+          "bytes_after": 109361,
           "replacement_hashes": []
         }
       },
@@ -87,9 +93,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -105,29 +115,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 森墨拂影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0da9ee711ecdb1710def71bf8cb55d746d0e08ac550ccd3081dc29055ef1696e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64074/64074.fantome",
       "files": [
         {
           "path": "skins/64/64072/64074/LeeSin.wad.client",
-          "size": 2622,
-          "sha256": "9b1233d010a1da2fcc35c7306d5928e349324d98253a3c286936fae7363a367b"
+          "size": 109289,
+          "sha256": "c0b95b6a808dc437e4772b1461897056cfec13f01afbc7a05dec22577e3fe263"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2622,
-          "bytes_after": 2622,
+          "bytes_before": 111607,
+          "bytes_after": 109289,
           "replacement_hashes": []
         }
       },
@@ -135,9 +146,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -153,29 +168,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 云墨漾影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f41afce892e3dfa4b974df049468f20c8619de87845c94051624bd380ee81a2a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64075/64075.fantome",
       "files": [
         {
           "path": "skins/64/64072/64075/LeeSin.wad.client",
-          "size": 2621,
-          "sha256": "c6b7cc4a85ddd154118ba7deee6c7f8c3260219f31c92781544429db88ab6a18"
+          "size": 109289,
+          "sha256": "1edea16d493a96e4fb13d97794d28723ce83dd18a2334c6d31c1579352d13442"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2621,
-          "bytes_after": 2621,
+          "bytes_before": 111606,
+          "bytes_after": 109289,
           "replacement_hashes": []
         }
       },
@@ -183,9 +199,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -201,29 +221,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 金墨耀影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d10bc877cddebbbdd6866553c2a64565783d63bca6bbfacf00ffbe54352d8b4d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64076/64076.fantome",
       "files": [
         {
           "path": "skins/64/64072/64076/LeeSin.wad.client",
-          "size": 2623,
-          "sha256": "b5dd389a0ee7e1e639132ff4d62a0022363ca9b80444c9ce7230b796f3d5b637"
+          "size": 109289,
+          "sha256": "a1e92a24618e6080a8f91fd52ad664c7a0647112463315b6af68b57e0c97c601"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2623,
-          "bytes_after": 2623,
+          "bytes_before": 111608,
+          "bytes_after": 109289,
           "replacement_hashes": []
         }
       },
@@ -231,9 +252,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -249,29 +274,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 樱墨映影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b6c5c94dca2b629f826ae1ba3cda7c4ad48064109b34c215e7749d02885281e9",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64077/64077.fantome",
       "files": [
         {
           "path": "skins/64/64072/64077/LeeSin.wad.client",
-          "size": 2643,
-          "sha256": "e4509cc79b18e8ad9a98946321c3480be6a04dbacf81c34d8d220ea10f3bcf88"
+          "size": 109317,
+          "sha256": "75e4200d4d924dfd374238ac87dd6251757c48b2a314cf5bb629bc9d32cb5ecb"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2643,
-          "bytes_after": 2643,
+          "bytes_before": 111656,
+          "bytes_after": 109317,
           "replacement_hashes": []
         }
       },
@@ -279,9 +305,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -297,29 +327,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 雪墨封影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "87c3b9c9509bb9451a13ab2012aa72f9f4280c307b27ecddd9c8ebe1eb7bb8b7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64078/64078.fantome",
       "files": [
         {
           "path": "skins/64/64072/64078/LeeSin.wad.client",
-          "size": 2623,
-          "sha256": "728d1b2a80088b21db10025967bfb4a3189b3e354fbc70e45ad0ca3fce43b09c"
+          "size": 109289,
+          "sha256": "4e16a4fd96ff6f0d7d50e697e556e26837de33f0e839d81eaf3ad71263e0d0bd"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2623,
-          "bytes_after": 2623,
+          "bytes_before": 111608,
+          "bytes_after": 109289,
           "replacement_hashes": []
         }
       },
@@ -327,9 +358,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -345,29 +380,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 晶墨绽影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b9c65d0feedbd6dc40efdbbfc3078242a4ce4046c90a1800f601e560d58fbd1b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64079/64079.fantome",
       "files": [
         {
           "path": "skins/64/64072/64079/LeeSin.wad.client",
-          "size": 2622,
-          "sha256": "a6c25b68c2513e05d4eabef9ce066ae7c3db0ccbf11177d1274d685898793fea"
+          "size": 109289,
+          "sha256": "f1111d5a7fcb827e77c12b532bb653d13b7d038efbfb9b5052120c6737e4957a"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2622,
-          "bytes_after": 2622,
+          "bytes_before": 111607,
+          "bytes_after": 109289,
           "replacement_hashes": []
         }
       },
@@ -375,9 +411,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {
@@ -393,29 +433,30 @@
       "champion_id": 64,
       "name": "墨之影 李青 松墨彰影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "05edf7a820198034332a3e166565aae4389ecb74ba03b7f618e77eaa7c34f6ce",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64072/64080/64080.fantome",
       "files": [
         {
           "path": "skins/64/64072/64080/LeeSin.wad.client",
-          "size": 2625,
-          "sha256": "744db6e3d306f5c6c87b24bafe84a1314be22e3690f3e7b0b95f16ed4803ec40"
+          "size": 109289,
+          "sha256": "28360d2ed3bd552f4c6ef2d87968943494ec442096e04f91594bef49d44b83fb"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2625,
-          "bytes_after": 2625,
+          "bytes_before": 111610,
+          "bytes_after": 109289,
           "replacement_hashes": []
         }
       },
@@ -423,9 +464,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 34,
         "missing": 0
       },
       "validation": {

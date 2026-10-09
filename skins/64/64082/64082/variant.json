@@ -1,0 +1,53 @@
+{
+  "skin_id": 64082,
+  "base_skin_id": 64082,
+  "champion_id": 64,
+  "name": "SKT T1 李青 精锐",
+  "kind": "base",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "bd02350bb80c89f71e59a05e251da54c5a9f14b8ccde0c80dc707f9832a7c369",
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "64/64082/64082.fantome",
+  "files": [
+    {
+      "path": "skins/64/64082/64082/LeeSin.wad.client",
+      "size": 98916,
+      "sha256": "ebfd03dc1c6d3ff83affdd1a064d510fe0c57d2407f8a3624f73eb12594bca96"
+    }
+  ],
+  "wads": {
+    "LeeSin.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 111244,
+      "bytes_after": 98916,
+      "replacement_hashes": []
+    }
+  },
+  "border": {
+    "status": "not_declared",
+    "images": []
+  },
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
+  "references": {
+    "paths": 25,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

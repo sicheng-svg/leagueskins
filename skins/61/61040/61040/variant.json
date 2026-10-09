@@ -4,29 +4,30 @@
   "champion_id": 61,
   "name": "殿堂传奇 奥莉安娜",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "22168d0edc39b16aec0ea1f9cff1ccdf5ffa034b937cffad1a0c54c64f801f42",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "61/61040/61040.fantome",
   "files": [
     {
       "path": "skins/61/61040/61040/Orianna.wad.client",
-      "size": 960138,
-      "sha256": "768139fd4eb8b29863b5420e3d049d10e8f66c8cda10dc1a918fdbf34e7efd22"
+      "size": 1097691,
+      "sha256": "60b699acffb96e8039d6d7d7ca80113ccbc5b2424d789242c8f7e2a0987cca5e"
     }
   ],
   "wads": {
     "Orianna.wad.client": {
-      "entries_before": 3,
+      "entries_before": 4,
       "entries_after": 6,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 7942,
-      "bytes_after": 960138,
+      "bytes_before": 239353,
+      "bytes_after": 1097691,
       "replacement_hashes": [
         "0a68f91676ff31b1",
         "846ee3a066053d4c",
@@ -59,9 +60,15 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Orianna.wad.client": [
+      "059a04d06eb47eb2",
+      "8aa431e8b97ab447",
+      "ae6ec2e51f02c4ce"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 99,
     "missing": 0
   },
   "validation": {

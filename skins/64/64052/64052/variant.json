@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "圣天龙 李青",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "771eedd571c5cf99baf9fa631a6952e682e81afc36c09cf7b53031e0bafdf768",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64052/64052.fantome",
   "files": [
     {
       "path": "skins/64/64052/64052/LeeSin.wad.client",
-      "size": 94742,
-      "sha256": "a6e2afbfc9846d106572301adfcb8ef34ec268adae7d8b843d866da796aa058f"
+      "size": 620702,
+      "sha256": "5e288ce21c6eff398551d701b19eb15e08328212b354037d16ab2ee02fa2fd50"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8458,
-      "bytes_after": 94742,
+      "bytes_before": 628856,
+      "bytes_after": 620702,
       "replacement_hashes": [
         "0e749930b2761d15"
       ]
@@ -45,9 +46,13 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 9,
+    "paths": 227,
     "missing": 0
   },
   "validation": {

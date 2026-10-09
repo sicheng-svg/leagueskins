@@ -9,12 +9,12 @@
       "champion_id": 64,
       "name": "至高之拳 李青",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "592d9d875d2c9ebb9b8bf50202db0f150d1bc2e70bbf24fc7aef77abbbfb66aa",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "64/64004/64004.fantome",
       "files": [
@@ -57,29 +57,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 灼热斗志",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1e4806048437d3a795cf959d423c4ebf91d635b6aa3e7e2a4a81532198d56795",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64060/64060.fantome",
       "files": [
         {
           "path": "skins/64/64004/64060/LeeSin.wad.client",
-          "size": 2303,
-          "sha256": "3f94c186126692ac68718af5c2c048d18a57fb877062076f9449d0626d997cba"
+          "size": 98826,
+          "sha256": "91cd0c6cea355af4a872b752185da0caf3bc1b685d78418a79c97cf5d0d1e8d8"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2303,
-          "bytes_after": 2303,
+          "bytes_before": 100825,
+          "bytes_after": 98826,
           "replacement_hashes": []
         }
       },
@@ -87,9 +88,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {
@@ -105,29 +110,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 锤炼成金",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "326954adc0510de0cc9dbd8a983a9dd1a78d976b378cf79fabde4d2e7e8745db",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64061/64061.fantome",
       "files": [
         {
           "path": "skins/64/64004/64061/LeeSin.wad.client",
-          "size": 2249,
-          "sha256": "0ff00ce0a0ca1d9028294b469f24b39f8d8f7790fb58ced26869ba0756c51151"
+          "size": 98754,
+          "sha256": "b173b05752cf805d7b5d6c5a13d8f139b0dde63f3b99095b39abd8a9c2b6344d"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2249,
-          "bytes_after": 2249,
+          "bytes_before": 100699,
+          "bytes_after": 98754,
           "replacement_hashes": []
         }
       },
@@ -135,9 +141,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {
@@ -153,29 +163,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 活力步法",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "16dfdc1fd1cb536f2fbea118b7f8b19874ed71d9a3168ec595169c43250554a8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64062/64062.fantome",
       "files": [
         {
           "path": "skins/64/64004/64062/LeeSin.wad.client",
-          "size": 2249,
-          "sha256": "ef63f815ce093a0f1d69dd93064db0a0215916e90357d8bcf41d9ee9d1d90dc3"
+          "size": 98754,
+          "sha256": "beabe154ecf91d884e78ffd1d0f52b98fd6744c23ae692d6125ed53dd695187d"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2249,
-          "bytes_after": 2249,
+          "bytes_before": 100699,
+          "bytes_after": 98754,
           "replacement_hashes": []
         }
       },
@@ -183,9 +194,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {
@@ -201,29 +216,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 坚韧意志",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2f8d12a18a5f3a9b8ca810f13d206886c5c198ba34866221d7eb7ccdf3cc3824",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64063/64063.fantome",
       "files": [
         {
           "path": "skins/64/64004/64063/LeeSin.wad.client",
-          "size": 2249,
-          "sha256": "6cc47c93429a3ec3369c8d435da5eb0368c559575626e0a692bfd0ce5b50d614"
+          "size": 98754,
+          "sha256": "7f0b76d9676f733cf7887c3378cb121703792dee66cc130bf1ecd14b2015b5c8"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2249,
-          "bytes_after": 2249,
+          "bytes_before": 100699,
+          "bytes_after": 98754,
           "replacement_hashes": []
         }
       },
@@ -231,9 +247,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {
@@ -249,29 +269,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 优雅敬意",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ddad93d1d03b2da03b3045e81300596e9d24c63a06ab1ea624bd9398efbdc12e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64064/64064.fantome",
       "files": [
         {
           "path": "skins/64/64004/64064/LeeSin.wad.client",
-          "size": 2249,
-          "sha256": "f9c6a99f47a87c7e705a6ff1be922818dae0e3166b21a7db61f09d29f16e3db7"
+          "size": 98754,
+          "sha256": "5efe61e268c57cc0d4b30d6f134817a3e0297a79b5a840cc1965229cc8e45cab"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2249,
-          "bytes_after": 2249,
+          "bytes_before": 100699,
+          "bytes_after": 98754,
           "replacement_hashes": []
         }
       },
@@ -279,9 +300,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {
@@ -297,29 +322,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 华丽花招",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d833c0723986c8e129541f8bdeb73b787373facb157764e4980ca11fe74c2c2d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64065/64065.fantome",
       "files": [
         {
           "path": "skins/64/64004/64065/LeeSin.wad.client",
-          "size": 2276,
-          "sha256": "456e370b008a5d6a0eefb3fce1fbc09a3b4465084bf2cabeeee120706ec6ceba"
+          "size": 98782,
+          "sha256": "bbba99d7e67c16e5a049da067074b0afb0da47b036b87735f93129f8b7d946f5"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2276,
-          "bytes_after": 2276,
+          "bytes_before": 100754,
+          "bytes_after": 98782,
           "replacement_hashes": []
         }
       },
@@ -327,9 +353,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {
@@ -345,29 +375,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 凶狠攻势",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "14e5885f879f8839948a2e3556fcc140af11765cc8e3871aad55b45f4c2be6dd",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64066/64066.fantome",
       "files": [
         {
           "path": "skins/64/64004/64066/LeeSin.wad.client",
-          "size": 2248,
-          "sha256": "366d01a9b2c7c4278e76c9773274ebfc24d1ec5b8c78da76b520aaff9d465c41"
+          "size": 98754,
+          "sha256": "401290b962868e9cd6babac23d6a72d782aa44c47223bf040ec800625b8f47ee"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2248,
-          "bytes_after": 2248,
+          "bytes_before": 100698,
+          "bytes_after": 98754,
           "replacement_hashes": []
         }
       },
@@ -375,9 +406,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {
@@ -393,29 +428,30 @@
       "champion_id": 64,
       "name": "至高之拳 李青 冷酷一击",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ab7bdb9ec0f88a8e7401f672664c886af24284ebd26c840b328415ea45456377",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "64/64004/64067/64067.fantome",
       "files": [
         {
           "path": "skins/64/64004/64067/LeeSin.wad.client",
-          "size": 2248,
-          "sha256": "0d9c0057905306e261706cd60441b66cf4180881235f156a8e9ace71440dcd08"
+          "size": 98754,
+          "sha256": "48c94851de921d3befc5f6fafd41c6181467e3514e92822fd8bd8c7ee846ba2b"
         }
       ],
       "wads": {
         "LeeSin.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2248,
-          "bytes_after": 2248,
+          "bytes_before": 100698,
+          "bytes_after": 98754,
           "replacement_hashes": []
         }
       },
@@ -423,9 +459,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "LeeSin.wad.client": [
+          "400cbf61f15de9f5"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 22,
         "missing": 0
       },
       "validation": {

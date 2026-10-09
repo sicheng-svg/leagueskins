@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "龙的传人 李青 龙啸九天",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "35f555283265c04aefac9337c13958b030e0c276c09b4f0f73f9a3c50e4bf458",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64003/64053/64053.fantome",
   "files": [
     {
       "path": "skins/64/64003/64053/LeeSin.wad.client",
-      "size": 2220,
-      "sha256": "a423d6acd069944972583bda3a47310d55da4b82b8abe7d4a6603c7af8211fa5"
+      "size": 96014,
+      "sha256": "7a3f0ae26ccf36cb51525a1c87b448a72cfb04dfb149c328d4526f84f2172df5"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2220,
-      "bytes_after": 2220,
+      "bytes_before": 97930,
+      "bytes_after": 96014,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 15,
     "missing": 0
   },
   "validation": {

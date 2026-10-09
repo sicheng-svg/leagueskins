@@ -4,29 +4,30 @@
   "champion_id": 64,
   "name": "SKT T1 李青",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "884f22dbd0780d9c6966fb5b0b8ceb3971a7debfeb33cddb49efc1d57acb0d22",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "64/64006/64006.fantome",
   "files": [
     {
       "path": "skins/64/64006/64006/LeeSin.wad.client",
-      "size": 5560,
-      "sha256": "17590beffd00566b0dd70f589322206639e79a1a7f19c56cf52103478cc4c292"
+      "size": 98883,
+      "sha256": "3d171d66a3ad5ca7c75c4bffda454dc65f3fee3c5399e6f21052a21ff8f72bb4"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 5560,
-      "bytes_after": 5560,
+      "bytes_before": 104139,
+      "bytes_after": 98883,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "LeeSin.wad.client": [
+      "400cbf61f15de9f5"
+    ]
+  },
   "references": {
-    "paths": 9,
+    "paths": 25,
     "missing": 0
   },
   "validation": {

@@ -1,0 +1,64 @@
+{
+  "skin_id": 141036,
+  "base_skin_id": 141036,
+  "champion_id": 141,
+  "name": "心之钢 我行我路 凯隐 典雅品味",
+  "kind": "base",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "e3c1e75622c6dd7303acd7f80f60eb89dd54c47c4c58e51a3fcbd121423c824a",
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "141/141036/141036.fantome",
+  "files": [
+    {
+      "path": "skins/141/141036/141036/Kayn.wad.client",
+      "size": 209979,
+      "sha256": "8a301e7e2bd81b3185898f9aac1a93855323d9090131c55e85f08c20173821e7"
+    }
+  ],
+  "wads": {
+    "Kayn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 333370,
+      "bytes_after": 209979,
+      "replacement_hashes": [
+        "34bd16ca608f0bff"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kayn.wad.client",
+        "normal_hash": "34bd16ca608f0bff",
+        "border_hash": "bacc9f6712321bdc",
+        "bytes": 86252,
+        "sha256": "99b261bce3092f9d826225a6367e11dc20ce262eec069be49e09b930b2baefb5",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Kayn.wad.client": [
+      "ab2d6a5aa32ce8a9"
+    ]
+  },
+  "references": {
+    "paths": 78,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

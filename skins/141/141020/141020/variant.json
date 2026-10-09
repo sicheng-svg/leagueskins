@@ -4,29 +4,30 @@
   "champion_id": 141,
   "name": "心之钢 凯隐",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "e31a61d7dbe40d2c06e474144f2ecf0b211a85ca06b1a08cae728dea1f01e722",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "141/141020/141020.fantome",
   "files": [
     {
       "path": "skins/141/141020/141020/Kayn.wad.client",
-      "size": 103789,
-      "sha256": "b7b54183a2bae2375ae0579c880574ff6baf91ad993a9905aca8c338924a25d3"
+      "size": 532333,
+      "sha256": "4650a1edf087362601b2c031ea8fa6efb419dce37ac615325df65c3c9a68dedf"
     }
   ],
   "wads": {
     "Kayn.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 17505,
-      "bytes_after": 103789,
+      "bytes_before": 549502,
+      "bytes_after": 532333,
       "replacement_hashes": [
         "0887c239a55e5181"
       ]
@@ -40,13 +41,19 @@
         "normal_hash": "0887c239a55e5181",
         "border_hash": "e3a8d58ff5c74745",
         "bytes": 86252,
-        "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759"
+        "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Kayn.wad.client": [
+      "ab2d6a5aa32ce8a9",
+      "c3809dd8168814b0"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 129,
     "missing": 0
   },
   "validation": {

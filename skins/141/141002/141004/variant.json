@@ -4,29 +4,30 @@
   "champion_id": 141,
   "name": "奥德赛 凯隐 星云环游者",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "edfb8638e897d473d00bd14b7e0d6c84ed46939a263888b0a44d89b282395286",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "141/141002/141004/141004.fantome",
   "files": [
     {
       "path": "skins/141/141002/141004/Kayn.wad.client",
-      "size": 99145,
-      "sha256": "6d22d8e4b55b66093a35b31042b602544d7c38d81b5bb7c7141b49fe2bf95346"
+      "size": 164528,
+      "sha256": "fac3daae37fa949ebe4a74e81641c73f3d1e0bb9961f15a82d9c5b5184940827"
     }
   ],
   "wads": {
     "Kayn.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 12861,
-      "bytes_after": 99145,
+      "bytes_before": 168608,
+      "bytes_after": 164528,
       "replacement_hashes": [
         "fd76097c7a601d73"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "fd76097c7a601d73",
         "border_hash": "c39dedca32518484",
         "bytes": 86252,
-        "sha256": "404aa75264b75cabbea76eb5ebc9d8e263056d5e8f25937b9f0cd23c7fe765f2"
+        "sha256": "404aa75264b75cabbea76eb5ebc9d8e263056d5e8f25937b9f0cd23c7fe765f2",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Kayn.wad.client": [
+      "ab2d6a5aa32ce8a9"
+    ]
+  },
   "references": {
-    "paths": 16,
+    "paths": 74,
     "missing": 0
   },
   "validation": {

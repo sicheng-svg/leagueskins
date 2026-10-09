@@ -9,29 +9,30 @@
       "champion_id": 141,
       "name": "心之钢 凯隐",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e31a61d7dbe40d2c06e474144f2ecf0b211a85ca06b1a08cae728dea1f01e722",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "141/141020/141020.fantome",
       "files": [
         {
           "path": "skins/141/141020/141020/Kayn.wad.client",
-          "size": 103789,
-          "sha256": "b7b54183a2bae2375ae0579c880574ff6baf91ad993a9905aca8c338924a25d3"
+          "size": 532333,
+          "sha256": "4650a1edf087362601b2c031ea8fa6efb419dce37ac615325df65c3c9a68dedf"
         }
       ],
       "wads": {
         "Kayn.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 17505,
-          "bytes_after": 103789,
+          "bytes_before": 549502,
+          "bytes_after": 532333,
           "replacement_hashes": [
             "0887c239a55e5181"
           ]
@@ -45,13 +46,19 @@
             "normal_hash": "0887c239a55e5181",
             "border_hash": "e3a8d58ff5c74745",
             "bytes": 86252,
-            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759"
+            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Kayn.wad.client": [
+          "ab2d6a5aa32ce8a9",
+          "c3809dd8168814b0"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 129,
         "missing": 0
       },
       "validation": {
@@ -67,29 +74,30 @@
       "champion_id": 141,
       "name": "心之钢 凯隐 锐意曲风",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "be331245bb65d395289ad448747f84ffc07d7ea6811725234d9152ef6d6b24ea",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "141/141020/141021/141021.fantome",
       "files": [
         {
           "path": "skins/141/141020/141021/Kayn.wad.client",
-          "size": 103837,
-          "sha256": "272ceee5d75d3a4b763a2c7c9bb03c31c650641e1a73074f2983e27180e9250f"
+          "size": 465885,
+          "sha256": "2178f3bb6f62267a5cedb6a751f320896e73773c9fe2d1acb565e1f93909998f"
         }
       ],
       "wads": {
         "Kayn.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 17553,
-          "bytes_after": 103837,
+          "bytes_before": 470975,
+          "bytes_after": 465885,
           "replacement_hashes": [
             "0887c239a55e5181"
           ]
@@ -103,13 +111,18 @@
             "normal_hash": "0887c239a55e5181",
             "border_hash": "e3a8d58ff5c74745",
             "bytes": 86252,
-            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759"
+            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Kayn.wad.client": [
+          "ab2d6a5aa32ce8a9"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 130,
         "missing": 0
       },
       "validation": {
@@ -125,29 +138,30 @@
       "champion_id": 141,
       "name": "心之钢 凯隐 天纵才华",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ad40a94e7be91e5378dae6f5ec23ead65ff7e2627bf760b5573192510f8fddce",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "141/141020/141022/141022.fantome",
       "files": [
         {
           "path": "skins/141/141020/141022/Kayn.wad.client",
-          "size": 103596,
-          "sha256": "bde5f03b8c1af3234eda8fe373268d3bcfe38dd65054b6273cba1a290ce1049c"
+          "size": 466001,
+          "sha256": "9e4e57a94299ceda820b4e1a0ca6216eb35650ffa1a8c12184663018eed187b5"
         }
       ],
       "wads": {
         "Kayn.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 17312,
-          "bytes_after": 103596,
+          "bytes_before": 470850,
+          "bytes_after": 466001,
           "replacement_hashes": [
             "0887c239a55e5181"
           ]
@@ -161,13 +175,18 @@
             "normal_hash": "0887c239a55e5181",
             "border_hash": "e3a8d58ff5c74745",
             "bytes": 86252,
-            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759"
+            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Kayn.wad.client": [
+          "ab2d6a5aa32ce8a9"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 130,
         "missing": 0
       },
       "validation": {
@@ -183,29 +202,30 @@
       "champion_id": 141,
       "name": "心之钢 凯隐 本真风范",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8bb40f5290b94c0a2bc435970257b7f71330461e202328634d51ca9099fc2ea0",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "141/141020/141023/141023.fantome",
       "files": [
         {
           "path": "skins/141/141020/141023/Kayn.wad.client",
-          "size": 103803,
-          "sha256": "17782a1ee97b188fbddb6c2104e3b3daea189fb39fd24506e9ed5611166b1e59"
+          "size": 465973,
+          "sha256": "33600d4f3488cf807a1a645f4c0e311e4aa11787d4a3c38100d95b139beb05ef"
         }
       ],
       "wads": {
         "Kayn.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 17519,
-          "bytes_after": 103803,
+          "bytes_before": 471029,
+          "bytes_after": 465973,
           "replacement_hashes": [
             "0887c239a55e5181"
           ]
@@ -219,13 +239,18 @@
             "normal_hash": "0887c239a55e5181",
             "border_hash": "e3a8d58ff5c74745",
             "bytes": 86252,
-            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759"
+            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Kayn.wad.client": [
+          "ab2d6a5aa32ce8a9"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 130,
         "missing": 0
       },
       "validation": {
@@ -241,29 +266,30 @@
       "champion_id": 141,
       "name": "心之钢 凯隐 金声玉振",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fd76c55599ce62084887cfbc5d880e58cff8a3d439befa371a4c56be1b6c9cf4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "141/141020/141024/141024.fantome",
       "files": [
         {
           "path": "skins/141/141020/141024/Kayn.wad.client",
-          "size": 103818,
-          "sha256": "c5bbfcc739e36dd8fd14908676363a1444b78d9b63f5e96d4375c031f25b52d4"
+          "size": 466001,
+          "sha256": "e5afd5e9913615e7370b927787a19939132f1982c149c1d817e1cb5f6fde52d6"
         }
       ],
       "wads": {
         "Kayn.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 17534,
-          "bytes_after": 103818,
+          "bytes_before": 471072,
+          "bytes_after": 466001,
           "replacement_hashes": [
             "0887c239a55e5181"
           ]
@@ -277,13 +303,18 @@
             "normal_hash": "0887c239a55e5181",
             "border_hash": "e3a8d58ff5c74745",
             "bytes": 86252,
-            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759"
+            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Kayn.wad.client": [
+          "ab2d6a5aa32ce8a9"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 130,
         "missing": 0
       },
       "validation": {
@@ -299,29 +330,30 @@
       "champion_id": 141,
       "name": "心之钢 凯隐 摇滚明星",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0afd41c96fd9d647e57784932242fc6169420a7e752ab11cad0d3b368cee5c2d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "141/141020/141025/141025.fantome",
       "files": [
         {
           "path": "skins/141/141020/141025/Kayn.wad.client",
-          "size": 103625,
-          "sha256": "b069475ab0fc220fb0ef91b5a3e45333a2167611a42c4e4009393580e86700e0"
+          "size": 466046,
+          "sha256": "072ed4a5377184ac1cc6ace1f83528c0e288c6b341a0c6df540158edb46230fb"
         }
       ],
       "wads": {
         "Kayn.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 17341,
-          "bytes_after": 103625,
+          "bytes_before": 470924,
+          "bytes_after": 466046,
           "replacement_hashes": [
             "0887c239a55e5181"
           ]
@@ -335,13 +367,18 @@
             "normal_hash": "0887c239a55e5181",
             "border_hash": "e3a8d58ff5c74745",
             "bytes": 86252,
-            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759"
+            "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Kayn.wad.client": [
+          "ab2d6a5aa32ce8a9"
+        ]
+      },
       "references": {
-        "paths": 15,
+        "paths": 130,
         "missing": 0
       },
       "validation": {

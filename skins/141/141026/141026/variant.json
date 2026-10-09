@@ -4,29 +4,30 @@
   "champion_id": 141,
   "name": "战斗学院 凯隐",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "f817bcb62dc79fa334d803bcd28fef9990e43ecca93c9f5d4d6ea482a01041df",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "141/141026/141026.fantome",
   "files": [
     {
       "path": "skins/141/141026/141026/Kayn.wad.client",
-      "size": 8997,
-      "sha256": "c73e46db1d74c2830523765888a10a996e533cf286329e4aa4e1492b34cfbaf1"
+      "size": 245107,
+      "sha256": "68b2b59bc0b9be4fa6d2add48d1754baeb757c95dcf55a47568c09e1cca466ec"
     }
   ],
   "wads": {
     "Kayn.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8997,
-      "bytes_after": 8997,
+      "bytes_before": 253800,
+      "bytes_after": 245107,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Kayn.wad.client": [
+      "ab2d6a5aa32ce8a9"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 71,
     "missing": 0
   },
   "validation": {

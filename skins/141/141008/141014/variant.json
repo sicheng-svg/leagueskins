@@ -4,29 +4,30 @@
   "champion_id": 141,
   "name": "黑夜使者 凯隐 陨夜",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "2a2498fb546136dfa54eb8175e303f4066e78ba1b3b08debe86b2e222c1cffa1",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "141/141008/141014/141014.fantome",
   "files": [
     {
       "path": "skins/141/141008/141014/Kayn.wad.client",
-      "size": 89946,
-      "sha256": "887dcefab5201d3cb2b5330ea82b781002c865fff16e778c573d87e671ec9c0b"
+      "size": 281896,
+      "sha256": "e14e41f751ea2ad05aa9d70a493440b1f905d9babb2bc480bf7c71b79217d97a"
     }
   ],
   "wads": {
     "Kayn.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3662,
-      "bytes_after": 89946,
+      "bytes_before": 285254,
+      "bytes_after": 281896,
       "replacement_hashes": [
         "5f16bda994bc8573"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "5f16bda994bc8573",
         "border_hash": "db463e39423b9f2f",
         "bytes": 86252,
-        "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2"
+        "sha256": "45845c3ad6524dcffb65da0eb1367adb5136497baf43edb03f4b740f72301cc2",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Kayn.wad.client": [
+      "ab2d6a5aa32ce8a9"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 115,
     "missing": 0
   },
   "validation": {

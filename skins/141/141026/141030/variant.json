@@ -4,29 +4,30 @@
   "champion_id": 141,
   "name": "战斗学院 凯隐 森林龙",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "2c417533f5deb481d839a95c4a08a7b9756338a5bc0a85545d8e0829e45d5406",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "141/141026/141030/141030.fantome",
   "files": [
     {
       "path": "skins/141/141026/141030/Kayn.wad.client",
-      "size": 3965,
-      "sha256": "0017918937c52b27495b43635932d09922ae0d7330f5f356f11c1232b2e720c4"
+      "size": 245038,
+      "sha256": "3fde687cc2b97d5bc167e5f10fcaed168b5bf481728598f310beb7781bd7f371"
     }
   ],
   "wads": {
     "Kayn.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3965,
-      "bytes_after": 3965,
+      "bytes_before": 248699,
+      "bytes_after": 245038,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Kayn.wad.client": [
+      "ab2d6a5aa32ce8a9"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 71,
     "missing": 0
   },
   "validation": {

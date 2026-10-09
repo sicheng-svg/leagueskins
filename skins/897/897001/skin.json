@@ -9,29 +9,30 @@
       "champion_id": 897,
       "name": "至高天 奎桑提",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2e4f2cf110eb0e7ddd6cb2a7ef8ff40828771b8386ec671ede20f16ec3a729de",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "897/897001/897001.fantome",
       "files": [
         {
           "path": "skins/897/897001/897001/KSante.wad.client",
-          "size": 95418,
-          "sha256": "4263d37f4fe6cc6f43173860c0409a2a2e5d5d873d4eae23a952ae47efd444ba"
+          "size": 124051,
+          "sha256": "9e2147ec0ff55fd59baaebed94f7ae4332f685f3e236ad10f221a90ef9471047"
         }
       ],
       "wads": {
         "KSante.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 9134,
-          "bytes_after": 95418,
+          "bytes_before": 132881,
+          "bytes_after": 124051,
           "replacement_hashes": [
             "268c301965338f94"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "268c301965338f94",
             "border_hash": "260974e9ff71a8d1",
             "bytes": 86252,
-            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KSante.wad.client": [
+          "eca6f27772402ede"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 897,
       "name": "至高天 奎桑提 狂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "de4b76fd4067389d4b9da2fe3dd9394f51226cd2dc6c42104eb48a2d4799c353",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "897/897001/897003/897003.fantome",
       "files": [
         {
           "path": "skins/897/897001/897003/KSante.wad.client",
-          "size": 89717,
-          "sha256": "75c291299a597f1fdb0d03c7c24a09d8115b40edfd2c77ff997a0f83ace0cf80"
+          "size": 124152,
+          "sha256": "4537f02e8f7d0b4b374015b7447d6cfbe537d1d417bd16c80a2d540746b6a171"
         }
       ],
       "wads": {
         "KSante.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3433,
-          "bytes_after": 89717,
+          "bytes_before": 127281,
+          "bytes_after": 124152,
           "replacement_hashes": [
             "268c301965338f94"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "268c301965338f94",
             "border_hash": "260974e9ff71a8d1",
             "bytes": 86252,
-            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KSante.wad.client": [
+          "eca6f27772402ede"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 897,
       "name": "至高天 奎桑提 青炬",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6681e3c7642bdc3cc597585ad850f7f315c7ac45ced329c47a561ff076874da8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "897/897001/897004/897004.fantome",
       "files": [
         {
           "path": "skins/897/897001/897004/KSante.wad.client",
-          "size": 89668,
-          "sha256": "0b25c938a86d57a2e68e77020e959e5ec031b738e515aada133af05b6af125e5"
+          "size": 124079,
+          "sha256": "597f08feff0443584a37588aed3259539d59266c1b4331d2cb5094219296476f"
         }
       ],
       "wads": {
         "KSante.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3384,
-          "bytes_after": 89668,
+          "bytes_before": 127159,
+          "bytes_after": 124079,
           "replacement_hashes": [
             "268c301965338f94"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "268c301965338f94",
             "border_hash": "260974e9ff71a8d1",
             "bytes": 86252,
-            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KSante.wad.client": [
+          "eca6f27772402ede"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 897,
       "name": "至高天 奎桑提 灵辉",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4cad87aac8f9e364aac22ab00ce1ade90ad517d666cbb681c0a30b84190927bd",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "897/897001/897005/897005.fantome",
       "files": [
         {
           "path": "skins/897/897001/897005/KSante.wad.client",
-          "size": 89668,
-          "sha256": "2ec4d601ffcff68ac620721c81549a6e4e7d1bc4317aa6f94ded67a1e376f717"
+          "size": 124079,
+          "sha256": "7ce1348fd2c54852f3eee050bad3f9b9b0591a56b78b2645c71fe820d272d502"
         }
       ],
       "wads": {
         "KSante.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3384,
-          "bytes_after": 89668,
+          "bytes_before": 127159,
+          "bytes_after": 124079,
           "replacement_hashes": [
             "268c301965338f94"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "268c301965338f94",
             "border_hash": "260974e9ff71a8d1",
             "bytes": 86252,
-            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KSante.wad.client": [
+          "eca6f27772402ede"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 897,
       "name": "至高天 奎桑提 胧光",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5a1819f66b17013b7a56296fc35f7d714eaa870bf0fdbd766428b30bbee3cf90",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "897/897001/897006/897006.fantome",
       "files": [
         {
           "path": "skins/897/897001/897006/KSante.wad.client",
-          "size": 89668,
-          "sha256": "22d4f4f996f668b1643620529f7eb5d68e2ace92b91aba12c8e4d1e81c63ba7f"
+          "size": 124079,
+          "sha256": "da95c457f1a2d390400bd59557a0ae86341502f7f2f588aad7300f5a42c45aee"
         }
       ],
       "wads": {
         "KSante.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3384,
-          "bytes_after": 89668,
+          "bytes_before": 127159,
+          "bytes_after": 124079,
           "replacement_hashes": [
             "268c301965338f94"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "268c301965338f94",
             "border_hash": "260974e9ff71a8d1",
             "bytes": 86252,
-            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KSante.wad.client": [
+          "eca6f27772402ede"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 897,
       "name": "至高天 奎桑提 霓虹耀斑",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "746c62e656c452a34a98394d179b2ad3d742e754a48e5ba7cb7d6b6fbdf9505d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "897/897001/897007/897007.fantome",
       "files": [
         {
           "path": "skins/897/897001/897007/KSante.wad.client",
-          "size": 89725,
-          "sha256": "6c13ec18731a4b68e2823fde8ad4cc81cea828de511d80704652a6a3b6923d5e"
+          "size": 124152,
+          "sha256": "828881f258d2f96318588474531863183017f2b15515dd06dc740af9d6ebd346"
         }
       ],
       "wads": {
         "KSante.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3441,
-          "bytes_after": 89725,
+          "bytes_before": 127289,
+          "bytes_after": 124152,
           "replacement_hashes": [
             "268c301965338f94"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "268c301965338f94",
             "border_hash": "260974e9ff71a8d1",
             "bytes": 86252,
-            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+            "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "KSante.wad.client": [
+          "eca6f27772402ede"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {

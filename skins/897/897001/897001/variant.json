@@ -4,29 +4,30 @@
   "champion_id": 897,
   "name": "至高天 奎桑提",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "2e4f2cf110eb0e7ddd6cb2a7ef8ff40828771b8386ec671ede20f16ec3a729de",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "897/897001/897001.fantome",
   "files": [
     {
       "path": "skins/897/897001/897001/KSante.wad.client",
-      "size": 95418,
-      "sha256": "4263d37f4fe6cc6f43173860c0409a2a2e5d5d873d4eae23a952ae47efd444ba"
+      "size": 124051,
+      "sha256": "9e2147ec0ff55fd59baaebed94f7ae4332f685f3e236ad10f221a90ef9471047"
     }
   ],
   "wads": {
     "KSante.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 9134,
-      "bytes_after": 95418,
+      "bytes_before": 132881,
+      "bytes_after": 124051,
       "replacement_hashes": [
         "268c301965338f94"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "268c301965338f94",
         "border_hash": "260974e9ff71a8d1",
         "bytes": 86252,
-        "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+        "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "KSante.wad.client": [
+      "eca6f27772402ede"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 41,
     "missing": 0
   },
   "validation": {

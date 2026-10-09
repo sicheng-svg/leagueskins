@@ -1,0 +1,71 @@
+{
+  "champion_id": 897,
+  "base_skin_id": 897020,
+  "name": "心之钢 我行我路 奎桑提 超凡信心",
+  "variants": [
+    {
+      "skin_id": 897020,
+      "base_skin_id": 897020,
+      "champion_id": 897,
+      "name": "心之钢 我行我路 奎桑提 超凡信心",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d57106b5c2a32c052fcc8978cb60be9c89003207cdccc961e469ab925c5cbc89",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "897/897020/897020.fantome",
+      "files": [
+        {
+          "path": "skins/897/897020/897020/KSante.wad.client",
+          "size": 142334,
+          "sha256": "bd1b1306809cbec578dcfdaf0cbe49d739d400ef2b791f7182d0e02aa5dd8d47"
+        }
+      ],
+      "wads": {
+        "KSante.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 198080,
+          "bytes_after": 142334,
+          "replacement_hashes": [
+            "9ed4c36534efd80c"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "KSante.wad.client",
+            "normal_hash": "9ed4c36534efd80c",
+            "border_hash": "54c69ffb287056f0",
+            "bytes": 86252,
+            "sha256": "a1752b6636478151db9182dd563e505537cc8c5e73120e2347d576513c76aa1a",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "KSante.wad.client": [
+          "eca6f27772402ede"
+        ]
+      },
+      "references": {
+        "paths": 49,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

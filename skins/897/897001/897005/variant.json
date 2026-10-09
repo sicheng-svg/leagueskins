@@ -4,29 +4,30 @@
   "champion_id": 897,
   "name": "至高天 奎桑提 灵辉",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "4cad87aac8f9e364aac22ab00ce1ade90ad517d666cbb681c0a30b84190927bd",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "897/897001/897005/897005.fantome",
   "files": [
     {
       "path": "skins/897/897001/897005/KSante.wad.client",
-      "size": 89668,
-      "sha256": "2ec4d601ffcff68ac620721c81549a6e4e7d1bc4317aa6f94ded67a1e376f717"
+      "size": 124079,
+      "sha256": "7ce1348fd2c54852f3eee050bad3f9b9b0591a56b78b2645c71fe820d272d502"
     }
   ],
   "wads": {
     "KSante.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3384,
-      "bytes_after": 89668,
+      "bytes_before": 127159,
+      "bytes_after": 124079,
       "replacement_hashes": [
         "268c301965338f94"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "268c301965338f94",
         "border_hash": "260974e9ff71a8d1",
         "bytes": 86252,
-        "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+        "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "KSante.wad.client": [
+      "eca6f27772402ede"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 41,
     "missing": 0
   },
   "validation": {

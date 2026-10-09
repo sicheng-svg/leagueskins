@@ -4,29 +4,30 @@
   "champion_id": 897,
   "name": "至高天 奎桑提 霓虹耀斑",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "746c62e656c452a34a98394d179b2ad3d742e754a48e5ba7cb7d6b6fbdf9505d",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "897/897001/897007/897007.fantome",
   "files": [
     {
       "path": "skins/897/897001/897007/KSante.wad.client",
-      "size": 89725,
-      "sha256": "6c13ec18731a4b68e2823fde8ad4cc81cea828de511d80704652a6a3b6923d5e"
+      "size": 124152,
+      "sha256": "828881f258d2f96318588474531863183017f2b15515dd06dc740af9d6ebd346"
     }
   ],
   "wads": {
     "KSante.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3441,
-      "bytes_after": 89725,
+      "bytes_before": 127289,
+      "bytes_after": 124152,
       "replacement_hashes": [
         "268c301965338f94"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "268c301965338f94",
         "border_hash": "260974e9ff71a8d1",
         "bytes": 86252,
-        "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305"
+        "sha256": "d278bfd5561a8b1efbff539d43d7dffaa8cdc077f225dde2c099eadc0d250305",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "KSante.wad.client": [
+      "eca6f27772402ede"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 41,
     "missing": 0
   },
   "validation": {

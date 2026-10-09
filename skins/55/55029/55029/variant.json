@@ -4,31 +4,32 @@
   "champion_id": 55,
   "name": "女帝 卡特琳娜",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "6cc68623bee3281d9b751623a0d3cb8c4db488546f2ca410290ce53bd52c3cb1",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "8c393ed7621b1333000c7d8e8e0a7ca52751b440ff567043b230f7a007d445b3"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "55/55029/55029.fantome",
   "files": [
     {
       "path": "skins/55/55029/55029/Katarina.wad.client",
-      "size": 99532,
-      "sha256": "98fab7f7a736c9386c9995f8704a5ca1a96347b15e4fc11d384f4bb2a41e3bd2"
+      "size": 429691,
+      "sha256": "6a84ac840b5ffb19f73cf70aceca0c19b52496449adb905769d5edaf64185628"
     }
   ],
   "wads": {
     "Katarina.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 13248,
-      "bytes_after": 99532,
+      "bytes_before": 434086,
+      "bytes_after": 429691,
       "replacement_hashes": [
-        "0814e7816d8ec8ec"
+        "a22286cbd1bfddb8"
       ]
     }
   },
@@ -37,17 +38,21 @@
     "images": [
       {
         "archive": "Katarina.wad.client",
-        "normal_hash": "0814e7816d8ec8ec",
+        "normal_hash": "a22286cbd1bfddb8",
         "border_hash": "0814e7816d8ec8ec",
         "bytes": 86252,
         "sha256": "e9e363adbf52eb0f1d0cbc36e4d85d392c2459b7b0a78c8bcde77ead98ed9da6",
-        "strategy": "embed_existing_border"
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Katarina.wad.client": [
+      "ec1d3bbf62075218"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 75,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 55,
   "name": "女帝 卡特琳娜 纹章·神圣加冕礼",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "0d91dbdd375517ff8cc41226279947142a9e3a78adfaf9842333e1c55a61152d",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "55/55029/55036/55036.fantome",
   "files": [
     {
       "path": "skins/55/55029/55036/Katarina.wad.client",
-      "size": 89643,
-      "sha256": "4cb8ca9a63fe7ecfe81ce4c418e7ee63c9131c64e43ff3d38724c50b8210455d"
+      "size": 421247,
+      "sha256": "4880867fbc11e6c412a5512f61e679a73f656cccc034c78b6030bdfda6785c16"
     }
   ],
   "wads": {
     "Katarina.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3359,
-      "bytes_after": 89643,
+      "bytes_before": 424302,
+      "bytes_after": 421247,
       "replacement_hashes": [
         "a22286cbd1bfddb8"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "a22286cbd1bfddb8",
         "border_hash": "0814e7816d8ec8ec",
         "bytes": 86252,
-        "sha256": "e9e363adbf52eb0f1d0cbc36e4d85d392c2459b7b0a78c8bcde77ead98ed9da6"
+        "sha256": "e9e363adbf52eb0f1d0cbc36e4d85d392c2459b7b0a78c8bcde77ead98ed9da6",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Katarina.wad.client": [
+      "ec1d3bbf62075218"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 75,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 58,
   "name": "源计划：泯灭 雷克顿 失控",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "7100cc756c2101ed520ccac5deb43f31c77ffdffe3c4e56890594717779273b5",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "58/58026/58030/58030.fantome",
   "files": [
     {
       "path": "skins/58/58026/58030/Renekton.wad.client",
-      "size": 89515,
-      "sha256": "564cdaa10078c9089828a2c9dfdbbbe67f8c46b9900eeabfc878da8d6d8e41a1"
+      "size": 129243,
+      "sha256": "5480f230e43f34d57fec27cfb6ac8ac6a182b2c1403e2b5c9ab8b5d749afe960"
     }
   ],
   "wads": {
     "Renekton.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3231,
-      "bytes_after": 89515,
+      "bytes_before": 132170,
+      "bytes_after": 129243,
       "replacement_hashes": [
         "a1923c9627405544"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "a1923c9627405544",
         "border_hash": "74168b71470af3ff",
         "bytes": 86252,
-        "sha256": "bb33b699f8690538bf05c0d89fd793469b3a5b29a791be468ba50fb3a6671684"
+        "sha256": "bb33b699f8690538bf05c0d89fd793469b3a5b29a791be468ba50fb3a6671684",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Renekton.wad.client": [
+      "8f906213ee4cadf0"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 18,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 55,
   "name": "踏雪寻梅 卡特琳娜 岁寒特妍",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "e4a34c42d9a47328b08490be58809867eea5ff8cf9b7b911fa5e78a263ae8144",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "55/55070/55071/55071.fantome",
   "files": [
     {
       "path": "skins/55/55070/55071/Katarina.wad.client",
-      "size": 88689,
-      "sha256": "a8cc61fd394b0bb8c772d58eae6c7eae65814e7543aa2d512e443d8ae196a901"
+      "size": 209678,
+      "sha256": "e0097b0e546f075f31355dd5e309287ff6c74919f4cfc9eac4dec469c6083178"
     }
   ],
   "wads": {
     "Katarina.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2405,
-      "bytes_after": 88689,
+      "bytes_before": 211779,
+      "bytes_after": 209678,
       "replacement_hashes": [
         "c1a7db60bc3bfd1a"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "c1a7db60bc3bfd1a",
         "border_hash": "f970063328c060d8",
         "bytes": 86252,
-        "sha256": "a86b1586f45f9797603d0b09122e65ecbe583b7a43e7a37dd0ece3a48921df80"
+        "sha256": "a86b1586f45f9797603d0b09122e65ecbe583b7a43e7a37dd0ece3a48921df80",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Katarina.wad.client": [
+      "ec1d3bbf62075218"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 78,
     "missing": 0
   },
   "validation": {

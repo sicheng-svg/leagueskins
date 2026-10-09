@@ -4,29 +4,30 @@
   "champion_id": 58,
   "name": "墨之影 雷克顿 玄墨蕴影",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "8212da10ac23acbd95b69b7897196531b6440eb9aaacf4150d0d9a039402a854",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "58/58048/58054/58054.fantome",
   "files": [
     {
       "path": "skins/58/58048/58054/Renekton.wad.client",
-      "size": 2533,
-      "sha256": "89ee040981908ec900fdf4c251261fa257a5c1ebf69f03c5ba1ce018a6eeb064"
+      "size": 107030,
+      "sha256": "a4234ca4309bf94b86294be905a5e8ae7827fd32750d767a0020c7f79fe8c325"
     }
   ],
   "wads": {
     "Renekton.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2533,
-      "bytes_after": 2533,
+      "bytes_before": 109259,
+      "bytes_after": 107030,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Renekton.wad.client": [
+      "8f906213ee4cadf0"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 37,
     "missing": 0
   },
   "validation": {

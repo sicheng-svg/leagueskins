@@ -9,29 +9,30 @@
       "champion_id": 43,
       "name": "花仙女王 卡尔玛",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2dfb4cd095545c2fd084bc5e1232ae0cbb35bcca75bb7b7704e967310b5f6dec",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "43/43054/43054.fantome",
       "files": [
         {
           "path": "skins/43/43054/43054/Karma.wad.client",
-          "size": 90414,
-          "sha256": "362bb418f5f4a0b25c596e5b6d21facf1ace3e53d78e7ce45a5302ee289946f9"
+          "size": 255423,
+          "sha256": "600666dad057a48aa654afd14c14e2822740271528166fdfe422330f83df2e85"
         }
       ],
       "wads": {
         "Karma.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4130,
-          "bytes_after": 90414,
+          "bytes_before": 259249,
+          "bytes_after": 255423,
           "replacement_hashes": [
             "84171b18faa4ad97"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "84171b18faa4ad97",
             "border_hash": "5eec94c6435cd436",
             "bytes": 86252,
-            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157"
+            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Karma.wad.client": [
+          "b1f5a8e80d154f0c"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 43,
       "name": "花仙女王 卡尔玛 红漪",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2c589cf135ae8ed634a0655a39d5cd09d4275bc50a7dcadeb529e98f2e777190",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "43/43054/43055/43055.fantome",
       "files": [
         {
           "path": "skins/43/43054/43055/Karma.wad.client",
-          "size": 90476,
-          "sha256": "77f9038d77fb95aa9ee8cfc5fe9d63de556099803fb808c606d0c7d4f90119dd"
+          "size": 259087,
+          "sha256": "c103578964c2b1f8ccd2127f19276314a38c8aabe5eb758455b209d37d0bc4c8"
         }
       ],
       "wads": {
         "Karma.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4192,
-          "bytes_after": 90476,
+          "bytes_before": 262975,
+          "bytes_after": 259087,
           "replacement_hashes": [
             "84171b18faa4ad97"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "84171b18faa4ad97",
             "border_hash": "5eec94c6435cd436",
             "bytes": 86252,
-            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157"
+            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Karma.wad.client": [
+          "b1f5a8e80d154f0c"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 43,
       "name": "花仙女王 卡尔玛 荧光裳",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ab415ee6db35f48b387738a6db9e087d169f7af1cacbd0d378fc8ce0dd538306",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "43/43054/43056/43056.fantome",
       "files": [
         {
           "path": "skins/43/43054/43056/Karma.wad.client",
-          "size": 90426,
-          "sha256": "a785c6df147261f780ed0b96055da758ebb6b13d4d0cc1b84a7f8208e2548f55"
+          "size": 258875,
+          "sha256": "7f197c84a4b379ae5377053dbf2f6c48b0a88c8a10c731692ce321cf55acd07c"
         }
       ],
       "wads": {
         "Karma.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4142,
-          "bytes_after": 90426,
+          "bytes_before": 262713,
+          "bytes_after": 258875,
           "replacement_hashes": [
             "84171b18faa4ad97"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "84171b18faa4ad97",
             "border_hash": "5eec94c6435cd436",
             "bytes": 86252,
-            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157"
+            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Karma.wad.client": [
+          "b1f5a8e80d154f0c"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 43,
       "name": "花仙女王 卡尔玛 琉璃翠",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "234cb54aac317822826501674142e69904c2637edcc5f5e2079706cf361fabcf",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "43/43054/43057/43057.fantome",
       "files": [
         {
           "path": "skins/43/43054/43057/Karma.wad.client",
-          "size": 90428,
-          "sha256": "e579838d2b80281cee6d69147110144fa5dbb0021a492a8b16f637fb356e4502"
+          "size": 255848,
+          "sha256": "24a39aa67201b7e286addf0efc1ccb8ddd3cb89365d8429c68f7eeced30b6b95"
         }
       ],
       "wads": {
         "Karma.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4144,
-          "bytes_after": 90428,
+          "bytes_before": 259688,
+          "bytes_after": 255848,
           "replacement_hashes": [
             "84171b18faa4ad97"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "84171b18faa4ad97",
             "border_hash": "5eec94c6435cd436",
             "bytes": 86252,
-            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157"
+            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Karma.wad.client": [
+          "b1f5a8e80d154f0c"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 43,
       "name": "花仙女王 卡尔玛 曙凤",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b38d4c2a39bda99c2500cbfd6ebced7afa0b8ce172e88ec69994d01b96e32495",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "43/43054/43058/43058.fantome",
       "files": [
         {
           "path": "skins/43/43054/43058/Karma.wad.client",
-          "size": 90427,
-          "sha256": "6e863f3dfca3588461c24432b50ac73cc360d8bed44b5483d6c5cc8ad572d7f9"
+          "size": 257321,
+          "sha256": "7c60ba43a7e7cb2aa07bb833b6500c6cdf6a104d5ce79a6088f27a287076b93a"
         }
       ],
       "wads": {
         "Karma.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4143,
-          "bytes_after": 90427,
+          "bytes_before": 261160,
+          "bytes_after": 257321,
           "replacement_hashes": [
             "84171b18faa4ad97"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "84171b18faa4ad97",
             "border_hash": "5eec94c6435cd436",
             "bytes": 86252,
-            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157"
+            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Karma.wad.client": [
+          "b1f5a8e80d154f0c"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 43,
       "name": "花仙女王 卡尔玛 蓝闪",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1c406eb5c25570491b221180a5452a9f2a61fbb820fed1208e8985ec93307d5f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "43/43054/43059/43059.fantome",
       "files": [
         {
           "path": "skins/43/43054/43059/Karma.wad.client",
-          "size": 90430,
-          "sha256": "8503d9143051c608f422ab2e8fba6dc0a6829ba1395192e3d13c1eda3aa8f1ff"
+          "size": 257382,
+          "sha256": "95952646cbc765fde693b9ec9d9a6b0bea0fc96f2bb2dd2915e899751b710b84"
         }
       ],
       "wads": {
         "Karma.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4146,
-          "bytes_after": 90430,
+          "bytes_before": 261224,
+          "bytes_after": 257382,
           "replacement_hashes": [
             "84171b18faa4ad97"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "84171b18faa4ad97",
             "border_hash": "5eec94c6435cd436",
             "bytes": 86252,
-            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157"
+            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Karma.wad.client": [
+          "b1f5a8e80d154f0c"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 43,
       "name": "花仙女王 卡尔玛 迷人幻翼",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fb51e3c93b7e1720e12cd797b34d6ec49a4978dd7efefffe8e3d4e14dbe1c227",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "43/43054/43060/43060.fantome",
       "files": [
         {
           "path": "skins/43/43054/43060/Karma.wad.client",
-          "size": 90476,
-          "sha256": "5df9afc1531c25c4503fa2f08b061b6e9ab519358a0e1dc17315a472134b5309"
+          "size": 255648,
+          "sha256": "f6377327bd972b7386ab81ef949340419ab295e5d7da2de5587b6d529f35b07c"
         }
       ],
       "wads": {
         "Karma.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4192,
-          "bytes_after": 90476,
+          "bytes_before": 259536,
+          "bytes_after": 255648,
           "replacement_hashes": [
             "84171b18faa4ad97"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "84171b18faa4ad97",
             "border_hash": "5eec94c6435cd436",
             "bytes": 86252,
-            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157"
+            "sha256": "dfe78aa5280e1381dd624509c6dcf51e320609e92ac0d9302c65fff109afb157",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Karma.wad.client": [
+          "b1f5a8e80d154f0c"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 64,
         "missing": 0
       },
       "validation": {

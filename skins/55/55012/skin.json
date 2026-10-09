@@ -9,29 +9,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c821a4cd76f71f2761bb0f4687833dcb7015dd1ae515ca39238a1b3a6f42bb89",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55012.fantome",
       "files": [
         {
           "path": "skins/55/55012/55012/Katarina.wad.client",
-          "size": 88788,
-          "sha256": "84a8243bd1251cb81d8a486765efeec668b29e0a264494740f5d31d3fe10247d"
+          "size": 146209,
+          "sha256": "6ad21e630f0ea066506be9250059953df9e6911c6ae67a63924cfe794ceab4f5"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2504,
-          "bytes_after": 88788,
+          "bytes_before": 148409,
+          "bytes_after": 146209,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 不死鸟",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "44d1c3c3b2ee855f1bfdce634d7358d4c31ed9dedadb29d9da8974f675c02967",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55013/55013.fantome",
       "files": [
         {
           "path": "skins/55/55012/55013/Katarina.wad.client",
-          "size": 88845,
-          "sha256": "9c6bff832ff3f5fa1a08490aa430dfd9054d51ac0d979454df0d1f92274886f0"
+          "size": 146314,
+          "sha256": "824c96f7295c4505c5fc4ab52bbc5f4131f0f6ef6e1d25c61cdb1a7cde01e84b"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2561,
-          "bytes_after": 88845,
+          "bytes_before": 148571,
+          "bytes_after": 146314,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 盛典礼服",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a121b30d5e95e533977d1dcea8353d7742425e7f2f8620ca9a23b3add61575c3",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55014/55014.fantome",
       "files": [
         {
           "path": "skins/55/55012/55014/Katarina.wad.client",
-          "size": 88852,
-          "sha256": "a466c0f988b242f3fd5c8375e2f00fe52a5538fb393b429dd2f0ebefd905eb0e"
+          "size": 146314,
+          "sha256": "4b6c96d8c6951e18b2122a1e3113e6460547e4d6ceb1bf3264e0caaf581eab6b"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2568,
-          "bytes_after": 88852,
+          "bytes_before": 148578,
+          "bytes_after": 146314,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 天马",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "488a7922cca409f9e15267e250c452b6cfec94aef881feeb06002a65f2bab270",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55015/55015.fantome",
       "files": [
         {
           "path": "skins/55/55012/55015/Katarina.wad.client",
-          "size": 88801,
-          "sha256": "55f5d8c3b4be4b8e6a31cdbee620052a3a261ca6a3807bc8d4c9607796ad0eb3"
+          "size": 146242,
+          "sha256": "530d0ca475a9f367e930f267b32510dbe5c2f4c5282361bca94939425f63fbc9"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2517,
-          "bytes_after": 88801,
+          "bytes_before": 148455,
+          "bytes_after": 146242,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 梦魇",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1b94b1256fb125d60885572473429d4c6d329348502c7519b59bb02fd1aa99e6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55016/55016.fantome",
       "files": [
         {
           "path": "skins/55/55012/55016/Katarina.wad.client",
-          "size": 88799,
-          "sha256": "52113df846b60e5fba4d88b17953d8f0790912128ac674c32105a7157e4a2641"
+          "size": 146242,
+          "sha256": "f20c5db7e32b3c915ed60da9e40b817677f2e75a455c60c2dcf8ae58014e1da3"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2515,
-          "bytes_after": 88799,
+          "bytes_before": 148453,
+          "bytes_after": 146242,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 黑龙",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5cf358dcc0f1e4207fe690ea615871f45e127a2b88358b7594d9419924c50fa7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55017/55017.fantome",
       "files": [
         {
           "path": "skins/55/55012/55017/Katarina.wad.client",
-          "size": 88796,
-          "sha256": "e6d5189bdce06bc29837cde3cbbfdfbc15e848ee244354a0443e8db772d15503"
+          "size": 146242,
+          "sha256": "6a80fe20f07236f52d38a4a411787bd4902b8ea030f29c7a7963fc3331400b4e"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2512,
-          "bytes_after": 88796,
+          "bytes_before": 148450,
+          "bytes_after": 146242,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 火蜥蜴",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "12a5bd8ed4d006b34686883b5e4b432634445b3f81ff9b476fd3774ac1617e6f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55018/55018.fantome",
       "files": [
         {
           "path": "skins/55/55012/55018/Katarina.wad.client",
-          "size": 88803,
-          "sha256": "29ba617073da4fb3bb816c9d7bdb4cac43cc87d42eab80d196a80ca372344571"
+          "size": 146242,
+          "sha256": "d104751152bfb4c405504acb948fca927afd357d3a0f4f6b0125976971d59c2e"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2519,
-          "bytes_after": 88803,
+          "bytes_before": 148457,
+          "bytes_after": 146242,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 狮鹫",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c3c5e17327aaf718c05dc6c8c3c7108a6c492239e5b300da5a4deff70ebe24ba",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55019/55019.fantome",
       "files": [
         {
           "path": "skins/55/55012/55019/Katarina.wad.client",
-          "size": 88799,
-          "sha256": "4224adbc0da33f4c2bff19cbbce732bdddc41e76cbdaa5e23e2daa63a18a7bac"
+          "size": 146242,
+          "sha256": "eedb4d3189bbb740bc391b97bace3df48964a85abb12ed5da41c182d1cad85f4"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2515,
-          "bytes_after": 88799,
+          "bytes_before": 148453,
+          "bytes_after": 146242,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 55,
       "name": "战斗学院 卡特琳娜 九头蛇",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8721372f4e304c72387fc26997bd50aac82b59d6769238a7b8cf0d088686bd26",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "55/55012/55020/55020.fantome",
       "files": [
         {
           "path": "skins/55/55012/55020/Katarina.wad.client",
-          "size": 88798,
-          "sha256": "37a8721543cedcbf8d3a321c076a468a2910bb30fe1b156b8dbccde752129d5e"
+          "size": 146242,
+          "sha256": "449fe6972c880cb9c945a66d24a319d54745a30f6db8d28516cba7bebabe6bf5"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2514,
-          "bytes_after": 88798,
+          "bytes_before": 148452,
+          "bytes_after": 146242,
           "replacement_hashes": [
             "a3c81716e1edf09a"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "a3c81716e1edf09a",
             "border_hash": "aab72dc04fa5b854",
             "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6"
+            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Katarina.wad.client": [
+          "ec1d3bbf62075218"
+        ]
+      },
       "references": {
-        "paths": 16,
+        "paths": 64,
         "missing": 0
       },
       "validation": {

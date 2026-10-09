@@ -4,29 +4,30 @@
   "champion_id": 43,
   "name": "灵魂莲华 卡尔玛 春晓",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "ac00e32217094618ec5b471ad027c36383f38365bf4fd5557835b1b806a1d0d2",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "43/43070/43076/43076.fantome",
   "files": [
     {
       "path": "skins/43/43070/43076/Karma.wad.client",
-      "size": 90475,
-      "sha256": "f1aca107bf7e12022fa846cb6c33ebd4a1b58757ad6f7689fc0a5f59adafa078"
+      "size": 765142,
+      "sha256": "822f043086f938153b4483bc8e19ef43f4c060caf56774422b291025fe0c70f9"
     }
   ],
   "wads": {
     "Karma.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4191,
-      "bytes_after": 90475,
+      "bytes_before": 769029,
+      "bytes_after": 765142,
       "replacement_hashes": [
         "de58c168f842c0c2"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "de58c168f842c0c2",
         "border_hash": "5202bfd39c8cd597",
         "bytes": 86252,
-        "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d"
+        "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Karma.wad.client": [
+      "b1f5a8e80d154f0c"
+    ]
+  },
   "references": {
-    "paths": 12,
+    "paths": 287,
     "missing": 0
   },
   "validation": {

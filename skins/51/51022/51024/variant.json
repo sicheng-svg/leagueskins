@@ -4,29 +4,30 @@
   "champion_id": 51,
   "name": "战斗学院 凯特琳 天马",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "4eaa3c784e353cf4b44d29d843fb29d9c305116e90371955fef1b3b958b4040b",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "51/51022/51024/51024.fantome",
   "files": [
     {
       "path": "skins/51/51022/51024/Caitlyn.wad.client",
-      "size": 91059,
-      "sha256": "fe1969c0176a78a49bf1f0bc95d99b067470ecbc54821ac7f698c4399b84cf56"
+      "size": 120474,
+      "sha256": "d9b49926a65f05608290f505519aced69c5428e3d0bc68773e59a23468a4f427"
     }
   ],
   "wads": {
     "Caitlyn.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4775,
-      "bytes_after": 91059,
+      "bytes_before": 124913,
+      "bytes_after": 120474,
       "replacement_hashes": [
         "a44445a4343da663"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "a44445a4343da663",
         "border_hash": "cac4a04d98dc9732",
         "bytes": 86252,
-        "sha256": "bf6bea8c0f2e58260b992cd2f1ca9629a50ff88c5aa228e252815c24dc81bb05"
+        "sha256": "bf6bea8c0f2e58260b992cd2f1ca9629a50ff88c5aa228e252815c24dc81bb05",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Caitlyn.wad.client",
         "normal_hash": "a44445a4343da663",
         "border_hash": "cac4a04d98dc9732",
         "bytes": 86252,
-        "sha256": "bf6bea8c0f2e58260b992cd2f1ca9629a50ff88c5aa228e252815c24dc81bb05"
+        "sha256": "bf6bea8c0f2e58260b992cd2f1ca9629a50ff88c5aa228e252815c24dc81bb05",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Caitlyn.wad.client": [
+      "60cb09252466d21a",
+      "98f7d69c00a1e4ef"
+    ]
+  },
   "references": {
-    "paths": 25,
+    "paths": 39,
     "missing": 0
   },
   "validation": {

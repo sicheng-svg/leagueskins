@@ -9,35 +9,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "25d72d342d1719dfdd53ad0259d4f8532bc25593ff803da12689af486d2b1d8c",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222029.fantome",
       "files": [
         {
           "path": "skins/222/222029/222029/Jinx.wad.client",
-          "size": 2143795,
-          "sha256": "47e8baff60874ae4a96bdf47f3e7cf0e10f691746e120714550799bb9893b249"
+          "size": 2140981,
+          "sha256": "e6d43aa70f529002137cf8d3cca7d8573b678be2f31c26893aaca291c456d99c"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856870,
-          "bytes_after": 2143795,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2143795,
+          "bytes_after": 2140981,
+          "replacement_hashes": []
         }
       },
       "border": {
@@ -56,10 +52,9 @@
       },
       "validation": {
         "structure": "passed",
-        "hid_in_game": "passed",
+        "hid_in_game": "not_verified",
         "cslol_build": "not_checked",
-        "cslol_in_game": "not_verified",
-        "hid_test": "Player confirmed base skin using source Ekko and local repository, 2026-10-08"
+        "cslol_in_game": "not_verified"
       }
     },
     {
@@ -68,35 +63,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝 月色真美",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a1674e718871272167824f5b85b842ce57ff44a1b97566723dcee110cb0d11a4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222030/222030.fantome",
       "files": [
         {
           "path": "skins/222/222029/222030/Jinx.wad.client",
-          "size": 2143930,
-          "sha256": "f4f9e951626043f65af5f04ea1dcd53541e35866f8adc056fe36f89dd985eddf"
+          "size": 2141048,
+          "sha256": "6d2fd398c9a8dd03f1d90148f9eb3990056e894feb13597b2c232ab88f946fbd"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856938,
-          "bytes_after": 2143930,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2143930,
+          "bytes_after": 2141048,
+          "replacement_hashes": []
         }
       },
       "border": {
@@ -126,35 +117,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝 暗恋你",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0f6814cb78762217adef09385ba58cd141b5939c03f3c82e14aff25856a472bb",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222031/222031.fantome",
       "files": [
         {
           "path": "skins/222/222029/222031/Jinx.wad.client",
-          "size": 2143931,
-          "sha256": "f4b46d9f7295afdc60d5d811a0ded4f0cf25ac3ac72abad1587b70dc1f3cedf0"
+          "size": 2141048,
+          "sha256": "e6ba9abef9ba2cc8db66461f5e0a7fe5c9c00e037ba09a4896a5a5c0be7f5838"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856939,
-          "bytes_after": 2143931,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2143931,
+          "bytes_after": 2141048,
+          "replacement_hashes": []
         }
       },
       "border": {
@@ -184,35 +171,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝 准你表白",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e6813d81e52cf0c893bbbf580ea25a8efc1cfbc2ccbf7c61e95dda22944b6bef",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222032/222032.fantome",
       "files": [
         {
           "path": "skins/222/222029/222032/Jinx.wad.client",
-          "size": 2144003,
-          "sha256": "13ba76d10d80f07db3aee4198a21aa7c0434a0c9759496c54b22bfb406ac516b"
+          "size": 2141096,
+          "sha256": "e4d44410fb9e69aa2e56b89c6d583625c2ae83866dbe2ddf0aad53d6c1ee7096"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856963,
-          "bytes_after": 2144003,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2144003,
+          "bytes_after": 2141096,
+          "replacement_hashes": []
         }
       },
       "border": {
@@ -242,35 +225,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝 爱的守护",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6e208be0c1f1e94dcb2841212105fd3e3a12eb2e07084dafe7b5645fe29bd8cf",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222033/222033.fantome",
       "files": [
         {
           "path": "skins/222/222029/222033/Jinx.wad.client",
-          "size": 2143931,
-          "sha256": "08724834a4c8cbc5995641707a3161a8fbedfed59ba55f61f871003f7e6e09e4"
+          "size": 2141048,
+          "sha256": "ea5ad52752c3b5ea19b90738cab8f0719f236f2e644b8ddb0241ece901b6823d"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856939,
-          "bytes_after": 2143931,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2143931,
+          "bytes_after": 2141048,
+          "replacement_hashes": []
         }
       },
       "border": {
@@ -300,35 +279,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝 我相信你",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9ef06b817b7789c68c7dda5ab3b981a19e64f96e402008e10db5e70af61b641c",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222034/222034.fantome",
       "files": [
         {
           "path": "skins/222/222029/222034/Jinx.wad.client",
-          "size": 2143930,
-          "sha256": "521f548ee821d7c370fb5acc9c2bc2b157eaf07c4b91d536ae59056d2d13c4ef"
+          "size": 2141048,
+          "sha256": "909f70e9d9563d9bb1481313d44e9d497fe2316fc5102582ad86a14c9495ae91"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856938,
-          "bytes_after": 2143930,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2143930,
+          "bytes_after": 2141048,
+          "replacement_hashes": []
         }
       },
       "border": {
@@ -358,35 +333,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝 是心动啊",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "821a5cf021738230efb2ac66e1e78508045ede641537dc316ff92e062b485c0e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222035/222035.fantome",
       "files": [
         {
           "path": "skins/222/222029/222035/Jinx.wad.client",
-          "size": 2143929,
-          "sha256": "26ddc67a32222b02ecd0ae8271b8834612bee9cbc2e4ceb33164aaf32bab1713"
+          "size": 2141048,
+          "sha256": "fe6184e19a03d2d031a6e88cbf301596c2ea62218c071c96a832df84947680fc"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856937,
-          "bytes_after": 2143929,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2143929,
+          "bytes_after": 2141048,
+          "replacement_hashes": []
         }
       },
       "border": {
@@ -416,35 +387,31 @@
       "champion_id": 222,
       "name": "觅心萝莉 金克丝 爱你哟",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d9ac2121822545abe3e9159ec90c2d988288b2090d11229148d62bde7d624cc7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
-        "repair": "native-heartseeker-config-v1"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222029/222036/222036.fantome",
       "files": [
         {
           "path": "skins/222/222029/222036/Jinx.wad.client",
-          "size": 2143932,
-          "sha256": "59524904a2d093c18392c4e18ce2b0b11a0208bf6cb3084c24c4d0a65c42b3e6"
+          "size": 2141048,
+          "sha256": "d3580c8189cf7ffa2629171f00d9fdcac411c86deb0be1ae22f872107664a909"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1856940,
-          "bytes_after": 2143932,
-          "replacement_hashes": [
-            "7d8c25b9bf88d865",
-            "de8be90cdb0fe659",
-            "e33178a67b131480"
-          ]
+          "bytes_before": 2143932,
+          "bytes_after": 2141048,
+          "replacement_hashes": []
         }
       },
       "border": {

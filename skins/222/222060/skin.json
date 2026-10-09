@@ -9,29 +9,30 @@
       "champion_id": 222,
       "name": "双城之战2 破碎者 金克丝",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2b2d223c1c29b8a4f733049d88cbbb8e5009c25476fcea3f9ed4a645bc456414",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "222/222060/222060.fantome",
       "files": [
         {
           "path": "skins/222/222060/222060/Jinx.wad.client",
-          "size": 2140770,
-          "sha256": "7175d97674db6493d35d4504e71023cda5c5a102bf329fef6be194f0c810eee0"
+          "size": 3995201,
+          "sha256": "01c7968c2d28e8258c4c19cbcb8a589ade616cbcedefea888ec062f606252b25"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.3",
-          "bytes_before": 1319690,
-          "bytes_after": 2140770,
+          "bytes_before": 3284641,
+          "bytes_after": 3995201,
           "replacement_hashes": [
             "03d441b097e26085",
             "a39d007b21b24ddb"
@@ -59,9 +60,14 @@
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Jinx.wad.client": [
+          "e33178a67b131480",
+          "50e22d9bfa454fef"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 266,
         "missing": 0
       },
       "validation": {
@@ -77,19 +83,19 @@
       "champion_id": 222,
       "name": "222998",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1ca2e79538fc447167dc16a32391fe0c8db7029bfe5d78cac6760039a9895347",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "222/222060/222998/222998.fantome",
       "files": [
         {
           "path": "skins/222/222060/222998/Jinx.wad.client",
           "size": 845832,
-          "sha256": "e38ddc49696962bccbc8fba011560c4f4542ab54143636f5503b540eb55049cd"
+          "sha256": "dcf662823fe1addf6871d66d9389e0ab998e56809dec49c0f2e374640f21ab57"
         }
       ],
       "wads": {
@@ -145,19 +151,19 @@
       "champion_id": 222,
       "name": "222999",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3538cb76dfedc7c224c736e4b50942e161ec7444dedcef57f2ecd97418a04707",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "222/222060/222999/222999.fantome",
       "files": [
         {
           "path": "skins/222/222060/222999/Jinx.wad.client",
           "size": 845808,
-          "sha256": "fdec366ebb58ae71486d0181a8efd81b30a553eb05883fcc1f18c73a469c6eb9"
+          "sha256": "581d1c639006685caac77f1bf87fd6e0037a176e983690fa21f6cbc460d96ca0"
         }
       ],
       "wads": {

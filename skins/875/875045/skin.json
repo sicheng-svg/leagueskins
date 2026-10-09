@@ -9,29 +9,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "99161c7d72c1915182a2b2aaf03fb4d02f6a577cb91decc4e301045165728e66",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875045.fantome",
       "files": [
         {
           "path": "skins/875/875045/875045/Sett.wad.client",
-          "size": 91728,
-          "sha256": "85bc37827540adc004f90322da1a83c9e94a91e37ece8d0bcc01a29b0be3607f"
+          "size": 146481,
+          "sha256": "fc20f891387fded06e2693b8f7f38a6e5dc29b1b7ab9bfeacfe88478ce90e0af"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5444,
-          "bytes_after": 91728,
+          "bytes_before": 151621,
+          "bytes_after": 146481,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 48,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 烈之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "7f91b4a4428415a95662370866172f3b6dee5634d82ba0cf23cdcd9f894755c8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875046/875046.fantome",
       "files": [
         {
           "path": "skins/875/875045/875046/Sett.wad.client",
-          "size": 89150,
-          "sha256": "cf1e44652fd33826e8a106dd8cb1e8c376332f0dc0e669e246f52c6db95ab1ca"
+          "size": 146587,
+          "sha256": "2da776bda06355841fae3fe0660185fdcbc66ed0ac5fa42e4caf0dc11ba4cd66"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2866,
-          "bytes_after": 89150,
+          "bytes_before": 149149,
+          "bytes_after": 146587,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 毅之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2e83c3e8705f3b3b49efd4d71627a49133bfb68b2eb4ac1b0248d6b8a4a3bf53",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875047/875047.fantome",
       "files": [
         {
           "path": "skins/875/875045/875047/Sett.wad.client",
-          "size": 89094,
-          "sha256": "85a86c67f656cb19e8105a3cd448e693d3e3a434f26048d52291f2b614ef650c"
+          "size": 146514,
+          "sha256": "91c3e3902707e7f34e290b34bc8e25e7a3509faf217605d59345afce8ce5dd46"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2810,
-          "bytes_after": 89094,
+          "bytes_before": 149020,
+          "bytes_after": 146514,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 幽之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5c54c2f3abf38efe2adeca4751292f11bcda60e9ebd041ace269edb3669f1211",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875048/875048.fantome",
       "files": [
         {
           "path": "skins/875/875045/875048/Sett.wad.client",
-          "size": 89094,
-          "sha256": "512dde15528b42a82963a2f3843a4be1db439d5e60a0e90c891c0dfa569f4e7a"
+          "size": 146514,
+          "sha256": "6ebbcefed1fd6e3a701bf47352aefce972b73d9df082e21946f8883759efa783"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2810,
-          "bytes_after": 89094,
+          "bytes_before": 149020,
+          "bytes_after": 146514,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 幻之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "95a164a802039d6db2c778c0f37f85ed2e939a7025367d4c391d321661bef158",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875049/875049.fantome",
       "files": [
         {
           "path": "skins/875/875045/875049/Sett.wad.client",
-          "size": 89117,
-          "sha256": "bfad2a9788d645dd9ba2a5a724aa45dab005e48053ed0c29010716299cca3dcb"
+          "size": 146542,
+          "sha256": "cdea38ba1df01ecdc6ea2642406e574323786b34e12d1cb62229dde447adc23f"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2833,
-          "bytes_after": 89117,
+          "bytes_before": 149071,
+          "bytes_after": 146542,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 韧之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5dc12b3fd8677b247d0a05d81a4cfd9b50849683cc6f6f8e5aa29a1ae777dbe6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875050/875050.fantome",
       "files": [
         {
           "path": "skins/875/875045/875050/Sett.wad.client",
-          "size": 89099,
-          "sha256": "73a09989a7fd10c1cb20d41c027f607e0406cae74763ea88515cddcf7c011648"
+          "size": 146514,
+          "sha256": "862e7e78b915435c2d1599f0a6e17017bbfb20a60c1d20af4400e64968c07f06"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2815,
-          "bytes_after": 89099,
+          "bytes_before": 149025,
+          "bytes_after": 146514,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 飒之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "116b70400ba7631a9dba4dd83b97d8e3bb45d1818b3e4e61240047c3bcdaf6be",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875051/875051.fantome",
       "files": [
         {
           "path": "skins/875/875045/875051/Sett.wad.client",
-          "size": 89097,
-          "sha256": "4687c6c99bdd13ca8fe1a22f9e91c7e03750d1d34abef37d5a54a9158cf0b6bf"
+          "size": 146514,
+          "sha256": "d9d2cbbf23c4aaa6e5468ab5b9dc6f1d2009c46558561409b4902243cbff2be5"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2813,
-          "bytes_after": 89097,
+          "bytes_before": 149023,
+          "bytes_after": 146514,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 魅之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0188ceab965dbb9e26de709386792862aba812d1b71d55cb165f843c6401582c",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875052/875052.fantome",
       "files": [
         {
           "path": "skins/875/875045/875052/Sett.wad.client",
-          "size": 89100,
-          "sha256": "2360df58c839e9718f62d6cf34a437f46b25ac13cd79d4c8478842e5db07af44"
+          "size": 146514,
+          "sha256": "f44a04af1b166160e0a2737b27ad593f396b84fbd644a2a04cc993e3d3c68ea4"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2816,
-          "bytes_after": 89100,
+          "bytes_before": 149026,
+          "bytes_after": 146514,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 燃之魂焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b431afe15806c85ffe25dcf6627ede1e1174bb56ebad4baea1360557d84523c6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875053/875053.fantome",
       "files": [
         {
           "path": "skins/875/875045/875053/Sett.wad.client",
-          "size": 89097,
-          "sha256": "fda35cb52299dbf21990d44c97859c72f23b0d4437b2aafdb4e8a49c1d86ae8b"
+          "size": 146514,
+          "sha256": "6b86281c7b3291ed159ee090ce49fa573379f417b03a6c2e8f9c04ef6d722eb6"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2813,
-          "bytes_after": 89097,
+          "bytes_before": 149023,
+          "bytes_after": 146514,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {
@@ -531,29 +585,30 @@
       "champion_id": 875,
       "name": "斗魂觉醒 瑟提 无限斗志",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d7da6edd66ccb739858925aa355429f2d5a6482e291ca778ad16452be6b89e7b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875045/875054/875054.fantome",
       "files": [
         {
           "path": "skins/875/875045/875054/Sett.wad.client",
-          "size": 89151,
-          "sha256": "4420252ba454c5417dcad9c72c78e7c6a5dbcdd7a9ac9fc365728ef6a501be81"
+          "size": 146587,
+          "sha256": "eec28d44ada2cd1366c346d1ed6cdbe0387ba6c21a08dcb48dd6bcdc1c978587"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2867,
-          "bytes_after": 89151,
+          "bytes_before": 149150,
+          "bytes_after": 146587,
           "replacement_hashes": [
             "edfdd053c2d007bf"
           ]
@@ -567,13 +622,18 @@
             "normal_hash": "edfdd053c2d007bf",
             "border_hash": "4b4aa2b1708610f0",
             "bytes": 86252,
-            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f"
+            "sha256": "9ba9e6b9cabf74d4a8611023b828900c4b2b63db244b5d170562b78f8b259d3f",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 49,
         "missing": 0
       },
       "validation": {

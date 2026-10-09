@@ -4,29 +4,30 @@
   "champion_id": 875,
   "name": "龙腾虎跃 瑟提 吉祥如意",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "5721e3fbdfc15fb357ab6a1ea6377bac7b760c30e4bad5f4e28dbfcdbdd8d255",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "875/875019/875036/875036.fantome",
   "files": [
     {
       "path": "skins/875/875019/875036/Sett.wad.client",
-      "size": 89139,
-      "sha256": "013605679c1b939b2b4f9eee877f87f0f46d4513c56db936656679d38a15d9f2"
+      "size": 100123,
+      "sha256": "d64106f87da635128c45d0380571fd9cdc05863596bcb2463826c13014319308"
     }
   ],
   "wads": {
     "Sett.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2855,
-      "bytes_after": 89139,
+      "bytes_before": 102674,
+      "bytes_after": 100123,
       "replacement_hashes": [
         "8f5106d266367362"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "8f5106d266367362",
         "border_hash": "f196e2323a0c184c",
         "bytes": 86252,
-        "sha256": "2ece8da9f9b810b11e12e6b35ab9f52769a570c1488746593cd5f8c279977c8d"
+        "sha256": "2ece8da9f9b810b11e12e6b35ab9f52769a570c1488746593cd5f8c279977c8d",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sett.wad.client": [
+      "557176f20f43a734"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 19,
     "missing": 0
   },
   "validation": {

@@ -9,29 +9,30 @@
       "champion_id": 875,
       "name": "至臻 神龙尊者 炎龙瑟提",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fe03ca813973e4c78ff303158039dd14b3d1d39c5d7593fddcee5a1622983c4e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875009/875009.fantome",
       "files": [
         {
           "path": "skins/875/875009/875009/Sett.wad.client",
-          "size": 91573,
-          "sha256": "92b882b271a72c8cba62c757a73dc41c6304d8c55e82977941247b30f4e2a5ee"
+          "size": 725948,
+          "sha256": "cdfd530d23af9f092eb7f65e193a523d5374c73bf8414fc33e4c818d97b7af00"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5289,
-          "bytes_after": 91573,
+          "bytes_before": 730933,
+          "bytes_after": 725948,
           "replacement_hashes": [
             "86a01c21837ec024"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "86a01c21837ec024",
             "border_hash": "e1dc8637a87f9928",
             "bytes": 86252,
-            "sha256": "d08fa9aa114c4a79658cb7b11d1d022d35941f25344ac2df4d3e4d3c66773a77"
+            "sha256": "d08fa9aa114c4a79658cb7b11d1d022d35941f25344ac2df4d3e4d3c66773a77",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 219,
         "missing": 0
       },
       "validation": {

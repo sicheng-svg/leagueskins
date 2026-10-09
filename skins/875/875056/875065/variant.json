@@ -4,29 +4,30 @@
   "champion_id": 875,
   "name": "心之钢 瑟提 摇滚明星",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "15235658a81d06ab9f8e1ee99886eecdc485c531f0ba66781a6415a3274682da",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "875/875056/875065/875065.fantome",
   "files": [
     {
       "path": "skins/875/875056/875065/Sett.wad.client",
-      "size": 88932,
-      "sha256": "c3a4d1521cc44117cb0f66799e50247f13e19cd67f1f78e245124f6d66c12cce"
+      "size": 92738,
+      "sha256": "94c65ec7e0ae3d3192f9484edd77e77f0f358a3ae32a6932a0ea6360796dc0af"
     }
   ],
   "wads": {
     "Sett.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2648,
-      "bytes_after": 88932,
+      "bytes_before": 95082,
+      "bytes_after": 92738,
       "replacement_hashes": [
         "1c0fb5a69b97a7af"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "1c0fb5a69b97a7af",
         "border_hash": "9cd8e3c9eb6af5a9",
         "bytes": 86252,
-        "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+        "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sett.wad.client": [
+      "557176f20f43a734"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 11,
     "missing": 0
   },
   "validation": {

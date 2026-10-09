@@ -9,29 +9,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0865a06fcc31f812fcebcac2ff9fa25be6ae0077f84d95cc929559d9b9b11956",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875010.fantome",
       "files": [
         {
           "path": "skins/875/875010/875010/Sett.wad.client",
-          "size": 91654,
-          "sha256": "ab2cb730e9780a95aa6cfe40939dc0b27b8792f4cac5d0f45a91899159ed2ab2"
+          "size": 100695,
+          "sha256": "f696f35871abb1bc09355d25c80d8b2af1ec8a871ad343b453fec89caae0f391"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5370,
-          "bytes_after": 91654,
+          "bytes_before": 105761,
+          "bytes_after": 100695,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 菠萝暴击",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ac969468270fbe855e08095b598f1630885ef67eee3732a76e43ef5b2e4209a0",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875011/875011.fantome",
       "files": [
         {
           "path": "skins/875/875010/875011/Sett.wad.client",
-          "size": 88998,
-          "sha256": "eacee3f95d4bfe68c2aee9c4e3f0d4aa146c68400c3f71322588f2d4a945aeda"
+          "size": 100801,
+          "sha256": "33a7b41694105dead4280e675c71603f2de33322491defa6d77857fd9fb781a4"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2714,
-          "bytes_after": 88998,
+          "bytes_before": 103211,
+          "bytes_after": 100801,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 海星反击",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9a9de10c1201c675f48dbfa70423e3f7ec286e1c13e06b9cd08c6b8fa7ab0206",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875012/875012.fantome",
       "files": [
         {
           "path": "skins/875/875010/875012/Sett.wad.client",
-          "size": 88945,
-          "sha256": "4e44cd7e1f431085931e1a0a333eee19eb1d8c68512fe6d718805b2a3f62078b"
+          "size": 100728,
+          "sha256": "bce7aa706fa468366929b7f5f91a3112515d4f83363304262a1073481b0f3996"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2661,
-          "bytes_after": 88945,
+          "bytes_before": 103085,
+          "bytes_after": 100728,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 椰树抱摔",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8ef8937277836fcad94752c722e94609584af7f51b1e9cd6a833025d35634821",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875013/875013.fantome",
       "files": [
         {
           "path": "skins/875/875010/875013/Sett.wad.client",
-          "size": 88943,
-          "sha256": "fb25cd2b36cc5c220962029fd2f135ca85c372c92b723e80d51c3d120ca493a4"
+          "size": 100728,
+          "sha256": "ef9a11628d0db50d958d1db5aeef072f557d5aa36f121fbddef323a7c264140f"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2659,
-          "bytes_after": 88943,
+          "bytes_before": 103083,
+          "bytes_after": 100728,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 贝壳抵御",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "87e9f8862d732e9fb46bf910cce93ebc151a9a490e30cc6d3c11c53141f5bb9e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875014/875014.fantome",
       "files": [
         {
           "path": "skins/875/875010/875014/Sett.wad.client",
-          "size": 88944,
-          "sha256": "9fadadb994ff3628e39acbba80e5545ec3f81d481b60ba486e5763b9a2c605fe"
+          "size": 100728,
+          "sha256": "2490446563792c50d6e5db63613d74737e54668330cfb8f3ac6a43133bda7997"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2660,
-          "bytes_after": 88944,
+          "bytes_before": 103084,
+          "bytes_after": 100728,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 樱花重袭",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1ffa2b82e1c47fc510e57b0648774bc5b6152c111f234d1a7cefd17b242a1bba",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875015/875015.fantome",
       "files": [
         {
           "path": "skins/875/875010/875015/Sett.wad.client",
-          "size": 88964,
-          "sha256": "eecb077f8dd3730ecbadcf0750f504df3ebe3e491e381556640de397a0cace6d"
+          "size": 100756,
+          "sha256": "970f2a686963a19b2bc0960c41b53d30900fcf1aaa308b9a9bd4fa2d0ae4cd5a"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2680,
-          "bytes_after": 88964,
+          "bytes_before": 103132,
+          "bytes_after": 100756,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 炙热蓄力",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "069816ccf2363011f7e5f337e22eae8b07c388a64d6c232ae88db9cd14e06981",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875016/875016.fantome",
       "files": [
         {
           "path": "skins/875/875010/875016/Sett.wad.client",
-          "size": 88944,
-          "sha256": "003218f6b6c0ea20ddca689531b6ec8eb2ab58cd4f4fd9328b55632eed27bbb1"
+          "size": 100728,
+          "sha256": "2a153a28797ca6b0e331d104e0f950e23427a2788add1543547476cb33649499"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2660,
-          "bytes_after": 88944,
+          "bytes_before": 103084,
+          "bytes_after": 100728,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 夜影突进",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d8ed7c67aeaefd02f4dd43a1e9f681bbf2cb2c368c6f2965546c95009edef63e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875017/875017.fantome",
       "files": [
         {
           "path": "skins/875/875010/875017/Sett.wad.client",
-          "size": 88940,
-          "sha256": "9f7238d75bcf2d437ef28145fb3ae30c294b02c9c07c74c10ccf72718e1ee370"
+          "size": 100728,
+          "sha256": "50abd16e30134602007987911c7ceabc33617d3d4fbfb5adfdaf90697c3c59ef"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2656,
-          "bytes_after": 88940,
+          "bytes_before": 103080,
+          "bytes_after": 100728,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 875,
       "name": "泳池派对 瑟提 西瓜冲击",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c3f19555ab2295e0f7bd18c452027427882eeba61feab06c920903a698f44249",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875010/875018/875018.fantome",
       "files": [
         {
           "path": "skins/875/875010/875018/Sett.wad.client",
-          "size": 88944,
-          "sha256": "59d7f9936967f7e8b0abed7bbb00990a9ddc0f369087fdf02aa0a742dd46e58a"
+          "size": 100728,
+          "sha256": "1699bf2a91909b0c10de4269f7de0a5963fd6c3abf4c853a766ef5e1584e2faa"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2660,
-          "bytes_after": 88944,
+          "bytes_before": 103084,
+          "bytes_after": 100728,
           "replacement_hashes": [
             "a3ee1a4b91641b74"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "a3ee1a4b91641b74",
             "border_hash": "b8b882131a168c18",
             "bytes": 86252,
-            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+            "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 27,
         "missing": 0
       },
       "validation": {

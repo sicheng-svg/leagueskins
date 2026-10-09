@@ -4,29 +4,30 @@
   "champion_id": 875,
   "name": "泳池派对 瑟提 海星反击",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "9a9de10c1201c675f48dbfa70423e3f7ec286e1c13e06b9cd08c6b8fa7ab0206",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "875/875010/875012/875012.fantome",
   "files": [
     {
       "path": "skins/875/875010/875012/Sett.wad.client",
-      "size": 88945,
-      "sha256": "4e44cd7e1f431085931e1a0a333eee19eb1d8c68512fe6d718805b2a3f62078b"
+      "size": 100728,
+      "sha256": "bce7aa706fa468366929b7f5f91a3112515d4f83363304262a1073481b0f3996"
     }
   ],
   "wads": {
     "Sett.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2661,
-      "bytes_after": 88945,
+      "bytes_before": 103085,
+      "bytes_after": 100728,
       "replacement_hashes": [
         "a3ee1a4b91641b74"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "a3ee1a4b91641b74",
         "border_hash": "b8b882131a168c18",
         "bytes": 86252,
-        "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+        "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sett.wad.client": [
+      "557176f20f43a734"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 27,
     "missing": 0
   },
   "validation": {

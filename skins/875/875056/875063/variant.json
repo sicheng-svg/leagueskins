@@ -4,29 +4,30 @@
   "champion_id": 875,
   "name": "心之钢 瑟提 孤高傲气",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "405917dd9457b1fa6382953c341ad5fe9ca327edc474e2c3d0f5c846048672e8",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "875/875056/875063/875063.fantome",
   "files": [
     {
       "path": "skins/875/875056/875063/Sett.wad.client",
-      "size": 88878,
-      "sha256": "1a8c16d69233abf9cca32fcb634ef322d106dbf55fa5b6beb0f80b1bbeb30ef7"
+      "size": 92665,
+      "sha256": "13d0000f68403757d10905f2035f0748ad6160638d92edb5d5e6c0f4857416cb"
     }
   ],
   "wads": {
     "Sett.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2594,
-      "bytes_after": 88878,
+      "bytes_before": 94955,
+      "bytes_after": 92665,
       "replacement_hashes": [
         "1c0fb5a69b97a7af"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "1c0fb5a69b97a7af",
         "border_hash": "9cd8e3c9eb6af5a9",
         "bytes": 86252,
-        "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+        "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sett.wad.client": [
+      "557176f20f43a734"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 11,
     "missing": 0
   },
   "validation": {

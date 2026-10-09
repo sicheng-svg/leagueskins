@@ -4,29 +4,30 @@
   "champion_id": 875,
   "name": "泳池派对 瑟提",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "0865a06fcc31f812fcebcac2ff9fa25be6ae0077f84d95cc929559d9b9b11956",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "875/875010/875010.fantome",
   "files": [
     {
       "path": "skins/875/875010/875010/Sett.wad.client",
-      "size": 91654,
-      "sha256": "ab2cb730e9780a95aa6cfe40939dc0b27b8792f4cac5d0f45a91899159ed2ab2"
+      "size": 100695,
+      "sha256": "f696f35871abb1bc09355d25c80d8b2af1ec8a871ad343b453fec89caae0f391"
     }
   ],
   "wads": {
     "Sett.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 5370,
-      "bytes_after": 91654,
+      "bytes_before": 105761,
+      "bytes_after": 100695,
       "replacement_hashes": [
         "a3ee1a4b91641b74"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "a3ee1a4b91641b74",
         "border_hash": "b8b882131a168c18",
         "bytes": 86252,
-        "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1"
+        "sha256": "47a0e5f5728f63b670694165642fe65ee6678aa1e5e763f9c9e03310233f5ff1",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Sett.wad.client": [
+      "557176f20f43a734"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 27,
     "missing": 0
   },
   "validation": {

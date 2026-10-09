@@ -9,29 +9,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f6d2f92462eeccd51e6666b80ee41cb03ecc06932019da864881cccaa73d9997",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875056.fantome",
       "files": [
         {
           "path": "skins/875/875056/875056/Sett.wad.client",
-          "size": 91481,
-          "sha256": "ecbcb3e15c156022b002d1c9a173ce7a1449dc5866ef7a408dff802bd53465f6"
+          "size": 92632,
+          "sha256": "aa7767a9833988e5053ed22c6b489698960995d6c60a85ef23963466f44472f4"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5197,
-          "bytes_after": 91481,
+          "bytes_before": 97525,
+          "bytes_after": 92632,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 锐意曲风",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "103423d2edf0d0d901e0d905e299a66ec637ffdc77a6e449a5ac60a1e41b4a91",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875057/875057.fantome",
       "files": [
         {
           "path": "skins/875/875056/875057/Sett.wad.client",
-          "size": 88928,
-          "sha256": "d2bd796f62b510b679d6df7a2ad8c743071dd39346b1501b14acf508a0fe6c26"
+          "size": 92738,
+          "sha256": "a4ab4c3ec06d3664ebdff4891dc77d90f8e4810cc47ea7524838ef0d26316755"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2644,
-          "bytes_after": 88928,
+          "bytes_before": 95078,
+          "bytes_after": 92738,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 华丽韵律",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "cadf0e9f96650fd8eaef5a3532e000d3089930bf044291f1bd58add0fe1032cf",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875058/875058.fantome",
       "files": [
         {
           "path": "skins/875/875056/875058/Sett.wad.client",
-          "size": 88875,
-          "sha256": "1e6ea83a5cd518961b2ee7db42b1019da9b3fb20f4a1bd1e8214f0539c553390"
+          "size": 92665,
+          "sha256": "25d097f806ed9b5d75fcb6d8e10b934019d8321c9c9b611449a5538a89667809"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2591,
-          "bytes_after": 88875,
+          "bytes_before": 94952,
+          "bytes_after": 92665,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 坚守决意",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2aaef6cf971f14c683f11ee96a7bfdfffd705873a6a9f3d46a7a6cc3519821a4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875059/875059.fantome",
       "files": [
         {
           "path": "skins/875/875056/875059/Sett.wad.client",
-          "size": 88877,
-          "sha256": "76f6ff8fa1c4bdba77ece17d6b0da97a1efe1abd18efdc52f90f47daffcaca8b"
+          "size": 92665,
+          "sha256": "25dfd790d37a0d04a6d20338f5d264cdf24b4fbd2d76d8d8e559ac9d82ccb27b"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2593,
-          "bytes_after": 88877,
+          "bytes_before": 94954,
+          "bytes_after": 92665,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 超凡信心",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e3387af0c0db16c6f0d8974a8687a071aa784ae9c69efedcd25c292be69f6da0",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875060/875060.fantome",
       "files": [
         {
           "path": "skins/875/875056/875060/Sett.wad.client",
-          "size": 88878,
-          "sha256": "7002db1bad6bcc33e209274bb6aa320456d5d7e9ab942173183cef31f72f2fc1"
+          "size": 92665,
+          "sha256": "474df8795144c47f10c9a41a2a80e88d29f0572530a9797ba89a4ea9f9532adf"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2594,
-          "bytes_after": 88878,
+          "bytes_before": 94955,
+          "bytes_after": 92665,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 天纵才华",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c870a45323863718f8b5a5951cfd8860b886748b1552a4e4e546deafaaa11e95",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875061/875061.fantome",
       "files": [
         {
           "path": "skins/875/875056/875061/Sett.wad.client",
-          "size": 88900,
-          "sha256": "caf34a6a0924b3ec3e984036b36df6927dc26028b08071acd2f4a40d6ecacea4"
+          "size": 92693,
+          "sha256": "ddf30ca742ddd0298cf96451b35595604c1e5d6cb2f793cd8a75d3c22e18ff42"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2616,
-          "bytes_after": 88900,
+          "bytes_before": 95005,
+          "bytes_after": 92693,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 本真风范",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6f31fa2ecb96ded81e561c4377387d4a25710b08bd5e76f11f501c4f692644df",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875062/875062.fantome",
       "files": [
         {
           "path": "skins/875/875056/875062/Sett.wad.client",
-          "size": 88878,
-          "sha256": "927a5449def9387fb335aeeaaa485be6bd7a91db0bb755413c9681ea36893e8f"
+          "size": 92665,
+          "sha256": "18d01bbfa9ff8a6699bbf26529104679c1f8fe2cf2d7aceb9327d41dc97b865c"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2594,
-          "bytes_after": 88878,
+          "bytes_before": 94955,
+          "bytes_after": 92665,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 孤高傲气",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "405917dd9457b1fa6382953c341ad5fe9ca327edc474e2c3d0f5c846048672e8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875063/875063.fantome",
       "files": [
         {
           "path": "skins/875/875056/875063/Sett.wad.client",
-          "size": 88878,
-          "sha256": "1a8c16d69233abf9cca32fcb634ef322d106dbf55fa5b6beb0f80b1bbeb30ef7"
+          "size": 92665,
+          "sha256": "13d0000f68403757d10905f2035f0748ad6160638d92edb5d5e6c0f4857416cb"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2594,
-          "bytes_after": 88878,
+          "bytes_before": 94955,
+          "bytes_after": 92665,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 金声玉振",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5b3cf22f329d9a704c463cdebc6dcc29daea9b75d944a5facd7eca18f4cde81f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875064/875064.fantome",
       "files": [
         {
           "path": "skins/875/875056/875064/Sett.wad.client",
-          "size": 88901,
-          "sha256": "c59ff3423ff52cc834282510df29b5a75f485ce1755f2eaf8c25b8af1096a537"
+          "size": 92693,
+          "sha256": "d7e797131bdbd181f8867432c0caf5418bb67cddae3607b9899e0bbb9a051b50"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2617,
-          "bytes_after": 88901,
+          "bytes_before": 95006,
+          "bytes_after": 92693,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {
@@ -531,29 +585,30 @@
       "champion_id": 875,
       "name": "心之钢 瑟提 摇滚明星",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "15235658a81d06ab9f8e1ee99886eecdc485c531f0ba66781a6415a3274682da",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "875/875056/875065/875065.fantome",
       "files": [
         {
           "path": "skins/875/875056/875065/Sett.wad.client",
-          "size": 88932,
-          "sha256": "c3a4d1521cc44117cb0f66799e50247f13e19cd67f1f78e245124f6d66c12cce"
+          "size": 92738,
+          "sha256": "94c65ec7e0ae3d3192f9484edd77e77f0f358a3ae32a6932a0ea6360796dc0af"
         }
       ],
       "wads": {
         "Sett.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2648,
-          "bytes_after": 88932,
+          "bytes_before": 95082,
+          "bytes_after": 92738,
           "replacement_hashes": [
             "1c0fb5a69b97a7af"
           ]
@@ -567,13 +622,18 @@
             "normal_hash": "1c0fb5a69b97a7af",
             "border_hash": "9cd8e3c9eb6af5a9",
             "bytes": 86252,
-            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a"
+            "sha256": "e769ea5dd0e278a9c1abf98d84def5a581e1eb83fbf6e161c2612c04adb49b2a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Sett.wad.client": [
+          "557176f20f43a734"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 11,
         "missing": 0
       },
       "validation": {

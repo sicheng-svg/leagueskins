@@ -4,29 +4,30 @@
   "champion_id": 805,
   "name": "西部魔影 洛克 守信",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "b0af98805b789e4fe4acc9807800c9ceeba775c82a5c3aeda96f1d5b6f8093fe",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "805/805001/805004/805004.fantome",
   "files": [
     {
       "path": "skins/805/805001/805004/Locke.wad.client",
-      "size": 91221,
-      "sha256": "00b98036385098dad05d196f8bd6d74d0e9fbfce81ba8d71165d172d3379d86d"
+      "size": 325496,
+      "sha256": "3b706ecbba9e9a61ece688bed38bc42f44ccd7a570528cf21fff1b966eaa1792"
     }
   ],
   "wads": {
     "Locke.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4937,
-      "bytes_after": 91221,
+      "bytes_before": 330097,
+      "bytes_after": 325496,
       "replacement_hashes": [
         "b7c184ee9dd3d8f1"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "b7c184ee9dd3d8f1",
         "border_hash": "cceb39682472d32d",
         "bytes": 86252,
-        "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+        "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Locke.wad.client",
         "normal_hash": "b7c184ee9dd3d8f1",
         "border_hash": "cceb39682472d32d",
         "bytes": 86252,
-        "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+        "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Locke.wad.client": [
+      "98d044dd5674e599",
+      "a43deef12043f997"
+    ]
+  },
   "references": {
-    "paths": 12,
+    "paths": 139,
     "missing": 0
   },
   "validation": {

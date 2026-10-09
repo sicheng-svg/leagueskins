@@ -9,29 +9,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3c8b4fe8fc36300e542a9b0232fa69c40f836ab67f891615a3ac6f67a6151190",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805001.fantome",
       "files": [
         {
           "path": "skins/805/805001/805001/Locke.wad.client",
-          "size": 99896,
-          "sha256": "e5984a71bfcc82a6de46afd941bbcca7506d7ef2a73c204629fd7dbfbb5ea9a3"
+          "size": 266065,
+          "sha256": "3789b6f391b943404b0e6ad12ac15aff950ca2a0818c516dfdd8ba6534655588"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 13612,
-          "bytes_after": 99896,
+          "bytes_before": 278838,
+          "bytes_after": 266065,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -45,20 +46,26 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 103,
         "missing": 0
       },
       "validation": {
@@ -74,29 +81,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 温和",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1b2bacf96ce2540f3efd205eca8ad9ff62cb3366f781106e8c26d6efd9919510",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805002/805002.fantome",
       "files": [
         {
           "path": "skins/805/805001/805002/Locke.wad.client",
-          "size": 91274,
-          "sha256": "9b6508c36fc624f694e4aae8c92ac9638bd9ad3520afdfc493b1c5ae54e8ae39"
+          "size": 325575,
+          "sha256": "10f57b8f809f1354fd7b5efae625876c6e1f92e699211ad65cf7344453303d8a"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4990,
-          "bytes_after": 91274,
+          "bytes_before": 330229,
+          "bytes_after": 325575,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -110,20 +118,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {
@@ -139,29 +154,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 节制",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f391ec8c585c30f778645af5b5d94a52104dc1cbbacd1e2d76ef21dc423f677a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805003/805003.fantome",
       "files": [
         {
           "path": "skins/805/805001/805003/Locke.wad.client",
-          "size": 91221,
-          "sha256": "2aa48a12f8084587661358ab13ab6ebdad8a9beda87fb7aec5d1736609510a60"
+          "size": 325496,
+          "sha256": "c9c3ba802298c2f80ef4be4b3e4319d14a0838014148c2b654d105a44d810608"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4937,
-          "bytes_after": 91221,
+          "bytes_before": 330097,
+          "bytes_after": 325496,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -175,20 +191,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {
@@ -204,29 +227,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 守信",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b0af98805b789e4fe4acc9807800c9ceeba775c82a5c3aeda96f1d5b6f8093fe",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805004/805004.fantome",
       "files": [
         {
           "path": "skins/805/805001/805004/Locke.wad.client",
-          "size": 91221,
-          "sha256": "00b98036385098dad05d196f8bd6d74d0e9fbfce81ba8d71165d172d3379d86d"
+          "size": 325496,
+          "sha256": "3b706ecbba9e9a61ece688bed38bc42f44ccd7a570528cf21fff1b966eaa1792"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4937,
-          "bytes_after": 91221,
+          "bytes_before": 330097,
+          "bytes_after": 325496,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -240,20 +264,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {
@@ -269,29 +300,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 忠诚",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e4961f9c871947e019ae4bed43ffebd4a04657daaa5d9d7df400a3267700583a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805005/805005.fantome",
       "files": [
         {
           "path": "skins/805/805001/805005/Locke.wad.client",
-          "size": 91219,
-          "sha256": "2dce361bb48b2af79466705b5c643ee4f6d8f3c971e56280ec024caca3202668"
+          "size": 325496,
+          "sha256": "06fef6f8d824594ad08668e76791e0860e94cf3e9acc687a5566342a8801b68e"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4935,
-          "bytes_after": 91219,
+          "bytes_before": 330095,
+          "bytes_after": 325496,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -305,20 +337,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {
@@ -334,29 +373,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 善良",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "098ab7d10fd30f919d4fbb19d9a7afe771f8a1fdb0f8f8f196a2efdc8c53505d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805006/805006.fantome",
       "files": [
         {
           "path": "skins/805/805001/805006/Locke.wad.client",
-          "size": 91222,
-          "sha256": "b7a32232156b0d223298ae4790d91493c12fe37e8b0acdebbf53a85562845c0e"
+          "size": 325496,
+          "sha256": "05aa55631f727ca553560b2510fdcb6355259ce5172c4a6371ac0afc15ae3a5a"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4938,
-          "bytes_after": 91222,
+          "bytes_before": 330098,
+          "bytes_after": 325496,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -370,20 +410,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {
@@ -399,29 +446,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 慷慨",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "515e7b91c429dd279857ede5eab1566d64feb3ae2370969d9711738a61bee515",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805007/805007.fantome",
       "files": [
         {
           "path": "skins/805/805001/805007/Locke.wad.client",
-          "size": 91220,
-          "sha256": "7b7946777c60bf82dbff6cc64c9dd9236bb98c701378ffff776cfdc03e20d119"
+          "size": 325496,
+          "sha256": "4785cf2bfdc683ac154b276c593db20565895834c127c5bc0ad4aa9f26cfa947"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4936,
-          "bytes_after": 91220,
+          "bytes_before": 330096,
+          "bytes_after": 325496,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -435,20 +483,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {
@@ -464,29 +519,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 纯洁",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a15f29427683d43fa51ef7a74617619e479852b0a19ceeb55ce145d2d2404995",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805008/805008.fantome",
       "files": [
         {
           "path": "skins/805/805001/805008/Locke.wad.client",
-          "size": 91220,
-          "sha256": "6a56198d3674ab54168caf4d45e4e29d3b99ddeff4fe85fb418b65b27fdb1a52"
+          "size": 325496,
+          "sha256": "0981e42238bd565e66cd446bce75969c5bf6d09294c4351dfb71003201e379cb"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4936,
-          "bytes_after": 91220,
+          "bytes_before": 330096,
+          "bytes_after": 325496,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -500,20 +556,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {
@@ -529,29 +592,30 @@
       "champion_id": 805,
       "name": "西部魔影 洛克 谦卑",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e825ddcead06dda352d2f90df853f7d91ce924da2bd5fa754f4769c93f385c99",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "805/805001/805009/805009.fantome",
       "files": [
         {
           "path": "skins/805/805001/805009/Locke.wad.client",
-          "size": 91221,
-          "sha256": "cd1761193813a35d220031ab69ab89bc0b013760ec24d3fe9ec64b7b8fd9fab2"
+          "size": 325496,
+          "sha256": "c7aed562edf8b56b9187a447ddca59a74c7c619d223b39b627ea8647c652a87f"
         }
       ],
       "wads": {
         "Locke.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4937,
-          "bytes_after": 91221,
+          "bytes_before": 330097,
+          "bytes_after": 325496,
           "replacement_hashes": [
             "b7c184ee9dd3d8f1"
           ]
@@ -565,20 +629,27 @@
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Locke.wad.client",
             "normal_hash": "b7c184ee9dd3d8f1",
             "border_hash": "cceb39682472d32d",
             "bytes": 86252,
-            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39"
+            "sha256": "b740ad4abd924fbfbb8ac156578f238194072d626c1b943bf6e8641f0deedc39",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Locke.wad.client": [
+          "98d044dd5674e599",
+          "a43deef12043f997"
+        ]
+      },
       "references": {
-        "paths": 12,
+        "paths": 139,
         "missing": 0
       },
       "validation": {

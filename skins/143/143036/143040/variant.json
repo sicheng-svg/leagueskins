@@ -4,29 +4,30 @@
   "champion_id": 143,
   "name": "剪纸仙灵 婕拉 阖家安康",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "2d745ca75e19062a48810ccb7af3acf88e0e5760f841a9d962051766bc0212e4",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "143/143036/143040/143040.fantome",
   "files": [
     {
       "path": "skins/143/143036/143040/Zyra.wad.client",
-      "size": 94894,
-      "sha256": "7ec645af9284fc2e7886906207713186a857b08530a91524c719dc824332eb7b"
+      "size": 335763,
+      "sha256": "08e73c0b98dbc6f87d57590cb63167ca6810a5420fd22933a129b75ff17359e9"
     }
   ],
   "wads": {
     "Zyra.wad.client": {
-      "entries_before": 5,
+      "entries_before": 6,
       "entries_after": 6,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8610,
-      "bytes_after": 94894,
+      "bytes_before": 343941,
+      "bytes_after": 335763,
       "replacement_hashes": [
         "e03abfffe0224620"
       ]
@@ -40,41 +41,54 @@
         "normal_hash": "e03abfffe0224620",
         "border_hash": "76914417a86783b5",
         "bytes": 86252,
-        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb"
+        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "e03abfffe0224620",
         "border_hash": "76914417a86783b5",
         "bytes": 86252,
-        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb"
+        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "e03abfffe0224620",
         "border_hash": "76914417a86783b5",
         "bytes": 86252,
-        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb"
+        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "e03abfffe0224620",
         "border_hash": "76914417a86783b5",
         "bytes": 86252,
-        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb"
+        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "e03abfffe0224620",
         "border_hash": "76914417a86783b5",
         "bytes": 86252,
-        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb"
+        "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zyra.wad.client": [
+      "0dc73ad1291b7372",
+      "26ca3abd389691ec",
+      "32eac1777e8c4ad9",
+      "7a91dc04a5ad40a0",
+      "e0891ea6c60356ee"
+    ]
+  },
   "references": {
-    "paths": 20,
+    "paths": 153,
     "missing": 0
   },
   "validation": {

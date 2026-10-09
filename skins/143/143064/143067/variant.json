@@ -4,29 +4,30 @@
   "champion_id": 143,
   "name": "灵魂莲华 婕拉 雁来",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "67d2c111ac386a0354222dc975f976d4af0a89afad74b4baccc50e21044d5adc",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "143/143064/143067/143067.fantome",
   "files": [
     {
       "path": "skins/143/143064/143067/Zyra.wad.client",
-      "size": 94786,
-      "sha256": "05970846015e5e7b1da4d1204d9fa909506372814368bfea2af4fdfcbbcd1329"
+      "size": 207477,
+      "sha256": "1d5a532d3a640cdb53af174e2c829c23b59651559601952f3f1259d537b16d7f"
     }
   ],
   "wads": {
     "Zyra.wad.client": {
-      "entries_before": 5,
+      "entries_before": 6,
       "entries_after": 6,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8502,
-      "bytes_after": 94786,
+      "bytes_before": 215547,
+      "bytes_after": 207477,
       "replacement_hashes": [
         "699b80211bd87327"
       ]
@@ -40,41 +41,54 @@
         "normal_hash": "699b80211bd87327",
         "border_hash": "3e596ec764b298e1",
         "bytes": 86252,
-        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "699b80211bd87327",
         "border_hash": "3e596ec764b298e1",
         "bytes": 86252,
-        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "699b80211bd87327",
         "border_hash": "3e596ec764b298e1",
         "bytes": 86252,
-        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "699b80211bd87327",
         "border_hash": "3e596ec764b298e1",
         "bytes": 86252,
-        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Zyra.wad.client",
         "normal_hash": "699b80211bd87327",
         "border_hash": "3e596ec764b298e1",
         "bytes": 86252,
-        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77"
+        "sha256": "231af0c7e94cc81ae68aa5502e1f8a8cd5638359916b6a5f58545f58e23dba77",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zyra.wad.client": [
+      "0dc73ad1291b7372",
+      "26ca3abd389691ec",
+      "32eac1777e8c4ad9",
+      "7a91dc04a5ad40a0",
+      "e0891ea6c60356ee"
+    ]
+  },
   "references": {
-    "paths": 20,
+    "paths": 113,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 143,
   "name": "腥红之月 婕拉 苍澜",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "e7273185aa139f52b5908768e80a3847457c20c962f3f85ecb217463a86cfbcc",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "143/143055/143059/143059.fantome",
   "files": [
     {
       "path": "skins/143/143055/143059/Zyra.wad.client",
-      "size": 7563,
-      "sha256": "8f16d1143f39a3376e7f6def43c25d37bb6cdd76402bf088f8eaeaed4be33b23"
+      "size": 221050,
+      "sha256": "b6b3be8e5d971829ce424fd42d4feff3d3633ed5ca4fa76e7106f56ecaa5f4f1"
     }
   ],
   "wads": {
     "Zyra.wad.client": {
-      "entries_before": 5,
-      "entries_after": 5,
-      "was_sorted": false,
+      "entries_before": 6,
+      "entries_after": 6,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 7563,
-      "bytes_after": 7563,
+      "bytes_before": 228181,
+      "bytes_after": 221050,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,17 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zyra.wad.client": [
+      "0dc73ad1291b7372",
+      "26ca3abd389691ec",
+      "32eac1777e8c4ad9",
+      "7a91dc04a5ad40a0",
+      "e0891ea6c60356ee"
+    ]
+  },
   "references": {
-    "paths": 20,
+    "paths": 129,
     "missing": 0
   },
   "validation": {

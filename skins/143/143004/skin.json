@@ -9,29 +9,30 @@
       "champion_id": 143,
       "name": "驯龙女巫 婕拉",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0719bb57de2354edcc3d6fd60cbb48a51903a024e7a23fa0c3e4affb0ebe23f7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143004/143004.fantome",
       "files": [
         {
           "path": "skins/143/143004/143004/Zyra.wad.client",
-          "size": 8332,
-          "sha256": "04b961378c86b75cf074542aa35247d055cc7927d6741ccd6672f6dfc0353387"
+          "size": 339780,
+          "sha256": "739a0c10cb54a9db460c96c3e89956340e52083234ea4a2e3d9ce62048804bde"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 8332,
-          "bytes_after": 8332,
+          "bytes_before": 347712,
+          "bytes_after": 339780,
           "replacement_hashes": []
         }
       },
@@ -39,9 +40,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 19,
+        "paths": 103,
         "missing": 0
       },
       "validation": {

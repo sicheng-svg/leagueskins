@@ -4,29 +4,30 @@
   "champion_id": 143,
   "name": "妖怪艺术家 婕拉 霞光",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "c9bf876a76302c86004815784161665b3a6d16214ab6f580c4ab222f09733664",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "143/143046/143048/143048.fantome",
   "files": [
     {
       "path": "skins/143/143046/143048/Zyra.wad.client",
-      "size": 7630,
-      "sha256": "bee92f18b262c9abbed3f7865dbf351de23cf087d89b1ccda3ef0a7c4f92bca9"
+      "size": 219821,
+      "sha256": "35696c8a8987638d7aa14582c90e9333b83a56766da6b91daa257799769d19d2"
     }
   ],
   "wads": {
     "Zyra.wad.client": {
-      "entries_before": 5,
-      "entries_after": 5,
-      "was_sorted": false,
+      "entries_before": 6,
+      "entries_after": 6,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 7630,
-      "bytes_after": 7630,
+      "bytes_before": 227019,
+      "bytes_after": 219821,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,17 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zyra.wad.client": [
+      "0dc73ad1291b7372",
+      "26ca3abd389691ec",
+      "32eac1777e8c4ad9",
+      "7a91dc04a5ad40a0",
+      "e0891ea6c60356ee"
+    ]
+  },
   "references": {
-    "paths": 20,
+    "paths": 126,
     "missing": 0
   },
   "validation": {

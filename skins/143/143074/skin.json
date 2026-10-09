@@ -1,0 +1,60 @@
+{
+  "champion_id": 143,
+  "base_skin_id": 143074,
+  "name": "SKT T1 婕拉 精锐",
+  "variants": [
+    {
+      "skin_id": 143074,
+      "base_skin_id": 143074,
+      "champion_id": 143,
+      "name": "SKT T1 婕拉 精锐",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "b90a8fa38b2019d78d3213f258aaf0e75451e0ba21fbcd0cc1b15bdf9bc39775",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "143/143074/143074.fantome",
+      "files": [
+        {
+          "path": "skins/143/143074/143074/Zyra.wad.client",
+          "size": 126911,
+          "sha256": "ca2ae44eca1509e29b11f819d2322327c33207ce771b6849ebe846bc585fca3c"
+        }
+      ],
+      "wads": {
+        "Zyra.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 167234,
+          "bytes_after": 126911,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "32eac1777e8c4ad9"
+        ]
+      },
+      "references": {
+        "paths": 63,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

@@ -4,29 +4,30 @@
   "champion_id": 143,
   "name": "妖怪艺术家 婕拉",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "bc118686a061afeead87e0ebf40f6962a16af2027b8520e6d7363b3ffe3864c3",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "143/143046/143046.fantome",
   "files": [
     {
       "path": "skins/143/143046/143046/Zyra.wad.client",
-      "size": 10637,
-      "sha256": "eeed3b2ae2fd49499e2385301508f9cc64378df6980ce5616c25f32c42c207a8"
+      "size": 219724,
+      "sha256": "148a930b7b88c45c06b814fa42597e1e83fd485151b2eaec04d30a1826fc6e29"
     }
   ],
   "wads": {
     "Zyra.wad.client": {
-      "entries_before": 5,
-      "entries_after": 5,
-      "was_sorted": false,
+      "entries_before": 6,
+      "entries_after": 6,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 10637,
-      "bytes_after": 10637,
+      "bytes_before": 229929,
+      "bytes_after": 219724,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,17 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Zyra.wad.client": [
+      "0dc73ad1291b7372",
+      "26ca3abd389691ec",
+      "32eac1777e8c4ad9",
+      "7a91dc04a5ad40a0",
+      "e0891ea6c60356ee"
+    ]
+  },
   "references": {
-    "paths": 20,
+    "paths": 125,
     "missing": 0
   },
   "validation": {

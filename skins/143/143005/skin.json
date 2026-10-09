@@ -9,29 +9,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "839fcd86b178d956f791f00d988a7c3b5e548e5e256627963dda359b0c283e7b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143005.fantome",
       "files": [
         {
           "path": "skins/143/143005/143005/Zyra.wad.client",
-          "size": 98576,
-          "sha256": "015d5648e78aee3d673e9c17718059476781e0eb2eb46786121487a7dfd9c376"
+          "size": 149842,
+          "sha256": "5d4cd95338f26904ed2d9aeb03e61960a5a9744a1a45c9c1a927ada9b31c5a56"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 12292,
-          "bytes_after": 98576,
+          "bytes_before": 161734,
+          "bytes_after": 149842,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -45,34 +46,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 65,
         "missing": 0
       },
       "validation": {
@@ -88,29 +100,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 愤怒",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "597e72fa5c1f9a4f8d15ce28dd8ead5d82b5b0f9ca36c433476362ce978e7f21",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143017/143017.fantome",
       "files": [
         {
           "path": "skins/143/143005/143017/Zyra.wad.client",
-          "size": 92680,
-          "sha256": "6dcecfd05446739ac91e975d756be7f643ca04837ce9ced261f9f6cbcfd14141"
+          "size": 150174,
+          "sha256": "6aaf040ee09c7054132356d1a6ef16919438895b1c26d6dcc599e56e88cce5a2"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6396,
-          "bytes_after": 92680,
+          "bytes_before": 156170,
+          "bytes_after": 150174,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -124,34 +137,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -167,29 +191,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 欺骗",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f60cb33a2ad61128d605016a722d0ae03c75c68caac98c33e385ae7e94378562",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143018/143018.fantome",
       "files": [
         {
           "path": "skins/143/143005/143018/Zyra.wad.client",
-          "size": 92623,
-          "sha256": "6b96c301af83dd97c8435b58e46a9ce4c73d0d9b6a05722c4facfd7870f106dd"
+          "size": 150101,
+          "sha256": "f7b75e1bb8fd77f0a44c6ef9176007599a78c411595ada66bcf42e7f6c0feac1"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6339,
-          "bytes_after": 92623,
+          "bytes_before": 156040,
+          "bytes_after": 150101,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -203,34 +228,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -246,29 +282,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 嫉妒",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "03241b6067dc838df9ea929db40bce90c052cfc126ed8e90fb89033af935698b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143019/143019.fantome",
       "files": [
         {
           "path": "skins/143/143005/143019/Zyra.wad.client",
-          "size": 92625,
-          "sha256": "b60c3b02ec9ad99acace445c33e51db984223b434e37d8bf2c3e80032b121d07"
+          "size": 150101,
+          "sha256": "bb99f16bddf844749e996ed29ba910f202943bdb260d50c1c85101bc0aed5b76"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6341,
-          "bytes_after": 92625,
+          "bytes_before": 156042,
+          "bytes_after": 150101,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -282,34 +319,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -325,29 +373,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 贪婪",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fa0c5fd4c4a61ee688da447a243f3fd05b97e02d83eef995baf8d5aeef064036",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143020/143020.fantome",
       "files": [
         {
           "path": "skins/143/143005/143020/Zyra.wad.client",
-          "size": 92645,
-          "sha256": "c250287dfa529620c225c0fb08da37416069b5f453ca65408113df87615efdc7"
+          "size": 150129,
+          "sha256": "1f9f99aece35211bb75c0e4b25bc94c4366b6ed893f297e9925cb2790cf87192"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6361,
-          "bytes_after": 92645,
+          "bytes_before": 156090,
+          "bytes_after": 150129,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -361,34 +410,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -404,29 +464,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 虚荣",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f5a96e956ad79357efd259f8cc7a9501b759a43e77ebdc4049d93d314bbaba80",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143021/143021.fantome",
       "files": [
         {
           "path": "skins/143/143005/143021/Zyra.wad.client",
-          "size": 92626,
-          "sha256": "785c38ff67cdb861faed5df20cfaa5493c3f9bc6b20731d8f2812053dbd40c4a"
+          "size": 150101,
+          "sha256": "50f06e95d5d3acb171f761cdaa06d6ff0bf15046e1717f81426981a25cd746a3"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6342,
-          "bytes_after": 92626,
+          "bytes_before": 156043,
+          "bytes_after": 150101,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -440,34 +501,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -483,29 +555,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 欲望",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f5bae853c6f6a2223c7cb5216512ac5c304c69893c61082f5c7df7b7b79c3dcc",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143022/143022.fantome",
       "files": [
         {
           "path": "skins/143/143005/143022/Zyra.wad.client",
-          "size": 92623,
-          "sha256": "23684fe2fe9440f98d3f24a2214b37bbcdc82b15fabe2bb7f9021b541057a11d"
+          "size": 150101,
+          "sha256": "0a8421160803c80bad83df8ddbba26284af1346ff15d9000be62e3d452bfa72f"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6339,
-          "bytes_after": 92623,
+          "bytes_before": 156040,
+          "bytes_after": 150101,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -519,34 +592,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -562,29 +646,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 饕餮",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a58ba3c40e147aa48ebe3232a68f7158326ab9482c63b3a5e6da1bf9ee9139d8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143023/143023.fantome",
       "files": [
         {
           "path": "skins/143/143005/143023/Zyra.wad.client",
-          "size": 92624,
-          "sha256": "d00e06d8fbeb2734b79264bdde665d3943dffcad91894895abbaa7afd6a2f477"
+          "size": 150101,
+          "sha256": "889826f590e71473da39e67dcf5b68726b0706ee800eb0b78512db9879c5a0fc"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6340,
-          "bytes_after": 92624,
+          "bytes_before": 156041,
+          "bytes_after": 150101,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -598,34 +683,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -641,29 +737,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 倦怠",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "69c26d762f8769852cb8d9f204ab06a7992f605ee722fc89735edc43b873a767",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143024/143024.fantome",
       "files": [
         {
           "path": "skins/143/143005/143024/Zyra.wad.client",
-          "size": 92619,
-          "sha256": "6646ad4a8307d7e348dd7ad21a87813e2ae96f46f145312b35a772f33cd287fb"
+          "size": 150101,
+          "sha256": "32fb0bbac2a2a21a040db08deaaef5ffbd91efae5ff292200cabc7c0c0bfb9ac"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6335,
-          "bytes_after": 92619,
+          "bytes_before": 156036,
+          "bytes_after": 150101,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -677,34 +774,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {
@@ -720,29 +828,30 @@
       "champion_id": 143,
       "name": "魔女 婕拉 狂信",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "816129d7f695c3187deaa30cceb583ea2cb9f182c933a7999595570fdd82888b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "143/143005/143025/143025.fantome",
       "files": [
         {
           "path": "skins/143/143005/143025/Zyra.wad.client",
-          "size": 92677,
-          "sha256": "5056b93434b7b8cc8c0dcc601dd54f25fc1a97a52f431badf790e600ed23931e"
+          "size": 150174,
+          "sha256": "d374e9102d94ffb9b3733835dfb608a9af548a3c8239b4db3b8532b87762a976"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
-          "entries_before": 4,
+          "entries_before": 5,
           "entries_after": 5,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 6393,
-          "bytes_after": 92677,
+          "bytes_before": 156167,
+          "bytes_after": 150174,
           "replacement_hashes": [
             "0ae4161c7c1e131c"
           ]
@@ -756,34 +865,45 @@
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Zyra.wad.client",
             "normal_hash": "0ae4161c7c1e131c",
             "border_hash": "5f402ed1deb7fce3",
             "bytes": 86252,
-            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8"
+            "sha256": "b608d432713cff2dc3edac160e808e07c30fc33105fe863cdbb7b86bc5858cf8",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Zyra.wad.client": [
+          "0dc73ad1291b7372",
+          "32eac1777e8c4ad9",
+          "7a91dc04a5ad40a0",
+          "e0891ea6c60356ee"
+        ]
+      },
       "references": {
-        "paths": 22,
+        "paths": 66,
         "missing": 0
       },
       "validation": {

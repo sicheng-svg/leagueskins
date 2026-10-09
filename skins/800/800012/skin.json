@@ -9,29 +9,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "043c7d4ca79b83d7da21f776d02a6a7b444249b54cb0ea2bfcb5690f10627eb5",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800012.fantome",
       "files": [
         {
           "path": "skins/800/800012/800012/Mel.wad.client",
-          "size": 7087,
-          "sha256": "adc89664ad85e977e747c7dac0de92ba0517417f1e715705ed3fa7cd778e0393"
+          "size": 101949,
+          "sha256": "dfbe571a9c31bdd95df8c210f2d5885dd5c823fdedb7a2505002440f9bc413e9"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7087,
-          "bytes_after": 7087,
+          "bytes_before": 108732,
+          "bytes_after": 101949,
           "replacement_hashes": []
         }
       },
@@ -39,9 +40,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -57,29 +62,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 愤怒",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e1a415b1d56fdb03b8c297e635f99a7032c2604072f8f9728c47601946d666d1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800013/800013.fantome",
       "files": [
         {
           "path": "skins/800/800012/800013/Mel.wad.client",
-          "size": 3041,
-          "sha256": "01a13b75800a0ef9f3552253bb6a37bda2012e78bdc11b3e228673f65f61839f"
+          "size": 102013,
+          "sha256": "5f93aab2b7ac93629187fd065eeea99c6d4701cd1d2e23576b174b4019e7b810"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3041,
-          "bytes_after": 3041,
+          "bytes_before": 104750,
+          "bytes_after": 102013,
           "replacement_hashes": []
         }
       },
@@ -87,9 +93,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -105,29 +115,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 傲慢",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "62f7536a0618f5cc1e8f403b2010e7e08ec4ce80650859ce02c6e844e1497a03",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800014/800014.fantome",
       "files": [
         {
           "path": "skins/800/800012/800014/Mel.wad.client",
-          "size": 2989,
-          "sha256": "ff6b4a7712fa6ea6aa077860654b60dbb84a075f572538cb485f6b4cee037881"
+          "size": 101960,
+          "sha256": "432aa0219960b0bbf535b5d3f01023f7ffcef8ec244bd82b3b3697f3354496c2"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2989,
-          "bytes_after": 2989,
+          "bytes_before": 104645,
+          "bytes_after": 101960,
           "replacement_hashes": []
         }
       },
@@ -135,9 +146,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -153,29 +168,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 诡诈",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f5d9b4b7049bfc79b32bfe171b370d0fcd54a27eb3183ef62cefcb4acfe836a6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800015/800015.fantome",
       "files": [
         {
           "path": "skins/800/800012/800015/Mel.wad.client",
-          "size": 2992,
-          "sha256": "3c2224510d52d03bdae86ad2a6d334acde6272e2744bb908dc9289dd14d251dd"
+          "size": 101960,
+          "sha256": "b61fc75703759d8c0e7e5be379527e8eed48070417b5832f3a46f9c82b848fe3"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2992,
-          "bytes_after": 2992,
+          "bytes_before": 104648,
+          "bytes_after": 101960,
           "replacement_hashes": []
         }
       },
@@ -183,9 +199,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -201,29 +221,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 倦怠",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e25b4f4f70f2b769ec122cfdd6cf8b5e1ce457a65dbf54617a688032d068a96f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800016/800016.fantome",
       "files": [
         {
           "path": "skins/800/800012/800016/Mel.wad.client",
-          "size": 2992,
-          "sha256": "6fc571e4fe91f39e41fea4aba0ba4d39bb051aac559d908cc7851238c9647e80"
+          "size": 101940,
+          "sha256": "ef1989180600509bf61d90de8309ae23f1e3307751530693a53fd0f93bebeb20"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2992,
-          "bytes_after": 2992,
+          "bytes_before": 104628,
+          "bytes_after": 101940,
           "replacement_hashes": []
         }
       },
@@ -231,9 +252,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -249,29 +274,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 欺骗",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "25d3aa34500ea0aa4744c5464ba468e18316acf7621005e9188005726d68ac7a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800017/800017.fantome",
       "files": [
         {
           "path": "skins/800/800012/800017/Mel.wad.client",
-          "size": 2991,
-          "sha256": "4119295e44029a363c00e0146dc691465c7dda49b49de19aa4891beb0a92440c"
+          "size": 101940,
+          "sha256": "8e98d60378b75c73db05dded29056be7813be1dfcd011772e6e394ebf14e7fa1"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2991,
-          "bytes_after": 2991,
+          "bytes_before": 104627,
+          "bytes_after": 101940,
           "replacement_hashes": []
         }
       },
@@ -279,9 +305,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -297,29 +327,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 贪婪",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4b878e963e41a6cfac82665201a6247749539e2d2784cb4b07a00495839aa649",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800018/800018.fantome",
       "files": [
         {
           "path": "skins/800/800012/800018/Mel.wad.client",
-          "size": 2991,
-          "sha256": "165e659e7110e949787edf1c907f1c16235674bc0ae97989fea717d33a85cdc1"
+          "size": 101961,
+          "sha256": "d91203b54a9063c24261cd414e88f28f607ece3ffee91140e95e5434649ba7ed"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2991,
-          "bytes_after": 2991,
+          "bytes_before": 104648,
+          "bytes_after": 101961,
           "replacement_hashes": []
         }
       },
@@ -327,9 +358,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -345,29 +380,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 欲望",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "bfaff06e95697c211f902ec087aafe82c18bb537d4676286e2319d44d0016695",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800019/800019.fantome",
       "files": [
         {
           "path": "skins/800/800012/800019/Mel.wad.client",
-          "size": 2990,
-          "sha256": "0099dbb56fde09b23cf22b44676767a41e2719601f714d1fe31c8ddef6a85d6e"
+          "size": 101961,
+          "sha256": "43d14c495b801ac46c46b2acac1a478d621db315dbc171b7aa7098d14a12b5ce"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2990,
-          "bytes_after": 2990,
+          "bytes_before": 104647,
+          "bytes_after": 101961,
           "replacement_hashes": []
         }
       },
@@ -375,9 +411,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {
@@ -393,29 +433,30 @@
       "champion_id": 800,
       "name": "魔女 梅尔 饕餮",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b09db80727383a770d969c5b28b1367947b5f8f7bc908313e669457c70fc9656",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "800/800012/800020/800020.fantome",
       "files": [
         {
           "path": "skins/800/800012/800020/Mel.wad.client",
-          "size": 2992,
-          "sha256": "2a497416010af878a4fe498dd758593ff04068b54352b4d4aa173d7df60f4f25"
+          "size": 101940,
+          "sha256": "8a75baa84b61c685398c20d9f386d7104730eddfd35cbe4592b8d7c3d43ccf05"
         }
       ],
       "wads": {
         "Mel.wad.client": {
-          "entries_before": 1,
-          "entries_after": 1,
+          "entries_before": 2,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2992,
-          "bytes_after": 2992,
+          "bytes_before": 104628,
+          "bytes_after": 101940,
           "replacement_hashes": []
         }
       },
@@ -423,9 +464,13 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Mel.wad.client": [
+          "35709c02df78b411"
+        ]
+      },
       "references": {
-        "paths": 9,
+        "paths": 17,
         "missing": 0
       },
       "validation": {

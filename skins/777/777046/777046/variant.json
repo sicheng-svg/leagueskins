@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "至臻 心之钢 永恩",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "53a62caa767542242f129225a1c168cdf2d51adff65f328320cebe0032aae235",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777046/777046.fantome",
   "files": [
     {
       "path": "skins/777/777046/777046/Yone.wad.client",
-      "size": 95061,
-      "sha256": "5ad73347e6c0e01ef6668b4037300910f0fe47699fdd5e467abcf1bd0a418d10"
+      "size": 803688,
+      "sha256": "85ca98c7563bdb2a8277a0cb807cee755c3ee4080a8f2c2ab45bf6cd84193355"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8777,
-      "bytes_after": 95061,
+      "bytes_before": 812161,
+      "bytes_after": 803688,
       "replacement_hashes": [
         "878b6a494fc2d610"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "878b6a494fc2d610",
         "border_hash": "ec1ff2c4d84c983f",
         "bytes": 86252,
-        "sha256": "acfc06f5d65ace0eebd5f4520f84ecf62f07719585fc7579cb4fcb92c665e4c7"
+        "sha256": "acfc06f5d65ace0eebd5f4520f84ecf62f07719585fc7579cb4fcb92c665e4c7",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 392,
     "missing": 0
   },
   "validation": {

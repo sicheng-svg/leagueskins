@@ -1,0 +1,64 @@
+{
+  "skin_id": 777077,
+  "base_skin_id": 777077,
+  "champion_id": 777,
+  "name": "心之钢 我行我路 永恩",
+  "kind": "base",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "70fc52f487430c9530f597ac2e3f312dc29a51760ec33c7d8e09430e896d6511",
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "777/777077/777077.fantome",
+  "files": [
+    {
+      "path": "skins/777/777077/777077/Yone.wad.client",
+      "size": 130419,
+      "sha256": "757786315e5846387e8ebfe3ad97ca425a3dc328c97757e8761d71ec96753dbc"
+    }
+  ],
+  "wads": {
+    "Yone.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 174250,
+      "bytes_after": 130419,
+      "replacement_hashes": [
+        "aaff7a50a99e187f"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Yone.wad.client",
+        "normal_hash": "aaff7a50a99e187f",
+        "border_hash": "accec1e4a2829853",
+        "bytes": 86252,
+        "sha256": "493cadc8580166caf5eb488e6038f47c18d919bd42b16c5637cc7b49d575fa28",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
+  "references": {
+    "paths": 46,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified"
+  }
+}

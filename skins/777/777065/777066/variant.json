@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "正义假面 永恩 歌颂爱与和平",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "63ccf24da3d2cb0b955751f0083c06cf10286569ea5ea858e4cc3c70c2a77d3b",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777065/777066/777066.fantome",
   "files": [
     {
       "path": "skins/777/777065/777066/Yone.wad.client",
-      "size": 3297,
-      "sha256": "4415d7e50a2bd1b4791b7932e7cc00b70e8252079028734a3854a0139a74d753"
+      "size": 124582,
+      "sha256": "d2e789686f1bb84f6904e7c037a60c36e2ea11c04c10869ae6872c4bb50d8010"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3297,
-      "bytes_after": 3297,
+      "bytes_before": 127575,
+      "bytes_after": 124582,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 33,
     "missing": 0
   },
   "validation": {

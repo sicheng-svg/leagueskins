@@ -1,0 +1,71 @@
+{
+  "champion_id": 777,
+  "base_skin_id": 777078,
+  "name": "心之钢 我行我路 永恩 锐意曲风",
+  "variants": [
+    {
+      "skin_id": 777078,
+      "base_skin_id": 777078,
+      "champion_id": 777,
+      "name": "心之钢 我行我路 永恩 锐意曲风",
+      "kind": "base",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e66ca56eb38b34b3ce4db919aecb25473666c69fa8332bd0fb65865a360b540b",
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "777/777078/777078.fantome",
+      "files": [
+        {
+          "path": "skins/777/777078/777078/Yone.wad.client",
+          "size": 130525,
+          "sha256": "076f9a3736627f2c7e135e9cd012e2121f028118dc3071764754938887e7fa25"
+        }
+      ],
+      "wads": {
+        "Yone.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 174462,
+          "bytes_after": 130525,
+          "replacement_hashes": [
+            "aaff7a50a99e187f"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Yone.wad.client",
+            "normal_hash": "aaff7a50a99e187f",
+            "border_hash": "accec1e4a2829853",
+            "bytes": 86252,
+            "sha256": "493cadc8580166caf5eb488e6038f47c18d919bd42b16c5637cc7b49d575fa28",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
+      "references": {
+        "paths": 46,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified"
+      }
+    }
+  ]
+}

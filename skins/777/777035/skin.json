@@ -9,29 +9,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1db099edc7ff1a8277b356424acde2ee18891bd01563b4bc758d05834e4f2bd7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777035.fantome",
       "files": [
         {
           "path": "skins/777/777035/777035/Yone.wad.client",
-          "size": 94032,
-          "sha256": "82f4487cf5a438789e400ec4f63cc9563dc516b09158251410396c9c6bbb33db"
+          "size": 121177,
+          "sha256": "92b0b0ee9e24f7fe366c28f0c5b34c5057aa3f62d47739016f3bdd689f0efc7f"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7748,
-          "bytes_after": 94032,
+          "bytes_before": 128621,
+          "bytes_after": 121177,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 炽墨挥影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2b486a2d055904b498e55f40b36dd31f21dd279c67435c21978053aaa4299dcd",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777036/777036.fantome",
       "files": [
         {
           "path": "skins/777/777035/777036/Yone.wad.client",
-          "size": 89519,
-          "sha256": "d84b75d260da4b41f66d6e0265180fd352aa42eb456ea2c566e0ee71f74541c1"
+          "size": 121283,
+          "sha256": "adee9e5cbc31705e5a1c349161359b7b63cf62f6a72a53e65df87589d352f713"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3235,
-          "bytes_after": 89519,
+          "bytes_before": 124214,
+          "bytes_after": 121283,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 茶墨绘影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8c7e9f88d5f4377290ed69706461579810d7ab9b83b08db3647ccbca501f1635",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777037/777037.fantome",
       "files": [
         {
           "path": "skins/777/777035/777037/Yone.wad.client",
-          "size": 89466,
-          "sha256": "8b5998d930a16cc7e97218f77de00bb4180ec2e73ce32f413e022ac5cb4af242"
+          "size": 121210,
+          "sha256": "01da080467441b24de94d795e0b3a412af71659e8af5f2d08f6bd21d9aa40ea4"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3182,
-          "bytes_after": 89466,
+          "bytes_before": 124088,
+          "bytes_after": 121210,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 云墨漾影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "11d4c84f47b2de186a9bca73d39bfe0bf29fe821a46a60be3f0697871c59a3e1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777038/777038.fantome",
       "files": [
         {
           "path": "skins/777/777035/777038/Yone.wad.client",
-          "size": 89469,
-          "sha256": "0eba252c4fee5ebdebbd620f4eb01fdabc3a01ff637398a6605c0aca0eefc91c"
+          "size": 121210,
+          "sha256": "fe01df72b8241b1bc35b7114d02d2316d4463085e2786e67559d343c515a37af"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3185,
-          "bytes_after": 89469,
+          "bytes_before": 124091,
+          "bytes_after": 121210,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 森墨拂影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "391ad962456e4c8488a345608ca01551af2f137271358652c364a0c3285fd73f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777039/777039.fantome",
       "files": [
         {
           "path": "skins/777/777035/777039/Yone.wad.client",
-          "size": 89467,
-          "sha256": "9ec1f14d219035e9cfecbb2e93d22d2a0b2dbfe922def1578136d0b1bbdd0895"
+          "size": 121210,
+          "sha256": "bc132ccc582f44a6ef5abce9e48be7728869a78faaee546ada0b840d997898c6"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3183,
-          "bytes_after": 89467,
+          "bytes_before": 124089,
+          "bytes_after": 121210,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 晶墨绽影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e7f879c66507e969d18a3057f5b38c982ba4ac3f10268f17c4970bcf09a7cc2b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777040/777040.fantome",
       "files": [
         {
           "path": "skins/777/777035/777040/Yone.wad.client",
-          "size": 89470,
-          "sha256": "7f91c1247687b098d433fcaa4468bbbc58e875e21a1a794f934275032013f7d0"
+          "size": 121210,
+          "sha256": "64d44a1874e1273fb96e01895923e86c2fc636d81e04d8cd03776e3c4b500f83"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3186,
-          "bytes_after": 89470,
+          "bytes_before": 124092,
+          "bytes_after": 121210,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 樱墨映影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "379874e1929691f79e12ab06f9cc7c0894dbbd959217faf4abe4207da0c81e2d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777041/777041.fantome",
       "files": [
         {
           "path": "skins/777/777035/777041/Yone.wad.client",
-          "size": 89491,
-          "sha256": "3399c53985fb1501556a0344b3d52fdca6ab39754bf0e3ba1fd83ee7cbd3d643"
+          "size": 121238,
+          "sha256": "8193ad6eeb2e2f4bfbeea18223a986f8ae3b2c78a65a94c921b4ece95e2da98d"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3207,
-          "bytes_after": 89491,
+          "bytes_before": 124141,
+          "bytes_after": 121238,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -415,29 +457,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 松墨彰影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a1ed743def1660d86eb169fc660a0fe1bfe17c9d609645ad5a7cdbe1506d5fee",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777042/777042.fantome",
       "files": [
         {
           "path": "skins/777/777035/777042/Yone.wad.client",
-          "size": 89469,
-          "sha256": "04f91c980233be9e2d91d20a9c1295ea8b524920d8ead2433688774a4eeb9b9d"
+          "size": 121210,
+          "sha256": "fa2bbcd72ea2e754378549325c4861abcc17066906ee8b9bd7d573c4030c5999"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3185,
-          "bytes_after": 89469,
+          "bytes_before": 124091,
+          "bytes_after": 121210,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -451,13 +494,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -473,29 +521,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 玄墨蕴影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "af35b27673d7bc89942fa5f5b144f6f63a38f2301eab895ee39864309a53a26f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777043/777043.fantome",
       "files": [
         {
           "path": "skins/777/777035/777043/Yone.wad.client",
-          "size": 89470,
-          "sha256": "4aeb31fd99c5d831ecaaf171ffc0eec43148a30b99e7b6ab2a2fa02c269f95c8"
+          "size": 121210,
+          "sha256": "61e803989686ca4b032b54d6ea51f880ce4c27fbd1aa1206714c31dffefc6918"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3186,
-          "bytes_after": 89470,
+          "bytes_before": 124092,
+          "bytes_after": 121210,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -509,13 +558,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -531,29 +585,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 灵墨刻影",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "01f977907bd59adff15a26b1316adfe5678bc3860ef60a40a3ee32786b29faef",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777044/777044.fantome",
       "files": [
         {
           "path": "skins/777/777035/777044/Yone.wad.client",
-          "size": 89524,
-          "sha256": "a2edfab7e69e76327e4534f7da2732f8aefb32b714e762e0c9a4e3ed0ffbc0f3"
+          "size": 121283,
+          "sha256": "c99a5562188935538cbd2139f6595dea7189ce30df1db9fc3b0a4de0d844f470"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3240,
-          "bytes_after": 89524,
+          "bytes_before": 124219,
+          "bytes_after": 121283,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -567,13 +622,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 41,
         "missing": 0
       },
       "validation": {
@@ -589,29 +649,30 @@
       "champion_id": 777,
       "name": "墨之影武者 永恩 至强",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ffd85314a0c019599b3b8869846f2db6fa6a5633b51d3907220e30f9dca4d75a",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777035/777076/777076.fantome",
       "files": [
         {
           "path": "skins/777/777035/777076/Yone.wad.client",
-          "size": 89531,
-          "sha256": "5586214bf1ace0b278c2085933f026dab1a8f8a1f019ff0a3fd3883b5482568d"
+          "size": 618588,
+          "sha256": "d01cc679a0dbb6dcd0576eddd026a73898e9c8dbe038d22b31e44e28f5e599cc"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3247,
-          "bytes_after": 89531,
+          "bytes_before": 621531,
+          "bytes_after": 618588,
           "replacement_hashes": [
             "a10183d0cfc47530"
           ]
@@ -625,13 +686,18 @@
             "normal_hash": "a10183d0cfc47530",
             "border_hash": "71027ddcbd66501c",
             "bytes": 86252,
-            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e"
+            "sha256": "97825cc4db2210edd72405ee8ad0b45c1e8541210d4e66173fccc0184cbfcd3e",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 295,
         "missing": 0
       },
       "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "正义假面 永恩 守梦的无梦者",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "e8f4b021fa689a295e2d03df61d4485f592e332bf5dd2a693c1e83ce2e267bfe",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777065/777072/777072.fantome",
   "files": [
     {
       "path": "skins/777/777065/777072/Yone.wad.client",
-      "size": 3243,
-      "sha256": "62a32368fbb1bc74dc3287714294ffe91ef5cbc40aaabbafae61def5dc3dd7aa"
+      "size": 124509,
+      "sha256": "78a7ad4d4c39d80089dc8b9742dbcd840f1b23182725bc4d3507bcc1b748e573"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3243,
-      "bytes_after": 3243,
+      "bytes_before": 127448,
+      "bytes_after": 124509,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 33,
     "missing": 0
   },
   "validation": {

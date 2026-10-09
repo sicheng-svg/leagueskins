@@ -4,29 +4,30 @@
   "champion_id": 800,
   "name": "皮城议员 梅尔",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "322bb909fc3b75b79c404d0d8447c4e95514d12f1ec53f3e1d50dff3cc272c0c",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "800/800001/800001.fantome",
   "files": [
     {
       "path": "skins/800/800001/800001/Mel.wad.client",
-      "size": 6107,
-      "sha256": "c4156f5dd8c4803dcb1fdd0ca41450722fa1f209b34ca7e028d9c4ca418001ed"
+      "size": 94064,
+      "sha256": "c95881b7046b700469b1f62bbe77b3440b74f22a9c64ba0b570b7260858a86c2"
     }
   ],
   "wads": {
     "Mel.wad.client": {
-      "entries_before": 1,
-      "entries_after": 1,
+      "entries_before": 2,
+      "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6107,
-      "bytes_after": 6107,
+      "bytes_before": 99867,
+      "bytes_after": 94064,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,13 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Mel.wad.client": [
+      "35709c02df78b411"
+    ]
+  },
   "references": {
-    "paths": 8,
+    "paths": 13,
     "missing": 0
   },
   "validation": {

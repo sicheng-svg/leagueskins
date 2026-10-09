@@ -9,29 +9,30 @@
       "champion_id": 777,
       "name": "西部魔影 永恩",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "58a9d0ba4dcbbd425759b4fe59cdcd6fdb9091ad1370bbd75b1f64cfa1594695",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777055/777055.fantome",
       "files": [
         {
           "path": "skins/777/777055/777055/Yone.wad.client",
-          "size": 96492,
-          "sha256": "121e3bf54ecea34caac6b7eb54d859de6924d2a657faa58ceaff3962df7bd747"
+          "size": 297288,
+          "sha256": "ff6306ef1258d7442788feabb0194a7406aec528af5ba4b0407727b45f3cee04"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 10208,
-          "bytes_after": 96492,
+          "bytes_before": 307192,
+          "bytes_after": 297288,
           "replacement_hashes": [
             "6dd912055511c823"
           ]
@@ -45,13 +46,18 @@
             "normal_hash": "6dd912055511c823",
             "border_hash": "2f785498d0c4b41b",
             "bytes": 86252,
-            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 69,
         "missing": 0
       },
       "validation": {
@@ -67,29 +73,30 @@
       "champion_id": 777,
       "name": "西部魔影 永恩 温和",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5be3793b1f7ebae639e569a67cb3f88b5cafa67cee48baac6a1818b63845a8f6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777055/777059/777059.fantome",
       "files": [
         {
           "path": "skins/777/777055/777059/Yone.wad.client",
-          "size": 90788,
-          "sha256": "32d10df0de03b1763c4505b89a737907e1c5eec49184a4c1019a25f22d099c92"
+          "size": 297394,
+          "sha256": "8792f38bc30438362f6c115d1248b0ce69f6a288d87e4fa97bbc247296a1862e"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4504,
-          "bytes_after": 90788,
+          "bytes_before": 301594,
+          "bytes_after": 297394,
           "replacement_hashes": [
             "6dd912055511c823"
           ]
@@ -103,13 +110,18 @@
             "normal_hash": "6dd912055511c823",
             "border_hash": "2f785498d0c4b41b",
             "bytes": 86252,
-            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 69,
         "missing": 0
       },
       "validation": {
@@ -125,29 +137,30 @@
       "champion_id": 777,
       "name": "西部魔影 永恩 善良",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b7cf71ffcc622c1a8f6cd4a43b1ad93c1bc400371097f85bf3c42cd779675542",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777055/777060/777060.fantome",
       "files": [
         {
           "path": "skins/777/777055/777060/Yone.wad.client",
-          "size": 90737,
-          "sha256": "c073ea997d92b6fd4366719cc2fc834e5dc2592536e52ca6064aee88367d3c0d"
+          "size": 297321,
+          "sha256": "6e1a52226c1cfb86115b0639f50ed7ef0b48f30de571e27ee22751ee1769fa43"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4453,
-          "bytes_after": 90737,
+          "bytes_before": 301470,
+          "bytes_after": 297321,
           "replacement_hashes": [
             "6dd912055511c823"
           ]
@@ -161,13 +174,18 @@
             "normal_hash": "6dd912055511c823",
             "border_hash": "2f785498d0c4b41b",
             "bytes": 86252,
-            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 69,
         "missing": 0
       },
       "validation": {
@@ -183,29 +201,30 @@
       "champion_id": 777,
       "name": "西部魔影 永恩 诚实",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "46fa231eb703a2355af339a256a79c6a12c0a2bee523c87bf7d4538560b21399",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777055/777061/777061.fantome",
       "files": [
         {
           "path": "skins/777/777055/777061/Yone.wad.client",
-          "size": 90740,
-          "sha256": "1c3f4dd8e9950c99b378abb19bcb2501313968db6daaa308b0d6c9f592dccc70"
+          "size": 297321,
+          "sha256": "12d7f5b30a917e72de9a2700569ac1c88941a7e7b2672e2540657d91463ccd32"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4456,
-          "bytes_after": 90740,
+          "bytes_before": 301473,
+          "bytes_after": 297321,
           "replacement_hashes": [
             "6dd912055511c823"
           ]
@@ -219,13 +238,18 @@
             "normal_hash": "6dd912055511c823",
             "border_hash": "2f785498d0c4b41b",
             "bytes": 86252,
-            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 69,
         "missing": 0
       },
       "validation": {
@@ -241,29 +265,30 @@
       "champion_id": 777,
       "name": "西部魔影 永恩 忠诚",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "64797b0ea3a5163802e4b6762e0647ba8abb80e5f111a89bc88ad37e589eada2",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777055/777062/777062.fantome",
       "files": [
         {
           "path": "skins/777/777055/777062/Yone.wad.client",
-          "size": 90761,
-          "sha256": "b218c6a7e5db276c5f9e9dbc704bd720288e57471fa89a4f7121cb9f17c7af77"
+          "size": 297349,
+          "sha256": "b05406e864fa07b7a7f86a2e48d915b387ae0bcb6d04c6f9744996893a8b644d"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4477,
-          "bytes_after": 90761,
+          "bytes_before": 301522,
+          "bytes_after": 297349,
           "replacement_hashes": [
             "6dd912055511c823"
           ]
@@ -277,13 +302,18 @@
             "normal_hash": "6dd912055511c823",
             "border_hash": "2f785498d0c4b41b",
             "bytes": 86252,
-            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 69,
         "missing": 0
       },
       "validation": {
@@ -299,29 +329,30 @@
       "champion_id": 777,
       "name": "西部魔影 永恩 谦卑",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "fb5cf39a96aa64d8ffecc8a79cd8a34f3410849ca823a666ad2c12bfe1e4fb2b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777055/777063/777063.fantome",
       "files": [
         {
           "path": "skins/777/777055/777063/Yone.wad.client",
-          "size": 90736,
-          "sha256": "80cb286bb61ceb04f262836d3e4e9804e2c07c7bcdd1eed0a475e59df61e65e9"
+          "size": 297321,
+          "sha256": "80e82f99f784a467ee368c77d14b06ccd41b2eda2aabc6da295c66aba2503693"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4452,
-          "bytes_after": 90736,
+          "bytes_before": 301469,
+          "bytes_after": 297321,
           "replacement_hashes": [
             "6dd912055511c823"
           ]
@@ -335,13 +366,18 @@
             "normal_hash": "6dd912055511c823",
             "border_hash": "2f785498d0c4b41b",
             "bytes": 86252,
-            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 69,
         "missing": 0
       },
       "validation": {
@@ -357,29 +393,30 @@
       "champion_id": 777,
       "name": "西部魔影 永恩 正午幻日",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "84c1645218a80e2bd3a657cc158c56bbce5458406d1a415fb86858ad25241f7d",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "777/777055/777064/777064.fantome",
       "files": [
         {
           "path": "skins/777/777055/777064/Yone.wad.client",
-          "size": 90793,
-          "sha256": "7eabfaccae94db3cb0e97e9990f9597c0b877c5de2e5e74d2b1f4b42b283dc11"
+          "size": 297394,
+          "sha256": "9cafaceae361d7cdc5e64872bee6e7242c31b26aa4940e20d9a03b32309ad64d"
         }
       ],
       "wads": {
         "Yone.wad.client": {
-          "entries_before": 1,
+          "entries_before": 2,
           "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4509,
-          "bytes_after": 90793,
+          "bytes_before": 301599,
+          "bytes_after": 297394,
           "replacement_hashes": [
             "6dd912055511c823"
           ]
@@ -393,13 +430,18 @@
             "normal_hash": "6dd912055511c823",
             "border_hash": "2f785498d0c4b41b",
             "bytes": 86252,
-            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a"
+            "sha256": "fdd9325f2fd0f78b6f453b3bbfa88cce4a0b1990b988ff817f05db66266d0a3a",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yone.wad.client": [
+          "75d1aee7cd24ec51"
+        ]
+      },
       "references": {
-        "paths": 8,
+        "paths": 69,
         "missing": 0
       },
       "validation": {

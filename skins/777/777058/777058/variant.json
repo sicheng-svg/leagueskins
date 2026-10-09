@@ -4,29 +4,30 @@
   "champion_id": 777,
   "name": "西部魔影 炽天使 永恩",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "b68a53678e80b67311f0b4b845b14dd7836314dfaf91b893602298d522b818dc",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "777/777058/777058.fantome",
   "files": [
     {
       "path": "skins/777/777058/777058/Yone.wad.client",
-      "size": 91054,
-      "sha256": "5290488c82afe0d6a163bd3548203e1297810980d40b4b67040b32e7309e4814"
+      "size": 1208435,
+      "sha256": "c0ab9c7ff6093b699e22f3672bbb7003fab702d8806c07fea88af3e27d615238"
     }
   ],
   "wads": {
     "Yone.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4770,
-      "bytes_after": 91054,
+      "bytes_before": 1212901,
+      "bytes_after": 1208435,
       "replacement_hashes": [
         "83cf979f08190e3b"
       ]
@@ -45,9 +46,13 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yone.wad.client": [
+      "75d1aee7cd24ec51"
+    ]
+  },
   "references": {
-    "paths": 12,
+    "paths": 416,
     "missing": 0
   },
   "validation": {

@@ -4,29 +4,30 @@
   "champion_id": 266,
   "name": "海魔至尊 亚托克斯 无休冲击",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "efa30f24975a2d8000c47d9bb4952dd8ef413e031526dd3fb3da6e779b0a673d",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "266/266033/266038/266038.fantome",
   "files": [
     {
       "path": "skins/266/266033/266038/Aatrox.wad.client",
-      "size": 107413,
-      "sha256": "5ada39fad6fb5e65805f204d40d28914edc3cddf9c96c15f5220642f13cca8da"
+      "size": 332213,
+      "sha256": "15c08c6dbdc13f9b148fc0a58fb1b1de4dd9a8ce6666b555c8667b334d206966"
     }
   ],
   "wads": {
     "Aatrox.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 21129,
-      "bytes_after": 107413,
+      "bytes_before": 353038,
+      "bytes_after": 332213,
       "replacement_hashes": [
         "154be1414cc38526"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "154be1414cc38526",
         "border_hash": "f95a5ae8ce3a403d",
         "bytes": 86252,
-        "sha256": "e7a72667aae65c2e5c0ad5b206bcc3b3d69ab6daf9e2cd9652b5d545eca4edda"
+        "sha256": "e7a72667aae65c2e5c0ad5b206bcc3b3d69ab6daf9e2cd9652b5d545eca4edda",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Aatrox.wad.client": [
+      "a86c2a6899810fbd"
+    ]
+  },
   "references": {
-    "paths": 113,
+    "paths": 92,
     "missing": 0
   },
   "validation": {

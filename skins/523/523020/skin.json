@@ -9,29 +9,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f1b41d2dbfc3dc212ee3eb6ef4e9478e7dcb6072fea5db1f74a83539270c14e1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523020.fantome",
       "files": [
         {
           "path": "skins/523/523020/523020/Aphelios.wad.client",
-          "size": 97817,
-          "sha256": "81b3c56783ff7e0ee898a956b54e644e03206ec20d5d2ba268d3b0ad0c5f0d2b"
+          "size": 203373,
+          "sha256": "833736bc0a41d06b9ca26ef2da93345f68e8e4a53e8e003b5c02305873b069cf"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 11533,
-          "bytes_after": 97817,
+          "bytes_before": 214570,
+          "bytes_after": 203373,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -45,20 +46,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -74,29 +82,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 流火",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0dd6fe5db7bdbb429860627d50a723f7cef436870d60895a515109d2a5122116",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523021/523021.fantome",
       "files": [
         {
           "path": "skins/523/523020/523021/Aphelios.wad.client",
-          "size": 91972,
-          "sha256": "18da94603ceed8574a53c0fc1d433c85da01c764b2cefc67efb717caeb95f197"
+          "size": 203488,
+          "sha256": "00db8fd93bed840efbed4edbde87ce9f5b91b9f07aa5adb8c591c149ac712f89"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5688,
-          "bytes_after": 91972,
+          "bytes_before": 208840,
+          "bytes_after": 203488,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -110,20 +119,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -139,29 +155,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 风起",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c8520c7699be24e0cc3ca4b41e61390e487ecf3c6622e38092280b6d4316c7b4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523022/523022.fantome",
       "files": [
         {
           "path": "skins/523/523020/523022/Aphelios.wad.client",
-          "size": 91913,
-          "sha256": "681c94dd07a5991a0a368db0523b42b59260a462823aa11f54fe62bfc7406006"
+          "size": 203415,
+          "sha256": "ec23f034df7e55a5971c0d4f59efde7255c059e9734322ff2eafb3804e0f15aa"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5629,
-          "bytes_after": 91913,
+          "bytes_before": 208708,
+          "bytes_after": 203415,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -175,20 +192,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -204,29 +228,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 雁来",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4ee0efee5495dbab6bf5076a17f5aa77776d2ff0d24bcd5ca13cc3f0fd971984",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523023/523023.fantome",
       "files": [
         {
           "path": "skins/523/523020/523023/Aphelios.wad.client",
-          "size": 91915,
-          "sha256": "4416f4f0affc90a61710b825bc09fdb19e76578d7b54eb299c64cc00a36dadcc"
+          "size": 203415,
+          "sha256": "e5378164e578e9ab1e73ca634d777cf0678289ce3a4d253b466d6d8b0bb202e0"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5631,
-          "bytes_after": 91915,
+          "bytes_before": 208710,
+          "bytes_after": 203415,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -240,20 +265,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -269,29 +301,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 云开",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "85fe4f27547ee9e8b7f632c89b802115c5bbbb4f0032c0d2c26d40bbcf09ab50",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523024/523024.fantome",
       "files": [
         {
           "path": "skins/523/523020/523024/Aphelios.wad.client",
-          "size": 91917,
-          "sha256": "f5c28b1fa69881c9e689e5b125f7e7bfedbfc4655cdbe97540d242b8d6872f9f"
+          "size": 203415,
+          "sha256": "70137df37c6923375236a62e874aa6a8125aa65271102fbaaa104846fd143689"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5633,
-          "bytes_after": 91917,
+          "bytes_before": 208712,
+          "bytes_after": 203415,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -305,20 +338,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -334,29 +374,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 春晓",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "d5e363b048ee91ee1718a9478797f33cacf8eec4608ba7dd3827ea3504580432",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523025/523025.fantome",
       "files": [
         {
           "path": "skins/523/523020/523025/Aphelios.wad.client",
-          "size": 91942,
-          "sha256": "dc3b6aa41bd7bdb7c8b0e5335f8e9da827574baf319c6400bc08a569e7e95267"
+          "size": 203443,
+          "sha256": "6e3e8ceb73fd57313618472970f795567c2ec619a1b35605f3333b59fcf0a211"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5658,
-          "bytes_after": 91942,
+          "bytes_before": 208765,
+          "bytes_after": 203443,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -370,20 +411,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -399,29 +447,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 星回",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "e3d6f8bcc38b0a717c63ef4b7e413ebd0e31005c822b74c91514e5b889c0ca61",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523026/523026.fantome",
       "files": [
         {
           "path": "skins/523/523020/523026/Aphelios.wad.client",
-          "size": 91914,
-          "sha256": "a1b0d60d0b62df724bd648c48d2139304838cdec26588166f42a34c43e759a34"
+          "size": 203415,
+          "sha256": "461b62b6896f52124ebd626abfad2d0c3807ca489bc6afb6aabcbac659067c25"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5630,
-          "bytes_after": 91914,
+          "bytes_before": 208709,
+          "bytes_after": 203415,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -435,20 +484,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -464,29 +520,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 鸣蜩",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "cf182bd41e2bd7c02235a64483ea53af4262b6131fba0f897a6058ba06cb5cfd",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523027/523027.fantome",
       "files": [
         {
           "path": "skins/523/523020/523027/Aphelios.wad.client",
-          "size": 91917,
-          "sha256": "53ead7e24a22f345278f6bee929cd7b41f8ca279012e01161d0e859fe47237bb"
+          "size": 203415,
+          "sha256": "11c64d74f86fc9bb8a251a8c4073c7c9b82dda0dfba02b3df18627d178f26f90"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5633,
-          "bytes_after": 91917,
+          "bytes_before": 208712,
+          "bytes_after": 203415,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -500,20 +557,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -529,29 +593,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 朝花",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "21a5948ee74c9ee7fe62ef246e78158bb240141a89b8e84772a549b886f6815b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523028/523028.fantome",
       "files": [
         {
           "path": "skins/523/523020/523028/Aphelios.wad.client",
-          "size": 91912,
-          "sha256": "d4a3192775ea1ab0d0560fa5f42cb4fc1fdf76e62ded2d1f8f3ca9b1f940ea85"
+          "size": 203415,
+          "sha256": "c41fbc2ffac3fee9bb7ee69d3176c64988d1fa8fd3ae0ccbb73c223678ff8b39"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5628,
-          "bytes_after": 91912,
+          "bytes_before": 208707,
+          "bytes_after": 203415,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -565,20 +630,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {
@@ -594,29 +666,30 @@
       "champion_id": 523,
       "name": "灵魂莲华 厄斐琉斯 绽夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4e34c73ecb1dee574e6d7220f688a9d43fad66a5152ebc48406923bebf4e0f04",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523020/523029/523029.fantome",
       "files": [
         {
           "path": "skins/523/523020/523029/Aphelios.wad.client",
-          "size": 91975,
-          "sha256": "e833f6970934ddb56801b93f1f0d48642f542a14e99bf887063faacd8d01184e"
+          "size": 203488,
+          "sha256": "d330df0fe4f887c38f9d8d2ff8217dd09b6385525d76574a7c74249324c25144"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5691,
-          "bytes_after": 91975,
+          "bytes_before": 208843,
+          "bytes_after": 203488,
           "replacement_hashes": [
             "6d0b072e6b5eab9a"
           ]
@@ -630,20 +703,27 @@
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "6d0b072e6b5eab9a",
             "border_hash": "d1f24a7186f713cb",
             "bytes": 86252,
-            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+            "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 75,
         "missing": 0
       },
       "validation": {

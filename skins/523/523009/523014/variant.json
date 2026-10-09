@@ -4,29 +4,30 @@
   "champion_id": 523,
   "name": "福牛守护者 厄斐琉斯 祈福",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "dec4a244433315b45e1698cc0724f52518fa32c88fa53db10c0ea07aac56385b",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "523/523009/523014/523014.fantome",
   "files": [
     {
       "path": "skins/523/523009/523014/Aphelios.wad.client",
-      "size": 91761,
-      "sha256": "d49f3f4d147fa3589493f76e69028c8bbb752df86cb18354ca7ecf469dc76079"
+      "size": 133058,
+      "sha256": "e5659895812a0198d6328c09b0d477d6b84073642b4bd72059c55043fc7776c4"
     }
   ],
   "wads": {
     "Aphelios.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 5477,
-      "bytes_after": 91761,
+      "bytes_before": 138199,
+      "bytes_after": 133058,
       "replacement_hashes": [
         "9bf07c6a4ee1cd73"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "9bf07c6a4ee1cd73",
         "border_hash": "e3150b7c6c851061",
         "bytes": 86252,
-        "sha256": "54695914530e4f74b0cb00c75d2289d5151a62106112b3d581c759d929a2766a"
+        "sha256": "54695914530e4f74b0cb00c75d2289d5151a62106112b3d581c759d929a2766a",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Aphelios.wad.client",
         "normal_hash": "9bf07c6a4ee1cd73",
         "border_hash": "e3150b7c6c851061",
         "bytes": 86252,
-        "sha256": "54695914530e4f74b0cb00c75d2289d5151a62106112b3d581c759d929a2766a"
+        "sha256": "54695914530e4f74b0cb00c75d2289d5151a62106112b3d581c759d929a2766a",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Aphelios.wad.client": [
+      "baa0fb9a9d1bd02c",
+      "de27fb0baf87c814"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 41,
     "missing": 0
   },
   "validation": {

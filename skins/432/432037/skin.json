@@ -9,29 +9,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "571ece2750a190df4f787737c1874fbc432a14891f0739561c533bd760379ceb",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432037.fantome",
       "files": [
         {
           "path": "skins/432/432037/432037/Bard.wad.client",
-          "size": 93933,
-          "sha256": "f693c2040b69ab276af6d9db9770800795a78e71431154096f3632e8439bf2d8"
+          "size": 211902,
+          "sha256": "60b80dfa85d38c03accc5b8b8ad638809dc33958a1c253dcf40200fbed08e162"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7649,
-          "bytes_after": 93933,
+          "bytes_before": 219215,
+          "bytes_after": 211902,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -45,20 +46,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -74,29 +82,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 流火",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4e74e59b1763f41be27cf1830e4ae662ca19e161a7a76e30432ba2398a0daa2c",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432038/432038.fantome",
       "files": [
         {
           "path": "skins/432/432037/432038/Bard.wad.client",
-          "size": 90462,
-          "sha256": "39944a4b425dabcc4930cf6b1c188cdcd643e6d246e85aa0ee26d2368f126aee"
+          "size": 212017,
+          "sha256": "cf85a2829155f05d754ca22ec7ce9f774e07968455a8cb0398c1758d4616511f"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4178,
-          "bytes_after": 90462,
+          "bytes_before": 215859,
+          "bytes_after": 212017,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -110,20 +119,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -139,29 +155,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 朝花",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "209e43a9aaaf45102de0155dd98da28d1313d0941daffb80e52b5dcbff73fc87",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432039/432039.fantome",
       "files": [
         {
           "path": "skins/432/432037/432039/Bard.wad.client",
-          "size": 90408,
-          "sha256": "fef43b7953eba1f6fa272567678a199418f417cb4861633c302af8b7b2425bdd"
+          "size": 211944,
+          "sha256": "b688cf690b5ea811c8379e17c240745450a30bf596380db1d475a3e98ffbdb4c"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4124,
-          "bytes_after": 90408,
+          "bytes_before": 215732,
+          "bytes_after": 211944,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -175,20 +192,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -204,29 +228,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 兰秋",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9545cc8690d3c768e8fe91f493bb6d880fe214a34c66bcf5d3d22e7472f248f4",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432040/432040.fantome",
       "files": [
         {
           "path": "skins/432/432037/432040/Bard.wad.client",
-          "size": 90405,
-          "sha256": "385a2ffcd96ace4d4c537bc1f8ddbe0cd8cf121eea928c0bdcf877bec3515eb1"
+          "size": 211944,
+          "sha256": "909b40459c2891d5a6b9a41d4ff3ff0b3f7c933155179049b7b1330ae382b891"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4121,
-          "bytes_after": 90405,
+          "bytes_before": 215729,
+          "bytes_after": 211944,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -240,20 +265,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -269,29 +301,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 云开",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "2f1936f6f1b89b2bbc32c05bdd80696429d3aef5c41951275844b7a9bb92d21f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432041/432041.fantome",
       "files": [
         {
           "path": "skins/432/432037/432041/Bard.wad.client",
-          "size": 90405,
-          "sha256": "bf514990121e96448c69fa7135b9180bbba15c2c1e7cf595012c9e172b9bf5f8"
+          "size": 211944,
+          "sha256": "c850c9ee3b9c5895a6b72ba460d8eb3ecc3be1ed654103a48b809ea5a5fa98ba"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4121,
-          "bytes_after": 90405,
+          "bytes_before": 215729,
+          "bytes_after": 211944,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -305,20 +338,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -334,29 +374,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 月升",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "ce59e09875c0aaf1f1f4bcdec1692d4868d42f29857d9f9e8853803f2554c6d7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432042/432042.fantome",
       "files": [
         {
           "path": "skins/432/432037/432042/Bard.wad.client",
-          "size": 90403,
-          "sha256": "63800e83a4e3c0eb4e55dc26f719642f830358cfe1f84663b680f998c645b2a1"
+          "size": 211944,
+          "sha256": "f7723abf21e69d93a5fd6ae75eddcd3b43e0b8c32c48d13df18472bbc5512122"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4119,
-          "bytes_after": 90403,
+          "bytes_before": 215727,
+          "bytes_after": 211944,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -370,20 +411,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -399,29 +447,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 雁来",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "bdfb119785d007329d1dd6591a545d2fd1f10538b3cb1b2af49fc38d98395976",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432043/432043.fantome",
       "files": [
         {
           "path": "skins/432/432037/432043/Bard.wad.client",
-          "size": 90407,
-          "sha256": "7aee5263f8b7ddfd6ea1fdb8c7690c1ae31fab929ded9c2d108d37d144f76f12"
+          "size": 211944,
+          "sha256": "0f5c95a40adc011fea0b1cec96f532bfe3caa0a161818ac135846b33d84f8b7e"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4123,
-          "bytes_after": 90407,
+          "bytes_before": 215731,
+          "bytes_after": 211944,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -435,20 +484,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -464,29 +520,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 春晓",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "35ec3e7f601b9fc7512dbe14b06095a20bbbc5c5635acea6420bdb2bd99e7af9",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432044/432044.fantome",
       "files": [
         {
           "path": "skins/432/432037/432044/Bard.wad.client",
-          "size": 90429,
-          "sha256": "9d983f9f2d0be062f96ce8eb111785e38a4e2a3849461ad0ea5c4254ebd53f87"
+          "size": 211972,
+          "sha256": "106e591763c50c5d23661ae7a6ead9e32f9ddc059b412f7cc23e70c5d93662e7"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4145,
-          "bytes_after": 90429,
+          "bytes_before": 215781,
+          "bytes_after": 211972,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -500,20 +557,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {
@@ -529,29 +593,30 @@
       "champion_id": 432,
       "name": "灵魂莲华 巴德 风起",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f315991e5ff7f9280512bd44e0ff3daab715f65e1ebbc832e40df0a08ee4b5fb",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "432/432037/432045/432045.fantome",
       "files": [
         {
           "path": "skins/432/432037/432045/Bard.wad.client",
-          "size": 90407,
-          "sha256": "e7603faeafb95f38fb01bb2678096de3140b1eae5d4c96f2baefadc2efef31fb"
+          "size": 211944,
+          "sha256": "dd4af462e804ed9f05f1ef63a875fd2473767de6748194dc5196aa8e01f77469"
         }
       ],
       "wads": {
         "Bard.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
-          "was_sorted": false,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4123,
-          "bytes_after": 90407,
+          "bytes_before": 215731,
+          "bytes_after": 211944,
           "replacement_hashes": [
             "a2a1d8621d78bc03"
           ]
@@ -565,20 +630,27 @@
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Bard.wad.client",
             "normal_hash": "a2a1d8621d78bc03",
             "border_hash": "16aa056d4579450c",
             "bytes": 86252,
-            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+            "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Bard.wad.client": [
+          "27ff2b76562a1a40",
+          "56bfec4c6af4b108"
+        ]
+      },
       "references": {
-        "paths": 11,
+        "paths": 127,
         "missing": 0
       },
       "validation": {

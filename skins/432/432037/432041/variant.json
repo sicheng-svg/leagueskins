@@ -4,29 +4,30 @@
   "champion_id": 432,
   "name": "灵魂莲华 巴德 云开",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "2f1936f6f1b89b2bbc32c05bdd80696429d3aef5c41951275844b7a9bb92d21f",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "432/432037/432041/432041.fantome",
   "files": [
     {
       "path": "skins/432/432037/432041/Bard.wad.client",
-      "size": 90405,
-      "sha256": "bf514990121e96448c69fa7135b9180bbba15c2c1e7cf595012c9e172b9bf5f8"
+      "size": 211944,
+      "sha256": "c850c9ee3b9c5895a6b72ba460d8eb3ecc3be1ed654103a48b809ea5a5fa98ba"
     }
   ],
   "wads": {
     "Bard.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4121,
-      "bytes_after": 90405,
+      "bytes_before": 215729,
+      "bytes_after": 211944,
       "replacement_hashes": [
         "a2a1d8621d78bc03"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "a2a1d8621d78bc03",
         "border_hash": "16aa056d4579450c",
         "bytes": 86252,
-        "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+        "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Bard.wad.client",
         "normal_hash": "a2a1d8621d78bc03",
         "border_hash": "16aa056d4579450c",
         "bytes": 86252,
-        "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467"
+        "sha256": "0c31beb09a8584cb9ef6fac86d9dfc06ad13e5e7ddd6d26568a939031f8f9467",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Bard.wad.client": [
+      "27ff2b76562a1a40",
+      "56bfec4c6af4b108"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 127,
     "missing": 0
   },
   "validation": {

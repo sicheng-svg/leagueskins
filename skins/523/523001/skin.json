@@ -9,29 +9,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "dcd6b7bfd2474aea0f00e1bf02eada59e74c39746c9be514e749bc6fc96e1dc2",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523001.fantome",
       "files": [
         {
           "path": "skins/523/523001/523001/Aphelios.wad.client",
-          "size": 96686,
-          "sha256": "5c3bdfffc03a03f4ac3e3b322e33c27712cf06bcb4f15c524f2c6dca818ecf11"
+          "size": 228778,
+          "sha256": "15edcd433a5002e29737c0f41391504f286b0f6d7a47ed6822b87cc94dc4d82c"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 10402,
-          "bytes_after": 96686,
+          "bytes_before": 238337,
+          "bytes_after": 228778,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -45,20 +46,26 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 97,
         "missing": 0
       },
       "validation": {
@@ -74,29 +81,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯 邪夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "b9d306b708702a4766105c1407e4ef5112ed390c4adb8dd883e300a9499a3fa6",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523002/523002.fantome",
       "files": [
         {
           "path": "skins/523/523001/523002/Aphelios.wad.client",
-          "size": 91031,
-          "sha256": "53e60efdd06e56929b144a113342745e881f3dec32b46ed9e7c54d8b04debb05"
+          "size": 229403,
+          "sha256": "08531bc5419a6de3250134e63babe9d3295fcf8dadfb9f767c5091cf8925213a"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4747,
-          "bytes_after": 91031,
+          "bytes_before": 233814,
+          "bytes_after": 229403,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -110,20 +118,27 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 98,
         "missing": 0
       },
       "validation": {
@@ -139,29 +154,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯 堕夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "34f3cc9f98ccb2a0451fa2f90b32a091b4cff4c3d89eccdb58c7ed9091ce3d4b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523003/523003.fantome",
       "files": [
         {
           "path": "skins/523/523001/523003/Aphelios.wad.client",
-          "size": 91088,
-          "sha256": "270c67157e880e92a3c0abca9b1bbe72e4789ddeaf985098e6285d432d270210"
+          "size": 229476,
+          "sha256": "25329008d52ba4c3b4b690d45019a17dd59b873a20df6e6876966cb667106a2a"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4804,
-          "bytes_after": 91088,
+          "bytes_before": 233944,
+          "bytes_after": 229476,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -175,20 +191,27 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 98,
         "missing": 0
       },
       "validation": {
@@ -204,29 +227,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯 血夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "72ce86e9cd91397adc3bef3396df5045f835cdd8b0847613a0f5c160411dc333",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523004/523004.fantome",
       "files": [
         {
           "path": "skins/523/523001/523004/Aphelios.wad.client",
-          "size": 91086,
-          "sha256": "187d9b5cc788e7a7ab4797e469746ef3027474eafd7b01be419e3391a9a07e2c"
+          "size": 229476,
+          "sha256": "cea4fc88d322d9963c7917a4f7f9359f5a5f6c1e7fc66a91cfe57acb7442b303"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4802,
-          "bytes_after": 91086,
+          "bytes_before": 233942,
+          "bytes_after": 229476,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -240,20 +264,27 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 98,
         "missing": 0
       },
       "validation": {
@@ -269,29 +300,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯 寒夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "f0f65d051f9db7e64abb3a6e11756bb71ddc3a64c143e576f208ff52c5de70fc",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523005/523005.fantome",
       "files": [
         {
           "path": "skins/523/523001/523005/Aphelios.wad.client",
-          "size": 91032,
-          "sha256": "686db3f4a69105ef55a8b9f8998621246d2248c90bac108a75f4c4c0e6c9901e"
+          "size": 229403,
+          "sha256": "3412df3654e80880f11d86500d13a79af06bb859aff31f394ed999d502f285f1"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4748,
-          "bytes_after": 91032,
+          "bytes_before": 233815,
+          "bytes_after": 229403,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -305,20 +337,27 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 98,
         "missing": 0
       },
       "validation": {
@@ -334,29 +373,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯 寂夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a388e31f8e39bfc74f8811c9b592d25d1086a3e9201560141d34cc097337d8eb",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523006/523006.fantome",
       "files": [
         {
           "path": "skins/523/523001/523006/Aphelios.wad.client",
-          "size": 91033,
-          "sha256": "fbc7159908d2d9081f4fefe8a06e53ff5f667d462635610ee67e87eba89fedbb"
+          "size": 229403,
+          "sha256": "543f929837424d7d45fe90b5a3f7791d8d74e4a8e91a79be4e8a87a71fddc43d"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4749,
-          "bytes_after": 91033,
+          "bytes_before": 233816,
+          "bytes_after": 229403,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -370,20 +410,27 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 98,
         "missing": 0
       },
       "validation": {
@@ -399,29 +446,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯 白夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "4723aa0615e8baea0be0906c27ba7827f169709b1f2a0b1ed21a4853dc82254c",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523007/523007.fantome",
       "files": [
         {
           "path": "skins/523/523001/523007/Aphelios.wad.client",
-          "size": 91035,
-          "sha256": "04e3768bc369793d5869e65a3d593cfa93489ab2afb09e2f606bb231d255729d"
+          "size": 229403,
+          "sha256": "c22c91980850c1aa7fa71b729cb621291f60028f2d301a06dfd4ec5bdda52f12"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4751,
-          "bytes_after": 91035,
+          "bytes_before": 233818,
+          "bytes_after": 229403,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -435,20 +483,27 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 98,
         "missing": 0
       },
       "validation": {
@@ -464,29 +519,30 @@
       "champion_id": 523,
       "name": "黑夜使者 厄斐琉斯 宁夜",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "8b62880d0e31b3cbb4df00d749e32786066110381b1af9f6f614bd5a5aa289e3",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "523/523001/523008/523008.fantome",
       "files": [
         {
           "path": "skins/523/523001/523008/Aphelios.wad.client",
-          "size": 91031,
-          "sha256": "86af9eab5f9858254ab89090b41b8e6e84fadd87cc48fef7df1b7d6f8a6a4bf2"
+          "size": 229403,
+          "sha256": "e9886363ac4f18c96a8c9904c1ba92ba605c788587a74df6e8e904b755647676"
         }
       ],
       "wads": {
         "Aphelios.wad.client": {
-          "entries_before": 2,
+          "entries_before": 3,
           "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4747,
-          "bytes_after": 91031,
+          "bytes_before": 233814,
+          "bytes_after": 229403,
           "replacement_hashes": [
             "474f8c3d471a8b39"
           ]
@@ -500,20 +556,27 @@
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           },
           {
             "archive": "Aphelios.wad.client",
             "normal_hash": "474f8c3d471a8b39",
             "border_hash": "85dd5325ea4a7ef1",
             "bytes": 86252,
-            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364"
+            "sha256": "97ae90e9d4ad251ad097ef363ef38085d84bfa79aa477b693200895da66b2364",
+            "strategy": "replace_normal_image"
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Aphelios.wad.client": [
+          "baa0fb9a9d1bd02c",
+          "de27fb0baf87c814"
+        ]
+      },
       "references": {
-        "paths": 14,
+        "paths": 98,
         "missing": 0
       },
       "validation": {

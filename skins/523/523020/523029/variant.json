@@ -4,29 +4,30 @@
   "champion_id": 523,
   "name": "灵魂莲华 厄斐琉斯 绽夜",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "4e34c73ecb1dee574e6d7220f688a9d43fad66a5152ebc48406923bebf4e0f04",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "523/523020/523029/523029.fantome",
   "files": [
     {
       "path": "skins/523/523020/523029/Aphelios.wad.client",
-      "size": 91975,
-      "sha256": "e833f6970934ddb56801b93f1f0d48642f542a14e99bf887063faacd8d01184e"
+      "size": 203488,
+      "sha256": "d330df0fe4f887c38f9d8d2ff8217dd09b6385525d76574a7c74249324c25144"
     }
   ],
   "wads": {
     "Aphelios.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 5691,
-      "bytes_after": 91975,
+      "bytes_before": 208843,
+      "bytes_after": 203488,
       "replacement_hashes": [
         "6d0b072e6b5eab9a"
       ]
@@ -40,20 +41,27 @@
         "normal_hash": "6d0b072e6b5eab9a",
         "border_hash": "d1f24a7186f713cb",
         "bytes": 86252,
-        "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+        "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Aphelios.wad.client",
         "normal_hash": "6d0b072e6b5eab9a",
         "border_hash": "d1f24a7186f713cb",
         "bytes": 86252,
-        "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02"
+        "sha256": "ff301dcd7550597967e8e26b9928207a2bc840433722f2b951d82e6bbd958d02",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Aphelios.wad.client": [
+      "baa0fb9a9d1bd02c",
+      "de27fb0baf87c814"
+    ]
+  },
   "references": {
-    "paths": 11,
+    "paths": 75,
     "missing": 0
   },
   "validation": {

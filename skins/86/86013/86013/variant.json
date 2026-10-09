@@ -4,29 +4,30 @@
   "champion_id": 86,
   "name": "神王 盖伦",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "ebe0989d871daced8a7dc228ce78e00ca1dc3a6d3aa9fa3698896a7b9b284f39",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "86/86013/86013.fantome",
   "files": [
     {
       "path": "skins/86/86013/86013/Garen.wad.client",
-      "size": 94510,
-      "sha256": "c4aa472c6ad921f06bd32bfc15d4f09e9fddd9e24e6024822348780d09f51208"
+      "size": 329990,
+      "sha256": "927e28946ad35a4205bfb436d00dba3ad213a27d430f46ad82335f8b2046a650"
     }
   ],
   "wads": {
     "Garen.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8226,
-      "bytes_after": 94510,
+      "bytes_before": 337880,
+      "bytes_after": 329990,
       "replacement_hashes": [
         "368ee4a88c47acd5"
       ]
@@ -40,13 +41,19 @@
         "normal_hash": "368ee4a88c47acd5",
         "border_hash": "b8fcd81eda9cb37b",
         "bytes": 86252,
-        "sha256": "2064b3b047d38305082182296c7ca4676399653294d066da258647ec31d3c442"
+        "sha256": "2064b3b047d38305082182296c7ca4676399653294d066da258647ec31d3c442",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Garen.wad.client": [
+      "cf5483ae29215c7c",
+      "a9051113df060f9c"
+    ]
+  },
   "references": {
-    "paths": 22,
+    "paths": 141,
     "missing": 0
   },
   "validation": {

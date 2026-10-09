@@ -4,29 +4,30 @@
   "champion_id": 83,
   "name": "五杀摇滚贝斯手 约里克",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "65f9c593f000827e154037680af38c677cf71e14202c553c30bb8662b4141710",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "83/83002/83002.fantome",
   "files": [
     {
       "path": "skins/83/83002/83002/Yorick.wad.client",
-      "size": 8610,
-      "sha256": "a4829810e723f643bca393d8115aad3894e5e0a7f23ce57a8ee21ff97bcc604d"
+      "size": 8726,
+      "sha256": "d07417c844caf857a9fdfe84743db130eac2ce1d3afb69fd8b1e9bcb8185bd34"
     }
   ],
   "wads": {
     "Yorick.wad.client": {
       "entries_before": 4,
       "entries_after": 4,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8610,
-      "bytes_after": 8610,
+      "bytes_before": 11106,
+      "bytes_after": 8726,
       "replacement_hashes": []
     }
   },
@@ -34,9 +35,14 @@
     "status": "not_declared",
     "images": []
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yorick.wad.client": [
+      "510118daa69347ef",
+      "8d030f4f60e881eb"
+    ]
+  },
   "references": {
-    "paths": 19,
+    "paths": 21,
     "missing": 0
   },
   "validation": {

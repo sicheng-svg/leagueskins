@@ -4,29 +4,30 @@
   "champion_id": 92,
   "name": "黎明使者 锐雯",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "14299566fd52a36588966b273964e608bb266c94c48f4bf6031bba8a1c39ebe2",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "92/92016/92016.fantome",
   "files": [
     {
       "path": "skins/92/92016/92016/Riven.wad.client",
-      "size": 89620,
-      "sha256": "97d0bd7c058596cc59fbb584a6629dff9c3f41fac1a2fcd6fef2db8c82a5eb19"
+      "size": 100178,
+      "sha256": "b91c1ad42e009945a0c68b62354d006c6184caeffec8661018f5a789adc4ee4b"
     }
   ],
   "wads": {
     "Riven.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3336,
-      "bytes_after": 89620,
+      "bytes_before": 103210,
+      "bytes_after": 100178,
       "replacement_hashes": [
         "7b7bf6b46849fadd"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "7b7bf6b46849fadd",
         "border_hash": "dee6693854786816",
         "bytes": 86252,
-        "sha256": "14a8913fda98308e84653b0aa0cac44af16ec37b1c016b207656edb88e0924e1"
+        "sha256": "14a8913fda98308e84653b0aa0cac44af16ec37b1c016b207656edb88e0924e1",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Riven.wad.client": [
+      "53167c3bb14e1bcb"
+    ]
+  },
   "references": {
-    "paths": 15,
+    "paths": 25,
     "missing": 0
   },
   "validation": {

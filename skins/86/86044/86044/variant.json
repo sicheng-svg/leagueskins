@@ -4,29 +4,30 @@
   "champion_id": 86,
   "name": "堕落神王 盖伦",
   "kind": "base",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "818aed15ad5f5b5bee0fbe8eba68676bd2f69cd7d9df671297331419363916c6",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "86/86044/86044.fantome",
   "files": [
     {
       "path": "skins/86/86044/86044/Garen.wad.client",
-      "size": 94808,
-      "sha256": "9b68f765ca2d1a7a6dea7401546448ba6863a3bf2c95966e8a8727f292f664c9"
+      "size": 515966,
+      "sha256": "2f52e947e525a4ee486a52b73818197316ad0a9680b88981674ce2f3efdba8a1"
     }
   ],
   "wads": {
     "Garen.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 8524,
-      "bytes_after": 94808,
+      "bytes_before": 524154,
+      "bytes_after": 515966,
       "replacement_hashes": [
         "b83705944d88c6fe"
       ]
@@ -45,9 +46,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Garen.wad.client": [
+      "cf5483ae29215c7c",
+      "a9051113df060f9c"
+    ]
+  },
   "references": {
-    "paths": 12,
+    "paths": 239,
     "missing": 0
   },
   "validation": {

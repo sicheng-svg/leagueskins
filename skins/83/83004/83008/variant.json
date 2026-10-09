@@ -4,29 +4,30 @@
   "champion_id": 83,
   "name": "喵爪铲屎官 喵里克",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "b71df428f1a7f770776a2d043d89436b39c449735590bd3eead7c591da482530",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "83/83004/83008/83008.fantome",
   "files": [
     {
       "path": "skins/83/83004/83008/Yorick.wad.client",
-      "size": 92811,
-      "sha256": "5ccb555ab7adf3f0bdae686b22897f5f8b62db49512b3db2a797d8fd09df8aab"
+      "size": 122788,
+      "sha256": "a4ad8008b84f670e42b4183dd4f6eb169227f78fc5c0a5352194422774886cd6"
     }
   ],
   "wads": {
     "Yorick.wad.client": {
-      "entries_before": 4,
+      "entries_before": 5,
       "entries_after": 5,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6527,
-      "bytes_after": 92811,
+      "bytes_before": 128915,
+      "bytes_after": 122788,
       "replacement_hashes": [
         "7f785acf29c0f06e"
       ]
@@ -40,34 +41,45 @@
         "normal_hash": "7f785acf29c0f06e",
         "border_hash": "2448d6ccf9a9f14e",
         "bytes": 86252,
-        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926"
+        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Yorick.wad.client",
         "normal_hash": "7f785acf29c0f06e",
         "border_hash": "2448d6ccf9a9f14e",
         "bytes": 86252,
-        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926"
+        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Yorick.wad.client",
         "normal_hash": "7f785acf29c0f06e",
         "border_hash": "2448d6ccf9a9f14e",
         "bytes": 86252,
-        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926"
+        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Yorick.wad.client",
         "normal_hash": "7f785acf29c0f06e",
         "border_hash": "2448d6ccf9a9f14e",
         "bytes": 86252,
-        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926"
+        "sha256": "847ba22c5501059f7abae6d96a0240a73061b9378bf92ebf361f42fba799d926",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yorick.wad.client": [
+      "510118daa69347ef",
+      "729c5179e0f2d632",
+      "8d030f4f60e881eb",
+      "cd63b4ca1aae7d61"
+    ]
+  },
   "references": {
-    "paths": 17,
+    "paths": 62,
     "missing": 0
   },
   "validation": {

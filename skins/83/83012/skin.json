@@ -9,29 +9,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "80238bdb0185aa384fe5a1700fff8489162a39286048047fec5eaf537d153802",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83012.fantome",
       "files": [
         {
           "path": "skins/83/83012/83012/Yorick.wad.client",
-          "size": 11331,
-          "sha256": "f7d2001a57b41218000ef1c10b232f39a75eaad88323d55676b8a63a9a554e28"
+          "size": 182926,
+          "sha256": "cbf5040950792635f07f254f2701e6af23285cc3c68bb2ea98b827cd27b122cf"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 11331,
-          "bytes_after": 11331,
+          "bytes_before": 193857,
+          "bytes_after": 182926,
           "replacement_hashes": []
         }
       },
@@ -39,9 +40,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -57,29 +65,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 炼狱勇士",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "5ebd69ac80ef7180fb73ffaf08efefd4715ee3a366a3875671178f798c5188b7",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83013/83013.fantome",
       "files": [
         {
           "path": "skins/83/83012/83013/Yorick.wad.client",
-          "size": 7444,
-          "sha256": "ee4869fb4fea5c6dad677c03b81d49981ad168f8ae7bb8d9ce99ca12cfd8af22"
+          "size": 183072,
+          "sha256": "89f3c39a108f0e3b656c386bfd78239b3c5d5085e7501127aa7b84491a9c1780"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7444,
-          "bytes_after": 7444,
+          "bytes_before": 190116,
+          "bytes_after": 183072,
           "replacement_hashes": []
         }
       },
@@ -87,9 +96,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -105,29 +121,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 合金怒火",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "c43504b3a3676d41e2f25f70410e395f28f04231c1ae124dd4975828fddbc09b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83014/83014.fantome",
       "files": [
         {
           "path": "skins/83/83012/83014/Yorick.wad.client",
-          "size": 7392,
-          "sha256": "178ec9d7b4ab5704c36a2b5011cfaab6f00716534ab49d88f60da4ee5c30f843"
+          "size": 183000,
+          "sha256": "e7ac563436ef209741753e1b4b5e43e45f5758b77f5795e1ec57f05771b905ca"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7392,
-          "bytes_after": 7392,
+          "bytes_before": 189992,
+          "bytes_after": 183000,
           "replacement_hashes": []
         }
       },
@@ -135,9 +152,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -153,29 +177,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 深海战栗",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a0f34f3eb86394e59c6c760d13078f3614dcb56ffa086cb16e63cfe9d5afa862",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83015/83015.fantome",
       "files": [
         {
           "path": "skins/83/83012/83015/Yorick.wad.client",
-          "size": 7393,
-          "sha256": "da104a03e9c3a5a96c304c2b38e84993025037762dbf9d9ebec265f47ac6949f"
+          "size": 183000,
+          "sha256": "008671afbcb66aa9c0e33fee39b6f258555cf547a7b17812b4ebc30cdad2f207"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7393,
-          "bytes_after": 7393,
+          "bytes_before": 189993,
+          "bytes_after": 183000,
           "replacement_hashes": []
         }
       },
@@ -183,9 +208,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -201,29 +233,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 机兽之灾",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "6a290a11295fb58c5ee48e360701bdd4e227c1c0d1d0c2d79ef000b08cd5cc0b",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83016/83016.fantome",
       "files": [
         {
           "path": "skins/83/83012/83016/Yorick.wad.client",
-          "size": 7393,
-          "sha256": "c3fc9036325e18818873945d641ffc26994ade47004f1d2b784312a92bf1ba42"
+          "size": 183000,
+          "sha256": "f90dd417877767146577554bc95fcd53a0f4fe68f2f35f85a4a197bb1b4336c6"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7393,
-          "bytes_after": 7393,
+          "bytes_before": 189993,
+          "bytes_after": 183000,
           "replacement_hashes": []
         }
       },
@@ -231,9 +264,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -249,29 +289,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 毁灭律动",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "795ccd7172720665b87ab3e2a107c7ab835af05d9d5b175409064b4801ef0469",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83017/83017.fantome",
       "files": [
         {
           "path": "skins/83/83012/83017/Yorick.wad.client",
-          "size": 7392,
-          "sha256": "3d688a94ecd15510deda445dff902b2ba15b2a05ed8c8ea47c7d614f79be007a"
+          "size": 183000,
+          "sha256": "803de06c1a39d907ec599a9eca7996e2e744dea45f5481ec01b29dd4b2ae8f97"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7392,
-          "bytes_after": 7392,
+          "bytes_before": 189992,
+          "bytes_after": 183000,
           "replacement_hashes": []
         }
       },
@@ -279,9 +320,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -297,29 +345,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 丛林之王",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "a136f925c32ff85fa86ab64b9955517060eef30b6571ecebbae531a8695846e0",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83018/83018.fantome",
       "files": [
         {
           "path": "skins/83/83012/83018/Yorick.wad.client",
-          "size": 7393,
-          "sha256": "0daf6fe5c8494693a9d38b793434167404777bcef6c8f27f560b0745d063fab9"
+          "size": 183000,
+          "sha256": "7494f8f3eefa959f74d0ee4898e718a7fef2cf3c49c32210f28a4933557433af"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7393,
-          "bytes_after": 7393,
+          "bytes_before": 189993,
+          "bytes_after": 183000,
           "replacement_hashes": []
         }
       },
@@ -327,9 +376,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -345,29 +401,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 炙热裁决",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "588452c8675bd74044dc311057c614908e6b549d9ad3dec0871a1d31eb834bec",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83019/83019.fantome",
       "files": [
         {
           "path": "skins/83/83012/83019/Yorick.wad.client",
-          "size": 7392,
-          "sha256": "94b2246c0c0377e16a8be1da476564e84cfaae7978651a8649007f32d6f7162b"
+          "size": 183000,
+          "sha256": "b47d790f2e74af8e8860423b7ca684e8b93d72357d06933f87503ff7e1c88ab8"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7392,
-          "bytes_after": 7392,
+          "bytes_before": 189992,
+          "bytes_after": 183000,
           "replacement_hashes": []
         }
       },
@@ -375,9 +432,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {
@@ -393,29 +457,30 @@
       "champion_id": 83,
       "name": "抵抗军灵魔 约里克 粉红魅焰",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "43db9e6ff3132d34e98b827ddf35184e084c8c654574068a086f1dcae8f9eceb",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "83/83012/83020/83020.fantome",
       "files": [
         {
           "path": "skins/83/83012/83020/Yorick.wad.client",
-          "size": 7418,
-          "sha256": "b2ffd7a29c8d418ffba437a107651f310f8ae03579a36f16e3ca84364dad1201"
+          "size": 183028,
+          "sha256": "3f1da46638b963c4ac9adf0775a40747c032eaf7c12dd59217d6f1bc90ac3cd5"
         }
       ],
       "wads": {
         "Yorick.wad.client": {
-          "entries_before": 4,
-          "entries_after": 4,
-          "was_sorted": false,
+          "entries_before": 5,
+          "entries_after": 5,
+          "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 7418,
-          "bytes_after": 7418,
+          "bytes_before": 190046,
+          "bytes_after": 183028,
           "replacement_hashes": []
         }
       },
@@ -423,9 +488,16 @@
         "status": "not_declared",
         "images": []
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Yorick.wad.client": [
+          "510118daa69347ef",
+          "729c5179e0f2d632",
+          "8d030f4f60e881eb",
+          "cd63b4ca1aae7d61"
+        ]
+      },
       "references": {
-        "paths": 17,
+        "paths": 77,
         "missing": 0
       },
       "validation": {

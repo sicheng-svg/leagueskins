@@ -4,29 +4,30 @@
   "champion_id": 83,
   "name": "灵魂莲华 约里克 风起",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "65b65f3bf33365661c9054c4bac0c9edee2ebcee213f0812b7a5aaf9c0e74edd",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "83/83030/83037/83037.fantome",
   "files": [
     {
       "path": "skins/83/83030/83037/Yorick.wad.client",
-      "size": 93229,
-      "sha256": "a5276d3ea2bbcdcf8285938ca78b58bf792f3a543f2bcc14b391c357fec7e697"
+      "size": 197742,
+      "sha256": "46045f099f99e43dcf77a7d44062b18ddf0b494ecef4bda423433472b4e15bdf"
     }
   ],
   "wads": {
     "Yorick.wad.client": {
-      "entries_before": 4,
+      "entries_before": 5,
       "entries_after": 5,
-      "was_sorted": false,
+      "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 6945,
-      "bytes_after": 93229,
+      "bytes_before": 204287,
+      "bytes_after": 197742,
       "replacement_hashes": [
         "9f18a1432ee5eb00"
       ]
@@ -40,34 +41,45 @@
         "normal_hash": "9f18a1432ee5eb00",
         "border_hash": "87c8395f96da1b51",
         "bytes": 86252,
-        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9"
+        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Yorick.wad.client",
         "normal_hash": "9f18a1432ee5eb00",
         "border_hash": "87c8395f96da1b51",
         "bytes": 86252,
-        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9"
+        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Yorick.wad.client",
         "normal_hash": "9f18a1432ee5eb00",
         "border_hash": "87c8395f96da1b51",
         "bytes": 86252,
-        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9"
+        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9",
+        "strategy": "replace_normal_image"
       },
       {
         "archive": "Yorick.wad.client",
         "normal_hash": "9f18a1432ee5eb00",
         "border_hash": "87c8395f96da1b51",
         "bytes": 86252,
-        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9"
+        "sha256": "99a5adcbce4ae764a7e4a94ecb4fed9c817b4573ab4a7c5dbf52e4a03c4dd2f9",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Yorick.wad.client": [
+      "510118daa69347ef",
+      "729c5179e0f2d632",
+      "8d030f4f60e881eb",
+      "cd63b4ca1aae7d61"
+    ]
+  },
   "references": {
-    "paths": 18,
+    "paths": 95,
     "missing": 0
   },
   "validation": {

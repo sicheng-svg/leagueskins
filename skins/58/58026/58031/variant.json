@@ -8,26 +8,26 @@
   "identity": {
     "version": 1,
     "source_sha256": "7e5a1a3a0670e976ae611aa1c0b6e3ff48f77e09f680b302671dd05856720b19",
-    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-    "repair": "manager-native-records-v1"
+    "game_snapshot": "16.20-preserve-source-skin0",
+    "builder_sha256": "candidate-preserve-skin0-v1",
+    "repair": "preserve-source-skin0-adaptations-v1"
   },
   "source_package": "58/58026/58031/58031.fantome",
   "files": [
     {
       "path": "skins/58/58026/58031/Renekton.wad.client",
-      "size": 129315,
-      "sha256": "f8e7299fd03d304853a937ac343ea34917d1c073fab835ee6dd03c0cea3ec4ec"
+      "size": 89574,
+      "sha256": "d37a50ab7f17dac962699c287ca88758ded872ac3e5c3589ec3ef6c3ba6e107c"
     }
   ],
   "wads": {
     "Renekton.wad.client": {
-      "entries_before": 2,
+      "entries_before": 1,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 132301,
-      "bytes_after": 129315,
+      "bytes_before": 3290,
+      "bytes_after": 89574,
       "replacement_hashes": [
         "a1923c9627405544"
       ]
@@ -46,13 +46,9 @@
       }
     ]
   },
-  "native_rebuilt_entries": {
-    "Renekton.wad.client": [
-      "8f906213ee4cadf0"
-    ]
-  },
+  "native_rebuilt_entries": {},
   "references": {
-    "paths": 18,
+    "paths": 15,
     "missing": 0
   },
   "validation": {

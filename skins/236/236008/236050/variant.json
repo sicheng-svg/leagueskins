@@ -4,29 +4,30 @@
   "champion_id": 236,
   "name": "西部魔影 卢锡安 圣辉牛仔",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "ae32c46a9c22bf7984baa587a02c005f2e73c1039b22c45a8fe56a03a3117636",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "236/236008/236050/236050.fantome",
   "files": [
     {
       "path": "skins/236/236008/236050/Lucian.wad.client",
-      "size": 90111,
-      "sha256": "06028b1909b22f2b953c3a09ea169eb0d1a90583540e6919fc8a28c5cb22eee2"
+      "size": 352498,
+      "sha256": "f51e08124b5cb6c9c6d5f8854048c16865cce25d0b4b2aae599be3129811c7c4"
     }
   ],
   "wads": {
     "Lucian.wad.client": {
-      "entries_before": 1,
+      "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3827,
-      "bytes_after": 90111,
+      "bytes_before": 356021,
+      "bytes_after": 352498,
       "replacement_hashes": [
         "28be5d9f677975de"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "28be5d9f677975de",
         "border_hash": "88fbd161d5fcc110",
         "bytes": 86252,
-        "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+        "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Lucian.wad.client": [
+      "add9368dbed99cdb"
+    ]
+  },
   "references": {
-    "paths": 19,
+    "paths": 124,
     "missing": 0
   },
   "validation": {

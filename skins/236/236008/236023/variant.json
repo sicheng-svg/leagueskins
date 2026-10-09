@@ -4,29 +4,30 @@
   "champion_id": 236,
   "name": "西部魔影 卢锡安 瓦沙克之言",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "ed94d882470a5cd6bfe098bc3a1d8e9f048c2eab12bcf295aa7539d7a4f46b59",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "236/236008/236023/236023.fantome",
   "files": [
     {
       "path": "skins/236/236008/236023/Lucian.wad.client",
-      "size": 98751,
-      "sha256": "a50b2cf4c9cc620df73f62b83749b4d14056361910ddc1595d2eb0f68daf118d"
+      "size": 147693,
+      "sha256": "c68980e07b4d067aa1b3d5ca328b86ff07cf64b633e15c2972cc5caa469ac8a5"
     }
   ],
   "wads": {
     "Lucian.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 12467,
-      "bytes_after": 98751,
+      "bytes_before": 151212,
+      "bytes_after": 147693,
       "replacement_hashes": [
         "28be5d9f677975de"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "28be5d9f677975de",
         "border_hash": "88fbd161d5fcc110",
         "bytes": 86252,
-        "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+        "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Lucian.wad.client": [
+      "add9368dbed99cdb"
+    ]
+  },
   "references": {
-    "paths": 21,
+    "paths": 61,
     "missing": 0
   },
   "validation": {

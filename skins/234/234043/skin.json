@@ -9,29 +9,30 @@
       "champion_id": 234,
       "name": "王 佛耶戈",
       "kind": "base",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "67e463b23f2b5febaa907fd8bd186265dae903b48a5095b395af49c9f0670edf",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+        "repair": "manager-native-records-v1"
       },
       "source_package": "234/234043/234043.fantome",
       "files": [
         {
           "path": "skins/234/234043/234043/Common.wad.client",
           "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
         },
         {
           "path": "skins/234/234043/234043/UI.wad.client",
           "size": 25379,
-          "sha256": "c419e17e7ac82bc137bab00ca8c72fcb7c2c81488370b08d24b9bfe7619a47ac"
+          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
         },
         {
           "path": "skins/234/234043/234043/Viego.wad.client",
-          "size": 1065703,
-          "sha256": "059d909d2d7d74735a1bd95a955f6d40ea5d83b0db66a892697fe84d6f111de4"
+          "size": 5136652,
+          "sha256": "8952bcf64a2635716f3c7ffadb4c9a42629a077020237c30e738368c379534f0"
         }
       ],
       "wads": {
@@ -54,12 +55,12 @@
           "replacement_hashes": []
         },
         "Viego.wad.client": {
-          "entries_before": 3,
+          "entries_before": 4,
           "entries_after": 5,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 244623,
-          "bytes_after": 1065703,
+          "bytes_before": 4564514,
+          "bytes_after": 5136652,
           "replacement_hashes": [
             "74a4de35e9f6c972",
             "7745ced5ab71a4d4"
@@ -87,9 +88,14 @@
           }
         ]
       },
-      "native_rebuilt_entries": {},
+      "native_rebuilt_entries": {
+        "Viego.wad.client": [
+          "4edf655bf6f3d880",
+          "26162bd67c7eb042"
+        ]
+      },
       "references": {
-        "paths": 244,
+        "paths": 445,
         "missing": 0
       },
       "validation": {
@@ -105,29 +111,29 @@
       "champion_id": 234,
       "name": "234994",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "3ce34850e8c21b7e867dae68866d1078829e54a3d0eef343dbfb20c6183878a1",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "234/234043/234994/234994.fantome",
       "files": [
         {
           "path": "skins/234/234043/234994/Common.wad.client",
           "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
         },
         {
           "path": "skins/234/234043/234994/UI.wad.client",
           "size": 25379,
-          "sha256": "44da28a9ce8410357fb2ce2667c10ebe394fb082d64f139c74793a640af2d775"
+          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
         },
         {
           "path": "skins/234/234043/234994/Viego.wad.client",
           "size": 1066294,
-          "sha256": "1c365df36ecc700f0ca68e23f3292468629db0e1fc964230d3537cdab88a476c"
+          "sha256": "3171aad3ea16877b8edd8b082ccceab5aaae0128fb7d169abbf3cfab2449fbe2"
         }
       ],
       "wads": {
@@ -201,29 +207,29 @@
       "champion_id": 234,
       "name": "234995",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "43ea871542417122d8d7d02cb2df95aab714ca7b9a1db02745d77e5b3f412d4f",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "234/234043/234995/234995.fantome",
       "files": [
         {
           "path": "skins/234/234043/234995/Common.wad.client",
           "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
         },
         {
           "path": "skins/234/234043/234995/UI.wad.client",
           "size": 25379,
-          "sha256": "44da28a9ce8410357fb2ce2667c10ebe394fb082d64f139c74793a640af2d775"
+          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
         },
         {
           "path": "skins/234/234043/234995/Viego.wad.client",
           "size": 1066356,
-          "sha256": "388ba0cd01d1ee4028d8261fa935a4af32f449d1c38bcfceacd7f5d34032a03a"
+          "sha256": "e46878ff734c73dfb297ccbe504763bb270597d00647bcc4569671e412b41287"
         }
       ],
       "wads": {
@@ -297,29 +303,29 @@
       "champion_id": 234,
       "name": "234996",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "24055905ac3c112ba62c0d026edf96d8ff3e331401cc1a22f4a92f02a39cd3fb",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "234/234043/234996/234996.fantome",
       "files": [
         {
           "path": "skins/234/234043/234996/Common.wad.client",
           "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
         },
         {
           "path": "skins/234/234043/234996/UI.wad.client",
           "size": 25379,
-          "sha256": "44da28a9ce8410357fb2ce2667c10ebe394fb082d64f139c74793a640af2d775"
+          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
         },
         {
           "path": "skins/234/234043/234996/Viego.wad.client",
           "size": 1066777,
-          "sha256": "ea3cab399b31e5cfa0315a0a6b69d06072b03113ebecf12c903fc1dcc4806b5b"
+          "sha256": "f6840dcae5ff12f94985d73d1babc59b6924f3c82e604f7f1d86bc0a4542a8fd"
         }
       ],
       "wads": {
@@ -393,29 +399,29 @@
       "champion_id": 234,
       "name": "234997",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "9833d4a12b27b47f2ed953180c81ae4cf5627d565abd95226988d710669a2d00",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "234/234043/234997/234997.fantome",
       "files": [
         {
           "path": "skins/234/234043/234997/Common.wad.client",
           "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
         },
         {
           "path": "skins/234/234043/234997/UI.wad.client",
           "size": 25379,
-          "sha256": "44da28a9ce8410357fb2ce2667c10ebe394fb082d64f139c74793a640af2d775"
+          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
         },
         {
           "path": "skins/234/234043/234997/Viego.wad.client",
           "size": 1066430,
-          "sha256": "28d7017717de664c364b6472e031e6965b71a350a0e1a47866fea231d95e17c3"
+          "sha256": "310fa320f7ca29de719bfca6e8937914f350cccb438d292ce9efdac87a1a5f06"
         }
       ],
       "wads": {
@@ -489,29 +495,29 @@
       "champion_id": 234,
       "name": "234998",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "1f08b12b1e2b20bb429d45649faa1a7623277f3cd874c0b4386e512c47df411e",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "234/234043/234998/234998.fantome",
       "files": [
         {
           "path": "skins/234/234043/234998/Common.wad.client",
           "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
         },
         {
           "path": "skins/234/234043/234998/UI.wad.client",
           "size": 25379,
-          "sha256": "44da28a9ce8410357fb2ce2667c10ebe394fb082d64f139c74793a640af2d775"
+          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
         },
         {
           "path": "skins/234/234043/234998/Viego.wad.client",
           "size": 1066152,
-          "sha256": "930ff7171d316970364aca8ca4820decc74a0be676f058d8737a3cc351e89d28"
+          "sha256": "ffc7cac30d85ac7343161d319d27ff5a7ec77173eb5d0885ac1c8c17f04bd40d"
         }
       ],
       "wads": {
@@ -585,29 +591,29 @@
       "champion_id": 234,
       "name": "234999",
       "kind": "variant",
-      "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
       "identity": {
         "version": 1,
         "source_sha256": "0b31df3335d4860dd58d7b63ad72809b76a78b30107b7404a105d6b8ba44f1c8",
-        "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-        "builder_sha256": "371ca66c9976462b256bae517fb4f2fbd03d8349a79ce139a1e98e2c077431ec"
+        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
       },
       "source_package": "234/234043/234999/234999.fantome",
       "files": [
         {
           "path": "skins/234/234043/234999/Common.wad.client",
           "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "sha256": "dc07002681762fbda866c429588dd0ac3f56bc0d2c058dcc5984eec99d95cc2b"
         },
         {
           "path": "skins/234/234043/234999/UI.wad.client",
           "size": 25379,
-          "sha256": "44da28a9ce8410357fb2ce2667c10ebe394fb082d64f139c74793a640af2d775"
+          "sha256": "6e27853f0a2c5c1b0b0ad115b0fa63fd65b467ece843f865263c9580d5feaeeb"
         },
         {
           "path": "skins/234/234043/234999/Viego.wad.client",
           "size": 1066167,
-          "sha256": "5fcc9a49d5442700bf175845708454ab439646e8c4975032a637a2d11d9e08ce"
+          "sha256": "2db6398c9d131731e8e2909da73207e35b2ed20042ae78c644c8b97a7eda8674"
         }
       ],
       "wads": {

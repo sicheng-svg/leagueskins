@@ -4,29 +4,30 @@
   "champion_id": 236,
   "name": "无畏游侠 卢锡安 不败圣枪",
   "kind": "variant",
-  "game_build": "16.19.8217343+branch.releases-16-19.content.release",
+  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
     "source_sha256": "81f1962cd3291edc5c062804b8825d3692b9059cf8e4780d9be7dcadf25cd197",
-    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
-    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d"
+    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "manager-native-records-v1"
   },
   "source_package": "236/236008/236051/236051.fantome",
   "files": [
     {
       "path": "skins/236/236008/236051/Lucian.wad.client",
-      "size": 98836,
-      "sha256": "8afc740a30bcfa105b63ff29998769a927c6a2cdae2a04356416889830d35dc2"
+      "size": 152645,
+      "sha256": "6a556a680f861366d091ee40fdee69d8822eeea4fa334db2f399faac5dee1d1b"
     }
   ],
   "wads": {
     "Lucian.wad.client": {
-      "entries_before": 2,
+      "entries_before": 3,
       "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 12552,
-      "bytes_after": 98836,
+      "bytes_before": 155919,
+      "bytes_after": 152645,
       "replacement_hashes": [
         "28be5d9f677975de"
       ]
@@ -40,13 +41,18 @@
         "normal_hash": "28be5d9f677975de",
         "border_hash": "88fbd161d5fcc110",
         "bytes": 86252,
-        "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59"
+        "sha256": "41ce1b0ac21261e89e9cf53b893b78dae8304a7201a29d8e96806e560ba76b59",
+        "strategy": "replace_normal_image"
       }
     ]
   },
-  "native_rebuilt_entries": {},
+  "native_rebuilt_entries": {
+    "Lucian.wad.client": [
+      "add9368dbed99cdb"
+    ]
+  },
   "references": {
-    "paths": 98,
+    "paths": 139,
     "missing": 0
   },
   "validation": {

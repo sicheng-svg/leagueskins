@@ -8,16 +8,16 @@
   "identity": {
     "version": 1,
     "source_sha256": "dc1c8da33ad7a1b883cbd0083f1f9070b3316a0a28f51529ca273c81b2ed9f08",
-    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-    "repair": "manager-native-records-v1"
+    "game_snapshot": "16.20-preserve-source-skin0",
+    "builder_sha256": "candidate-preserve-skin0-v1",
+    "repair": "preserve-source-skin0-adaptations-v1"
   },
   "source_package": "18/18079/18079.fantome",
   "files": [
     {
       "path": "skins/18/18079/18079/Tristana.wad.client",
-      "size": 3049672,
-      "sha256": "e96f9902d759e59dd0ed064349876a92bf664edbb96e5e54d8be3163818dc87b"
+      "size": 979424,
+      "sha256": "1d7710d100019bf85604908ac1b3f1ef117a119c1e69110a8031c99a06936550"
     },
     {
       "path": "skins/18/18079/18079/UI.wad.client",
@@ -27,12 +27,12 @@
   ],
   "wads": {
     "Tristana.wad.client": {
-      "entries_before": 3,
+      "entries_before": 2,
       "entries_after": 5,
-      "was_sorted": true,
+      "was_sorted": false,
       "version": "3.3",
-      "bytes_before": 2210652,
-      "bytes_after": 3049672,
+      "bytes_before": 27228,
+      "bytes_after": 979424,
       "replacement_hashes": [
         "1d4acf363057b15f",
         "7be9a69be8ecd175",
@@ -74,19 +74,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {
-    "Tristana.wad.client": [
-      "20a477b80fcb5081",
-      "aee45054c42d2e5d"
-    ]
-  },
+  "native_rebuilt_entries": {},
   "references": {
-    "paths": 427,
+    "paths": 12,
     "missing": 0
   },
   "validation": {
     "structure": "passed",
-    "hid_in_game": "not_verified",
+    "hid_in_game": "passed_user_test_2026-10-11",
     "cslol_build": "not_checked",
     "cslol_in_game": "not_verified"
   }

@@ -8,26 +8,26 @@
   "identity": {
     "version": 1,
     "source_sha256": "faaa397f1321073d48e747c56d3f34b594b0a7d55fd81253aca90e5f077ae6f5",
-    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-    "repair": "manager-native-records-v1"
+    "game_snapshot": "16.20-preserve-source-skin0",
+    "builder_sha256": "candidate-preserve-skin0-v1",
+    "repair": "preserve-chroma-and-base-blade-definitions-v1"
   },
   "source_package": "55/55029/55030/55030.fantome",
   "files": [
     {
       "path": "skins/55/55029/55030/Katarina.wad.client",
-      "size": 421247,
-      "sha256": "b51c651a5465eb9cd21ab2d328ce12af5189f6dc04e05f312c5d9960f1b6de68"
+      "size": 156048,
+      "sha256": "f9483d09bf05d199fa2ab1ed919eafd9d1d9889a1b42122d84a7a7170261760c"
     }
   ],
   "wads": {
     "Katarina.wad.client": {
-      "entries_before": 2,
-      "entries_after": 2,
+      "entries_before": 1,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 424297,
-      "bytes_after": 421247,
+      "bytes_before": 3354,
+      "bytes_after": 156048,
       "replacement_hashes": [
         "a22286cbd1bfddb8"
       ]
@@ -46,18 +46,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {
-    "Katarina.wad.client": [
-      "ec1d3bbf62075218"
-    ]
-  },
+  "native_rebuilt_entries": {},
   "references": {
-    "paths": 75,
+    "paths": 15,
     "missing": 0
   },
   "validation": {
     "structure": "passed",
-    "hid_in_game": "not_verified",
+    "hid_in_game": "passed_user_test_2026-10-11",
     "cslol_build": "not_checked",
     "cslol_in_game": "not_verified"
   }

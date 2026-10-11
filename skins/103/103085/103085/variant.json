@@ -8,26 +8,26 @@
   "identity": {
     "version": 1,
     "source_sha256": "cb200e34df8060594c0565eedf16b1c868977ced5c455c3ffc242dcfc88e8343",
-    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-    "repair": "manager-native-records-v1"
+    "game_snapshot": "16.20-preserve-source-skin0",
+    "builder_sha256": "candidate-preserve-skin0-v1",
+    "repair": "preserve-source-skin0-adaptations-v1"
   },
   "source_package": "103/103085/103085.fantome",
   "files": [
     {
       "path": "skins/103/103085/103085/Ahri.wad.client",
-      "size": 2118408,
-      "sha256": "4219fb3675d71648dc244aa3f442028733df69d63d0f57b6aa47cfffe3729020"
+      "size": 1049158,
+      "sha256": "f5fb653b963b7ce190e2986a035460b668554e90e0275ecedaa1ac5c5b3dca93"
     }
   ],
   "wads": {
     "Ahri.wad.client": {
-      "entries_before": 5,
+      "entries_before": 4,
       "entries_after": 7,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 1265910,
-      "bytes_after": 2118408,
+      "bytes_before": 96962,
+      "bytes_after": 1049158,
       "replacement_hashes": [
         "04c1289dbd886290",
         "261d722a38168006",
@@ -60,18 +60,14 @@
       }
     ]
   },
-  "native_rebuilt_entries": {
-    "Ahri.wad.client": [
-      "49e643f9c8a74bc7"
-    ]
-  },
+  "native_rebuilt_entries": {},
   "references": {
-    "paths": 361,
+    "paths": 28,
     "missing": 0
   },
   "validation": {
     "structure": "passed",
-    "hid_in_game": "not_verified",
+    "hid_in_game": "passed_user_test_2026-10-11",
     "cslol_build": "not_checked",
     "cslol_in_game": "not_verified"
   }

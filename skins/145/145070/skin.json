@@ -13,16 +13,16 @@
       "identity": {
         "version": 1,
         "source_sha256": "ce78f2f26755fdad406cc1566ef05d7a1d079528f8420527864e4b71fb70f43a",
-        "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-        "repair": "manager-native-records-v1"
+        "game_snapshot": "16.20-preserve-source-skin0",
+        "builder_sha256": "candidate-preserve-skin0-v1",
+        "repair": "preserve-source-skin0-adaptations-v1"
       },
       "source_package": "145/145070/145070.fantome",
       "files": [
         {
           "path": "skins/145/145070/145070/Kaisa.wad.client",
-          "size": 2188070,
-          "sha256": "3de0614d26b6724ebd35e2daa9af439b158a67f4eab5af6bc1c7205b529f9b8d"
+          "size": 961184,
+          "sha256": "6af854cc59f2f556e3904d05defd37be6a6173380b62b939908677c91f5f15ca"
         },
         {
           "path": "skins/145/145070/145070/UI.wad.client",
@@ -32,12 +32,12 @@
       ],
       "wads": {
         "Kaisa.wad.client": {
-          "entries_before": 2,
+          "entries_before": 1,
           "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 1330842,
-          "bytes_after": 2188070,
+          "bytes_before": 8988,
+          "bytes_after": 961184,
           "replacement_hashes": [
             "040a2e023c83f23a",
             "6051cbc0e2f28992",
@@ -79,18 +79,14 @@
           }
         ]
       },
-      "native_rebuilt_entries": {
-        "Kaisa.wad.client": [
-          "64bffe6a927eff38"
-        ]
-      },
+      "native_rebuilt_entries": {},
       "references": {
-        "paths": 416,
+        "paths": 19,
         "missing": 0
       },
       "validation": {
         "structure": "passed",
-        "hid_in_game": "not_verified",
+        "hid_in_game": "passed_user_test_2026-10-11",
         "cslol_build": "not_checked",
         "cslol_in_game": "not_verified"
       }

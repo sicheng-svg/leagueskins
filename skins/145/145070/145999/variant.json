@@ -7,21 +7,23 @@
   "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
-    "source_sha256": "ce78f2f26755fdad406cc1566ef05d7a1d079528f8420527864e4b71fb70f43a",
+    "source_sha256": "e3baf40c53df0d6b5cfe5314c5d9cc93b6153dccb8eaab2db513f93df857c58e",
     "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1"
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
+    "repair": "tested-rose-form2-final-form-v1",
+    "source_git_ref": "b3bfd7d67^:skins/145/145070/145999/145999.fantome"
   },
   "source_package": "145/145070/145999/145999.fantome",
   "files": [
     {
       "path": "skins/145/145070/145999/Kaisa.wad.client",
-      "size": 961184,
-      "sha256": "5e7244ed2b875e858e74215597caa57360460daa5ebf4f5a8b5b76bc7cab0521"
+      "size": 961445,
+      "sha256": "b6935ca5dbb5ba073a7bc0230fe276fcec565cff1626a9ab3662fab9326d23b1"
     },
     {
       "path": "skins/145/145070/145999/UI.wad.client",
-      "size": 3124,
-      "sha256": "94c179419d7946256827899b3430652ac94c08f28db5ec55efc270393d4be81e"
+      "size": 3275,
+      "sha256": "21811f10e27fc7c69f19beb4d808be5dba396704dd54a776e8737d69c5a15223"
     }
   ],
   "wads": {
@@ -31,7 +33,7 @@
       "was_sorted": true,
       "version": "3.4",
       "bytes_before": 8988,
-      "bytes_after": 961184,
+      "bytes_after": 961445,
       "replacement_hashes": [
         "040a2e023c83f23a",
         "6051cbc0e2f28992",
@@ -44,7 +46,7 @@
       "was_sorted": true,
       "version": "3.4",
       "bytes_before": 3124,
-      "bytes_after": 3124,
+      "bytes_after": 3275,
       "replacement_hashes": []
     }
   },
@@ -80,7 +82,7 @@
   },
   "validation": {
     "structure": "passed",
-    "hid_in_game": "not_verified",
+    "hid_in_game": "passed_user_test_2026-10-11",
     "cslol_build": "not_checked",
     "cslol_in_game": "not_verified"
   }

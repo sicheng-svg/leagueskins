@@ -8,26 +8,27 @@
   "identity": {
     "version": 1,
     "source_sha256": "94920049058150d42afb3bce69ed0764c3526ab81b520e01af56c96311bff2e6",
-    "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-    "repair": "manager-native-records-v1"
+    "game_snapshot": "f1dca7e1fbc70dc158ee128a7426b251ac3d872edd61f3ddc3582a6007f94792",
+    "builder_sha256": "311a6c0ab621ef1333d27743c2eca343ac5d4626940e117a0dc70639ad81fa4d",
+    "repair": "restore-pre-rebuild-winter-lillia-adaptations-v1",
+    "source_library_commit": "5eb75df"
   },
   "source_package": "876/876046/876047/876047.fantome",
   "files": [
     {
       "path": "skins/876/876046/876047/Lillia.wad.client",
-      "size": 481623,
-      "sha256": "9cb9405e290df59ced73c27627571388a0f472b6de85d24adc41e8fa58e9c160"
+      "size": 90842,
+      "sha256": "aaf5b36d26890dfaa5eb0adf0c87a4f06f66565390183d2751c97cbf2af1ec89"
     }
   ],
   "wads": {
     "Lillia.wad.client": {
-      "entries_before": 2,
+      "entries_before": 1,
       "entries_after": 2,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 485877,
-      "bytes_after": 481623,
+      "bytes_before": 4558,
+      "bytes_after": 90842,
       "replacement_hashes": [
         "82d2af0473070a47"
       ]
@@ -41,18 +42,13 @@
         "normal_hash": "82d2af0473070a47",
         "border_hash": "a853fccd87492ffd",
         "bytes": 86252,
-        "sha256": "228fc64410870569065722dd3932e0fcf7c9d71bbfc8cc498b02612a040aa144",
-        "strategy": "replace_normal_image"
+        "sha256": "228fc64410870569065722dd3932e0fcf7c9d71bbfc8cc498b02612a040aa144"
       }
     ]
   },
-  "native_rebuilt_entries": {
-    "Lillia.wad.client": [
-      "85828a74196b0921"
-    ]
-  },
+  "native_rebuilt_entries": {},
   "references": {
-    "paths": 226,
+    "paths": 12,
     "missing": 0
   },
   "validation": {

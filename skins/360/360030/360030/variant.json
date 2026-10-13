@@ -7,17 +7,22 @@
   "game_build": "16.20.8248524+branch.releases-16-20.content.release",
   "identity": {
     "version": 1,
-    "source_sha256": "8c27909cb3c0e59208a5f69036a79809995114b4b6b46f89f643593df98f9c03",
+    "source_sha256": "f6c305feec38fe99ab51ed848cef26f38d724da6dca7670b2e7a247ca1a25deb",
     "game_snapshot": "0c1287f74ae24dfdc0301d87eff59c4a1380e3ec42296e9c1027c20c1c27c578",
-    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:manager-1",
-    "repair": "manager-native-records-v1"
+    "builder_sha256": "preserve-tested-score-rollback-v1",
+    "repair": "preserve-user-approved-score-hud-v1"
   },
-  "source_package": "360/360030/360030.fantome",
+  "source_package": "bettie9/LeagueSkins@af9928c59462829a7892ea23ebcd503a984360b6/skins/Samira/Soul Fighter Samira.fantome",
   "files": [
     {
       "path": "skins/360/360030/360030/Samira.wad.client",
-      "size": 1222072,
-      "sha256": "410d33d7c29064f817c8c56bcf35b144c07a9e5a71f7bc88455810e4132d4926"
+      "size": 20565,
+      "sha256": "15750df1fb38db829341b6237296b1a526cfb459c6fe1632c4d0f19b8c3a775b"
+    },
+    {
+      "path": "skins/360/360030/360030/UI.wad.client",
+      "size": 26694,
+      "sha256": "d69c10572e0687f325ae0db09cbfcdf60d6422f866d206cf4ebea482ca527aa1"
     }
   ],
   "wads": {
@@ -25,40 +30,44 @@
       "entries_before": 2,
       "entries_after": 2,
       "was_sorted": true,
-      "version": "3.4",
-      "bytes_before": 1226698,
-      "bytes_after": 1222072,
-      "replacement_hashes": [
-        "b12d49feacc445f6"
-      ]
+      "version": "3.3",
+      "bytes_before": 20565,
+      "bytes_after": 20565,
+      "replacement_hashes": []
+    },
+    "UI.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.3",
+      "bytes_before": 26694,
+      "bytes_after": 26694,
+      "replacement_hashes": []
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Samira.wad.client",
-        "normal_hash": "b12d49feacc445f6",
-        "border_hash": "aeeff1b284139d20",
-        "bytes": 86252,
-        "sha256": "e918950fc1c4a373cab6443bc25fde85a52ce26c75e39410432a8918b456d8a9",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_declared",
+    "images": []
   },
-  "native_rebuilt_entries": {
-    "Samira.wad.client": [
-      "4d7a719bd06dbf70"
-    ]
-  },
+  "native_rebuilt_entries": {},
   "references": {
-    "paths": 283,
+    "paths": 59,
     "missing": 0
   },
   "validation": {
     "structure": "passed",
-    "hid_in_game": "not_verified",
-    "cslol_build": "not_checked",
-    "cslol_in_game": "not_verified"
+    "hid_in_game": "score_hud_accepted_user_2026-10-13",
+    "cslol_build": "build_passed",
+    "cslol_in_game": "not_verified",
+    "known_issues": [
+      "Native R hit counter and staircase progression not restored; score letters and original effects retained."
+    ]
+  },
+  "release_notes": {
+    "status": "score_hud_rollback",
+    "forced_staircase": false,
+    "experimental_hit_binding": false,
+    "payload_equals_user_approved_package": true,
+    "approved_package_sha256": "51483ea13bdcc9c5cadfaefc557f5bb02ef8fb012a2611996a54c5789b7d7d20"
   }
 }

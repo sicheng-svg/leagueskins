@@ -1,0 +1,67 @@
+{
+  "skin_id": 84106,
+  "base_skin_id": 84103,
+  "champion_id": 84,
+  "name": "真实伤害 以我之名 阿卡丽 天纵之才",
+  "kind": "variant",
+  "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "f895c8e9633c8423c44d3d35ea7073431e9be0684598c06dac80c4d2c6c57493",
+    "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "84/84103/84106.fantome",
+  "files": [
+    {
+      "path": "skins/84/84103/84106/Akali.wad.client",
+      "size": 381798,
+      "sha256": "f1d8ca9e6c3b8ab6203755ff0b7ee00723ad4cf192adea3915b05d6cbb85070c"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 677008,
+      "bytes_after": 381798,
+      "replacement_hashes": [
+        "51da3f88f6c24a52"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "51da3f88f6c24a52",
+        "border_hash": "b6ce139a8e290286",
+        "bytes": 86252,
+        "sha256": "09258d906bc06b236b60b3a81d453c21ab0ba18113901f0e01edaf1e47878b3c",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Akali.wad.client": [
+      "9b771a9c5c8278d6"
+    ]
+  },
+  "references": {
+    "paths": 130,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified",
+    "exported_fantome": "structure_and_references_passed",
+    "user_in_game": "passed",
+    "user_accepted_on": "2026-10-22"
+  }
+}

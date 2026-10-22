@@ -1,0 +1,610 @@
+{
+  "champion_id": 246,
+  "base_skin_id": 246051,
+  "name": "真实伤害 以我之名 奇亚娜",
+  "variants": [
+    {
+      "skin_id": 246051,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜",
+      "kind": "base",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "db4145a6b4f952f628db6721abf3e59aee0856157951be1761217018a5e40530",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246051.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246051/Qiyana.wad.client",
+          "size": 168825,
+          "sha256": "c7053d9a17e10da6ed0dadd4bbe4abd9064dce5776b5047ad0a16cda41966110"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251062,
+          "bytes_after": 168825,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246052,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 锐意之风",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "cd012a19bf01d537a1a12003116688b1487925c4b40156630c96f56c2802cabd",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246052.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246052/Qiyana.wad.client",
+          "size": 168931,
+          "sha256": "4b346ad9702ad95a15ceda55064a5ac110178c0f2b1f840d2427c3f296f7fc99"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251274,
+          "bytes_after": 168931,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246053,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 典雅之辞",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "67c7dde3a0a51a2f64cfe11dec3b1abc1c55cec329a892add3e5f95feb9c231e",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246053.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246053/Qiyana.wad.client",
+          "size": 168858,
+          "sha256": "5cc571cc6e5f848c537811431546c6a6ed3673a6a344c09f30e5a9c5872ef5ff"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251128,
+          "bytes_after": 168858,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246054,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 本真之范",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "61f6e2572554b921b45a3756df61c49db2c61bf018774d5d82162cc462b054c4",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246054.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246054/Qiyana.wad.client",
+          "size": 168858,
+          "sha256": "486fb6d711d4d4f3b2ed6898f518e691137d867d2ddb9652aa0f6798071f88cb"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251128,
+          "bytes_after": 168858,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246055,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 华丽之韵",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "f34680941119f7186da8e781f61905fbfa858d711fd35b20890b1f68c5aaa6c9",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246055.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246055/Qiyana.wad.client",
+          "size": 168858,
+          "sha256": "c18e58bb872592bb259b1520033335c52c0940d24b303e5321c9e7b85af3e741"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251128,
+          "bytes_after": 168858,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246056,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 天籁之律",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "15832659d935b41a59bc3afe283e2b839cc4688f5f3fed7cd562ea85968cdf6b",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246056.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246056/Qiyana.wad.client",
+          "size": 168858,
+          "sha256": "83aae44b8303db50df2e0a3d8740101aa1ed27850c540418ca68b1536724e3d9"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251128,
+          "bytes_after": 168858,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246057,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 无畏之志",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "37b95893265de31e132a6d114d5f74d81a190a8cebe45ac97471b0400668848d",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246057.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246057/Qiyana.wad.client",
+          "size": 168858,
+          "sha256": "50dfee5504e07192b4fd80657978bf603f874bdc9981e86716707509f0ce968e"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251128,
+          "bytes_after": 168858,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246058,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 天纵之才",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e23270014e7474bb140c8e5a616eb0ef399d2e4153d35cc7477dbae894955c51",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246058.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246058/Qiyana.wad.client",
+          "size": 168858,
+          "sha256": "0b0f02f0521003364d9b118b0a9f08fe5bb2bfc75fad0b396123ae9cd5e45be9"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251128,
+          "bytes_after": 168858,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    },
+    {
+      "skin_id": 246059,
+      "base_skin_id": 246051,
+      "champion_id": 246,
+      "name": "真实伤害 以我之名 奇亚娜 超凡之心",
+      "kind": "variant",
+      "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e530dcd3e68a852402884b49016362765e467626f1a41af765ec0056760f9b9d",
+        "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+        "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "246/246051/246059.fantome",
+      "files": [
+        {
+          "path": "skins/246/246051/246059/Qiyana.wad.client",
+          "size": 168858,
+          "sha256": "db69f445ea63e983702004b655677ac4b2f2af4685d8d7265e5f305ec9359be2"
+        }
+      ],
+      "wads": {
+        "Qiyana.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 251128,
+          "bytes_after": 168858,
+          "replacement_hashes": [
+            "52a5047364137133"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Qiyana.wad.client",
+            "normal_hash": "52a5047364137133",
+            "border_hash": "444c44ef5653bfa6",
+            "bytes": 86252,
+            "sha256": "d90b56c13bf13a5878490be36448e72c1d71479c57beaca3c4b73c78d96be9a1",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Qiyana.wad.client": [
+          "c8e17a96a699db71"
+        ]
+      },
+      "references": {
+        "paths": 73,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "exported_fantome": "structure_and_references_passed",
+        "user_in_game": "passed",
+        "user_accepted_on": "2026-10-22"
+      }
+    }
+  ]
+}

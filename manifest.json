@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "format": "raw-wad",
-  "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+  "game_build": "16.21.8299102+branch.releases-16-21.content.release",
   "files": {
     "skins/1/1001/1001/Annie.wad.client": {
       "size": 4741,
@@ -80016,12 +80016,12 @@
       "sha256": "54601afc14f1ce0dd3e4e9e4de6d3d5fe22252fd49d529872244632bcb29a358"
     },
     "resources/en/skin_ids.json": {
-      "size": 382402,
-      "sha256": "31b1c917a17ec18c8298fd3ac96c85abf32753689779ba3895f4cc2396fb2b93"
+      "size": 384232,
+      "sha256": "d0f777b1d2d9bbc6fa856faea093fc35ce927359cbba90c9ba593cafe44a3c45"
     },
     "resources/zh/skin_ids.json": {
-      "size": 426345,
-      "sha256": "432ac6a379616fa17624f0de314e873a11e3bab56be1933d557f27001773b1f4"
+      "size": 428366,
+      "sha256": "8798e82046bd835878cbc991acc891a0cedeade6af60a70d34f910d966340bfa"
     },
     "skins/24/24044/24044/Jax.wad.client": {
       "size": 95702,
@@ -80638,6 +80638,290 @@
     "skins/360/360030/360030/UI.wad.client": {
       "size": 26694,
       "sha256": "d69c10572e0687f325ae0db09cbfcdf60d6422f866d206cf4ebea482ca527aa1"
+    },
+    "skins/157/157097/skin.json": {
+      "size": 13141,
+      "sha256": "32c94bb82dd80c217146ea77147398fa15963b32f7a2d7cc80551b59eba6bade"
+    },
+    "skins/157/157097/157097/variant.json": {
+      "size": 1891,
+      "sha256": "8a1b92ef663d239fd62be4ca4a38e1a6ba3a5b4b26d4bc1e6f374c789f8a8a3d"
+    },
+    "skins/157/157097/157097/Yasuo.wad.client": {
+      "size": 153603,
+      "sha256": "60710a852873009d88b668c997b948324f1ce489bec381e7e053a8f22eb00105"
+    },
+    "skins/157/157097/157098/variant.json": {
+      "size": 1901,
+      "sha256": "1220476a4ac5bc21dc8afc3e2e988b3a1ade5ee25c7947e03cd50eefef041a03"
+    },
+    "skins/157/157097/157098/Yasuo.wad.client": {
+      "size": 153709,
+      "sha256": "d18797983b063ad38cab07106a11ad0858b9bccf42002395cc9086b6fbe9da00"
+    },
+    "skins/157/157097/157099/variant.json": {
+      "size": 1907,
+      "sha256": "50d17b4abb342db3c2189f4b587faaa8eac14003688c0316cb50b1afef3ca6e7"
+    },
+    "skins/157/157097/157099/Yasuo.wad.client": {
+      "size": 153841,
+      "sha256": "9152f86ab3cb9375e9abcb0c8d20724d05e53e4daacee36d909da78fe57155f4"
+    },
+    "skins/157/157097/157100/variant.json": {
+      "size": 1901,
+      "sha256": "a6a84bac17c38b7992ab017823d16dc11a36b4585ddc1aa6b702680ce0761466"
+    },
+    "skins/157/157097/157100/Yasuo.wad.client": {
+      "size": 153872,
+      "sha256": "fdbc4c48e99c35387b5da73957f2c97dd17421dacfbbbf7896563d548759c872"
+    },
+    "skins/157/157097/157101/variant.json": {
+      "size": 1901,
+      "sha256": "9b007eb8c6b2d6961fd3542462104bb0e70ff3b0d6b84ac482bfe87e0aad78df"
+    },
+    "skins/157/157097/157101/Yasuo.wad.client": {
+      "size": 153784,
+      "sha256": "d5a98ec438869e961cad476ed6f0d69f8546866c349ab8432c128310f2c02fd2"
+    },
+    "skins/157/157097/157102/variant.json": {
+      "size": 1901,
+      "sha256": "5d288cea3d9bac4b1b4e28ca24ac0a414bbe414172295872aa7fee99ece5d106"
+    },
+    "skins/157/157097/157102/Yasuo.wad.client": {
+      "size": 153820,
+      "sha256": "82206724fe0d8d96a134822d162c42144a93a2321ee18082738abd6ee69f8dc3"
+    },
+    "skins/235/235081/skin.json": {
+      "size": 19622,
+      "sha256": "c5b1ec8c08aab49f922a64eb89ac04053201cb20684e0e8315ef7e75bb59fcea"
+    },
+    "skins/235/235081/235081/Senna.wad.client": {
+      "size": 301807,
+      "sha256": "c4479a24990e52a45c0adf50567a6615c9b3657263037f801a5020435bea348c"
+    },
+    "skins/235/235081/235081/variant.json": {
+      "size": 1884,
+      "sha256": "1f4084fe98e16880687a7551c5e390e6adf7f6a196b543639c8141f4877cff46"
+    },
+    "skins/235/235081/235082/Senna.wad.client": {
+      "size": 301928,
+      "sha256": "82ce77fe6fb67b5260c14227567e2b45cb035d3057c112f59aee32b7ce43296e"
+    },
+    "skins/235/235081/235082/variant.json": {
+      "size": 1900,
+      "sha256": "bca57ca477805c569ce2d07abde2291330958f1c091fd2fa73b1d3f62ebebacc"
+    },
+    "skins/235/235081/235083/Senna.wad.client": {
+      "size": 301855,
+      "sha256": "14150677d904185fb8a25e8e60a84d457a0b20b55847bd0f2e3d738deed42a58"
+    },
+    "skins/235/235081/235083/variant.json": {
+      "size": 1900,
+      "sha256": "ecd5a09bcaef2bf9df7d0b539b3069cf4a3fa5fc0e58368db08aa7cd7c302d70"
+    },
+    "skins/235/235081/235084/Senna.wad.client": {
+      "size": 301844,
+      "sha256": "376011c1a6a9c7b99f6887a499cac7a72467b8972781b27a132602a655e8e5de"
+    },
+    "skins/235/235081/235084/variant.json": {
+      "size": 1900,
+      "sha256": "694550636590e0940bb829c587eca31140b4eda871734b229d449c785602aff2"
+    },
+    "skins/235/235081/235085/Senna.wad.client": {
+      "size": 301891,
+      "sha256": "b9e8a1421431885de6c74ff44cb04926037a313803fb1887e31ed8d2d3b3404a"
+    },
+    "skins/235/235081/235085/variant.json": {
+      "size": 1900,
+      "sha256": "516d70ba3d8c9e727f9b2334e28a242bd941bb6688a18a0a66f81d5e5198dd40"
+    },
+    "skins/235/235081/235086/Senna.wad.client": {
+      "size": 301916,
+      "sha256": "521137582912734ba73150b2726e6429d661b78c7cdda5be09252e93bdef8fb7"
+    },
+    "skins/235/235081/235086/variant.json": {
+      "size": 1900,
+      "sha256": "e9040d1ad58d3fbdf9e67125ed06ddad2575d3b636446853d08156e91da8f966"
+    },
+    "skins/235/235081/235087/Senna.wad.client": {
+      "size": 301844,
+      "sha256": "d78901eca7c214a0d8985452f181923adc45f6a26101fcc019c42c1a8844ff13"
+    },
+    "skins/235/235081/235087/variant.json": {
+      "size": 1900,
+      "sha256": "6e8dab8df15db0b91682618e7cb72ba834e1d77a39c26b51aef0761d64597de7"
+    },
+    "skins/235/235081/235088/Senna.wad.client": {
+      "size": 301855,
+      "sha256": "ac0787606f1b2d50dfbc4a492dc5748a5e93860463cfae7e8454aafa690bff4d"
+    },
+    "skins/235/235081/235088/variant.json": {
+      "size": 1900,
+      "sha256": "26334a18f21a17b0ec63cac7d1804a3159eb9806282e46563972a7d92f0936c1"
+    },
+    "skins/235/235081/235089/Senna.wad.client": {
+      "size": 301855,
+      "sha256": "fca495abd8066d4cc68c3b5a5b1a42a6f1ca24809b3566f364f281547cd1793f"
+    },
+    "skins/235/235081/235089/variant.json": {
+      "size": 1900,
+      "sha256": "69e29d300fb42413512ab63d64dd159f51eb653eb84f7c48840ae738195e0f8d"
+    },
+    "skins/245/245059/skin.json": {
+      "size": 4444,
+      "sha256": "f1677336366cde6fb31693db6c3799ec667ce27cccbaaf3eba9f6d869c90a73f"
+    },
+    "skins/245/245059/245059/Ekko.wad.client": {
+      "size": 115951,
+      "sha256": "d3a68358d6e25858032824b1edd48b572223a6ea51b2b93979b28b84e21aa85a"
+    },
+    "skins/245/245059/245059/variant.json": {
+      "size": 1886,
+      "sha256": "88b01af541b67087d54346c5bdaa67335905c39f3b8446d4a5cc366fbe14bd44"
+    },
+    "skins/245/245059/245060/Ekko.wad.client": {
+      "size": 116057,
+      "sha256": "ac0ba0577401890733d2d0e2c4873c0fb5a0c18f807e014dfffc824e4d9290a6"
+    },
+    "skins/245/245059/245060/variant.json": {
+      "size": 1896,
+      "sha256": "d1af4222aa51f8aa0ffc9b0342a19f13380dcdffdc34d82d2046e1c891c6e403"
+    },
+    "skins/246/246051/skin.json": {
+      "size": 19679,
+      "sha256": "11a7625c61396d45f7163f40c78d82eebff0176c87b166973531ddefe153dfcf"
+    },
+    "skins/246/246051/246051/Qiyana.wad.client": {
+      "size": 168825,
+      "sha256": "c7053d9a17e10da6ed0dadd4bbe4abd9064dce5776b5047ad0a16cda41966110"
+    },
+    "skins/246/246051/246051/variant.json": {
+      "size": 1890,
+      "sha256": "85e59b83336870a3ad621b78e25c93d267dba444bb47e38166b7af262b8efd46"
+    },
+    "skins/246/246051/246052/Qiyana.wad.client": {
+      "size": 168931,
+      "sha256": "4b346ad9702ad95a15ceda55064a5ac110178c0f2b1f840d2427c3f296f7fc99"
+    },
+    "skins/246/246051/246052/variant.json": {
+      "size": 1906,
+      "sha256": "1c672b943e829540de28ea11abb90e998e53c4becef7c0714875bf43bdf2498d"
+    },
+    "skins/246/246051/246053/Qiyana.wad.client": {
+      "size": 168858,
+      "sha256": "5cc571cc6e5f848c537811431546c6a6ed3673a6a344c09f30e5a9c5872ef5ff"
+    },
+    "skins/246/246051/246053/variant.json": {
+      "size": 1906,
+      "sha256": "6b7fbdefc48dcad982e465b9f88270f485a35450b94903ca33df794db5db2147"
+    },
+    "skins/246/246051/246054/Qiyana.wad.client": {
+      "size": 168858,
+      "sha256": "486fb6d711d4d4f3b2ed6898f518e691137d867d2ddb9652aa0f6798071f88cb"
+    },
+    "skins/246/246051/246054/variant.json": {
+      "size": 1906,
+      "sha256": "4536f9f9d9cf4ee17f5641a9aa63ece6626872d763fdfcd56d8ab0e1f3b9d17b"
+    },
+    "skins/246/246051/246055/Qiyana.wad.client": {
+      "size": 168858,
+      "sha256": "c18e58bb872592bb259b1520033335c52c0940d24b303e5321c9e7b85af3e741"
+    },
+    "skins/246/246051/246055/variant.json": {
+      "size": 1906,
+      "sha256": "0ff97c571a03322a9359f05b01ba320141c7b225800b48222d8f1c693a477194"
+    },
+    "skins/246/246051/246056/Qiyana.wad.client": {
+      "size": 168858,
+      "sha256": "83aae44b8303db50df2e0a3d8740101aa1ed27850c540418ca68b1536724e3d9"
+    },
+    "skins/246/246051/246056/variant.json": {
+      "size": 1906,
+      "sha256": "5a55603459dec2b0b18dd5b8e6a2a019044fa6da60af47cacdd3d64562986fd8"
+    },
+    "skins/246/246051/246057/Qiyana.wad.client": {
+      "size": 168858,
+      "sha256": "50dfee5504e07192b4fd80657978bf603f874bdc9981e86716707509f0ce968e"
+    },
+    "skins/246/246051/246057/variant.json": {
+      "size": 1906,
+      "sha256": "bb1d16306227c88fda240031cd8af5a7d384c3427dd1460341d0a2d892e05a83"
+    },
+    "skins/246/246051/246058/Qiyana.wad.client": {
+      "size": 168858,
+      "sha256": "0b0f02f0521003364d9b118b0a9f08fe5bb2bfc75fad0b396123ae9cd5e45be9"
+    },
+    "skins/246/246051/246058/variant.json": {
+      "size": 1906,
+      "sha256": "d60e0136e92d84f7bfd2a5b9d790bbf7047a01b4108be24d19a01645e0dacd26"
+    },
+    "skins/246/246051/246059/Qiyana.wad.client": {
+      "size": 168858,
+      "sha256": "db69f445ea63e983702004b655677ac4b2f2af4685d8d7265e5f305ec9359be2"
+    },
+    "skins/246/246051/246059/variant.json": {
+      "size": 1906,
+      "sha256": "8574436f83fd7a3471050019059a620b1843b8d0921459e4529ad372ffdd2337"
+    },
+    "skins/84/84103/skin.json": {
+      "size": 15243,
+      "sha256": "cbfd751aefa3c6bdc3bfde900723587479a57a2f3db41c50e9479a363795b20a"
+    },
+    "skins/84/84103/84103/Akali.wad.client": {
+      "size": 381765,
+      "sha256": "d1e4e2a80814a37e397195b38059c1dcfae018b00a937bf4e6b0a22265e23b7c"
+    },
+    "skins/84/84103/84103/variant.json": {
+      "size": 1878,
+      "sha256": "ced9b41ec044c2dcec505634523e1a938c785be746b883b99540506ec12bef95"
+    },
+    "skins/84/84103/84105/Akali.wad.client": {
+      "size": 381870,
+      "sha256": "9bb123c094f3db03f78f1d6b32405e2b494ceca74d5f42f4bdf92073c678f76a"
+    },
+    "skins/84/84103/84105/variant.json": {
+      "size": 1894,
+      "sha256": "51c6cb2345dde4777bc274b30dd6c565e41f380f9e38270673766d9cc277120f"
+    },
+    "skins/84/84103/84106/Akali.wad.client": {
+      "size": 381798,
+      "sha256": "f1d8ca9e6c3b8ab6203755ff0b7ee00723ad4cf192adea3915b05d6cbb85070c"
+    },
+    "skins/84/84103/84106/variant.json": {
+      "size": 1894,
+      "sha256": "0adecd2962493291bd0447d754ad1d1fddb3244e033b57c5972a726c15b6179f"
+    },
+    "skins/84/84103/84107/Akali.wad.client": {
+      "size": 381798,
+      "sha256": "b2a0540df227cc39d9ef9e9a750e9661cf5919e42733241b54345da5c2e0501c"
+    },
+    "skins/84/84103/84107/variant.json": {
+      "size": 1894,
+      "sha256": "a7c8c28f880fa01daaef46400d818623e2083ce736f6f12519519ea8b80ef6e9"
+    },
+    "skins/84/84103/84108/Akali.wad.client": {
+      "size": 381798,
+      "sha256": "7d8dd9d77ba161a3b153c86719024647017062c0301cb261f7489221d9cd5eb6"
+    },
+    "skins/84/84103/84108/variant.json": {
+      "size": 1894,
+      "sha256": "bd8510ef134c243f3cd2b7e1beb0cf1ad57f69e412c08a33386bf4b95ddbc9a8"
+    },
+    "skins/84/84103/84109/Akali.wad.client": {
+      "size": 381798,
+      "sha256": "a610cbaa6ad88621056cb131515283b83e361e93e206449cfeb41efc8aed8bf9"
+    },
+    "skins/84/84103/84109/variant.json": {
+      "size": 1894,
+      "sha256": "589e8615d65eb0ab4e588efba25981012b6fb16caa90bb46dd10b034ea7177e4"
+    },
+    "skins/84/84103/84110/Akali.wad.client": {
+      "size": 382018,
+      "sha256": "96bf3535748fd25ddd90e425c8f28c209ed35a9588d9330e6de5c8b923fc9b6f"
+    },
+    "skins/84/84103/84110/variant.json": {
+      "size": 1894,
+      "sha256": "63bb0bea58b3bf2f2b51c1d5328602955bc57ac41ae6d46825402a753cdb9196"
     }
   }
 }

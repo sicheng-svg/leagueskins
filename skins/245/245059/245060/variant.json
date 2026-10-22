@@ -1,0 +1,67 @@
+{
+  "skin_id": 245060,
+  "base_skin_id": 245059,
+  "champion_id": 245,
+  "name": "至臻 真实伤害 以我之名 艾克 至强",
+  "kind": "variant",
+  "game_build": "16.21.8299102+branch.releases-16-21.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "0a0fc583bd6612f5bf4b99ef8b57ea8ae28dc43fc2edb9f541ea2ec89e43aa8e",
+    "game_snapshot": "830991042abd2f96d1f69a0fcaae56c119261cee683ec1c65821086187c93daf",
+    "builder_sha256": "d04e430ce11d8012b7bf5da66840e3a5591dda32489d566e367ffece56927af6:26.21-local-test",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "245/245059/245060.fantome",
+  "files": [
+    {
+      "path": "skins/245/245059/245060/Ekko.wad.client",
+      "size": 116057,
+      "sha256": "ac0ba0577401890733d2d0e2c4873c0fb5a0c18f807e014dfffc824e4d9290a6"
+    }
+  ],
+  "wads": {
+    "Ekko.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 145526,
+      "bytes_after": 116057,
+      "replacement_hashes": [
+        "06762933d1e9eccb"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Ekko.wad.client",
+        "normal_hash": "06762933d1e9eccb",
+        "border_hash": "115dcef016d366f3",
+        "bytes": 86252,
+        "sha256": "d824a26beef5b939567e30513fe9e7c8eeae4a6d0335388af96f48c64ab4b42d",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Ekko.wad.client": [
+      "f59af54b273e6298"
+    ]
+  },
+  "references": {
+    "paths": 14,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified",
+    "exported_fantome": "structure_and_references_passed",
+    "user_in_game": "passed",
+    "user_accepted_on": "2026-10-22"
+  }
+}

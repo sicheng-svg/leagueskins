@@ -1,0 +1,72 @@
+{
+  "champion_id": 28,
+  "base_skin_id": 28066,
+  "name": "K/DA 金曲制作人 伊芙琳",
+  "variants": [
+    {
+      "skin_id": 28066,
+      "base_skin_id": 28066,
+      "champion_id": 28,
+      "name": "K/DA 金曲制作人 伊芙琳",
+      "kind": "base",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "e6ca5b1c1d7a580d4de2d16f73ccaa38be9b253f7a94c219383847f1ec3feb54",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "28/28066/28066.fantome",
+      "files": [
+        {
+          "path": "skins/28/28066/28066/Evelynn.wad.client",
+          "size": 1232799,
+          "sha256": "2388941330a8eeb184332513911c5ed8ec88fe439c47659ff79054b987eeb464"
+        }
+      ],
+      "wads": {
+        "Evelynn.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 2292770,
+          "bytes_after": 1232799,
+          "replacement_hashes": [
+            "06cbfdc398f3a2eb"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Evelynn.wad.client",
+            "normal_hash": "06cbfdc398f3a2eb",
+            "border_hash": "3737ff18513eae76",
+            "bytes": 172492,
+            "sha256": "7c3be77f0f14dee730af695a100056ef4ac82cb5885a2d9928f9dbdde6eb0730",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Evelynn.wad.client": [
+          "51b5ac6bc5395969"
+        ]
+      },
+      "references": {
+        "paths": 429,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    }
+  ]
+}

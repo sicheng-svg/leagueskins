@@ -1,0 +1,592 @@
+{
+  "champion_id": 103,
+  "base_skin_id": 103097,
+  "name": "K/DA 生来惹火 阿狸",
+  "variants": [
+    {
+      "skin_id": 103097,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸",
+      "kind": "base",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a734f48d0c3b10abcc9bc6f34a67ad6dbf12e79e0629c8d4ed24f345ce14fd2d",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103097.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103097/Ahri.wad.client",
+          "size": 199850,
+          "sha256": "b7ede5220011d9170b0f99459a94af8a7f8715be557d7135d6ee6828bba03aab"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313112,
+          "bytes_after": 199850,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103098,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 星光之途",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a7168da33ac95deffd060fe59600f1e3f5c973419d867773055a184ed9e768f4",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103098.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103098/Ahri.wad.client",
+          "size": 199950,
+          "sha256": "c4b52cdad6420bf5fc21a8fc370c846c661f36d43ff984d6be011e537a08b467"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313312,
+          "bytes_after": 199950,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103099,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 萌动之心",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "c9421af4cf4f5a27323d4621e2ed20c3f09754df949737f77b007dbc8893070d",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103099.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103099/Ahri.wad.client",
+          "size": 199883,
+          "sha256": "5fe72ef082b93cc339b0b89cb0b9f7023ab06b1e450d41d76e7105d59b83822a"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313178,
+          "bytes_after": 199883,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103100,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 治愈之声",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "15e3c236518dfcd08db791b239a1dd83a50f235b502976230877ecfc21ef4491",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103100.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103100/Ahri.wad.client",
+          "size": 199933,
+          "sha256": "0abca3166555edd69f027f6e9466a63656f2ad9ce013edf933bcf872b467a68e"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313278,
+          "bytes_after": 199933,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103101,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 前卫之范",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "a7578500b5e65de0096b5fe361508d1eed12fbe780bfac6860dd58fe7ae9b24b",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103101.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103101/Ahri.wad.client",
+          "size": 199933,
+          "sha256": "7f4eab5de5691d5346e59d640dc422e8d994dfd53bac8e0bc9224932f4305586"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313278,
+          "bytes_after": 199933,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103102,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 飒爽之秀",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "d297b4837279a930add6de0a7a37f273114c8cd4042c7435bbe12ee362d5642b",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103102.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103102/Ahri.wad.client",
+          "size": 199933,
+          "sha256": "47b10d122e0705f637ef628e21519db1f733efb57857031b448e91061b087d5f"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313278,
+          "bytes_after": 199933,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103103,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 灵感之源",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "176a7d15c38b1564fe6a3acf34745d6155f9fc31bcb33005fe1f234a913703fe",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103103.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103103/Ahri.wad.client",
+          "size": 199933,
+          "sha256": "ffa00f4285eed036a131bb9864f87fbaaf5cb02b09d927f6d0053ca2cc0e38e8"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313278,
+          "bytes_after": 199933,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103104,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 白金巨星",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "bc222c4e241ac3a62d2e0c90bf72279004a1d4a992b54915cdb560ecf26f8774",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103104.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103104/Ahri.wad.client",
+          "size": 199933,
+          "sha256": "2ae980524a86cc99ec7fac43889ce5820893683793b39c8c38441f49bb42c913"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313278,
+          "bytes_after": 199933,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    },
+    {
+      "skin_id": 103105,
+      "base_skin_id": 103097,
+      "champion_id": 103,
+      "name": "K/DA 生来惹火 阿狸 霸气之美",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "56d920344a369c75d95d3b3f793b5cddf00d39890176c225b2fd35b23943ea48",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "103/103097/103105.fantome",
+      "files": [
+        {
+          "path": "skins/103/103097/103105/Ahri.wad.client",
+          "size": 199933,
+          "sha256": "c3abcf469b003ae4996f96da4108cbe62ea869eb51a78eebed4bdc6c14ff9d0f"
+        }
+      ],
+      "wads": {
+        "Ahri.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 313278,
+          "bytes_after": 199933,
+          "replacement_hashes": [
+            "461fa382824eafa9"
+          ]
+        }
+      },
+      "border": {
+        "status": "included",
+        "images": [
+          {
+            "archive": "Ahri.wad.client",
+            "normal_hash": "461fa382824eafa9",
+            "border_hash": "9aef331b5fc5865c",
+            "bytes": 86252,
+            "sha256": "ffde24b6474561c32c7238b4b0d714c12fa875fc332e2b6ee7b530d8ec2b0757",
+            "strategy": "replace_normal_image"
+          }
+        ]
+      },
+      "native_rebuilt_entries": {
+        "Ahri.wad.client": [
+          "49e643f9c8a74bc7"
+        ]
+      },
+      "references": {
+        "paths": 56,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
+    }
+  ]
+}

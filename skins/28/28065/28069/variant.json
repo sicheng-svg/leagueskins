@@ -1,0 +1,65 @@
+{
+  "skin_id": 28069,
+  "base_skin_id": 28065,
+  "champion_id": 28,
+  "name": "K/DA 生来惹火 伊芙琳 飒爽之秀",
+  "kind": "variant",
+  "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "94918368b9356fcc66d05ad578e9a138d7cbfb735d19182d1046372a1bcb7f7f",
+    "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+    "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "28/28065/28069.fantome",
+  "files": [
+    {
+      "path": "skins/28/28065/28069/Evelynn.wad.client",
+      "size": 142519,
+      "sha256": "67ed2902c9d149b3c8d766c90dd2cebc51b08b5217adfae4f691742a4d921aaa"
+    }
+  ],
+  "wads": {
+    "Evelynn.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 198450,
+      "bytes_after": 142519,
+      "replacement_hashes": [
+        "20d7e6a321fe27f8"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Evelynn.wad.client",
+        "normal_hash": "20d7e6a321fe27f8",
+        "border_hash": "32a7e8028f69b1c4",
+        "bytes": 86252,
+        "sha256": "006ff0baab26f2e475d1c07f11751a094fc73e1863fa0410ff6cd6c694dd9f44",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Evelynn.wad.client": [
+      "51b5ac6bc5395969"
+    ]
+  },
+  "references": {
+    "paths": 41,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified",
+    "user_in_game": "passed"
+  }
+}

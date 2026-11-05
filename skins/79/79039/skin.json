@@ -434,6 +434,60 @@
         "cslol_build": "not_checked",
         "cslol_in_game": "not_verified"
       }
+    },
+    {
+      "skin_id": 79049,
+      "base_skin_id": 79039,
+      "champion_id": 79,
+      "name": "超级音乐粉丝 古拉加斯 生来惹火",
+      "kind": "variant",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+      "identity": {
+        "version": 1,
+        "source_sha256": "2ab4c36c81268289686c1b1d44ca1a75d1bf589a9ac1ad27eeef658d1812aa9c",
+        "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+        "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+        "repair": "manager-native-records-v1"
+      },
+      "source_package": "79/79039/79049.fantome",
+      "files": [
+        {
+          "path": "skins/79/79039/79049/Gragas.wad.client",
+          "size": 352683,
+          "sha256": "42c84d3176fa50954ecffac679f85c012fc882107145c068a5e3b7d6a8ec323e"
+        }
+      ],
+      "wads": {
+        "Gragas.wad.client": {
+          "entries_before": 2,
+          "entries_after": 2,
+          "was_sorted": true,
+          "version": "3.4",
+          "bytes_before": 618778,
+          "bytes_after": 352683,
+          "replacement_hashes": []
+        }
+      },
+      "border": {
+        "status": "not_declared",
+        "images": []
+      },
+      "native_rebuilt_entries": {
+        "Gragas.wad.client": [
+          "f716ee7095ef9644"
+        ]
+      },
+      "references": {
+        "paths": 182,
+        "missing": 0
+      },
+      "validation": {
+        "structure": "passed",
+        "hid_in_game": "not_verified",
+        "cslol_build": "not_checked",
+        "cslol_in_game": "not_verified",
+        "user_in_game": "passed"
+      }
     }
   ]
 }

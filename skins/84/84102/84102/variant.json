@@ -1,0 +1,65 @@
+{
+  "skin_id": 84102,
+  "base_skin_id": 84102,
+  "champion_id": 84,
+  "name": "K/DA 生来惹火 焰火杀缭乱 阿卡丽",
+  "kind": "base",
+  "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "3eb42c679434157b9c3991972f48b11b8fbcec92ee394cd2d5979e3a4aa35bac",
+    "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+    "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "84/84102/84102.fantome",
+  "files": [
+    {
+      "path": "skins/84/84102/84102/Akali.wad.client",
+      "size": 1520994,
+      "sha256": "310403ddf0d2d1dd3b46291a0d5387142f029efd054f79d166a5a270d84cabf8"
+    }
+  ],
+  "wads": {
+    "Akali.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 2955400,
+      "bytes_after": 1520994,
+      "replacement_hashes": [
+        "18f8943b2648e5a4"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Akali.wad.client",
+        "normal_hash": "18f8943b2648e5a4",
+        "border_hash": "2dc370e027ee51d5",
+        "bytes": 86252,
+        "sha256": "b777dc76c4ea265993f3cf1b3f7d8a2d28f74b1b1b4edd0d2a12dd22a8412986",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Akali.wad.client": [
+      "9b771a9c5c8278d6"
+    ]
+  },
+  "references": {
+    "paths": 402,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified",
+    "user_in_game": "passed"
+  }
+}

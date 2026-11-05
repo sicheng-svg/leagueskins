@@ -1,0 +1,65 @@
+{
+  "skin_id": 145085,
+  "base_skin_id": 145083,
+  "champion_id": 145,
+  "name": "K/DA 生来惹火 卡莎 优雅之仪",
+  "kind": "variant",
+  "game_build": "16.22.8349083+branch.releases-16-22.content.release",
+  "identity": {
+    "version": 1,
+    "source_sha256": "ee7c32c391794eb5099d18a12f4582d9c832a4405813b84f463b93566f527dec",
+    "game_snapshot": "4c3a76475f5899f33a5108ae473b1bad04f687469b2221e140276d44d33c2350",
+    "builder_sha256": "87a27ba2f91458412317c19f3e358e77135b5242a3b25f6bdce60dabfdb7c26c",
+    "repair": "manager-native-records-v1"
+  },
+  "source_package": "145/145083/145085.fantome",
+  "files": [
+    {
+      "path": "skins/145/145083/145085/Kaisa.wad.client",
+      "size": 314695,
+      "sha256": "6d6c5f7c31d03805806c394d7bd570b5461fa1678b6cf80a79f4a89155c5af73"
+    }
+  ],
+  "wads": {
+    "Kaisa.wad.client": {
+      "entries_before": 2,
+      "entries_after": 2,
+      "was_sorted": true,
+      "version": "3.4",
+      "bytes_before": 542802,
+      "bytes_after": 314695,
+      "replacement_hashes": [
+        "f950e453d66ffe6e"
+      ]
+    }
+  },
+  "border": {
+    "status": "included",
+    "images": [
+      {
+        "archive": "Kaisa.wad.client",
+        "normal_hash": "f950e453d66ffe6e",
+        "border_hash": "7f32e322c9fc952b",
+        "bytes": 86252,
+        "sha256": "d763b03b8a22fbba099024988f1fedd8000ddbe25eaa853de09d2fa442074579",
+        "strategy": "replace_normal_image"
+      }
+    ]
+  },
+  "native_rebuilt_entries": {
+    "Kaisa.wad.client": [
+      "64bffe6a927eff38"
+    ]
+  },
+  "references": {
+    "paths": 129,
+    "missing": 0
+  },
+  "validation": {
+    "structure": "passed",
+    "hid_in_game": "not_verified",
+    "cslol_build": "not_checked",
+    "cslol_in_game": "not_verified",
+    "user_in_game": "passed"
+  }
+}

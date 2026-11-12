@@ -9,94 +9,61 @@
       "champion_id": 234,
       "name": "王 佛耶戈",
       "kind": "base",
-      "game_build": "16.20.8248524+branch.releases-16-20.content.release",
+      "game_build": "16.22.8349083+branch.releases-16-22.content.release",
       "identity": {
         "version": 1,
-        "source_sha256": "67e463b23f2b5febaa907fd8bd186265dae903b48a5095b395af49c9f0670edf",
-        "game_snapshot": "16.20-preserve-source-skin0",
-        "builder_sha256": "candidate-preserve-skin0-v1",
-        "repair": "preserve-source-skin0-adaptations-v1"
+        "source_sha256": "6328220d7026a1f41ba8d4ad3e59581a46a0024d0f024d5ccdaea01577f78cbc",
+        "repair": "supplied-r8"
       },
-      "source_package": "234/234043/234043.fantome",
+      "source_package": "圣堂破败王-刀与R音色初始化-R8待测.fantome",
       "files": [
         {
+          "path": "skins/234/234043/234043/Bootstrap.windows.wad.client",
+          "size": 16601,
+          "sha256": "ea0f6018c59e2c9e33051220638de3bf506f9edc1a6e8ba281c2a078b4e201d9"
+        },
+        {
           "path": "skins/234/234043/234043/Common.wad.client",
-          "size": 962801,
-          "sha256": "e1e878c54de24bba109c12d46479017de7855034ba42050a5e74494d72de087a"
+          "size": 961990,
+          "sha256": "350b02b3a8866e2f8721237c229e40d851152d241ede287955445adcb583d847"
         },
         {
           "path": "skins/234/234043/234043/UI.wad.client",
-          "size": 25379,
-          "sha256": "c419e17e7ac82bc137bab00ca8c72fcb7c2c81488370b08d24b9bfe7619a47ac"
+          "size": 20840,
+          "sha256": "af2d3e4310c38d1e736545233e8924cbd4b6f63e031c37bce57a5b8473d9ae66"
         },
         {
           "path": "skins/234/234043/234043/Viego.wad.client",
-          "size": 1065703,
-          "sha256": "059d909d2d7d74735a1bd95a955f6d40ea5d83b0db66a892697fe84d6f111de4"
+          "size": 679191,
+          "sha256": "6836ebabe227d61ba71c2d71e37aff9902bcda5a08dc1d8a1c6f1f1517a1c4b9"
         }
       ],
       "wads": {
-        "Common.wad.client": {
-          "entries_before": 1,
+        "Viego.wad.client": {
+          "entries_after": 11,
+          "bytes_after": 679191
+        },
+        "Bootstrap.windows.wad.client": {
           "entries_after": 1,
-          "was_sorted": true,
-          "version": "3.4",
-          "bytes_before": 962801,
-          "bytes_after": 962801,
-          "replacement_hashes": []
+          "bytes_after": 16601
         },
         "UI.wad.client": {
-          "entries_before": 2,
           "entries_after": 2,
-          "was_sorted": true,
-          "version": "3.4",
-          "bytes_before": 25379,
-          "bytes_after": 25379,
-          "replacement_hashes": []
+          "bytes_after": 20840
         },
-        "Viego.wad.client": {
-          "entries_before": 3,
-          "entries_after": 5,
-          "was_sorted": true,
-          "version": "3.4",
-          "bytes_before": 244623,
-          "bytes_after": 1065703,
-          "replacement_hashes": [
-            "74a4de35e9f6c972",
-            "7745ced5ab71a4d4"
-          ]
+        "Common.wad.client": {
+          "entries_after": 2,
+          "bytes_after": 961990
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Viego.wad.client",
-            "normal_hash": "7745ced5ab71a4d4",
-            "border_hash": "74a4de35e9f6c972",
-            "bytes": 689932,
-            "sha256": "36f282f608cd5b3e053d9c1571af04e8ff9d0d1bacfc6688b8bc0c0c378202c4",
-            "strategy": "bake_native_augment_layers",
-            "layers": [
-              {
-                "path": "ASSETS/Characters/Viego/Skins/Skin43/UI/Viego_Skin43_LoadScreen_Augments_Border_Premium.tex",
-                "sha256": "131ba6d5b7c104d553b212c63927f975481c5307f11c87c4f4226de981d19221"
-              }
-            ],
-            "placement": "scale_native_layers_to_loading_card",
-            "in_game": "not_verified"
-          }
-        ]
+        "status": "not_checked",
+        "images": []
       },
       "native_rebuilt_entries": {},
-      "references": {
-        "paths": 244,
-        "missing": 0
-      },
       "validation": {
         "structure": "passed",
-        "hid_in_game": "passed_user_test_2026-10-09",
-        "cslol_build": "not_checked",
+        "hid_in_game": "not_verified",
         "cslol_in_game": "not_verified"
       }
     },

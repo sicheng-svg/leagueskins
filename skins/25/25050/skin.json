@@ -78,34 +78,27 @@
       "files": [
         {
           "path": "skins/25/25050/25051/Morgana.wad.client",
-          "size": 89478,
-          "sha256": "9702b5d343efa9c3acc8c4848c807ca6835f1b367e08d6f1d60b67ae4cee06f3"
+          "size": 175762,
+          "sha256": "5eed5f57a2f2fbe87f42d0a886dc8b6e4bdc10317e46917b3481a5684d3b91c7"
         }
       ],
       "wads": {
         "Morgana.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3194,
-          "bytes_after": 89478,
+          "bytes_before": 89478,
+          "bytes_after": 175762,
           "replacement_hashes": [
+            "03b7f90f62e5e949",
             "41a629ba6ae03504"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Morgana.wad.client",
-            "normal_hash": "41a629ba6ae03504",
-            "border_hash": "03b7f90f62e5e949",
-            "bytes": 86252,
-            "sha256": "3e01ba1aa8d21fea7b8bb5239f6d06a87a4b1c95d3a412454a367daa902929ed"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

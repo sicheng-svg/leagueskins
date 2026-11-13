@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/43/43070/43076/Karma.wad.client",
-      "size": 765142,
-      "sha256": "822f043086f938153b4483bc8e19ef43f4c060caf56774422b291025fe0c70f9"
+      "size": 851384,
+      "sha256": "c9169ec3249e46777d7b9105a1ce34af68b25cb17809ca6c9d61b99eedcba6c7"
     }
   ],
   "wads": {
     "Karma.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 769029,
-      "bytes_after": 765142,
+      "bytes_before": 765142,
+      "bytes_after": 851384,
       "replacement_hashes": [
+        "5202bfd39c8cd597",
         "de58c168f842c0c2"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Karma.wad.client",
-        "normal_hash": "de58c168f842c0c2",
-        "border_hash": "5202bfd39c8cd597",
-        "bytes": 86252,
-        "sha256": "fa23077cc27dc8c51c9a3d415c9848a8db31450466ef682a8353245876fb075d",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Karma.wad.client": [

@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/910/910011/910017/Hwei.wad.client",
-      "size": 89783,
-      "sha256": "1ac1d79f2cdea199bc10f7c87af77e2e78a41ee0667f0399d245c509385b1c1d"
+      "size": 176067,
+      "sha256": "069acceb382bb86cb1977f6872821be7a6222d1d89e1fabae6100873a8a310ef"
     }
   ],
   "wads": {
     "Hwei.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3499,
-      "bytes_after": 89783,
+      "bytes_before": 89783,
+      "bytes_after": 176067,
       "replacement_hashes": [
-        "4803f2386651ce58"
+        "4803f2386651ce58",
+        "4a9ea55bc08ed0d4"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Hwei.wad.client",
-        "normal_hash": "4803f2386651ce58",
-        "border_hash": "4a9ea55bc08ed0d4",
-        "bytes": 86252,
-        "sha256": "4c6f0f26a21649954b6f4fe08dbaa18fcbfc355ebbfd752184f23ef0772bd866"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

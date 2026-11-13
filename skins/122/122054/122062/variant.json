@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/122/122054/122062/Darius.wad.client",
-      "size": 88527,
-      "sha256": "bfd167a671be6ff1f405857f74449587e9b56088a7fd46d30b9ea61bfe6cf7fc"
+      "size": 174811,
+      "sha256": "f0dd2393b54dbda3cafd1e5858978dcfe7190166ba1836ff033afcc8628ea92f"
     }
   ],
   "wads": {
     "Darius.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2243,
-      "bytes_after": 88527,
+      "bytes_before": 88527,
+      "bytes_after": 174811,
       "replacement_hashes": [
+        "0f8c2c7c265b2e38",
         "30651032f1eac4e8"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Darius.wad.client",
-        "normal_hash": "30651032f1eac4e8",
-        "border_hash": "0f8c2c7c265b2e38",
-        "bytes": 86252,
-        "sha256": "5ee97bbead9ffb9ccd0cd4a285be43a245339b14c703518be2e518e7078a0c73"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

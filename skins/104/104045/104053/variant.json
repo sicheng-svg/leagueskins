@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/104/104045/104053/Graves.wad.client",
-      "size": 88553,
-      "sha256": "c27e2aadaed97fdeb497df342bb710990cb4217253e7a4b2e5557eabcda560a0"
+      "size": 174837,
+      "sha256": "b65d54b962d744e813424c8a19d8eb46d37b8aafeb4253df79e48f732e9f2a17"
     }
   ],
   "wads": {
     "Graves.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2269,
-      "bytes_after": 88553,
+      "bytes_before": 88553,
+      "bytes_after": 174837,
       "replacement_hashes": [
+        "260aee07cdfd9608",
         "a535da86bbe1c170"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Graves.wad.client",
-        "normal_hash": "a535da86bbe1c170",
-        "border_hash": "260aee07cdfd9608",
-        "bytes": 86252,
-        "sha256": "978a3c52697ce97364575cabde5a08f5e22db251098ed3eb15addf94b354d07e"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

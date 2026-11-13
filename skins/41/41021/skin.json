@@ -85,41 +85,27 @@
       "files": [
         {
           "path": "skins/41/41021/41022/Gangplank.wad.client",
-          "size": 90130,
-          "sha256": "b9ac6f2e675b6f7bb2401a8c66dd5567109fea34fdca94f97c61fb9712dfd01b"
+          "size": 179735,
+          "sha256": "cd7e4fa82db3397ebcec1188844db3cc0bee004ebaa18f495689df3a14a72078"
         }
       ],
       "wads": {
         "Gangplank.wad.client": {
-          "entries_before": 2,
-          "entries_after": 3,
+          "entries_before": 3,
+          "entries_after": 4,
           "was_sorted": false,
           "version": "3.4",
-          "bytes_before": 3846,
-          "bytes_after": 90130,
+          "bytes_before": 90130,
+          "bytes_after": 179735,
           "replacement_hashes": [
+            "8449b58b71598802",
             "bbb3063b28638b70"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Gangplank.wad.client",
-            "normal_hash": "bbb3063b28638b70",
-            "border_hash": "8449b58b71598802",
-            "bytes": 86252,
-            "sha256": "8f1a407275a1066d7d5f5f0c2117bd367326a979a94d393d720c827731834f6d"
-          },
-          {
-            "archive": "Gangplank.wad.client",
-            "normal_hash": "bbb3063b28638b70",
-            "border_hash": "8449b58b71598802",
-            "bytes": 86252,
-            "sha256": "8f1a407275a1066d7d5f5f0c2117bd367326a979a94d393d720c827731834f6d"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

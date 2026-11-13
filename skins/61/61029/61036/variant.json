@@ -15,48 +15,27 @@
   "files": [
     {
       "path": "skins/61/61029/61036/Orianna.wad.client",
-      "size": 90742,
-      "sha256": "6a5686b47cf8e43b8bf27855ab6829146aefc5aac0a46b67212c974caa492006"
+      "size": 177026,
+      "sha256": "83ded5a54b937a7e1f8db2ee6265490f2168c7ee4f95d56273f379d44b9026cf"
     }
   ],
   "wads": {
     "Orianna.wad.client": {
-      "entries_before": 3,
-      "entries_after": 4,
+      "entries_before": 4,
+      "entries_after": 5,
       "was_sorted": false,
       "version": "3.4",
-      "bytes_before": 4458,
-      "bytes_after": 90742,
+      "bytes_before": 90742,
+      "bytes_after": 177026,
       "replacement_hashes": [
-        "9d56b4ae8f36d7ce"
+        "9d56b4ae8f36d7ce",
+        "e76bbe1458ff7abb"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Orianna.wad.client",
-        "normal_hash": "9d56b4ae8f36d7ce",
-        "border_hash": "e76bbe1458ff7abb",
-        "bytes": 86252,
-        "sha256": "52f9b5fd8664a57050c42b29f37e6886411ac7b761df2b28f389715406ea0c5d"
-      },
-      {
-        "archive": "Orianna.wad.client",
-        "normal_hash": "9d56b4ae8f36d7ce",
-        "border_hash": "e76bbe1458ff7abb",
-        "bytes": 86252,
-        "sha256": "52f9b5fd8664a57050c42b29f37e6886411ac7b761df2b28f389715406ea0c5d"
-      },
-      {
-        "archive": "Orianna.wad.client",
-        "normal_hash": "9d56b4ae8f36d7ce",
-        "border_hash": "e76bbe1458ff7abb",
-        "bytes": 86252,
-        "sha256": "52f9b5fd8664a57050c42b29f37e6886411ac7b761df2b28f389715406ea0c5d"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

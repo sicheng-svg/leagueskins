@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/141/141020/141024/Kayn.wad.client",
-      "size": 466001,
-      "sha256": "e5afd5e9913615e7370b927787a19939132f1982c149c1d817e1cb5f6fde52d6"
+      "size": 552243,
+      "sha256": "847a07db0d04bc342abe24da198c032126c4772c604075ea20ccc62f9b27ecc4"
     }
   ],
   "wads": {
     "Kayn.wad.client": {
       "entries_before": 3,
-      "entries_after": 3,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 471072,
-      "bytes_after": 466001,
+      "bytes_before": 466001,
+      "bytes_after": 552243,
       "replacement_hashes": [
-        "0887c239a55e5181"
+        "0887c239a55e5181",
+        "e3a8d58ff5c74745"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Kayn.wad.client",
-        "normal_hash": "0887c239a55e5181",
-        "border_hash": "e3a8d58ff5c74745",
-        "bytes": 86252,
-        "sha256": "de371cd026c378a415ed86e04f85ea6e3c62385f9e8a4e39f7d69a7a09c38759",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Kayn.wad.client": [

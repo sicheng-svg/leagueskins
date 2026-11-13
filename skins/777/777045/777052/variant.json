@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/777/777045/777052/Yone.wad.client",
-      "size": 118360,
-      "sha256": "f1d3d2cdc8fa3d26e7717b8525c0cac763e2a3dc2c1630ce20c0b3a4376f195e"
+      "size": 204644,
+      "sha256": "303f898577425b2e75e95745c1794b55fe6c30230e70c6ae70dc227a110f6ccd"
     }
   ],
   "wads": {
     "Yone.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 121580,
-      "bytes_after": 118360,
+      "bytes_before": 118360,
+      "bytes_after": 204644,
       "replacement_hashes": [
-        "7fc906dea3c9be85"
+        "7fc906dea3c9be85",
+        "8300d6c65ef90e3a"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Yone.wad.client",
-        "normal_hash": "7fc906dea3c9be85",
-        "border_hash": "8300d6c65ef90e3a",
-        "bytes": 86252,
-        "sha256": "e91f70a71c3cd2513dbdee6df1f24473e2b9ed73e15b725baa3009bff7c1a8e9",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Yone.wad.client": [

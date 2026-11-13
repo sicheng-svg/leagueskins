@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/350/350037/350038/Yuumi.wad.client",
-      "size": 89743,
-      "sha256": "80aa9139913526c2c57c16e5b9e716f8c7e87469e8acbec299641de6773bda57"
+      "size": 180532,
+      "sha256": "56ac68de4959e72f7c70f30bdc6341a7f25f586b97a2ecab1d701b59c963f9d0"
     }
   ],
   "wads": {
     "Yuumi.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3459,
-      "bytes_after": 89743,
+      "bytes_before": 89743,
+      "bytes_after": 180532,
       "replacement_hashes": [
+        "33346f9ad3785805",
         "880b3372c15d9bf8"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Yuumi.wad.client",
-        "normal_hash": "880b3372c15d9bf8",
-        "border_hash": "33346f9ad3785805",
-        "bytes": 86252,
-        "sha256": "77eeb174175c0fd5290c5963242dd55cfa2b98f574a8a043a5b3c153576bce1e"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/245/245019/245027/Ekko.wad.client",
-      "size": 89547,
-      "sha256": "ff384b2d222511df0f6cb30ec723cb21b33bd5a00278ec321e72ee03d540b93c"
+      "size": 181055,
+      "sha256": "2ad4bd8ff5675a5ac169c356f85edfc243f1c63e45405a745ce5f97415817c29"
     }
   ],
   "wads": {
     "Ekko.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3263,
-      "bytes_after": 89547,
+      "bytes_before": 89547,
+      "bytes_after": 181055,
       "replacement_hashes": [
-        "90df0a159ac0426a"
+        "90df0a159ac0426a",
+        "ce6446b89ac64a12"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Ekko.wad.client",
-        "normal_hash": "90df0a159ac0426a",
-        "border_hash": "ce6446b89ac64a12",
-        "bytes": 86252,
-        "sha256": "b940b7506ff15a2a42e14d9ef3acc5bf19fe5fb94a0ef718990120936ff83678"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

@@ -310,34 +310,27 @@
       "files": [
         {
           "path": "skins/122/122067/122072/Darius.wad.client",
-          "size": 91495,
-          "sha256": "7bf0735590653b8528b1d254afaa894d28fe52d6e635ee9548e02df82d90e4c8"
+          "size": 183755,
+          "sha256": "e579ea16f01075839a1a5aef89bfb20d7943563801ce3ecdd1037496cb31b383"
         }
       ],
       "wads": {
         "Darius.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 5211,
-          "bytes_after": 91495,
+          "bytes_before": 91495,
+          "bytes_after": 183755,
           "replacement_hashes": [
-            "6acbf5d102bdf86a"
+            "6acbf5d102bdf86a",
+            "bf113887583ad787"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Darius.wad.client",
-            "normal_hash": "6acbf5d102bdf86a",
-            "border_hash": "bf113887583ad787",
-            "bytes": 86252,
-            "sha256": "53aed1577caf27d8b33164ca5e142f7634cc91000a536da2a4fe609a1b88298f"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

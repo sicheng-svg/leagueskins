@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/145/145016/145081/Kaisa.wad.client",
-      "size": 89832,
-      "sha256": "ad315ccfdf59dbed9e3d6dc38ca1d9efdeea20a98be559b05360cfa33b7096de"
+      "size": 184205,
+      "sha256": "1b58d496cb975077e6052dfe7dba5f75d86f3edd433c39357941970a05fe92f9"
     }
   ],
   "wads": {
     "Kaisa.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3548,
-      "bytes_after": 89832,
+      "bytes_before": 89832,
+      "bytes_after": 184205,
       "replacement_hashes": [
+        "045662eb0ba6fd48",
         "dd0e450845e0e9ce"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Kaisa.wad.client",
-        "normal_hash": "dd0e450845e0e9ce",
-        "border_hash": "045662eb0ba6fd48",
-        "bytes": 86252,
-        "sha256": "ef55a43c64c10fc45b624ea9180674908de1aa662aff842d6b8081a6091a4213"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

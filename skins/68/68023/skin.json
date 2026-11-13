@@ -404,23 +404,25 @@
       "files": [
         {
           "path": "skins/68/68023/68031/Rumble.wad.client",
-          "size": 2302,
-          "sha256": "55629e09aaca04b67d33f89c94428c7f66f1bc7d80fcb21e405572e2f70f6e1c"
+          "size": 88586,
+          "sha256": "989f76e676474b5f01c49c01a8704d09bcc9f383272d14cc387305206d4ecdd0"
         }
       ],
       "wads": {
         "Rumble.wad.client": {
           "entries_before": 1,
-          "entries_after": 1,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
           "bytes_before": 2302,
-          "bytes_after": 2302,
-          "replacement_hashes": []
+          "bytes_after": 88586,
+          "replacement_hashes": [
+            "3c72cb325c8ac199"
+          ]
         }
       },
       "border": {
-        "status": "not_declared",
+        "status": "not_included",
         "images": []
       },
       "native_rebuilt_entries": {},

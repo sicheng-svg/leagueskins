@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/121/121011/121012/Khazix.wad.client",
-      "size": 88665,
-      "sha256": "fd0c4dfcd36bd6626eed20360e3d454e5ab81540d83ec1e4979fc58bda3bfa7c"
+      "size": 177711,
+      "sha256": "995e88d8a9eb5ca33475225a23a814c8b69af54605dff86b25d8e5c0ca50fc22"
     }
   ],
   "wads": {
     "Khazix.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2381,
-      "bytes_after": 88665,
+      "bytes_before": 88665,
+      "bytes_after": 177711,
       "replacement_hashes": [
-        "3547f58e2687f2c9"
+        "3547f58e2687f2c9",
+        "3e9388201a40e0e5"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Khazix.wad.client",
-        "normal_hash": "3547f58e2687f2c9",
-        "border_hash": "3e9388201a40e0e5",
-        "bytes": 86252,
-        "sha256": "1de31197c4c3df69f54b7c14e3c8737223871a2a7f5de0a1f7511a708abde6d6"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

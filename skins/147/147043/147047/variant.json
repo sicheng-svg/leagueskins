@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/147/147043/147047/Seraphine.wad.client",
-      "size": 90194,
-      "sha256": "9c20132fc54f2f7510825ff7639b5268c96962d2099f124e33abb057d554dd93"
+      "size": 183491,
+      "sha256": "95604442120e552dccb673b8b561b3c514da7a044546390b5d0a96314dcfb3c6"
     }
   ],
   "wads": {
     "Seraphine.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3910,
-      "bytes_after": 90194,
+      "bytes_before": 90194,
+      "bytes_after": 183491,
       "replacement_hashes": [
-        "58279d6ff1812e6b"
+        "58279d6ff1812e6b",
+        "a2640c56d63fd7b1"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Seraphine.wad.client",
-        "normal_hash": "58279d6ff1812e6b",
-        "border_hash": "a2640c56d63fd7b1",
-        "bytes": 86252,
-        "sha256": "5ae28635f19897727796a1e3f2e7b55b06bd7b55c23e196a0da457cb351a0097"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

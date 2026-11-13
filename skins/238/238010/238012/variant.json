@@ -16,43 +16,27 @@
   "files": [
     {
       "path": "skins/238/238010/238012/Zed.wad.client",
-      "size": 105502,
-      "sha256": "6f6c93054a0dc94376a36eac5513f7c38ce6cf43d100c9b5649f1e6223b468c6"
+      "size": 191753,
+      "sha256": "6bc22b86c73a42802d7fa4ecb5cea180269851083700689390a0eb416ae42b59"
     }
   ],
   "wads": {
     "Zed.wad.client": {
       "entries_before": 3,
-      "entries_after": 3,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 108521,
-      "bytes_after": 105502,
+      "bytes_before": 105502,
+      "bytes_after": 191753,
       "replacement_hashes": [
+        "46604e3313294b3e",
         "8426e8b9029fdb9e"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Zed.wad.client",
-        "normal_hash": "8426e8b9029fdb9e",
-        "border_hash": "46604e3313294b3e",
-        "bytes": 86252,
-        "sha256": "04b591e55ec8b79bc51154bbd9ff9d91b22961d7df782daee33d44a604f5a209",
-        "strategy": "replace_normal_image"
-      },
-      {
-        "archive": "Zed.wad.client",
-        "normal_hash": "8426e8b9029fdb9e",
-        "border_hash": "46604e3313294b3e",
-        "bytes": 86252,
-        "sha256": "04b591e55ec8b79bc51154bbd9ff9d91b22961d7df782daee33d44a604f5a209",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Zed.wad.client": [

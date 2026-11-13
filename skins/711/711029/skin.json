@@ -426,34 +426,27 @@
       "files": [
         {
           "path": "skins/711/711029/711036/Vex.wad.client",
-          "size": 89453,
-          "sha256": "15ea071e0b4eb86b4da2786580b37eb027e799b05c31068286f79710b667082e"
+          "size": 175737,
+          "sha256": "93d9b39f1f2884bc14a00a88f81256b2e50559d370f1579a1f31e455c07cef83"
         }
       ],
       "wads": {
         "Vex.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3169,
-          "bytes_after": 89453,
+          "bytes_before": 89453,
+          "bytes_after": 175737,
           "replacement_hashes": [
+            "ca977a80addf5ae6",
             "d81a026dc2c777a2"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Vex.wad.client",
-            "normal_hash": "d81a026dc2c777a2",
-            "border_hash": "ca977a80addf5ae6",
-            "bytes": 86252,
-            "sha256": "f588da3a58f0023306ae5625e6c3ec2799c53fdf86ae2947c65ce2e0213fd0e0"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

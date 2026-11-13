@@ -464,35 +464,27 @@
       "files": [
         {
           "path": "skins/555/555016/555023/Pyke.wad.client",
-          "size": 190969,
-          "sha256": "e2db1826f19485eb8d18b298f7881811aa569a67df7b1f38d6246c9d3a69a765"
+          "size": 277211,
+          "sha256": "dd2ea60b82119f5f6b58efd1592fc2a3039b8bd078580cad40dbf2e31cd9680d"
         }
       ],
       "wads": {
         "Pyke.wad.client": {
           "entries_before": 2,
-          "entries_after": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 194511,
-          "bytes_after": 190969,
+          "bytes_before": 190969,
+          "bytes_after": 277211,
           "replacement_hashes": [
-            "5844fc0614d10d04"
+            "5844fc0614d10d04",
+            "a260c7edfe7db120"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Pyke.wad.client",
-            "normal_hash": "5844fc0614d10d04",
-            "border_hash": "a260c7edfe7db120",
-            "bytes": 86252,
-            "sha256": "b477459631a19717c41f2a69156c26434125dc9bb1de0062435c14d99cfc67b4",
-            "strategy": "replace_normal_image"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {
         "Pyke.wad.client": [

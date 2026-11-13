@@ -252,34 +252,27 @@
       "files": [
         {
           "path": "skins/37/37035/37039/Sona.wad.client",
-          "size": 89159,
-          "sha256": "00bb1cec292d01053ba6627f8535b3a69668187731d1888c4e2eb34dfa4ffbf0"
+          "size": 175443,
+          "sha256": "a1cddefaec87c3c233e963164cc6cae3b97faa7280285d8c6eadd89e2a0fb131"
         }
       ],
       "wads": {
         "Sona.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2875,
-          "bytes_after": 89159,
+          "bytes_before": 89159,
+          "bytes_after": 175443,
           "replacement_hashes": [
-            "b7a5b3bb3721f5c5"
+            "b7a5b3bb3721f5c5",
+            "d18e5b0483f69992"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Sona.wad.client",
-            "normal_hash": "b7a5b3bb3721f5c5",
-            "border_hash": "d18e5b0483f69992",
-            "bytes": 86252,
-            "sha256": "a9cfa8e7a4d45e3d39d9a5aa8abf9025af640bcac0eed329557e6e99eff6dcad"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

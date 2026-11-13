@@ -345,41 +345,27 @@
       "files": [
         {
           "path": "skins/69/69018/69023/Cassiopeia.wad.client",
-          "size": 89386,
-          "sha256": "c5c5c0efc8046f45465cb2dcd1b5486db121d9d20777d46a18a0576f1f95b76f"
+          "size": 175670,
+          "sha256": "737843226ecb75fbbf6f92275261e4e46299b4c3ee929365b518d85d25204f6a"
         }
       ],
       "wads": {
         "Cassiopeia.wad.client": {
-          "entries_before": 2,
-          "entries_after": 3,
+          "entries_before": 3,
+          "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3102,
-          "bytes_after": 89386,
+          "bytes_before": 89386,
+          "bytes_after": 175670,
           "replacement_hashes": [
+            "9724390260a116fc",
             "fe6a55d686c967e5"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Cassiopeia.wad.client",
-            "normal_hash": "fe6a55d686c967e5",
-            "border_hash": "9724390260a116fc",
-            "bytes": 86252,
-            "sha256": "e1e9b3ddef3ba28a6cb7a1adf7f9837513e208ed355fa45bfc5402a413f4ebb3"
-          },
-          {
-            "archive": "Cassiopeia.wad.client",
-            "normal_hash": "fe6a55d686c967e5",
-            "border_hash": "9724390260a116fc",
-            "bytes": 86252,
-            "sha256": "e1e9b3ddef3ba28a6cb7a1adf7f9837513e208ed355fa45bfc5402a413f4ebb3"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

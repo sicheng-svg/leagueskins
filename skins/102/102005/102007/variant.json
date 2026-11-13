@@ -15,41 +15,27 @@
   "files": [
     {
       "path": "skins/102/102005/102007/Shyvana.wad.client",
-      "size": 90788,
-      "sha256": "e881749df587425c9462ab0660ef2e732360539da5b923ab45b464056670aa41"
+      "size": 183120,
+      "sha256": "bb3b7e55e8145d8bf62cd4d7927055e8728ef19cb1952da3ef63c1814319fa9f"
     }
   ],
   "wads": {
     "Shyvana.wad.client": {
-      "entries_before": 2,
-      "entries_after": 3,
+      "entries_before": 3,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4504,
-      "bytes_after": 90788,
+      "bytes_before": 90788,
+      "bytes_after": 183120,
       "replacement_hashes": [
+        "0025c5e4788fc193",
         "13843c760a085549"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Shyvana.wad.client",
-        "normal_hash": "13843c760a085549",
-        "border_hash": "0025c5e4788fc193",
-        "bytes": 86252,
-        "sha256": "4446b3667e457683f6893c014f922dfb0356ab70d14a7c1947bb5db9b22bdbeb"
-      },
-      {
-        "archive": "Shyvana.wad.client",
-        "normal_hash": "13843c760a085549",
-        "border_hash": "0025c5e4788fc193",
-        "bytes": 86252,
-        "sha256": "4446b3667e457683f6893c014f922dfb0356ab70d14a7c1947bb5db9b22bdbeb"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

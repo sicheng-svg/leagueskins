@@ -16,43 +16,27 @@
   "files": [
     {
       "path": "skins/523/523030/523038/Aphelios.wad.client",
-      "size": 169363,
-      "sha256": "6556c7518c97e5473c089799e8f9abb7b5f52ff48c98dc8e500d4a781c564b50"
+      "size": 255647,
+      "sha256": "0530a439dcac2eefce1baed6475665e984497e4eca2b10f8cb3e10180637441b"
     }
   ],
   "wads": {
     "Aphelios.wad.client": {
       "entries_before": 3,
-      "entries_after": 3,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 175397,
-      "bytes_after": 169363,
+      "bytes_before": 169363,
+      "bytes_after": 255647,
       "replacement_hashes": [
+        "3c8ac0e85c343352",
         "73cd775b9fa4ef43"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Aphelios.wad.client",
-        "normal_hash": "73cd775b9fa4ef43",
-        "border_hash": "3c8ac0e85c343352",
-        "bytes": 86252,
-        "sha256": "0fb3d7aecd0b8d31d9736225a05cf1e94b39de742d6d2c96a945a2fdd6d5d494",
-        "strategy": "replace_normal_image"
-      },
-      {
-        "archive": "Aphelios.wad.client",
-        "normal_hash": "73cd775b9fa4ef43",
-        "border_hash": "3c8ac0e85c343352",
-        "bytes": 86252,
-        "sha256": "0fb3d7aecd0b8d31d9736225a05cf1e94b39de742d6d2c96a945a2fdd6d5d494",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Aphelios.wad.client": [

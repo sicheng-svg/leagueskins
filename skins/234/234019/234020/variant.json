@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/234/234019/234020/Viego.wad.client",
-      "size": 89617,
-      "sha256": "f89acb81822c5a8690088c8facd18aff81e3915db308ce74a037cfd2ea983404"
+      "size": 179481,
+      "sha256": "98e0c51eccab5ee6018ddf072cf20dfce40216afa07ffd86cf227a986ba24fc9"
     }
   ],
   "wads": {
     "Viego.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3333,
-      "bytes_after": 89617,
+      "bytes_before": 89617,
+      "bytes_after": 179481,
       "replacement_hashes": [
+        "0b047abbd4384562",
         "7472fd88dddaf818"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Viego.wad.client",
-        "normal_hash": "7472fd88dddaf818",
-        "border_hash": "0b047abbd4384562",
-        "bytes": 86252,
-        "sha256": "8a075f419d697bcd8176a2bf14cd0013662e048dc35d361b522b8dc8805ccd95"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

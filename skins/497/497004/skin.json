@@ -78,34 +78,27 @@
       "files": [
         {
           "path": "skins/497/497004/497057/Rakan.wad.client",
-          "size": 89362,
-          "sha256": "c699f68ea2ad7b1643382daab1920e25d9d24e111ece520d5fed604aac28c6fd"
+          "size": 183987,
+          "sha256": "18084bb0873eb9ab3318e4e15a694b3080d0e186c0d2676416aa52412f6747e2"
         }
       ],
       "wads": {
         "Rakan.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3078,
-          "bytes_after": 89362,
+          "bytes_before": 89362,
+          "bytes_after": 183987,
           "replacement_hashes": [
+            "8aa1f2469301c161",
             "c863f38228c74ee5"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Rakan.wad.client",
-            "normal_hash": "c863f38228c74ee5",
-            "border_hash": "8aa1f2469301c161",
-            "bytes": 86252,
-            "sha256": "4facc7a875a1b7ae84d1ae2cd6f9ded257b0f29fb2e86cb113496c28d4499440"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

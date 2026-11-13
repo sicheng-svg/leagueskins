@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/266/266033/266036/Aatrox.wad.client",
-      "size": 332952,
-      "sha256": "6ef6c6fdf60167ae3e2aaef931bfb1060b8c92bdaf732c888a2ef425c6c08d55"
+      "size": 419194,
+      "sha256": "5a8238e03fa06265ed9a548ab600c34a8d3cbee35a01af6da78cfb0ef0cb5353"
     }
   ],
   "wads": {
     "Aatrox.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 353774,
-      "bytes_after": 332952,
+      "bytes_before": 332952,
+      "bytes_after": 419194,
       "replacement_hashes": [
-        "154be1414cc38526"
+        "154be1414cc38526",
+        "f95a5ae8ce3a403d"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Aatrox.wad.client",
-        "normal_hash": "154be1414cc38526",
-        "border_hash": "f95a5ae8ce3a403d",
-        "bytes": 86252,
-        "sha256": "e7a72667aae65c2e5c0ad5b206bcc3b3d69ab6daf9e2cd9652b5d545eca4edda",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Aatrox.wad.client": [

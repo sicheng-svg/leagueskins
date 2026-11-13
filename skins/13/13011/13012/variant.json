@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/13/13011/13012/Ryze.wad.client",
-      "size": 88915,
-      "sha256": "745768ee07b059f34a7f6cb2fa15e8024c4ddfe786f26f145db363c58fa96a5a"
+      "size": 178903,
+      "sha256": "e66dda582a6288d4b73fc375256a3ce706869736565aa026036e8d19cc4bab15"
     }
   ],
   "wads": {
     "Ryze.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2631,
-      "bytes_after": 88915,
+      "bytes_before": 88915,
+      "bytes_after": 178903,
       "replacement_hashes": [
-        "22e728d4d8534615"
+        "22e728d4d8534615",
+        "5a4803daec9ce1f2"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Ryze.wad.client",
-        "normal_hash": "22e728d4d8534615",
-        "border_hash": "5a4803daec9ce1f2",
-        "bytes": 86252,
-        "sha256": "9d6a22b00e0fc9260f263c1f7a893e76250aa1223d468ece906f78a0004a82af"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

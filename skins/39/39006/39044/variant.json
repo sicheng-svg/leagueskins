@@ -15,41 +15,27 @@
   "files": [
     {
       "path": "skins/39/39006/39044/Irelia.wad.client",
-      "size": 90898,
-      "sha256": "3823ec4d4c822c984c6ac0f7b8031323e6eabbe37a1fbbb9c7cdf4c49f04233f"
+      "size": 183144,
+      "sha256": "6de2b0ff03fa1db90c711ecbb401880b17c9ad7b21dca174f0193777bcb96a54"
     }
   ],
   "wads": {
     "Irelia.wad.client": {
-      "entries_before": 2,
-      "entries_after": 3,
+      "entries_before": 3,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4614,
-      "bytes_after": 90898,
+      "bytes_before": 90898,
+      "bytes_after": 183144,
       "replacement_hashes": [
-        "9220d6e2b496dae4"
+        "9220d6e2b496dae4",
+        "f543414415f5af1f"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Irelia.wad.client",
-        "normal_hash": "9220d6e2b496dae4",
-        "border_hash": "f543414415f5af1f",
-        "bytes": 86252,
-        "sha256": "ffca9d098f8d1811e50e127e64e29ac2747a2a8eb31f54ec788f3b24a17f55f4"
-      },
-      {
-        "archive": "Irelia.wad.client",
-        "normal_hash": "9220d6e2b496dae4",
-        "border_hash": "f543414415f5af1f",
-        "bytes": 86252,
-        "sha256": "ffca9d098f8d1811e50e127e64e29ac2747a2a8eb31f54ec788f3b24a17f55f4"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

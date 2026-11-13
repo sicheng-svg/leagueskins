@@ -15,41 +15,27 @@
   "files": [
     {
       "path": "skins/1/1022/1028/Annie.wad.client",
-      "size": 89533,
-      "sha256": "cb3cf5e0c8627db3f0bc27856c2dcf605b639920f5cc77585d2a865ee031bb39"
+      "size": 175817,
+      "sha256": "55f0dc7ef44205be55fb1079519773d0a8300fadcdf286a2e581fdfbd309bb32"
     }
   ],
   "wads": {
     "Annie.wad.client": {
-      "entries_before": 2,
-      "entries_after": 3,
+      "entries_before": 3,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3249,
-      "bytes_after": 89533,
+      "bytes_before": 89533,
+      "bytes_after": 175817,
       "replacement_hashes": [
+        "183164843e944462",
         "ae38d9e99da9cbdc"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Annie.wad.client",
-        "normal_hash": "ae38d9e99da9cbdc",
-        "border_hash": "183164843e944462",
-        "bytes": 86252,
-        "sha256": "9806b7fd76451204b556e4211f1832724c96aacd83bffe7e90bab45b44591b25"
-      },
-      {
-        "archive": "Annie.wad.client",
-        "normal_hash": "ae38d9e99da9cbdc",
-        "border_hash": "183164843e944462",
-        "bytes": 86252,
-        "sha256": "9806b7fd76451204b556e4211f1832724c96aacd83bffe7e90bab45b44591b25"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/7/7019/7058/Leblanc.wad.client",
-      "size": 89664,
-      "sha256": "700240ef04c13de6ba9e01d3300b404262177cf61407d7b4bf8369555b0656ff"
+      "size": 182726,
+      "sha256": "871202a2ffa1121682875542eb971a3b45e96215609964b61fe29432def284a9"
     }
   ],
   "wads": {
     "Leblanc.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3380,
-      "bytes_after": 89664,
+      "bytes_before": 89664,
+      "bytes_after": 182726,
       "replacement_hashes": [
-        "0a00e48a9969284a"
+        "0a00e48a9969284a",
+        "94b45b7067d66485"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Leblanc.wad.client",
-        "normal_hash": "0a00e48a9969284a",
-        "border_hash": "94b45b7067d66485",
-        "bytes": 86252,
-        "sha256": "d62df34b420e42d916a0d04f58bc4d55ab0842ea13eaebe79449b35ce1285554"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

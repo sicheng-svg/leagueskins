@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/498/498047/498054/Xayah.wad.client",
-      "size": 274741,
-      "sha256": "d0d9bb9e5c060803345a9f8d0d366029d9ff8ec02b8cc1663c2940056cf8baa9"
+      "size": 361025,
+      "sha256": "6fda4885fcc5ac16f47b11841e3ada9b2a8855a4472c300d85637f29427cdb2b"
     }
   ],
   "wads": {
     "Xayah.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 277990,
-      "bytes_after": 274741,
+      "bytes_before": 274741,
+      "bytes_after": 361025,
       "replacement_hashes": [
+        "5a6b1f73e33399b4",
         "6e4709e53554a244"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Xayah.wad.client",
-        "normal_hash": "6e4709e53554a244",
-        "border_hash": "5a6b1f73e33399b4",
-        "bytes": 86252,
-        "sha256": "81f7e6ddce636b64ed9f5731949da6e316a5b0cd2c11e043b98b014a07df832c",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Xayah.wad.client": [

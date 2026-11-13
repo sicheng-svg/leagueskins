@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/42/42018/42024/Corki.wad.client",
-      "size": 88634,
-      "sha256": "4beaa67b0d8a66584f5c4564a7068eb8ea0de9a61deb30f6fe96a3de31d023da"
+      "size": 174918,
+      "sha256": "d87220fabc063fd46d1e610580c6e5b5d03c5e94b59dc0de4f9f41301d056436"
     }
   ],
   "wads": {
     "Corki.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2350,
-      "bytes_after": 88634,
+      "bytes_before": 88634,
+      "bytes_after": 174918,
       "replacement_hashes": [
+        "962d3237e8b24976",
         "f7ff73a87516011a"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Corki.wad.client",
-        "normal_hash": "f7ff73a87516011a",
-        "border_hash": "962d3237e8b24976",
-        "bytes": 86252,
-        "sha256": "2a758bea65cb78001bc308a0a730adde943a91044e0489cd26fe6b423624f5de"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

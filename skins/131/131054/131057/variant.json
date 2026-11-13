@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/131/131054/131057/Diana.wad.client",
-      "size": 88705,
-      "sha256": "7838a5b09630ed63c4beac2cc3d73cca7db6dd15d1add715e332b300cdbd3ce1"
+      "size": 177239,
+      "sha256": "5365201fcc2c8db929c36c6285e1a8bf59b6ad3a51ffc1814fc812de9128e9b9"
     }
   ],
   "wads": {
     "Diana.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2421,
-      "bytes_after": 88705,
+      "bytes_before": 88705,
+      "bytes_after": 177239,
       "replacement_hashes": [
+        "63c2be1ed4cb9e0a",
         "bee34ab3e200e50e"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Diana.wad.client",
-        "normal_hash": "bee34ab3e200e50e",
-        "border_hash": "63c2be1ed4cb9e0a",
-        "bytes": 86252,
-        "sha256": "afd6cf4ebe0c0c6fbe04e927f7fd54f3dafdc8c9c8173ef84247b8e4e3d09455"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

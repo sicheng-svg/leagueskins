@@ -404,23 +404,25 @@
       "files": [
         {
           "path": "skins/201/201001/201021/Braum.wad.client",
-          "size": 2651,
-          "sha256": "0dda051fc85c5c6e8ab9e0b199fb0e7387c58f75d23a9258f32c3804aa58e51f"
+          "size": 91671,
+          "sha256": "bee46fb9c0726495d120dad753b24c4dc2cadaceff8c296bff48aac3f4fce351"
         }
       ],
       "wads": {
         "Braum.wad.client": {
           "entries_before": 1,
-          "entries_after": 1,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
           "bytes_before": 2651,
-          "bytes_after": 2651,
-          "replacement_hashes": []
+          "bytes_after": 91671,
+          "replacement_hashes": [
+            "b1f2faae89284fad"
+          ]
         }
       },
       "border": {
-        "status": "not_declared",
+        "status": "not_included",
         "images": []
       },
       "native_rebuilt_entries": {},

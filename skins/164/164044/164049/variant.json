@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/164/164044/164049/Camille.wad.client",
-      "size": 89917,
-      "sha256": "ebd6baf611c45afb2e8f7724c7561338c5cc26f6141f33d3e613f362ed95e8cd"
+      "size": 183118,
+      "sha256": "2b1eb11cd0f466c0e5e537a8dcdd1fafe7204b4d0ae968381f8d80b1d151cbe2"
     }
   ],
   "wads": {
     "Camille.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3633,
-      "bytes_after": 89917,
+      "bytes_before": 89917,
+      "bytes_after": 183118,
       "replacement_hashes": [
+        "9a2a004a0582034c",
         "e89f483c7939b8ff"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Camille.wad.client",
-        "normal_hash": "e89f483c7939b8ff",
-        "border_hash": "9a2a004a0582034c",
-        "bytes": 86252,
-        "sha256": "3c140b45b4ffe2b465b6877b3052782331412f9bd688cefc1c6d184d22d5fbdb"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

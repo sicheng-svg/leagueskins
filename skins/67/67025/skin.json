@@ -85,35 +85,27 @@
       "files": [
         {
           "path": "skins/67/67025/67026/Vayne.wad.client",
-          "size": 107022,
-          "sha256": "a431c6b0d752053534c6ebfe557a33e3bdd37bdb838a3921bc1608327fce6ce0"
+          "size": 193264,
+          "sha256": "300c7ecc07bfa3d77860992f2d310298cc29c735c7a73604666facae164a17bf"
         }
       ],
       "wads": {
         "Vayne.wad.client": {
           "entries_before": 2,
-          "entries_after": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 109618,
-          "bytes_after": 107022,
+          "bytes_before": 107022,
+          "bytes_after": 193264,
           "replacement_hashes": [
-            "39bc6fe6690f6e7b"
+            "39bc6fe6690f6e7b",
+            "47abfddae387e5e7"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Vayne.wad.client",
-            "normal_hash": "39bc6fe6690f6e7b",
-            "border_hash": "47abfddae387e5e7",
-            "bytes": 86252,
-            "sha256": "801adc5da73ed60d6b33948c7ce36566abc7fd3535e1cf852daadc80bae14299",
-            "strategy": "replace_normal_image"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {
         "Vayne.wad.client": [

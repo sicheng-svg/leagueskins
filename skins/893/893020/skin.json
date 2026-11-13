@@ -540,41 +540,27 @@
       "files": [
         {
           "path": "skins/893/893020/893028/Aurora.wad.client",
-          "size": 91004,
-          "sha256": "23b584e6d74556a1f4181603c9d671cf17e76959f37fc542ae7dea3d542adb76"
+          "size": 177288,
+          "sha256": "ccf5bb8c15bb4b64478c3ca2912731791801cce7a26dbb9a9ad9f8235eb54d5b"
         }
       ],
       "wads": {
         "Aurora.wad.client": {
-          "entries_before": 2,
-          "entries_after": 3,
+          "entries_before": 3,
+          "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4720,
-          "bytes_after": 91004,
+          "bytes_before": 91004,
+          "bytes_after": 177288,
           "replacement_hashes": [
-            "2514c969a30ece8f"
+            "2514c969a30ece8f",
+            "e951ff0117467095"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Aurora.wad.client",
-            "normal_hash": "2514c969a30ece8f",
-            "border_hash": "e951ff0117467095",
-            "bytes": 86252,
-            "sha256": "a7054477a2f7d02254a33f60417a571c448c3b15edc56a20f7c1fdcd39df590f"
-          },
-          {
-            "archive": "Aurora.wad.client",
-            "normal_hash": "2514c969a30ece8f",
-            "border_hash": "e951ff0117467095",
-            "bytes": 86252,
-            "sha256": "a7054477a2f7d02254a33f60417a571c448c3b15edc56a20f7c1fdcd39df590f"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

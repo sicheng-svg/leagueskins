@@ -921,67 +921,27 @@
       "files": [
         {
           "path": "skins/143/143036/143045/Zyra.wad.client",
-          "size": 335811,
-          "sha256": "f7198af8a35af64625d658d6a4ab16ccb2b97f499fe45d150e0a3ecac86e2dcf"
+          "size": 422062,
+          "sha256": "1dd9db818bac4fd3aa57ff7278566ee0d8f36fd883a81c92dc2bf0a73e17fffb"
         }
       ],
       "wads": {
         "Zyra.wad.client": {
           "entries_before": 6,
-          "entries_after": 6,
+          "entries_after": 7,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 343998,
-          "bytes_after": 335811,
+          "bytes_before": 335811,
+          "bytes_after": 422062,
           "replacement_hashes": [
+            "76914417a86783b5",
             "e03abfffe0224620"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Zyra.wad.client",
-            "normal_hash": "e03abfffe0224620",
-            "border_hash": "76914417a86783b5",
-            "bytes": 86252,
-            "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
-            "strategy": "replace_normal_image"
-          },
-          {
-            "archive": "Zyra.wad.client",
-            "normal_hash": "e03abfffe0224620",
-            "border_hash": "76914417a86783b5",
-            "bytes": 86252,
-            "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
-            "strategy": "replace_normal_image"
-          },
-          {
-            "archive": "Zyra.wad.client",
-            "normal_hash": "e03abfffe0224620",
-            "border_hash": "76914417a86783b5",
-            "bytes": 86252,
-            "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
-            "strategy": "replace_normal_image"
-          },
-          {
-            "archive": "Zyra.wad.client",
-            "normal_hash": "e03abfffe0224620",
-            "border_hash": "76914417a86783b5",
-            "bytes": 86252,
-            "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
-            "strategy": "replace_normal_image"
-          },
-          {
-            "archive": "Zyra.wad.client",
-            "normal_hash": "e03abfffe0224620",
-            "border_hash": "76914417a86783b5",
-            "bytes": 86252,
-            "sha256": "74b2ed30eed40bbda2a23e52503bff12708ae6826a431415c6049dab58a5dfeb",
-            "strategy": "replace_normal_image"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {
         "Zyra.wad.client": [

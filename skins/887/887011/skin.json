@@ -368,34 +368,27 @@
       "files": [
         {
           "path": "skins/887/887011/887017/Gwen.wad.client",
-          "size": 89272,
-          "sha256": "323ba6701ecd7ae53f2e59b035d68811e8cd13cb1b88a7a7212145c2b44d9c6d"
+          "size": 175556,
+          "sha256": "04b4f77a7be969393f154d80039cdbb48fcf2000a01546c744d9e21e646f011f"
         }
       ],
       "wads": {
         "Gwen.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2988,
-          "bytes_after": 89272,
+          "bytes_before": 89272,
+          "bytes_after": 175556,
           "replacement_hashes": [
+            "ba12887d2a48e6cb",
             "ee1e60737287f082"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Gwen.wad.client",
-            "normal_hash": "ee1e60737287f082",
-            "border_hash": "ba12887d2a48e6cb",
-            "bytes": 86252,
-            "sha256": "bbbea5bcc9bfb6016bc1b439ccf780e6d428743c5da404357c556baa79e04be4"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

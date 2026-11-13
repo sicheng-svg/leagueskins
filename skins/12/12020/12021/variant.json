@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/12/12020/12021/Alistar.wad.client",
-      "size": 88086,
-      "sha256": "13702337a09c56ec7129228623c4c74a0c50c78f875d9238326ad660072ae079"
+      "size": 175999,
+      "sha256": "7edbe8e15b817cdb462be4b199c747f7093bdd608a0ba1540bb317f87cb5b952"
     }
   ],
   "wads": {
     "Alistar.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 1802,
-      "bytes_after": 88086,
+      "bytes_before": 88086,
+      "bytes_after": 175999,
       "replacement_hashes": [
-        "8230e3363c2e717d"
+        "8230e3363c2e717d",
+        "8fc03aefa2c83854"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Alistar.wad.client",
-        "normal_hash": "8230e3363c2e717d",
-        "border_hash": "8fc03aefa2c83854",
-        "bytes": 86252,
-        "sha256": "7c1bebe48d7a383d1ac63830b9c806117d11e466db28af755afd3ac17a0416e4"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

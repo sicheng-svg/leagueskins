@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/103/103088/103090/Ahri.wad.client",
-      "size": 90166,
-      "sha256": "dff01af111e89b3169ff8fd43798d549ddf638205464d3dcf98992b39625cd83"
+      "size": 182423,
+      "sha256": "50f1dcc599b653cab1ab8cffe3b8e48440480f26770c2503681cfc74b63d52bc"
     }
   ],
   "wads": {
     "Ahri.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3882,
-      "bytes_after": 90166,
+      "bytes_before": 90166,
+      "bytes_after": 182423,
       "replacement_hashes": [
+        "1b0aad0a463c397c",
         "f597cd99228e05d0"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Ahri.wad.client",
-        "normal_hash": "f597cd99228e05d0",
-        "border_hash": "1b0aad0a463c397c",
-        "bytes": 86252,
-        "sha256": "7c66acd2bd0fbf71a33baef3574d4f9f14cbcd14e623b4f024701f3497e5863d"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

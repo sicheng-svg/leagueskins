@@ -194,34 +194,27 @@
       "files": [
         {
           "path": "skins/517/517024/517027/Sylas.wad.client",
-          "size": 89341,
-          "sha256": "5f82d5efabd59c55cda325df0f2ebaaa0ed14623b8e5606146556faeb4622df1"
+          "size": 175625,
+          "sha256": "b644b8a8cfb2902f9cd9086655a8b47a5bf62376330c1be85c3f9ab8a56d191e"
         }
       ],
       "wads": {
         "Sylas.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3057,
-          "bytes_after": 89341,
+          "bytes_before": 89341,
+          "bytes_after": 175625,
           "replacement_hashes": [
+            "3433db18afcfa732",
             "df5013aa06a0134b"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Sylas.wad.client",
-            "normal_hash": "df5013aa06a0134b",
-            "border_hash": "3433db18afcfa732",
-            "bytes": 86252,
-            "sha256": "5c7df4a6efd51e1baa6f349e158fa56f24fc32d588877339b455f94c9d0db567"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

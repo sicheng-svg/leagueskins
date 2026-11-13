@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/804/804001/804007/Yunara.wad.client",
-      "size": 89981,
-      "sha256": "2b9d81608ad979e2d8be4eb5839e8af352ce8566de7084914b8bda80c0b35689"
+      "size": 176265,
+      "sha256": "3d652e90491f869d4515945b397bdbbd8c4a1b6ae42d203b32128a04c59b85ee"
     }
   ],
   "wads": {
     "Yunara.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3697,
-      "bytes_after": 89981,
+      "bytes_before": 89981,
+      "bytes_after": 176265,
       "replacement_hashes": [
+        "09f134d3eb3a8455",
         "9d544421c1349ce2"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Yunara.wad.client",
-        "normal_hash": "9d544421c1349ce2",
-        "border_hash": "09f134d3eb3a8455",
-        "bytes": 86252,
-        "sha256": "65d3f8ddd69cba5413c6c4f50249d7ee9dd88195dde008067521ddee2016f3b5"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

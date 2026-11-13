@@ -215,41 +215,27 @@
       "files": [
         {
           "path": "skins/202/202036/202040/Jhin.wad.client",
-          "size": 89988,
-          "sha256": "3c021b30b6903fbe3a9b9f587d0295e10940ab0a76004e6383f21acc4cb6ff2c"
+          "size": 176272,
+          "sha256": "8c24ba0b63e8c0abe0794c4baf46bf7ac5cd78efa8c5cc1c29cd5ed841c699ec"
         }
       ],
       "wads": {
         "Jhin.wad.client": {
-          "entries_before": 2,
-          "entries_after": 3,
+          "entries_before": 3,
+          "entries_after": 4,
           "was_sorted": false,
           "version": "3.4",
-          "bytes_before": 3704,
-          "bytes_after": 89988,
+          "bytes_before": 89988,
+          "bytes_after": 176272,
           "replacement_hashes": [
+            "05187b66b1d97cf9",
             "08d2e1a9d8ea8d93"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Jhin.wad.client",
-            "normal_hash": "08d2e1a9d8ea8d93",
-            "border_hash": "05187b66b1d97cf9",
-            "bytes": 86252,
-            "sha256": "34d33f5468125af186a12e695419fed6d3b2e9ba0b97a4d9af89a6e09ee9c23d"
-          },
-          {
-            "archive": "Jhin.wad.client",
-            "normal_hash": "08d2e1a9d8ea8d93",
-            "border_hash": "05187b66b1d97cf9",
-            "bytes": 86252,
-            "sha256": "34d33f5468125af186a12e695419fed6d3b2e9ba0b97a4d9af89a6e09ee9c23d"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

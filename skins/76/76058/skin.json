@@ -236,48 +236,27 @@
       "files": [
         {
           "path": "skins/76/76058/76061/Nidalee.wad.client",
-          "size": 91035,
-          "sha256": "663883f523cd9662e6574ca3e7da2253b548cfb4133dd4f1802d3be5fa1236cd"
+          "size": 177319,
+          "sha256": "9a615a149ab4bc427766238a83d671d46e488c98c5372ea81d82adb916c15616"
         }
       ],
       "wads": {
         "Nidalee.wad.client": {
-          "entries_before": 3,
-          "entries_after": 4,
+          "entries_before": 4,
+          "entries_after": 5,
           "was_sorted": false,
           "version": "3.4",
-          "bytes_before": 4751,
-          "bytes_after": 91035,
+          "bytes_before": 91035,
+          "bytes_after": 177319,
           "replacement_hashes": [
-            "b13766c6188a241a"
+            "b13766c6188a241a",
+            "b1f663579cc4f2a8"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Nidalee.wad.client",
-            "normal_hash": "b13766c6188a241a",
-            "border_hash": "b1f663579cc4f2a8",
-            "bytes": 86252,
-            "sha256": "67768f9751d2e4fc223a21d096973da2eea585904fbe2e9778e64b1a38081ac7"
-          },
-          {
-            "archive": "Nidalee.wad.client",
-            "normal_hash": "b13766c6188a241a",
-            "border_hash": "b1f663579cc4f2a8",
-            "bytes": 86252,
-            "sha256": "67768f9751d2e4fc223a21d096973da2eea585904fbe2e9778e64b1a38081ac7"
-          },
-          {
-            "archive": "Nidalee.wad.client",
-            "normal_hash": "b13766c6188a241a",
-            "border_hash": "b1f663579cc4f2a8",
-            "bytes": 86252,
-            "sha256": "67768f9751d2e4fc223a21d096973da2eea585904fbe2e9778e64b1a38081ac7"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

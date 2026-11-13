@@ -484,34 +484,27 @@
       "files": [
         {
           "path": "skins/78/78042/78050/Poppy.wad.client",
-          "size": 89288,
-          "sha256": "c43a51c2850ad550b6074dffaf7e0c43e3950cb9863b9ecdfb8b654ca6cbfb3d"
+          "size": 179579,
+          "sha256": "43f6814f38e9def2bfb1260da3b179a090cdd679da92bca31adfc300ecedd36c"
         }
       ],
       "wads": {
         "Poppy.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3004,
-          "bytes_after": 89288,
+          "bytes_before": 89288,
+          "bytes_after": 179579,
           "replacement_hashes": [
-            "456f19e6a585b87c"
+            "456f19e6a585b87c",
+            "bbe440ffaa461483"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Poppy.wad.client",
-            "normal_hash": "456f19e6a585b87c",
-            "border_hash": "bbe440ffaa461483",
-            "bytes": 86252,
-            "sha256": "05ffc1dbb7ee95851998b132958d5e903123662d77f11cbe75e9634181e6bdb9"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

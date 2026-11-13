@@ -368,34 +368,27 @@
       "files": [
         {
           "path": "skins/89/89021/89029/Leona.wad.client",
-          "size": 89100,
-          "sha256": "b8fccc19ae00e29f566dfdf94382294ddfb1dd91cd6a7984307a3ee8537aa468"
+          "size": 175384,
+          "sha256": "e43a847a1c702561fa1fd0977178d9edbd2c14d68a39019f11bf08705529f88e"
         }
       ],
       "wads": {
         "Leona.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2816,
-          "bytes_after": 89100,
+          "bytes_before": 89100,
+          "bytes_after": 175384,
           "replacement_hashes": [
+            "5f375f8da9e972c9",
             "fd63140f4d0f5edd"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Leona.wad.client",
-            "normal_hash": "fd63140f4d0f5edd",
-            "border_hash": "5f375f8da9e972c9",
-            "bytes": 86252,
-            "sha256": "741af33777e49d35a941b58db4e8e1aa5c99b72ce772dacaf28df964acea24f3"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

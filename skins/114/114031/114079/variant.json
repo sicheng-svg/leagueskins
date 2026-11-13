@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/114/114031/114079/Fiora.wad.client",
-      "size": 88701,
-      "sha256": "db373a9ab3625555532eb61266ada60396649a5bd09e612a67e8092e6ddef21d"
+      "size": 177701,
+      "sha256": "5461649260394b9d7ac72754a235a82b55794272355e8865a08f9caec78c3050"
     }
   ],
   "wads": {
     "Fiora.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2417,
-      "bytes_after": 88701,
+      "bytes_before": 88701,
+      "bytes_after": 177701,
       "replacement_hashes": [
-        "1ba73d98b9d7e80a"
+        "1ba73d98b9d7e80a",
+        "45f731da764be49e"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Fiora.wad.client",
-        "normal_hash": "1ba73d98b9d7e80a",
-        "border_hash": "45f731da764be49e",
-        "bytes": 86252,
-        "sha256": "21d906b63a5598792881ea922593c1e9bce0746b7f344542ffafb691c8573643"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

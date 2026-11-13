@@ -15,48 +15,27 @@
   "files": [
     {
       "path": "skins/60/60024/60031/Elise.wad.client",
-      "size": 91444,
-      "sha256": "dddd334bb02c90197fa9674bd36e3d46ceb0190e40da1c9b427818b151d04500"
+      "size": 177728,
+      "sha256": "3b9a5ab950fd2a3e37f8cbeb7a6175c3ea04b2b0e18e509b5b12b5f3b3b2460c"
     }
   ],
   "wads": {
     "Elise.wad.client": {
-      "entries_before": 3,
-      "entries_after": 4,
+      "entries_before": 4,
+      "entries_after": 5,
       "was_sorted": false,
       "version": "3.4",
-      "bytes_before": 5160,
-      "bytes_after": 91444,
+      "bytes_before": 91444,
+      "bytes_after": 177728,
       "replacement_hashes": [
-        "1bd1e1e06bf347f4"
+        "1bd1e1e06bf347f4",
+        "53fa4a7fe90bad36"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Elise.wad.client",
-        "normal_hash": "1bd1e1e06bf347f4",
-        "border_hash": "53fa4a7fe90bad36",
-        "bytes": 86252,
-        "sha256": "36923e79f4823cba92a60209bcdd0fd27a9ef1e8cf696e1766b7f41121b76f19"
-      },
-      {
-        "archive": "Elise.wad.client",
-        "normal_hash": "1bd1e1e06bf347f4",
-        "border_hash": "53fa4a7fe90bad36",
-        "bytes": 86252,
-        "sha256": "36923e79f4823cba92a60209bcdd0fd27a9ef1e8cf696e1766b7f41121b76f19"
-      },
-      {
-        "archive": "Elise.wad.client",
-        "normal_hash": "1bd1e1e06bf347f4",
-        "border_hash": "53fa4a7fe90bad36",
-        "bytes": 86252,
-        "sha256": "36923e79f4823cba92a60209bcdd0fd27a9ef1e8cf696e1766b7f41121b76f19"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

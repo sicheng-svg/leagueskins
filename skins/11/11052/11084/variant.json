@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/11/11052/11084/MasterYi.wad.client",
-      "size": 88773,
-      "sha256": "6f1ee931decb8e0faeb47c6200ac9d747acab7e81e54785b83b2c2d8c746f8c5"
+      "size": 175057,
+      "sha256": "428f0c440c1012c6f7d04daded44a4c867ac391209199beb4446f1fca0cb0c52"
     }
   ],
   "wads": {
     "MasterYi.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2489,
-      "bytes_after": 88773,
+      "bytes_before": 88773,
+      "bytes_after": 175057,
       "replacement_hashes": [
+        "c920f5d9298c366a",
         "cd74150292aad79f"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "MasterYi.wad.client",
-        "normal_hash": "cd74150292aad79f",
-        "border_hash": "c920f5d9298c366a",
-        "bytes": 86252,
-        "sha256": "04975251d96c500cd5e4773f3d04519157aa0ed6d945f9564b09b0d95e9e7fab"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

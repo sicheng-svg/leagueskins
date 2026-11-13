@@ -260,23 +260,25 @@
       "files": [
         {
           "path": "skins/91/91029/91034/Talon.wad.client",
-          "size": 2309,
-          "sha256": "1a1b1c4113c4f7e01bfc9c0a14dd7814c4a36919b1b9b95f91f20a5c247ce4e7"
+          "size": 90953,
+          "sha256": "7aae9fe886c58a9662eca8abdf771495fe3396a755ecc96c7135fc07d70079b4"
         }
       ],
       "wads": {
         "Talon.wad.client": {
           "entries_before": 1,
-          "entries_after": 1,
+          "entries_after": 2,
           "was_sorted": true,
           "version": "3.4",
           "bytes_before": 2309,
-          "bytes_after": 2309,
-          "replacement_hashes": []
+          "bytes_after": 90953,
+          "replacement_hashes": [
+            "f8176a70a4f1451f"
+          ]
         }
       },
       "border": {
-        "status": "not_declared",
+        "status": "not_included",
         "images": []
       },
       "native_rebuilt_entries": {},

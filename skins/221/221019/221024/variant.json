@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/221/221019/221024/Zeri.wad.client",
-      "size": 507923,
-      "sha256": "59fa0aaa58f6d2b3ded707c32ce83cb36d1b0f5a0eeb7905fa9d1798ec6c49d1"
+      "size": 594174,
+      "sha256": "60f905ef4eba95e26b383f0dfc7db45eecbc4a903832328811975c56e183fd9c"
     }
   ],
   "wads": {
     "Zeri.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 510970,
-      "bytes_after": 507923,
+      "bytes_before": 507923,
+      "bytes_after": 594174,
       "replacement_hashes": [
-        "dd0d8535c88be2fa"
+        "dd0d8535c88be2fa",
+        "f81cfd5b1234856f"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Zeri.wad.client",
-        "normal_hash": "dd0d8535c88be2fa",
-        "border_hash": "f81cfd5b1234856f",
-        "bytes": 86252,
-        "sha256": "6005177ba01f16e41d03a5c49b9329ddd4812a01eeb9c120fa13ac5bf941db7c",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Zeri.wad.client": [

@@ -149,35 +149,27 @@
       "files": [
         {
           "path": "skins/55/55012/55014/Katarina.wad.client",
-          "size": 146314,
-          "sha256": "4b6c96d8c6951e18b2122a1e3113e6460547e4d6ceb1bf3264e0caaf581eab6b"
+          "size": 232598,
+          "sha256": "80c0a3abc99c9d29b802b73baaddb30d649f3646ce1584ceae3bb3f3d9454e03"
         }
       ],
       "wads": {
         "Katarina.wad.client": {
           "entries_before": 2,
-          "entries_after": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 148578,
-          "bytes_after": 146314,
+          "bytes_before": 146314,
+          "bytes_after": 232598,
           "replacement_hashes": [
-            "a3c81716e1edf09a"
+            "a3c81716e1edf09a",
+            "aab72dc04fa5b854"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Katarina.wad.client",
-            "normal_hash": "a3c81716e1edf09a",
-            "border_hash": "aab72dc04fa5b854",
-            "bytes": 86252,
-            "sha256": "00b3b476baac15ab5ed49da2ab687a2f7afdb00bc2ce3e90f53414c0090dcae6",
-            "strategy": "replace_normal_image"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {
         "Katarina.wad.client": [

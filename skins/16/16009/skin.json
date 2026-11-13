@@ -136,34 +136,27 @@
       "files": [
         {
           "path": "skins/16/16009/16011/Soraka.wad.client",
-          "size": 88480,
-          "sha256": "4c6be3d07d15f244c591e5e65892eabba72f641ce9bbd1ac89435080671750b7"
+          "size": 176814,
+          "sha256": "a9e06c8e47be75178a714326c2ed869692b752db7367b8ef22b93567e985c952"
         }
       ],
       "wads": {
         "Soraka.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2196,
-          "bytes_after": 88480,
+          "bytes_before": 88480,
+          "bytes_after": 176814,
           "replacement_hashes": [
-            "3d0e5325243056fa"
+            "3d0e5325243056fa",
+            "925db76b41d99084"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Soraka.wad.client",
-            "normal_hash": "3d0e5325243056fa",
-            "border_hash": "925db76b41d99084",
-            "bytes": 86252,
-            "sha256": "89e161942727c5bbf93de2eeead16b401f7ab9d846313f4f9cd7df6ca565746d"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

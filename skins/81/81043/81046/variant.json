@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/81/81043/81046/Ezreal.wad.client",
-      "size": 105932,
-      "sha256": "4be7079248e6f40b09f6710c51acac577d56a9f9c3746f5f0b469145844eec1e"
+      "size": 192216,
+      "sha256": "b61612e49a80d3397238a33879a2aeebab8dd63fb17e804b4b1d775b2f85107f"
     }
   ],
   "wads": {
     "Ezreal.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 108509,
-      "bytes_after": 105932,
+      "bytes_before": 105932,
+      "bytes_after": 192216,
       "replacement_hashes": [
-        "aaa5f8701c71fb3d"
+        "aaa5f8701c71fb3d",
+        "f55df45e5b500eb1"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Ezreal.wad.client",
-        "normal_hash": "aaa5f8701c71fb3d",
-        "border_hash": "f55df45e5b500eb1",
-        "bytes": 86252,
-        "sha256": "f90c83100f365103de2838fc2397180744842a42da4546aea2ac9585f34fdaae",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Ezreal.wad.client": [

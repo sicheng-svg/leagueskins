@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/875/875008/875055/Sett.wad.client",
-      "size": 111722,
-      "sha256": "a65b3da487c18cc20b482acb5d95d7d1fa1e860ebcf7386790723478fbc9142e"
+      "size": 198006,
+      "sha256": "c12d7e9b35cf5e51505e17a048fccb8cfd59e936b75fee144852782190c62f06"
     }
   ],
   "wads": {
     "Sett.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 113986,
-      "bytes_after": 111722,
+      "bytes_before": 111722,
+      "bytes_after": 198006,
       "replacement_hashes": [
-        "243186f8ac44552c"
+        "243186f8ac44552c",
+        "518e7e5a75b2087f"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Sett.wad.client",
-        "normal_hash": "243186f8ac44552c",
-        "border_hash": "518e7e5a75b2087f",
-        "bytes": 86252,
-        "sha256": "2a245534965dccef3147ad359afad692cd2dbabbe71c8b4ea94585ff168f41e0",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Sett.wad.client": [

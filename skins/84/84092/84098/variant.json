@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/84/84092/84098/Akali.wad.client",
-      "size": 175574,
-      "sha256": "9691d350ebfeea7863c4df6dc89b29e4d283b4033206a3fce8c39ad62dd6cc44"
+      "size": 175618,
+      "sha256": "719d4d75ea2d7f306b73c42f64ce04377ff7e56503fb1d03adecc8f4d2398965"
     }
   ],
   "wads": {
     "Akali.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3050,
-      "bytes_after": 175574,
+      "bytes_before": 175574,
+      "bytes_after": 175618,
       "replacement_hashes": [
-        "3f444eeaf070f2d1"
+        "3f444eeaf070f2d1",
+        "a05d3c62f1686b94"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Akali.wad.client",
-        "normal_hash": "3f444eeaf070f2d1",
-        "border_hash": "a05d3c62f1686b94",
-        "bytes": 172492,
-        "sha256": "cd651317bf5ec607fe251ff365c85e7f17989a621c20acfc86a1282654b4d488"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

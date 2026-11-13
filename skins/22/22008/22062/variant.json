@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/22/22008/22062/Ashe.wad.client",
-      "size": 89268,
-      "sha256": "1e778a59062886c2603b47b80b6f4490b0630a3e6fbc0d8e95e7d1546e8484e1"
+      "size": 180350,
+      "sha256": "498a75f097964331ba897f59619521327cdf071f5e21b342d9ffaf1c8b01c96d"
     }
   ],
   "wads": {
     "Ashe.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2984,
-      "bytes_after": 89268,
+      "bytes_before": 89268,
+      "bytes_after": 180350,
       "replacement_hashes": [
+        "8b36126d55c83fd8",
         "8f49a6c0abc39d2e"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Ashe.wad.client",
-        "normal_hash": "8f49a6c0abc39d2e",
-        "border_hash": "8b36126d55c83fd8",
-        "bytes": 86252,
-        "sha256": "7c71a8c6dd46875b5281a8c31d0be63d57f8431dfb7e86050e64bc952ade67a4"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

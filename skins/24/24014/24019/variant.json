@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/24/24014/24019/Jax.wad.client",
-      "size": 104616,
-      "sha256": "42b2164ca2ba8334bcbf3df792e57faa015def8ef4ca7e68dc28b14f95e81749"
+      "size": 190867,
+      "sha256": "334830c12122cfc27aa8885ba0ce39ab9a1c7344346fc3def23e515c55d4b56f"
     }
   ],
   "wads": {
     "Jax.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 108948,
-      "bytes_after": 104616,
+      "bytes_before": 104616,
+      "bytes_after": 190867,
       "replacement_hashes": [
+        "c9b7762b19db2e22",
         "db893aa3df83d811"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Jax.wad.client",
-        "normal_hash": "db893aa3df83d811",
-        "border_hash": "c9b7762b19db2e22",
-        "bytes": 86252,
-        "sha256": "47389e20aae2f9e0cd0974613d4a901d15d4d8c1f68bf9374a181b9f637848c0",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Jax.wad.client": [

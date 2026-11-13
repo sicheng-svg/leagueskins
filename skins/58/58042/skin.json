@@ -252,34 +252,27 @@
       "files": [
         {
           "path": "skins/58/58042/58046/Renekton.wad.client",
-          "size": 88593,
-          "sha256": "7f843bce61c71a978ff12ea254276c77faaf5eb08c39a9ad91bf31ee9b7fe080"
+          "size": 177411,
+          "sha256": "d7d460dedb0549014a1a8d84d367722e9698271a673c705827687868317f2161"
         }
       ],
       "wads": {
         "Renekton.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2309,
-          "bytes_after": 88593,
+          "bytes_before": 88593,
+          "bytes_after": 177411,
           "replacement_hashes": [
-            "b0efbbd0993193db"
+            "b0efbbd0993193db",
+            "fc087ede6e6b8d23"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Renekton.wad.client",
-            "normal_hash": "b0efbbd0993193db",
-            "border_hash": "fc087ede6e6b8d23",
-            "bytes": 86252,
-            "sha256": "e3861845fa808e98f20994b54e255cf07e6b4f79900b6ded8e47426efbe0d591"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

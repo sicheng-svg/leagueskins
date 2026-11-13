@@ -78,34 +78,27 @@
       "files": [
         {
           "path": "skins/110/110007/110008/Varus.wad.client",
-          "size": 88583,
-          "sha256": "247d3d0d5e9e2f6f8352bb90462d48ea12b118eed7b2e0bb0f3138055c80044b"
+          "size": 176807,
+          "sha256": "11c0845b5a305b132591bdf9382cbeb807d770243465b4708174c925cea43e81"
         }
       ],
       "wads": {
         "Varus.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2299,
-          "bytes_after": 88583,
+          "bytes_before": 88583,
+          "bytes_after": 176807,
           "replacement_hashes": [
+            "2d62a64c5a8ed7b3",
             "670730a24b3a0c1c"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Varus.wad.client",
-            "normal_hash": "670730a24b3a0c1c",
-            "border_hash": "2d62a64c5a8ed7b3",
-            "bytes": 86252,
-            "sha256": "354c62732a0077be8089fa98bc9072824c06f5a0642e0bee93053d9a63a8603d"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

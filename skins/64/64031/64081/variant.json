@@ -16,35 +16,27 @@
   "files": [
     {
       "path": "skins/64/64031/64081/LeeSin.wad.client",
-      "size": 293835,
-      "sha256": "97bf583139089f7c093053c7ce8f90532c3b5cbb5442351742fe21579148cb71"
+      "size": 380077,
+      "sha256": "a138fb800ebe5330294bb40187927662a7461c66fe147db3486204042effbb23"
     }
   ],
   "wads": {
     "LeeSin.wad.client": {
       "entries_before": 2,
-      "entries_after": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 296652,
-      "bytes_after": 293835,
+      "bytes_before": 293835,
+      "bytes_after": 380077,
       "replacement_hashes": [
-        "0861af6c820d19f9"
+        "0861af6c820d19f9",
+        "da9a4f4ac7571779"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "LeeSin.wad.client",
-        "normal_hash": "0861af6c820d19f9",
-        "border_hash": "da9a4f4ac7571779",
-        "bytes": 86252,
-        "sha256": "8ba1153b0251e7be15df89dcf9c18d35a83ec804750197f6c28cacec61d8d2bc",
-        "strategy": "replace_normal_image"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "LeeSin.wad.client": [

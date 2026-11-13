@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/98/98049/98050/Shen.wad.client",
-      "size": 88904,
-      "sha256": "465cf41c097cffda7a2b5eb343ded80b49c4fcc47c5678d4d068971de33235b1"
+      "size": 178030,
+      "sha256": "90eae1006aec214bcaf87c3e83532e399da3d31cb207235aed3b32d02342c145"
     }
   ],
   "wads": {
     "Shen.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2620,
-      "bytes_after": 88904,
+      "bytes_before": 88904,
+      "bytes_after": 178030,
       "replacement_hashes": [
+        "9336a7e01b0aff37",
         "eb45dd891054cc7c"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Shen.wad.client",
-        "normal_hash": "eb45dd891054cc7c",
-        "border_hash": "9336a7e01b0aff37",
-        "bytes": 86252,
-        "sha256": "9a931a6aff78af2d79335e2d92382a31c0e03174289b4c2537225e6ec9a15a10"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

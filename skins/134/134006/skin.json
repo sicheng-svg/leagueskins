@@ -382,34 +382,27 @@
       "files": [
         {
           "path": "skins/134/134006/134040/Syndra.wad.client",
-          "size": 89054,
-          "sha256": "639a8fe38a216eec10138dcfdfd9876723d25f215885219963a4a4869a4431a0"
+          "size": 175338,
+          "sha256": "3e7dce508a1659a39b714869b08f294b8933da73a260bc1f6ac2eb6a18c1bd52"
         }
       ],
       "wads": {
         "Syndra.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2770,
-          "bytes_after": 89054,
+          "bytes_before": 89054,
+          "bytes_after": 175338,
           "replacement_hashes": [
-            "0bab29c23a2d8904"
+            "0bab29c23a2d8904",
+            "2aa2a4a9670fafd6"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Syndra.wad.client",
-            "normal_hash": "0bab29c23a2d8904",
-            "border_hash": "2aa2a4a9670fafd6",
-            "bytes": 86252,
-            "sha256": "dc5134b1b91768cea3ddbf2fe5cb8b0e92538cb74a1ed0c75492bb725b395d4b"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

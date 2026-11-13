@@ -136,34 +136,27 @@
       "files": [
         {
           "path": "skins/79/79029/79031/Gragas.wad.client",
-          "size": 88480,
-          "sha256": "5ce970d980cab1c22bdbe1a18ddaabf48d06febaa75db9cbd2762d2d2482d2a8"
+          "size": 174764,
+          "sha256": "d96351f0773cbdbe46ed2f46ca05f0dcb7b7432a8f7379819d657a32ff47d1e9"
         }
       ],
       "wads": {
         "Gragas.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2196,
-          "bytes_after": 88480,
+          "bytes_before": 88480,
+          "bytes_after": 174764,
           "replacement_hashes": [
+            "194d5c451557d7e3",
             "d41e51ede4f2e172"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Gragas.wad.client",
-            "normal_hash": "d41e51ede4f2e172",
-            "border_hash": "194d5c451557d7e3",
-            "bytes": 86252,
-            "sha256": "fdfc8a932fccd93e145dad11a4b083c29c222f62479e99282d450a69cdcef49b"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

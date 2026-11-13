@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/267/267015/267016/Nami.wad.client",
-      "size": 89325,
-      "sha256": "91b270d1bf1c5911c3490b129f8cc3cff47a808c278f9461c204a2434905bb44"
+      "size": 175609,
+      "sha256": "964e7023d7881327bc1b32bc78d988cea92674480433b6d826b41b572396d7f1"
     }
   ],
   "wads": {
     "Nami.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3041,
-      "bytes_after": 89325,
+      "bytes_before": 89325,
+      "bytes_after": 175609,
       "replacement_hashes": [
-        "5603f6197ca2730e"
+        "5603f6197ca2730e",
+        "925f44e08a80ae44"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Nami.wad.client",
-        "normal_hash": "5603f6197ca2730e",
-        "border_hash": "925f44e08a80ae44",
-        "bytes": 86252,
-        "sha256": "2c5334a8115eb5789e8f830a244b53707edd69dbc9f19c6bb1b3c6a75f4bc72a"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

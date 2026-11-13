@@ -17,34 +17,27 @@
   "files": [
     {
       "path": "skins/876/876046/876051/Lillia.wad.client",
-      "size": 90796,
-      "sha256": "b74d7e7c9806928c19f55fe54d149b62311209c82676118a5cc9cdf02c15f722"
+      "size": 184163,
+      "sha256": "8d1675dfaa581c18c36712008c572c8ce264dcfa47d2b02bff2704d94fa59fe0"
     }
   ],
   "wads": {
     "Lillia.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 4512,
-      "bytes_after": 90796,
+      "bytes_before": 90796,
+      "bytes_after": 184163,
       "replacement_hashes": [
-        "82d2af0473070a47"
+        "82d2af0473070a47",
+        "a853fccd87492ffd"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Lillia.wad.client",
-        "normal_hash": "82d2af0473070a47",
-        "border_hash": "a853fccd87492ffd",
-        "bytes": 86252,
-        "sha256": "228fc64410870569065722dd3932e0fcf7c9d71bbfc8cc498b02612a040aa144"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

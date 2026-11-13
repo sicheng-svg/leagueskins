@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/110/110034/110040/Varus.wad.client",
-      "size": 89175,
-      "sha256": "b2e27f577dadff6044f2cc2d5a9e7cfcfa7f52615ae5e96721fa240eaf22c4f0"
+      "size": 175459,
+      "sha256": "f76a8d3fbf18de141bda79b8f347e3de3ac97de8bafa566f5f33d02574491e1c"
     }
   ],
   "wads": {
     "Varus.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2891,
-      "bytes_after": 89175,
+      "bytes_before": 89175,
+      "bytes_after": 175459,
       "replacement_hashes": [
-        "5d01c83905d6f3d6"
+        "5d01c83905d6f3d6",
+        "89e2b8d941f920dd"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Varus.wad.client",
-        "normal_hash": "5d01c83905d6f3d6",
-        "border_hash": "89e2b8d941f920dd",
-        "bytes": 86252,
-        "sha256": "2c07f432d0347461445d3530d05b78adc8e520dbd02c4124af8dbe46c1da3984"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

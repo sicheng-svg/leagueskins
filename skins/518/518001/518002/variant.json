@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/518/518001/518002/Neeko.wad.client",
-      "size": 89303,
-      "sha256": "865d0d0c0a929ce28bdcc5dee8fb7dfcb1adb77c041227fea69b5090bb8efcdd"
+      "size": 175587,
+      "sha256": "f09c5093dce7f944ceb740377b3f3dbb8e924c8758767fc7fec0815dfe2819aa"
     }
   ],
   "wads": {
     "Neeko.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3019,
-      "bytes_after": 89303,
+      "bytes_before": 89303,
+      "bytes_after": 175587,
       "replacement_hashes": [
+        "b591081320971d3a",
         "c5dbb854093f7076"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Neeko.wad.client",
-        "normal_hash": "c5dbb854093f7076",
-        "border_hash": "b591081320971d3a",
-        "bytes": 86252,
-        "sha256": "e87df3ac18177ea36ab96d3a624dfa95ff6d21adba37ef90af22df47988c996f"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

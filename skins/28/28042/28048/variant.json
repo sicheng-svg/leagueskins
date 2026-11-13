@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/28/28042/28048/Evelynn.wad.client",
-      "size": 89343,
-      "sha256": "c7c01ba01356d5a9a0e9c68dda6a69e63916cd34b4b4f6b3a8d14e2654efd67a"
+      "size": 179295,
+      "sha256": "a3dfabc39deaa15dcefc9beea0be444156fda39f37e406adfd29dfdf15937429"
     }
   ],
   "wads": {
     "Evelynn.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3059,
-      "bytes_after": 89343,
+      "bytes_before": 89343,
+      "bytes_after": 179295,
       "replacement_hashes": [
-        "d7ef7c6753f53df9"
+        "d7ef7c6753f53df9",
+        "e4460a26027e23b8"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Evelynn.wad.client",
-        "normal_hash": "d7ef7c6753f53df9",
-        "border_hash": "e4460a26027e23b8",
-        "bytes": 86252,
-        "sha256": "5a0752874debe0e2c4f0bc7d2779db28582c87e01a517fac4d44cbca0974471b"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

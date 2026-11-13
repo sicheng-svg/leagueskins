@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/126/126038/126040/Jayce.wad.client",
-      "size": 89441,
-      "sha256": "c98aa95227395bff0e7fb459429862c7e705bc696ec9113eeccc8d5cbb559a80"
+      "size": 179765,
+      "sha256": "31c6bfd29a5807a2a254e01a0f80a3b961a0a355938a204b00689f2671de0392"
     }
   ],
   "wads": {
     "Jayce.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3157,
-      "bytes_after": 89441,
+      "bytes_before": 89441,
+      "bytes_after": 179765,
       "replacement_hashes": [
-        "582fde1991c2de5c"
+        "582fde1991c2de5c",
+        "a133ad7e7a31f228"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Jayce.wad.client",
-        "normal_hash": "582fde1991c2de5c",
-        "border_hash": "a133ad7e7a31f228",
-        "bytes": 86252,
-        "sha256": "2c5ea81db931a6f9cc0fdaf77192c4bc4a3a27f9d11acc6f7aa9be50154a038e"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

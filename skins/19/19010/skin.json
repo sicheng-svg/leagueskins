@@ -310,34 +310,27 @@
       "files": [
         {
           "path": "skins/19/19010/19015/Warwick.wad.client",
-          "size": 88698,
-          "sha256": "f79048188fca80c6878d582eb884ce19d210fa1c1c0313fbeaf04a109725091a"
+          "size": 177530,
+          "sha256": "7c09b910e3aabdf80b7ca801f3b56d891447ce2cbbf453a2d54a8068faf520ed"
         }
       ],
       "wads": {
         "Warwick.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2414,
-          "bytes_after": 88698,
+          "bytes_before": 88698,
+          "bytes_after": 177530,
           "replacement_hashes": [
-            "4e56059f54c2a7af"
+            "4e56059f54c2a7af",
+            "767dd373f5ebd4fa"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Warwick.wad.client",
-            "normal_hash": "4e56059f54c2a7af",
-            "border_hash": "767dd373f5ebd4fa",
-            "bytes": 86252,
-            "sha256": "9dca67f494741f5f1ae54be9829938cc68bc3630ef6b8f1593212d3b9e1d0937"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

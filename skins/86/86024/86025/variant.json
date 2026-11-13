@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/86/86024/86025/Garen.wad.client",
-      "size": 88834,
-      "sha256": "a7118ee94410d1671bddb8bdb9c4706645a26c5aaf6f9a8172dcaf2208e3f05b"
+      "size": 175118,
+      "sha256": "eda502eed9fcf4cf0ecbed09eff463e7a6ae8eaa7c3cf816352fd77f8fc8e2aa"
     }
   ],
   "wads": {
     "Garen.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2550,
-      "bytes_after": 88834,
+      "bytes_before": 88834,
+      "bytes_after": 175118,
       "replacement_hashes": [
+        "432dbdbe0b445da0",
         "e6247d35778e7c4b"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Garen.wad.client",
-        "normal_hash": "e6247d35778e7c4b",
-        "border_hash": "432dbdbe0b445da0",
-        "bytes": 86252,
-        "sha256": "929ec8d0b5de359afe84b0ccd896d6312ac0328103a58e196bbd529698e60a31"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

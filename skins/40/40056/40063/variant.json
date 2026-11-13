@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/40/40056/40063/Janna.wad.client",
-      "size": 88888,
-      "sha256": "b25d8b4de5fa23a2273e28eabf529d36b68fadf9bf07e79bd5651dc35f9ff811"
+      "size": 178273,
+      "sha256": "2d7fb206a8acd98840e233b2c62cc4d3b04fbcefe3898f63d01a2245c29a0e9d"
     }
   ],
   "wads": {
     "Janna.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2604,
-      "bytes_after": 88888,
+      "bytes_before": 88888,
+      "bytes_after": 178273,
       "replacement_hashes": [
+        "51ec38d4fc6057f9",
         "a31c045357f4395c"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Janna.wad.client",
-        "normal_hash": "a31c045357f4395c",
-        "border_hash": "51ec38d4fc6057f9",
-        "bytes": 86252,
-        "sha256": "eb5359ac79501d1c6cd8b89eca0eeb33d01e364c81c199f1aa9488fc99f811ae"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

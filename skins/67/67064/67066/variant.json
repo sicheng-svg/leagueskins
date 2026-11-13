@@ -16,49 +16,26 @@
   "files": [
     {
       "path": "skins/67/67064/67066/Vayne.wad.client",
-      "size": 978098,
-      "sha256": "01fa03d615b29bda541579eff7db8c4c35f7a3303b302aab212dffea8e27b5ea"
+      "size": 374385,
+      "sha256": "0d900b2db6f1ecfaf34ad7d9acd8ab7163c6210c28fd727944261689ce9148bb"
     }
   ],
   "wads": {
     "Vayne.wad.client": {
-      "entries_before": 3,
+      "entries_before": 5,
       "entries_after": 5,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 114590,
-      "bytes_after": 978098,
+      "bytes_before": 978098,
+      "bytes_after": 374385,
       "replacement_hashes": [
-        "5a1f0e2a8d49999d",
-        "5d429dc1a9b17a91",
-        "b73f3de97f06543a"
+        "5a1f0e2a8d49999d"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Vayne.wad.client",
-        "normal_hash": "5a1f0e2a8d49999d",
-        "border_hash": "5d429dc1a9b17a91",
-        "bytes": 689932,
-        "sha256": "1bdd580d616d96b778dfb5e13342d1ac883e13813abab1bf449b6ab1ea2984f5",
-        "strategy": "bake_native_augment_layers",
-        "layers": [
-          {
-            "path": "assets/characters/vayne/skins/skin64/ui/vayneloadscreen_augments_border_premium.tex",
-            "sha256": "42567ed9f2b3e733be23981a9ec8dd4664b6bc693816b56b220ae1b6ed089c45"
-          },
-          {
-            "path": "assets/characters/vayne/skins/skin64/ui/vayneloadscreen_augments_border_signature.tex",
-            "sha256": "ab096d1011be170406ab026a18ab16faa1ae91b572e9257ad1777b769b6b0a41"
-          }
-        ],
-        "placement": "scale_native_layers_to_loading_card",
-        "in_game": "not_verified"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {
     "Vayne.wad.client": [

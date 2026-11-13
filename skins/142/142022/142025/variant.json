@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/142/142022/142025/Zoe.wad.client",
-      "size": 90139,
-      "sha256": "c260f72df04a35306f025cba2c1b91b24113af2412322fb430b6812999a6517f"
+      "size": 180561,
+      "sha256": "ba48b1c32c1ca955ccadb773a5a7c2294da93529b0947f5da44be95e17485341"
     }
   ],
   "wads": {
     "Zoe.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3855,
-      "bytes_after": 90139,
+      "bytes_before": 90139,
+      "bytes_after": 180561,
       "replacement_hashes": [
-        "630d56669ff4b414"
+        "630d56669ff4b414",
+        "bd443f0d2b5d26bd"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Zoe.wad.client",
-        "normal_hash": "630d56669ff4b414",
-        "border_hash": "bd443f0d2b5d26bd",
-        "bytes": 86252,
-        "sha256": "15438160d70d5de9f3b73f1f652711e8b89b6995951c3b1bea5e52ce6f73d76a"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

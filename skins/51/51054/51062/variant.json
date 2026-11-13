@@ -15,41 +15,27 @@
   "files": [
     {
       "path": "skins/51/51054/51062/Caitlyn.wad.client",
-      "size": 90139,
-      "sha256": "116d33b89a3d60492fb2baca90cbd994221ced12a58bb09329029915b1f89743"
+      "size": 181177,
+      "sha256": "1ffbc1f7f5bd059eecc48e45815761a8862607eef51f2dce6c2c03010e42efd5"
     }
   ],
   "wads": {
     "Caitlyn.wad.client": {
-      "entries_before": 2,
-      "entries_after": 3,
+      "entries_before": 3,
+      "entries_after": 4,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3855,
-      "bytes_after": 90139,
+      "bytes_before": 90139,
+      "bytes_after": 181177,
       "replacement_hashes": [
-        "024fd1e5fddd3651"
+        "024fd1e5fddd3651",
+        "c797915edf7894d4"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Caitlyn.wad.client",
-        "normal_hash": "024fd1e5fddd3651",
-        "border_hash": "c797915edf7894d4",
-        "bytes": 86252,
-        "sha256": "e4092c809b53b819b4d22e60c9bfbdd80b7d4f920625e71cafe208b23c8cca93"
-      },
-      {
-        "archive": "Caitlyn.wad.client",
-        "normal_hash": "024fd1e5fddd3651",
-        "border_hash": "c797915edf7894d4",
-        "bytes": 86252,
-        "sha256": "e4092c809b53b819b4d22e60c9bfbdd80b7d4f920625e71cafe208b23c8cca93"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

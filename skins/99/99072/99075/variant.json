@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/99/99072/99075/Lux.wad.client",
-      "size": 88682,
-      "sha256": "4cf17c78c8efafd28be7b0cf81ac88bf57ce71dd4611a4855d4ab1c1f822e07f"
+      "size": 177635,
+      "sha256": "b6b84c3a9d895b3abf1e6cf167c3b1adb36905263d7d48c1fae8a61cb3b9980e"
     }
   ],
   "wads": {
     "Lux.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2398,
-      "bytes_after": 88682,
+      "bytes_before": 88682,
+      "bytes_after": 177635,
       "replacement_hashes": [
+        "33235ca4fbb25015",
         "7b791d303f559ba3"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Lux.wad.client",
-        "normal_hash": "7b791d303f559ba3",
-        "border_hash": "33235ca4fbb25015",
-        "bytes": 86252,
-        "sha256": "2ba3fa8ae712a45085eb854574ee9e6cb6ef6c65c101ea0d677fcee318febe4e"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

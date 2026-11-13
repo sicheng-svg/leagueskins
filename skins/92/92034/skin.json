@@ -78,34 +78,27 @@
       "files": [
         {
           "path": "skins/92/92034/92035/Riven.wad.client",
-          "size": 88576,
-          "sha256": "9c574787b6e4392ae84aa5c10fc2b67665b68cbe9be3d78752c402152b7d4ca9"
+          "size": 174860,
+          "sha256": "900d83b12816055f0cffe47151a13992d1e6261ac85f7bf5f88b2c00c96e116d"
         }
       ],
       "wads": {
         "Riven.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 2292,
-          "bytes_after": 88576,
+          "bytes_before": 88576,
+          "bytes_after": 174860,
           "replacement_hashes": [
+            "e5d53ff6b692a4a7",
             "ffeb02ebd63696cb"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Riven.wad.client",
-            "normal_hash": "ffeb02ebd63696cb",
-            "border_hash": "e5d53ff6b692a4a7",
-            "bytes": 86252,
-            "sha256": "625758e595d462e6de4ccb19753e5290af8b7cddbc539731d7533983425d3ef8"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

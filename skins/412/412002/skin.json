@@ -85,41 +85,27 @@
       "files": [
         {
           "path": "skins/412/412002/412012/Thresh.wad.client",
-          "size": 90461,
-          "sha256": "a7d5b83b03f52f1ae5cba34b6c54fc7ac81dd4e3d1048c12e5d5d454282eec55"
+          "size": 182064,
+          "sha256": "7741cd30e3b011dc5a23c445762733693938c456cd9ee9cb1d415a8b3762119c"
         }
       ],
       "wads": {
         "Thresh.wad.client": {
-          "entries_before": 2,
-          "entries_after": 3,
+          "entries_before": 3,
+          "entries_after": 4,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 4177,
-          "bytes_after": 90461,
+          "bytes_before": 90461,
+          "bytes_after": 182064,
           "replacement_hashes": [
+            "42a0b439fa9d7f78",
             "f11d3a669ef275ae"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Thresh.wad.client",
-            "normal_hash": "f11d3a669ef275ae",
-            "border_hash": "42a0b439fa9d7f78",
-            "bytes": 86252,
-            "sha256": "9fac017bbc5c699899fc281aac007f88f443e0ef96b0a83ab0eb986e353f0eca"
-          },
-          {
-            "archive": "Thresh.wad.client",
-            "normal_hash": "f11d3a669ef275ae",
-            "border_hash": "42a0b439fa9d7f78",
-            "bytes": 86252,
-            "sha256": "9fac017bbc5c699899fc281aac007f88f443e0ef96b0a83ab0eb986e353f0eca"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

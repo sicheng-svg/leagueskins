@@ -15,48 +15,27 @@
   "files": [
     {
       "path": "skins/429/429002/429004/Kalista.wad.client",
-      "size": 91496,
-      "sha256": "2ce7daa20b546c4f6ea9a2111c86a964fbb98a556dcd7ebba133551d95cd8af2"
+      "size": 179905,
+      "sha256": "f33f7f6a09aa933c671988a58c3f37fdfa1d58b30aba65931c94bcb5072fadda"
     }
   ],
   "wads": {
     "Kalista.wad.client": {
-      "entries_before": 3,
-      "entries_after": 4,
+      "entries_before": 4,
+      "entries_after": 5,
       "was_sorted": false,
       "version": "3.4",
-      "bytes_before": 5212,
-      "bytes_after": 91496,
+      "bytes_before": 91496,
+      "bytes_after": 179905,
       "replacement_hashes": [
+        "c94f802b8f96cad8",
         "eeb7434a6d27d437"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Kalista.wad.client",
-        "normal_hash": "eeb7434a6d27d437",
-        "border_hash": "c94f802b8f96cad8",
-        "bytes": 86252,
-        "sha256": "ea0061e9701383a6891784abd7c381a033143e0a1818989732c8fd4ad23fa733"
-      },
-      {
-        "archive": "Kalista.wad.client",
-        "normal_hash": "eeb7434a6d27d437",
-        "border_hash": "c94f802b8f96cad8",
-        "bytes": 86252,
-        "sha256": "ea0061e9701383a6891784abd7c381a033143e0a1818989732c8fd4ad23fa733"
-      },
-      {
-        "archive": "Kalista.wad.client",
-        "normal_hash": "eeb7434a6d27d437",
-        "border_hash": "c94f802b8f96cad8",
-        "bytes": 86252,
-        "sha256": "ea0061e9701383a6891784abd7c381a033143e0a1818989732c8fd4ad23fa733"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

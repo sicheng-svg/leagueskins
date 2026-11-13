@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/21/21050/21058/MissFortune.wad.client",
-      "size": 88723,
-      "sha256": "415ad531e3e8de3e4fa85f9d01a3c9ddc57e5eb3bed9192b54a7583d7a7cd825"
+      "size": 175007,
+      "sha256": "f108a784457e022a4bba04cd3f267a9348bef22f840a1cb921bfd45f7877bd21"
     }
   ],
   "wads": {
     "MissFortune.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 2439,
-      "bytes_after": 88723,
+      "bytes_before": 88723,
+      "bytes_after": 175007,
       "replacement_hashes": [
-        "0c7422ab191c0134"
+        "0c7422ab191c0134",
+        "52318e5ebe283f86"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "MissFortune.wad.client",
-        "normal_hash": "0c7422ab191c0134",
-        "border_hash": "52318e5ebe283f86",
-        "bytes": 86252,
-        "sha256": "96735c3c36debfad222f783cc9189305df43af5e0651fcc5c081da3b86b43fe4"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {

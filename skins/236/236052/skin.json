@@ -484,34 +484,27 @@
       "files": [
         {
           "path": "skins/236/236052/236060/Lucian.wad.client",
-          "size": 89311,
-          "sha256": "b1833d3ebae6e16649d0dd798b04177f67399bb07b6a839223fffb4b7b107bf7"
+          "size": 181658,
+          "sha256": "cb90f37cda7fc263bb32d8f08ac30bb3e153be823da37e75f725a9886e150346"
         }
       ],
       "wads": {
         "Lucian.wad.client": {
-          "entries_before": 1,
-          "entries_after": 2,
+          "entries_before": 2,
+          "entries_after": 3,
           "was_sorted": true,
           "version": "3.4",
-          "bytes_before": 3027,
-          "bytes_after": 89311,
+          "bytes_before": 89311,
+          "bytes_after": 181658,
           "replacement_hashes": [
+            "82bc166a45077899",
             "a918ab857e52f79c"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Lucian.wad.client",
-            "normal_hash": "a918ab857e52f79c",
-            "border_hash": "82bc166a45077899",
-            "bytes": 86252,
-            "sha256": "c6d93e0ae3e8175cfb4807da9b73147f54cef801eb6cc315fbe57c699b848737"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

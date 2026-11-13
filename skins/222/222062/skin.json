@@ -85,41 +85,27 @@
       "files": [
         {
           "path": "skins/222/222062/222063/Jinx.wad.client",
-          "size": 89765,
-          "sha256": "f71dafbdc5d58aba77f8e711c19f1614ce3df56dfd31c6bbdc947aa97f471aac"
+          "size": 179475,
+          "sha256": "dc6622c365360d62170b3d9417298bd7c7c0d2adbf21b9887e3a35c0953f59ac"
         }
       ],
       "wads": {
         "Jinx.wad.client": {
-          "entries_before": 2,
-          "entries_after": 3,
+          "entries_before": 3,
+          "entries_after": 4,
           "was_sorted": false,
           "version": "3.4",
-          "bytes_before": 3481,
-          "bytes_after": 89765,
+          "bytes_before": 89765,
+          "bytes_after": 179475,
           "replacement_hashes": [
+            "bc0e4651d5fa91fe",
             "f7836204a42b42b9"
           ]
         }
       },
       "border": {
-        "status": "included",
-        "images": [
-          {
-            "archive": "Jinx.wad.client",
-            "normal_hash": "f7836204a42b42b9",
-            "border_hash": "bc0e4651d5fa91fe",
-            "bytes": 86252,
-            "sha256": "4cf346f8578363c4184696ab3c920d59d5e8b42ed4c3aae17d081e8d6703d3c0"
-          },
-          {
-            "archive": "Jinx.wad.client",
-            "normal_hash": "f7836204a42b42b9",
-            "border_hash": "bc0e4651d5fa91fe",
-            "bytes": 86252,
-            "sha256": "4cf346f8578363c4184696ab3c920d59d5e8b42ed4c3aae17d081e8d6703d3c0"
-          }
-        ]
+        "status": "not_included",
+        "images": []
       },
       "native_rebuilt_entries": {},
       "references": {

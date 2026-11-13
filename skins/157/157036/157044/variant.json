@@ -15,34 +15,27 @@
   "files": [
     {
       "path": "skins/157/157036/157044/Yasuo.wad.client",
-      "size": 89529,
-      "sha256": "c66a698e66012dda92ae85de6f9924fbb2d14ee6d0a290443ea2fa129452c4b1"
+      "size": 175813,
+      "sha256": "799676bf4e80cbbc5ca883c48d31360e7c7114bb8cb67a0a54e1105d61bea859"
     }
   ],
   "wads": {
     "Yasuo.wad.client": {
-      "entries_before": 1,
-      "entries_after": 2,
+      "entries_before": 2,
+      "entries_after": 3,
       "was_sorted": true,
       "version": "3.4",
-      "bytes_before": 3245,
-      "bytes_after": 89529,
+      "bytes_before": 89529,
+      "bytes_after": 175813,
       "replacement_hashes": [
+        "4ce97a6fa7722e1f",
         "dbc06bd92aa226fb"
       ]
     }
   },
   "border": {
-    "status": "included",
-    "images": [
-      {
-        "archive": "Yasuo.wad.client",
-        "normal_hash": "dbc06bd92aa226fb",
-        "border_hash": "4ce97a6fa7722e1f",
-        "bytes": 86252,
-        "sha256": "dba806a0df7dd872565cf3c222a33a72661d9ad91ba7bbdca9e3aaf709b18861"
-      }
-    ]
+    "status": "not_included",
+    "images": []
   },
   "native_rebuilt_entries": {},
   "references": {
